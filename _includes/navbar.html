@@ -19,7 +19,7 @@
             aria-haspopup="true" aria-expanded="false">
             {{ item.name }}
           </a>
-          <div class="dropdown-menu" aria-labelledby="{{ menulink }}">
+          <div class="dropdown-menu shadow-4" aria-labelledby="{{ menulink }}">
             {% for option in item.options %}
             <a class="dropdown-item" href="{{ option.link }}">{{ option.name }}</a>
             {% endfor %}

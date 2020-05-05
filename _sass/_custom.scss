@@ -6,3 +6,175 @@ header {
     background-size:cover;
     background-image:url('https://images.unsplash.com/photo-1470434151738-dc5f4474c239?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb');
 }
+
+.navbar .nav-link {
+    margin: 0px 12px;
+}
+
+.navbar {
+    font-weight: 600;
+}
+
+.navbar .navbar-brand {
+}
+.navbar .navbar-brand:hover, .navbar .navbar-brand:focus {
+}
+.navbar .navbar-nav > li > a, .navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
+    position: relative;
+    color: #777;
+}
+.navbar .navbar-nav > li > a:before {
+    background-color: $primary;
+    content:"";
+    height: 1.5px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    visibility: hidden;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+}
+.navbar .navbar-nav > li > a:hover:before, .navbar-default .navbar-nav > li > a:focus:before {
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+}
+.navbar .navbar-nav > li > a.active:before {
+    background-color: $primary;
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+}
+.navbar .navbar-nav > .open > a {
+    color: #777;
+    font-weight: bold;
+    background-color: #FFFFFF;
+}
+.navbar .navbar-nav > .open > a:hover, .navbar .navbar-nav > .open > a:focus {
+    background-color: #FFFFFF;
+}
+/* caret */
+.navbar-nav > .dropdown > a .caret {
+    border-top-color: #000000;
+    border-bottom-color: #000000;
+}
+.dropdown-menu {
+    padding: 0;
+    margin: 0;
+    border-radius: 0;
+    border: 0px;
+}
+.dropdown .dropdown-menu a {
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+    width: 200px;
+    height: 27px;
+    padding: 15px auto;
+}
+.dropdown .dropdown-menu > a:before {
+    margin: -3px 0;
+    left: 0;
+    background-color: #1C86EE;
+    content:"";
+    position: absolute;
+    height: 27px;
+    width: 3px;
+    transform-origin: bottom top;
+    visibility: hidden;
+    -webkit-transform: scaleY(0);
+    transform: scaleY(0);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+}
+.dropdown .dropdown-menu a:hover:before {
+    visibility: visible;
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
+}
+
+/* shadow classes */
+.shadow-6 {
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12)
+;
+}
+.shadow-5 {
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086)
+;
+}
+.shadow-4 {
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072)
+;
+}
+.shadow-3 {
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06)
+;
+}
+.shadow-2 {
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048)
+;
+}
+.shadow-1 {
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034)
+;
+}
+.jumbotron {
+    color: black;
+    background-image: url("/assets/images/h1_hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+
+.background-box h1 {
+color: black;
+font-size: 3rem;
+line-height: 2; /* reduce size to remove gap between text */
+margin: 0px;
+font-weight: 600;
+}
+
+.background-box h1 span {
+background-color: #FFF;
+padding: 0.5rem 0;
+-webkit-box-shadow: 1rem 0px 0px #FFF, -1rem 0px 0px #A8332E;
+box-shadow: 0.5rem 0px 0px #FFF, -0.5rem 0px 0px #FFF, 0 4px 18px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+-webkit-box-decoration-break: clone;
+-ms-box-decoration-break: clone;
+-o-box-decoration-break: clone;
+box-decoration-break: clone;
+}
+
+#relative-container {
+    position: relative;
+}
+
+#uoft {
+    width: 50%;
+    position: absolute;
+    right: 50px;
+}
