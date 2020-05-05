@@ -3,12 +3,24 @@
 - name: About
   options:
     - name: A Brief History
-      link: /history
+      link: /about/history
     - name: The Council
-      link: /council
+      link: /about/council
     - name: Resources
-      link: /resources
+      link: /about/resources
     - name: Documents
-      link: /documents
+      link: /about/documents
 - name: Get Involved
-  link: /get-involved
+  options:
+    - name: Commissions
+      link: get-involved/commissions
+    - name: Committees
+      link: get-involved/committees
+    - name: Elections
+      link: get-involved/elections
+- name: Contact
+  link: /contact
+- name: Diabolos
+  link: https://www.facebook.com/DiabolosCoffeeBar/
+- name: JCR Rentals
+  link: /jcr-rentals
