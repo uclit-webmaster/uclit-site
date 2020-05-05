@@ -1,6 +1,14 @@
 - name: Home
   link: /
 - name: About
-  link: /about
-- name: Contact
-  link: /contact
+  options:
+    - name: A Brief History
+      link: /history
+    - name: The Council
+      link: /council
+    - name: Resources
+      link: /resources
+    - name: Documents
+      link: /documents
+- name: Get Involved
+  link: /get-involved

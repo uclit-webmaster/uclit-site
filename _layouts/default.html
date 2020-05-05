@@ -5,9 +5,14 @@
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    {% if jekyll.environment == "debug"%}
+    <link rel="stylesheet" href="{{ "/assets/css/debug.css" }}"
+    {% endif %}
+    {% seo %}
   </head>
   <body>
     {% include navbar.html %}
     {{ content}}
+    {% include footer.html %}
   </body>
 </html>
