@@ -141,7 +141,7 @@ header {
   0 2.8px 2.2px rgba(0, 0, 0, 0.034)
 ;
 }
-.jumbotron {
+#large-jumbotron {
     color: black;
     background-image: url("/assets/images/h1_hero.jpg");
     background-position: center;
@@ -150,7 +150,7 @@ header {
     height: 100vh;
   }
 
-.background-box h1 {
+#large-jumbotron .background-box h1 {
 color: black;
 font-size: 3rem;
 line-height: 2; /* reduce size to remove gap between text */
@@ -158,7 +158,7 @@ margin: 0px;
 font-weight: 600;
 }
 
-.background-box h1 span {
+#large-jumbotron .background-box h1 span {
 background-color: #FFF;
 padding: 0.5rem 0;
 -webkit-box-shadow: 1rem 0px 0px #FFF, -1rem 0px 0px #A8332E;
@@ -174,7 +174,36 @@ box-decoration-break: clone;
 }
 
 #uoft {
-    width: 50%;
+    width: 70%;
     position: absolute;
     right: 50px;
+}
+#small-jumbotron{
+    color: black;
+    background-image: url("/assets/images/University_College_University_of_Toronto.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#small-jumbotron h1 {
+    color: black;
+    line-height: normal;
+    font-size: 3rem;
+    margin: 0px;
+    font-weight: 600;
+}
+
+#small-jumbotron h1 span {
+    background-color: #FFF;
+    box-shadow: 0px 0px 0px #FFF, 0px 0px 0px #FFF;
+    box-shadow: 9px 10px 29px -6px black;
+}
+
+.btn {
+    border-radius: 0px;
+}
+
+#big-button {
+    font-size: larger;
 }

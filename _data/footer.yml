@@ -1,0 +1,21 @@
+quick_links:
+  - name: The Council
+    link: /about/council
+  - name: Intramurals
+    link: /get-involved/intramurals
+  - name: UC Clubs
+    link: /get-involved/clubs
+  - name: JCR Rentals
+    link: /jcr-rentals
+
+follow_us:
+  facebook: https://www.facebook.com/universitycollegelit/
+  twitter: https://twitter.com/uclit_uoft/
+  instagram: https://www.instagram.com/uclit_uoft/
+  snapchat: https://snapchat.com/add/uclit_uoft/
+  square: https://university-college-literary-athletic-society.square.site/
+
+find_us: | # this means to ignore newlines until "baseurl:"
+  15 King’s College Circle
+  Junior Common Room (JCR)
+  Toronto, ON M5S 3H7
