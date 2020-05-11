@@ -143,7 +143,7 @@ header {
 }
 #large-jumbotron {
     color: black;
-    background-image: url("/assets/images/h1_hero.jpg");
+    background-image: url('#{$baseurl}/assets/images/h1_hero.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -180,7 +180,7 @@ box-decoration-break: clone;
 }
 #small-jumbotron{
     color: black;
-    background-image: url("/assets/images/University_College_University_of_Toronto.jpg");
+    background-image: url('#{$baseurl}/assets/images/University_College_University_of_Toronto.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

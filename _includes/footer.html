@@ -5,14 +5,14 @@
   <div class="container pt-4 my-md-5 pt-md-5">
     <div class="row">
       <div class="col-12 col-md">
-        <img class="mb-2" src="/assets/images/logo.png" alt="uclit logo" height="30px">
+        <img class="mb-2" src="{{ '/assets/images/logo.png' | relative_url }}"" alt="uclit logo" height="30px">
         <small class="d-block mb-3 text-muted">© 2020</small>
       </div>
       <div class="col-6 col-md">
         <h5>Quick Links</h5>
         <ul class="list-unstyled text-small">
         {% for item in site.data.footer.quick_links %}
-          <li><a class="text-muted" href="{{ item.link }}">{{ item.name }}</a></li>
+          <li><a class="text-muted" href="{{ item.link | relative-url }}">{{ item.name }}</a></li>
         {% endfor %}
         </ul>
       </div>

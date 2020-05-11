@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light fixed-top">
   <div class="container">
     <a class="navbar-brand" href="#">
-      <img src="/assets/images/logo.png" height="50px" alt="">
+      <img src="{{'/assets/images/logo.png' | relative_url }}" height="50px" alt="">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
       aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -21,13 +21,13 @@
           </a>
           <div class="dropdown-menu shadow-4" aria-labelledby="{{ menulink }}">
             {% for option in item.options %}
-            <a class="dropdown-item" href="{{ option.link }}">{{ option.name }}</a>
+            <a class="dropdown-item" href="{{ option.link | relative_url }}">{{ option.name }}</a>
             {% endfor %}
           </div>
         </li>
         {% else %}
         <li class="nav-item">
-          <a class="nav-link {% if page.url == item.link %}active{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
+          <a class="nav-link {% if page.url == item.link %}active{% endif %}" href="{{ item.link | relative_url }}">{{ item.name }}</a>
         </li>
         {% endif %}
         {% endfor %}
