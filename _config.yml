@@ -1,6 +1,6 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+url: "gesarki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/uclit" # the subpath of your site, e.g. /blog
+title: "uclit" # the name of your site, e.g. ACME Corp.
 sass:
   sass_dir: assets/css 
 
