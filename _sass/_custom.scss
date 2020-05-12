@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900|Rufina:400,700&display=swap');
-
+body {
+    padding-top: 60px;
+    background-size:cover;
+    background-image:url('#{$baseurl}/assets/images/h1_hero.jpg');
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
 header {
     height:180vh;
     min-height:400px;
-    background-size:cover;
-    background-image:url('https://images.unsplash.com/photo-1470434151738-dc5f4474c239?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb');
+    
 }
 
 .navbar .nav-link {
@@ -14,6 +19,27 @@ header {
 .navbar {
     font-weight: 600;
 }
+
+.navbar.scrolled {
+    background-color: white;
+    box-shadow:
+        0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+        0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+        0 12.5px 10px rgba(0, 0, 0, 0.06);
+    transition: background-color 200ms linear;
+}
+
+@media(max-width: 768px) {
+    .navbar {
+        background-color: white !important;
+        box-shadow:
+            0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+            0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+            0 12.5px 10px rgba(0, 0, 0, 0.06);
+        transition: background-color 200ms linear;
+    }
+}
+
 
 .navbar .navbar-brand {
 }
@@ -143,11 +169,12 @@ header {
 }
 #large-jumbotron {
     color: black;
-    background-image: url('#{$baseurl}/assets/images/h1_hero.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
+    // background-image: url('#{$baseurl}/assets/images/h1_hero.jpg');
+    // background-position: center;
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    // height: 100vh;
+    background-color:rgba(0, 0, 0, 0);
   }
 
 #large-jumbotron .background-box h1 {
@@ -206,4 +233,8 @@ box-decoration-break: clone;
 
 #big-button {
     font-size: larger;
+}
+
+#footer {
+    background-color: white;
 }
