@@ -1,7 +1,7 @@
-- name: Core Executives
+- name: Core Presidents
   people:
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
+  - name: Liam
+    image: assets/images/headshots/liam.jpeg
     role: President
     from: Bradford, ON
     major: Human Geography, Political Science
