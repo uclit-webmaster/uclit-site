@@ -1,0 +1,19 @@
+<!-- only show this div on screens size md and up -->
+<div class="d-none d-md-block jumbotron jumbotron-fluid" id="large-jumbotron">
+  <div class="container">
+    <div id="relative-container" class="row">
+      <img  id="uoft" src="{{ '/assets/images/University_College_University_of_Toronto.jpg' | relative_url }}" class="shadow-6">
+      <div class="col-lg-8 background-box">
+        <h1 class="mt-5"><span>{{ include.subtitle }}</span></h1>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- only show this div on screens size sm and down -->
+<div class="d-md-none jumbotron jumbotron-fluid sm" id="small-jumbotron">
+  <div class="container">
+    <div class="row">
+      <h1 class="mt-5" style="font-size: 2.5rem"><span>{{ include.subtitle }}<span></h1>
+    </div>
+  </div>
+</div>

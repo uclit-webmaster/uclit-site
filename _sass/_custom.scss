@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900|Rufina:400,700&display=swap');
 body {
     padding-top: 60px;
-    background-size:cover;
+    background-size: cover;
     background-image:url('#{$baseurl}/assets/images/h1_hero.jpg');
     background-attachment: fixed;
     background-repeat: repeat;
 }
+
 header {
-    height:180vh;
-    min-height:400px;
-    
+    height: 180vh;
+    min-height: 400px;
 }
 
 .navbar .nav-link {
@@ -22,36 +22,33 @@ header {
 
 .navbar.scrolled {
     background-color: white;
-    box-shadow:
-        0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-        0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-        0 12.5px 10px rgba(0, 0, 0, 0.06);
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06);
     transition: background-color 200ms linear;
 }
 
 @media(max-width: 768px) {
     .navbar {
         background-color: white !important;
-        box-shadow:
-            0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-            0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-            0 12.5px 10px rgba(0, 0, 0, 0.06);
+        box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06);
         transition: background-color 200ms linear;
     }
 }
 
+.navbar .navbar-brand {}
 
-.navbar .navbar-brand {
-}
-.navbar .navbar-brand:hover, .navbar .navbar-brand:focus {
-}
-.navbar .navbar-nav > li > a, .navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {}
+
+.navbar .navbar-nav>li>a,
+.navbar .navbar-nav>li>a:hover,
+.navbar .navbar-nav>li>a:focus {
     position: relative;
     color: #777;
 }
-.navbar .navbar-nav > li > a:before {
+
+.navbar .navbar-nav>li>a:before {
     background-color: $primary;
-    content:"";
+    content: "";
     height: 1.5px;
     position: absolute;
     bottom: 0;
@@ -63,36 +60,47 @@ header {
     -webkit-transition: all 0.3s ease-in-out 0s;
     transition: all 0.3s ease-in-out 0s;
 }
-.navbar .navbar-nav > li > a:hover:before, .navbar-default .navbar-nav > li > a:focus:before {
+
+.navbar .navbar-nav>li>a:hover:before,
+.navbar-default .navbar-nav>li>a:focus:before {
     visibility: visible;
     -webkit-transform: scaleX(1);
     transform: scaleX(1);
 }
-.navbar .navbar-nav > li > a.active:before {
+
+.navbar .navbar-nav>li>a.active:before {
     background-color: $primary;
     visibility: visible;
     -webkit-transform: scaleX(1);
     transform: scaleX(1);
 }
-.navbar .navbar-nav > .open > a {
+
+.navbar .navbar-nav>.open>a {
     color: #777;
     font-weight: bold;
     background-color: #FFFFFF;
 }
-.navbar .navbar-nav > .open > a:hover, .navbar .navbar-nav > .open > a:focus {
+
+.navbar .navbar-nav>.open>a:hover,
+.navbar .navbar-nav>.open>a:focus {
     background-color: #FFFFFF;
 }
+
+
 /* caret */
-.navbar-nav > .dropdown > a .caret {
+
+.navbar-nav>.dropdown>a .caret {
     border-top-color: #000000;
     border-bottom-color: #000000;
 }
+
 .dropdown-menu {
     padding: 0;
     margin: 0;
     border-radius: 0;
     border: 0px;
 }
+
 .dropdown .dropdown-menu a {
     -webkit-transition: all 0.3s ease-in-out 0s;
     transition: all 0.3s ease-in-out 0s;
@@ -100,11 +108,12 @@ header {
     height: 27px;
     padding: 15px auto;
 }
-.dropdown .dropdown-menu > a:before {
+
+.dropdown .dropdown-menu>a:before {
     margin: -3px 0;
     left: 0;
     background-color: #1C86EE;
-    content:"";
+    content: "";
     position: absolute;
     height: 27px;
     width: 3px;
@@ -115,58 +124,40 @@ header {
     -webkit-transition: all 0.3s ease-in-out 0s;
     transition: all 0.3s ease-in-out 0s;
 }
+
 .dropdown .dropdown-menu a:hover:before {
     visibility: visible;
     -webkit-transform: scaleY(1);
     transform: scaleY(1);
 }
 
+
 /* shadow classes */
+
 .shadow-6 {
-    box-shadow:
-  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-  0 12.5px 10px rgba(0, 0, 0, 0.06),
-  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
-  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
-  0 100px 80px rgba(0, 0, 0, 0.12)
-;
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
 }
+
 .shadow-5 {
-    box-shadow:
-  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-  0 12.5px 10px rgba(0, 0, 0, 0.06),
-  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
-  0 41.8px 33.4px rgba(0, 0, 0, 0.086)
-;
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086);
 }
+
 .shadow-4 {
-    box-shadow:
-  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-  0 12.5px 10px rgba(0, 0, 0, 0.06),
-  0 22.3px 17.9px rgba(0, 0, 0, 0.072)
-;
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072);
 }
+
 .shadow-3 {
-    box-shadow:
-  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-  0 12.5px 10px rgba(0, 0, 0, 0.06)
-;
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06);
 }
+
 .shadow-2 {
-    box-shadow:
-  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-  0 6.7px 5.3px rgba(0, 0, 0, 0.048)
-;
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048);
 }
+
 .shadow-1 {
-    box-shadow:
-  0 2.8px 2.2px rgba(0, 0, 0, 0.034)
-;
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034);
 }
+
 #large-jumbotron {
     color: black;
     // background-image: url('#{$baseurl}/assets/images/h1_hero.jpg');
@@ -174,26 +165,28 @@ header {
     // background-repeat: no-repeat;
     // background-size: cover;
     // height: 100vh;
-    background-color:rgba(0, 0, 0, 0);
-  }
+    background-color: rgba(0, 0, 0, 0);
+    height: 500px; // TODO: make this dynamic based on size of pic
+}
 
 #large-jumbotron .background-box h1 {
-color: black;
-font-size: 3rem;
-line-height: 2; /* reduce size to remove gap between text */
-margin: 0px;
-font-weight: 600;
+    color: black;
+    font-size: 3rem;
+    line-height: 2;
+    /* reduce size to remove gap between text */
+    margin: 0px;
+    font-weight: 600;
 }
 
 #large-jumbotron .background-box h1 span {
-background-color: #FFF;
-padding: 0.5rem 0;
--webkit-box-shadow: 1rem 0px 0px #FFF, -1rem 0px 0px #A8332E;
-box-shadow: 0.5rem 0px 0px #FFF, -0.5rem 0px 0px #FFF, 0 4px 18px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
--webkit-box-decoration-break: clone;
--ms-box-decoration-break: clone;
--o-box-decoration-break: clone;
-box-decoration-break: clone;
+    background-color: #FFF;
+    padding: 0.5rem 0;
+    -webkit-box-shadow: 1rem 0px 0px #FFF, -1rem 0px 0px #A8332E;
+    box-shadow: 0.5rem 0px 0px #FFF, -0.5rem 0px 0px #FFF, 0 4px 18px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-box-decoration-break: clone;
+    -ms-box-decoration-break: clone;
+    -o-box-decoration-break: clone;
+    box-decoration-break: clone;
 }
 
 #relative-container {
@@ -205,14 +198,20 @@ box-decoration-break: clone;
     position: absolute;
     right: 50px;
 }
-#small-jumbotron{
+
+#small-jumbotron {
     color: black;
     background-image: url('#{$baseurl}/assets/images/University_College_University_of_Toronto.jpg');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
+    background-attachment: fixed;
+    height: 70vh;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
+
 #small-jumbotron h1 {
     color: black;
     line-height: normal;
@@ -224,7 +223,7 @@ box-decoration-break: clone;
 #small-jumbotron h1 span {
     background-color: #FFF;
     box-shadow: 0px 0px 0px #FFF, 0px 0px 0px #FFF;
-    box-shadow: 9px 10px 29px -6px black;
+    box-shadow: 0.5rem 0px 0px #FFF, -0.5rem 0px 0px #FFF, 0 4px 18px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
 .btn {
