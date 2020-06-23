@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900|Rufina:400,700&display=swap');
+@font-face {
+    font-family: 'clarendon';
+    src: url("../fonts/Clarendon FS Medium.ttf") format("truetype");
+ }
 body {
     padding-top: 60px;
     background-size: cover;
@@ -158,6 +161,10 @@ header {
     box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034);
 }
 
+.jumbotron-title {
+    font-family: $font-family-secondary;
+}
+
 #large-jumbotron {
     color: black;
     // background-image: url('#{$baseurl}/assets/images/h1_hero.jpg');
@@ -175,7 +182,6 @@ header {
     line-height: 2;
     /* reduce size to remove gap between text */
     margin: 0px;
-    font-weight: 600;
 }
 
 #large-jumbotron .background-box h1 span {
@@ -217,17 +223,12 @@ header {
     line-height: normal;
     font-size: 3rem;
     margin: 0px;
-    font-weight: 600;
 }
 
 #small-jumbotron h1 span {
     background-color: #FFF;
     box-shadow: 0px 0px 0px #FFF, 0px 0px 0px #FFF;
     box-shadow: 0.5rem 0px 0px #FFF, -0.5rem 0px 0px #FFF, 0 4px 18px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
-}
-
-.btn {
-    border-radius: 0px;
 }
 
 #big-button {

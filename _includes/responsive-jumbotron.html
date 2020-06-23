@@ -1,22 +1,19 @@
-<!-- only show this div on screens size md and up -->
-<div class="d-none d-md-block jumbotron jumbotron-fluid" id="large-jumbotron">
-  <div class="container">
-    <div id="relative-container" class="row">
-      <img  id="uoft" src="{{ '/assets/images/University_College_University_of_Toronto.jpg' | relative_url }}" class="shadow-6">
-      <div class="col-lg-8 background-box">
-        <h1 class="mt-5"><span>{{ include.subtitle }}</span></h1>
-        <p class="mt-3">We have donuts.</p>
-        <button type="button" class="btn btn-primary mt-3 ml-5 shadow-6" id="big-button">Big Button</button>
+<div class="container">
+  <div class="row no-gutters">
+    
+    <div class="col-md-4">
+      <div class="jumbotron jumbotron-fluid bg-transparent">
+        <div class="container pl-0">
+          <h1 class="jumbotron-title">Welcome to the oldest democratically-elected student government in Canada.</h1>
+          <a class="btn btn-primary btn-lg" href="#" role="button">What is the UC LIT?</a> <!--TODO: link to about us page-->
+        </div>
       </div>
     </div>
-  </div>
-</div>
-<!-- only show this div on screens size sm and down -->
-<div class="d-md-none jumbotron jumbotron-fluid sm" id="small-jumbotron">
-  <div class="container">
-    <div class="row">
-      <h1 class="mt-5"><span>{{ include.subtitle }}<span></h1>
-      <button type="button" class="btn btn-primary mt-3 ml-5" id="big-button">Primary</button>
+    
+    <div class="col-md-8">
+      
+      <img src="{{ '/assets/images/University_College_University_of_Toronto.jpg' | relative_url }}" class="shadow-6 img-fluid">
+      
     </div>
   </div>
 </div>
