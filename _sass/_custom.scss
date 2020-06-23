@@ -115,11 +115,11 @@ header {
 .dropdown .dropdown-menu>a:before {
     margin: -3px 0;
     left: 0;
-    background-color: #1C86EE;
+    background-color: $primary;
     content: "";
     position: absolute;
     height: 27px;
-    width: 3px;
+    width: 4px;
     transform-origin: bottom top;
     visibility: hidden;
     -webkit-transform: scaleY(0);
@@ -161,7 +161,7 @@ header {
     box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034);
 }
 
-.jumbotron-title {
+.font-secondary {
     font-family: $font-family-secondary;
 }
 
@@ -237,4 +237,13 @@ header {
 
 #footer {
     background-color: white;
+}
+
+.about-us h2 {
+    font-family: $font-family-secondary;
+    color: $primary;
+}
+
+.about-us h1 {
+    font-family: $font-family-secondary;
 }

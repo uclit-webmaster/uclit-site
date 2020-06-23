@@ -2,27 +2,45 @@
   link: /
 - name: About
   options:
-    - name: A Brief History
-      link: /about/history
     - name: The Council
       link: /about/council
-    - name: Resources
-      link: /about/resources
-    - name: Documents
-      link: /about/documents
+    - name: A Brief History
+      link: /about/history
+    - name: About us
+      link: /about/about-us
 - name: Get Involved
   options:
     - name: Commissions
       link: get-involved/commissions
     - name: Committees
       link: get-involved/committees
+    - name: Intramurals
+      link: get-involved/intramurals
+    - name: Clubs & Ancillaries
+      link: get-involved/clubs-and-ancillaries
     - name: Elections
       link: get-involved/elections
-- name: Contact
-  link: /contact
+- name: Resources
+  options:
+  - name: Documents
+    link: resources/documents
+  - name: Budgets
+    link: resources/budgets
+  - name: Student Initiatives Fund
+    link: resources/student-initiatives-fund
+  - name: Student Academics and Wellness
+    link: resourcres/student-academics-wellness
+  - name: Covid-19 # TODO: doubly-nested (check if really needed)
+    link: resourcres/covid-19
+  - name: BLM Resourcres
+    link: resourcres/blm
+- name: Events
+  options:
+    - name: Calendar
+      link: events/calendar
+    - name: JCR Rentals
+      link: events/jcr-rentals
 - name: Diabolos
   link: https://www.facebook.com/DiabolosCoffeeBar/
-- name: JCR Rentals
-  link: /jcr-rentals
 - name: Store
   link: https://university-college-literary-athletic-society.square.site/
