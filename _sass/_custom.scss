@@ -242,8 +242,36 @@ header {
 .about-us h2 {
     font-family: $font-family-secondary;
     color: $primary;
+    display: inline;
 }
 
 .about-us h1 {
     font-family: $font-family-secondary;
+}
+
+.accordion button::after {
+	content: "\f107";
+	color: $primary;
+	// top: -2px;
+	// right: 0px;
+    // position: absolute;
+    margin-left: 5px;
+    font-family: "FontAwesome";
+}
+
+.accordion button[aria-expanded="true"]::after {
+	content: "\f106";
+}
+
+.accordion * {
+    border: none;
+}
+
+.accordion .btn, .accordion .card-body, .accordion .card-header {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.accordion .btn-link:hover, .accordion .btn-link:focus {
+    text-decoration: none;
 }
