@@ -4,10 +4,10 @@
   options:
     - name: The Council
       link: /about/council
-    - name: A Brief History
-      link: /about/history
     - name: About us
       link: /about/about-us
+    - name: A Brief History
+      link: /about/history
 - name: Get Involved
   options:
     - name: Commissions
