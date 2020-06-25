@@ -11,14 +11,13 @@ title: Commissions
         <div class="card-body">
 
           <div class="d-flex commission-header">
-            <img src="{{ commission.image | relative_url }}"
-              style="width: 65px; height: 65px; margin-top: 5px; margin-bottom: 5px;" class="commission-icon">
+            <img src="{{ commission.image | relative_url }}" class="commission-icon">
             <div class="ml-3 d-flex flex-column justify-content-center commission-titles">
               <h5 class="mb-0 font-weight-bold">{{ commission.name }}</h5>
               <a href="mailto:{{ commission.email }}" class="mb-0 font-italic">{{ commission.email }}</a>
             </div>
           </div>
-          <p class="car-text font-weight-bold">{{ commission.commissioners }}</p>
+          <p class="car-text font-weight-bold mt-3">{{ commission.commissioners }}</p>
           <p class="card-text">{{ commission.description }}</p>
 
         </div>

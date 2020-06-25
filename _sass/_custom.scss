@@ -1,7 +1,13 @@
 @font-face {
     font-family: 'clarendon';
     src: url("../fonts/Clarendon FS Medium.ttf") format("truetype");
- }
+}
+
+@font-face {
+    font-family: 'varsity';
+    src: url("../fonts/VarsityTeamBold-6AXq.otf") format("opentype");
+}
+ 
 body {
     padding-top: 80px;
     background-size: cover;
@@ -274,4 +280,57 @@ header {
 
 .accordion .btn-link:hover, .accordion .btn-link:focus {
     text-decoration: none;
+}
+
+.commission-icon {
+    width: 4.5rem;
+    height: 4.5rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.intramural-photo-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #6b1b1b9b;
+}
+
+.intramural-photo-div:hover > .intramural-photo-overlay {
+    opacity: 1;
+}
+
+.fill-image {
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    pointer-events: inherit;
+    transition: .5s ease;
+}
+
+.intramural-photo-div:hover > .fill-image {
+    transform:scale(1.2);
+}
+
+.intramural-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-family: 'varsity', serif;
+}
+
+.intramural-text-sub {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
 }

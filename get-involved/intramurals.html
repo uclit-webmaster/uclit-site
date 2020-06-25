@@ -1,0 +1,35 @@
+---
+layout: default
+title: Intramurals
+---
+<h1 class="font-secondary">Intramurals</h1>
+<p>The easiest way to get active and involved at UC is by playing Intramural Sports. The UC intramural teams ( The UC
+  Gryphons ) are a force to be reckoned with by all the other colleges at UofT. Our Intramural Sports programs seek to
+  fulfill the needs of athletes and sports enthusiasts of all types. We try to provide them with as many sports and
+  skill levels that we can.</p>
+
+<p>Please note that upon signing up for teams the captain will be sending out emails regarding tryouts or practices.
+  Please show up to these tryouts or notify the captain if you are no longer interested.
+</p>
+
+<button class="btn btn-primary mb-3 p-3 font-weight-bold">CLICK HERE TO SIGN UP</button>
+
+<p>{{ site.data.intramurals.deadline-text }}</p>
+
+<h3 class="font-secondary text-primary mb-3">Sports</h3>
+
+<div class="row no-gutters">
+  {% for sport in site.data.intramurals.sports %}
+  <div class="intramural-photo-div col-lg-4 col-md-6 col-sm-12 overflow-hidden">
+    <!-- TODO: fix borders on images  -->
+    <img src="{{sport.image | relative_url }}" 
+      class="img-fluid fill-image" alt="{{ sport.name }} at University College" style="object-fit: cover;">
+    <div class="intramural-photo-overlay d-flex align-items-center">
+      <h1 class="text-white intramural-text">{{ sport.name }}</h1>
+      <p class="intramural-text-sub"><a class="text-white" href="{{ sport.sign-up-link }}">Sign Up</a></p>
+    </div>
+  </div>
+  {% endfor %}
+
+  
+</div>
