@@ -4,10 +4,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
     <script src="https://kit.fontawesome.com/24e6625de5.js" crossorigin="anonymous"></script>
     {% if jekyll.environment == "debug"%}
-    <link rel="stylesheet" href="{{ "/assets/css/debug.css" | relative_url }}"
+    <link rel="stylesheet" href="{{ "/assets/css/debug.css" | relative_url }}" />
+    {% endif %}
+    {% if page.include_css_link %}
+    <link rel="stylesheet" href="{{ page.include_css_link }}" />
+    {% endif %}
+    {% if page.include_ext_script %}
+    <script src="{{ page.include_ext_script }}" ></script>
+    {% endif %}
+    {% if page.include_script %}
+    <script src="{{ page.include_script | relative_url }}" ></script>
     {% endif %}
     {% seo %}
   </head>

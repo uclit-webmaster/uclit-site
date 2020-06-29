@@ -1,0 +1,31 @@
+---
+layout: default
+title: Calendar
+include_css_link: "https://cdn.jsdelivr.net/npm/fullcalendar@5.0.1/main.min.css"
+include_ext_script: "https://cdn.jsdelivr.net/npm/fullcalendar@5.0.1/main.min.js"
+include_script: "/assets/js/calendar.js"
+---
+<!-- fb javascript sdk -->
+<!-- https://developers.facebook.com/docs/plugins/page-plugin/ -->
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0"
+  nonce="O3velji1">
+</script>
+
+
+<h1 class="font-secondary">Upcoming Events</h1>
+<div class="row">
+  <div class="col-md-3 order-md-last order-lg-first">
+    <div class="fb-page" data-href="https://www.facebook.com/universitycollegelit" data-tabs="events" data-width=""
+      data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
+      data-show-facepile="true">
+      <blockquote cite="https://www.facebook.com/universitycollegelit" class="fb-xfbml-parse-ignore"><a
+          href="https://www.facebook.com/universitycollegelit">University College Literary &amp; Athletic Society - UC
+          Lit</a></blockquote>
+    </div>
+  </div>
+  <!-- div styled in _custom.css -->
+  <div class="col-md-9 order-md-first order-lg-last" id="calendar-div">
+    <div id="calendar"></div>
+  </div>
+</div>

@@ -108,14 +108,15 @@ header {
     margin: 0;
     border-radius: 0;
     border: 0px;
+    transition: ease 5s; 
 }
 
 .dropdown .dropdown-menu a {
     -webkit-transition: all 0.3s ease-in-out 0s;
     transition: all 0.3s ease-in-out 0s;
-    width: 200px;
-    height: 27px;
-    padding: 15px auto;
+    // width: 200px;
+    // height: 27px;
+    // padding: 15px auto;
 }
 
 .dropdown .dropdown-menu>a:before {
@@ -333,4 +334,16 @@ header {
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
+}
+
+#calendar-div {
+    border-top: thick solid $primary;
+    border-left: 1px solid $gray-300;
+    border-right: 1px solid $gray-300;
+    border-bottom: 1px solid $gray-300;
+
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;;
 }
