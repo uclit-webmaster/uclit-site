@@ -1,0 +1,8 @@
+image: /assets/images/headshots/liam.jpeg
+name: Liam Bryant
+# https://yaml-multiline.info/ (info about multiline strings in yaml)
+message: >
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+  ut labore et dolore magna aliqua. Libero nunc consequat interdum varius sit amet mattis.
+  Non sodales neque sodales ut. Ultrices vitae auctor eu augue ut lectus arcu bibendum at.
+  Scelerisque eleifend donec pretium vulputate.

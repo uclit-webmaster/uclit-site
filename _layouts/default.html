@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
-    <script src="https://kit.fontawesome.com/24e6625de5.js" crossorigin="anonymous"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     {% if jekyll.environment == "debug"%}
     <link rel="stylesheet" href="{{ "/assets/css/debug.css" | relative_url }}" />
     {% endif %}
@@ -23,7 +23,7 @@
   <body>
     {% include navbar.html %}
     <div class="container py-3">
-    {{ content}}
+    {{ content }}
     </div>
     {% include footer.html %}
   </body>
