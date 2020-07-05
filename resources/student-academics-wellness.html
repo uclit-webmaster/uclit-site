@@ -1,0 +1,11 @@
+---
+layout: default
+title: Student Academics and Wellness
+---
+<h1 class="font-secondary" data-aos="fade">Student Academics and Wellness</h1>
+{% for item in site.data.student-academics-wellness %}
+<div data-aos="fade-{% cycle 'right', 'left' %}">
+<h2 class="font-secondary text-primary mt-4">{{ item.header }}</h2>
+<p>{{ item.text }}</p>
+</div>
+{% endfor %}

@@ -29,11 +29,7 @@
   - name: Student Initiatives Fund
     link: resources/student-initiatives-fund
   - name: Student Academics and Wellness
-    link: resourcres/student-academics-wellness
-  - name: Covid-19 # TODO: doubly-nested (check if really needed)
-    link: resourcres/covid-19
-  - name: BLM Resourcres
-    link: resourcres/blm
+    link: resources/student-academics-wellness
 - name: Events
   options:
     - name: Calendar
