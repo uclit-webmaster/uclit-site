@@ -22,8 +22,9 @@
   </head>
   <body>
     {% include navbar.html %}
-    <div class="container py-3">
-    {{ content }}
+    <div class="container py-3" style="overflow-x: hidden;">
+      <!-- fix for AOS causing x to overflow before animation happens -->
+      {{ content }}
     </div>
     {% include footer.html %}
   </body>
