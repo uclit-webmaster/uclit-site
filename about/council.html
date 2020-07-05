@@ -8,7 +8,7 @@ title: The Council
   </div>
 </div>
 <div class="row" data-aos="fade-up">
-  <div class="col-sm-3 mb-3">
+  <div class="col-md-3 mb-3">
     <div class="nav flex-column nav-pills rounded bg-white" id="v-pills-tab" role="tablist" aria-orientation="vertical">
       {% for class in site.data.council %}
       {% assign slug = class.name | slugify %}
@@ -23,7 +23,7 @@ title: The Council
         aria-controls="v-pills-settings" aria-selected="false">Settings</a> -->
     </div>
   </div>
-  <div class="col-9">
+  <div class="col-md-9">
     <div class="tab-content" id="v-pills-tabContent">
       {% for class in site.data.council %}
       {% assign slug = class.name | slugify %}
@@ -31,8 +31,8 @@ title: The Council
         <div class="container">
           <div class="row">
             {% for person in class.people %}
-            <div class="col-auto mb-3">
-              <div class="card" style="width: 15rem;">
+            <div class="col-md-4 mb-3">
+              <div class="card">
                 <img src="{{ person.image | relative_url }}" class="card-img-top" alt="{{ person.name }}">
                 <div class="card-body">
                   <h5 class="card-title">{{ person.name }}</h5>
