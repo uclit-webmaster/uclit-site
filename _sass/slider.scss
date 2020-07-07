@@ -1,0 +1,27 @@
+// Circle width and height
+$circle-width: 74px;
+$circle-height: 74px;
+
+// Styles for slider items, positioning them absolutely, in the top left corner of the container
+// Also centering them (see negative values for `left` and `top`)
+// They will be positioned along the SVG path later with Javascript
+.path-slider__item {
+  position: absolute;        // Get items out of the flow, and let the library set the correct position
+  left: - $circle-width / 2; // Half of the width, for centering purpose
+  top: - $circle-height / 2; // Half of the height, for centering purpose
+}
+
+// Styles for the item circle (icon container)
+.item__circle {
+  width: $circle-width;    // Desired width
+  height: $circle-height;  // Desired height
+}
+
+// Styles for the selected item
+.path-slider__current-item {
+
+  .item__circle {
+    background-color: #4DA169; // Change circle background-color for selected item
+    transform: scale(1.5);     // Scale up circle for selected item
+  }
+}

@@ -1,0 +1,136 @@
+---
+layout: default
+title: Clubs & Ancillaries
+
+
+---
+<h1 class="font-secondary mb-3" data-aos="fade">Clubs & Ancillaries</h1>
+<div data-aos="fade-up">
+<h2 class="font-secondary">Clubs</h2>
+  <p><strong>Form a Club</strong></p>
+
+  <p>Looking to form a new club at UC? Want to explore an interest of yours with a bunch of other UC students? We have
+    lots of resources to get you started and help you along the way!</p>
+
+  <ul>
+    <li>Fill out the Clubs Recognition Application form.</li>
+    <li>Remember to create a Constitution! Central UofT administration has some good resources to help you along.</li>
+    <li>If you need a budget for your club, fill out the Budget Request form.</li>
+    <li>Submit them all to clubs@uclit.ca</li>
+  </ul>
+
+  <hr />
+  <p><strong>Click on an image to find out more about the club below!</strong></p>
+
+  <ul class="nav nav-pills mb-3 justify-content-center clubs-n-anc" id="pills-tab" role="tablist">
+    {% for club in site.data.clubs-and-ancillaries.clubs %}
+    {% assign slug = club.name | slugify %}
+    <li class="text-center nav-item" role="presentation">
+      <a class="nav-link {% if forloop.first == true %}active{% endif %} shadow" id="pills-{{ slug }}-tab"
+        data-toggle="pill" href="#pills-{{ slug }}" role="tab" aria-controls="pills-{{ slug }}"
+        aria-selected="{% if forloop.first == true %}true{% else %}false{% endif %}">
+        <img src="{{ club.icon | relative_url }}" style="width: 10rem; height: 10rem;">
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  <div class="tab-content" id="pills-tabContent">
+    {% for club in site.data.clubs-and-ancillaries.clubs %}
+    {% assign slug = club.name | slugify %}
+    <div class="tab-pane fade show {% if forloop.first == true %}active{% endif %}" id="pills-{{ slug }}"
+      role="tabpanel" aria-labelledby="pills-{{ slug }}-tab">
+      <!-- club information card -->
+      <div class="card club-ancillary-card shadow">
+        <div class="card-body">
+          <h5 class="card-title text-center"><strong>{{ club.name }}</strong></h5>
+          <!-- socials -->
+          <p class="text-center text-primary">
+            {% for item in club.socials %}
+            <a class="text-decoration-none" href="{{ item.link }}">
+              <span class="fa-stack">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="
+              {% case item.network %}
+                {% when "twitter" %}
+                  fab fa-twitter
+                {% when "youtube" %}
+                  fab fa-youtube
+                {% when "facebook" %}
+                  fab fa-facebook-f
+                {% when "instagram" %}
+                  fab fa-instagram
+                {% when "e-mail" %}
+                  fas fa-envelope
+                {% else %}
+                  fas fa-globe-americas
+              {% endcase %}
+              fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+            {% endfor %}
+          </p>
+          {{ club.description }}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    <hr />
+    <h2 class="font-secondary mt-3">Ancillaries</h2>
+    <p><strong>Click on an image to find out more about the ancillary below!</strong></p>
+
+    <ul class="nav nav-pills mb-3 justify-content-center clubs-n-anc" id="pills-tab" role="tablist">
+      {% for ancillary in site.data.clubs-and-ancillaries.ancillaries %}
+      {% assign slug = ancillary.name | slugify %}
+      <li class="text-center nav-item" role="presentation">
+        <a class="nav-link {% if forloop.first == true %}active{% endif %} shadow" id="pills-{{ slug }}-tab"
+          data-toggle="pill" href="#pills-{{ slug }}" role="tab" aria-controls="pills-{{ slug }}"
+          aria-selected="{% if forloop.first == true %}true{% else %}false{% endif %}">
+          <img src="{{ ancillary.icon | relative_url }}" style="width: 10rem; height: 10rem;">
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <div class="tab-content" id="pills-tabContent">
+      {% for ancillary in site.data.clubs-and-ancillaries.ancillaries %}
+      {% assign slug = ancillary.name | slugify %}
+      <div class="tab-pane fade show {% if forloop.first == true %}active{% endif %}" id="pills-{{ slug }}"
+        role="tabpanel" aria-labelledby="pills-{{ slug }}-tab">
+        <!-- club information card -->
+        <div class="card club-ancillary-card shadow">
+          <div class="card-body">
+            <h5 class="card-title text-center"><strong>{{ ancillary.name }}</strong></h5>
+            <!-- socials -->
+            <p class="text-center text-primary">
+              {% for item in ancillary.socials %}
+              <a class="text-decoration-none" href="{{ item.link }}">
+                <span class="fa-stack">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="
+              {% case item.network %}
+                {% when "twitter" %}
+                  fab fa-twitter
+                {% when "youtube" %}
+                  fab fa-youtube
+                {% when "facebook" %}
+                  fab fa-facebook-f
+                {% when "instagram" %}
+                  fab fa-instagram
+                {% when "e-mail" %}
+                  fas fa-envelope
+                {% else %}
+                  fas fa-globe-americas
+              {% endcase %}
+              fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+              {% endfor %}
+            </p>
+            {{ ancillary.description }}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
