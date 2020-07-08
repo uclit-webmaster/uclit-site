@@ -6,7 +6,7 @@ title: Clubs & Ancillaries
 ---
 <h1 class="font-secondary mb-3" data-aos="fade">Clubs & Ancillaries</h1>
 <div data-aos="fade-up">
-<h2 class="font-secondary">Clubs</h2>
+  <h2 class="font-secondary">Clubs</h2>
   <p><strong>Form a Club</strong></p>
 
   <p>Looking to form a new club at UC? Want to explore an interest of yours with a bunch of other UC students? We have
@@ -23,12 +23,12 @@ title: Clubs & Ancillaries
   <p><strong>Click on an image to find out more about the club below!</strong></p>
 
   <div class="overflow-auto mb-3 d-flex">
-  <ul class="nav nav-pills flex-nowrap clubs-n-anc m-auto" id="pills-tab" role="tablist">
-    {% for club in site.data.clubs-and-ancillaries.clubs %}
-    {% assign slug = club.name | slugify %}
+    <ul class="nav nav-pills flex-nowrap clubs-n-anc m-auto" id="pills-tab" role="tablist">
+      {% for club in site.data.clubs-and-ancillaries.clubs %}
+      {% assign slug = club.name | slugify %}
       <li class="nav-item" role="presentation">
-        <a class="nav-link {% if forloop.first == true %}active{% endif %}" id="pills-{{ slug }}-tab"
-          data-toggle="pill" href="#pills-{{ slug }}" role="tab" aria-controls="pills-{{ slug }}"
+        <a class="nav-link {% if forloop.first == true %}active{% endif %}" id="pills-{{ slug }}-tab" data-toggle="pill"
+          href="#pills-{{ slug }}" role="tab" aria-controls="pills-{{ slug }}"
           aria-selected="{% if forloop.first == true %}true{% else %}false{% endif %}">
           <img src="{{ club.icon | relative_url }}" style="width: 10rem; height: 10rem;" class="shadow">
         </a>
@@ -88,7 +88,7 @@ title: Clubs & Ancillaries
           <a class="nav-link {% if forloop.first == true %}active{% endif %}" id="pills-{{ slug }}-tab"
             data-toggle="pill" href="#pills-{{ slug }}" role="tab" aria-controls="pills-{{ slug }}"
             aria-selected="{% if forloop.first == true %}true{% else %}false{% endif %}">
-            <img src="{{ ancillary.icon | relative_url }}" style="width: 10rem; height: 10rem;">
+            <img src="{{ ancillary.icon | relative_url }}" style="width: 10rem; height: 10rem;" class="shadow">
           </a>
         </li>
         {% endfor %}
