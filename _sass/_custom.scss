@@ -45,11 +45,6 @@ header {
     }
 }
 
-.navbar .navbar-brand {}
-
-.navbar .navbar-brand:hover,
-.navbar .navbar-brand:focus {}
-
 .navbar .navbar-nav>li>a,
 .navbar .navbar-nav>li>a:hover,
 .navbar .navbar-nav>li>a:focus {
@@ -357,20 +352,28 @@ header {
     border-bottom: medium solid $primary;
 }
 
-.clubs-n-anc.nav-pills .nav-link {
-    margin: 0.75rem;
+.clubs-n-anc.nav-pills .nav-link img{
     padding: 12px;
     background-color: $primary;
     border-radius: 50%;
     transition: all 0.3s ease-in-out 0s;
 }
 
-.clubs-n-anc.nav-pills .nav-link.active{
+.clubs-n-anc.nav-pills .nav-link.active img{
     border-radius: 0.25rem;
-    padding: 20px;
+    // padding: 20px;
+}
+
+.clubs-n-anc.nav-pills .nav-link,
+.clubs-n-anc.nav-pills .nav-link.active {
+    border: none;
+    transition: all 0.3s ease-in-out 0s;
+    padding: 0px;
+    margin: 1rem;
+    background: none;
 }
 
 .clubs-n-anc li.nav-item { // TODO: fix jumping when switching tabs
-    min-width: max-content;
+    // min-width: max-content;
     // min-height: 224px;
 }

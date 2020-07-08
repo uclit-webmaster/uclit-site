@@ -22,18 +22,20 @@ title: Clubs & Ancillaries
   <hr />
   <p><strong>Click on an image to find out more about the club below!</strong></p>
 
-  <ul class="nav nav-pills mb-3 justify-content-center clubs-n-anc" id="pills-tab" role="tablist">
+  <div class="overflow-auto mb-3 d-flex">
+  <ul class="nav nav-pills flex-nowrap clubs-n-anc m-auto" id="pills-tab" role="tablist">
     {% for club in site.data.clubs-and-ancillaries.clubs %}
     {% assign slug = club.name | slugify %}
-    <li class="text-center nav-item" role="presentation">
-      <a class="nav-link {% if forloop.first == true %}active{% endif %} shadow" id="pills-{{ slug }}-tab"
-        data-toggle="pill" href="#pills-{{ slug }}" role="tab" aria-controls="pills-{{ slug }}"
-        aria-selected="{% if forloop.first == true %}true{% else %}false{% endif %}">
-        <img src="{{ club.icon | relative_url }}" style="width: 10rem; height: 10rem;">
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
+      <li class="nav-item" role="presentation">
+        <a class="nav-link {% if forloop.first == true %}active{% endif %}" id="pills-{{ slug }}-tab"
+          data-toggle="pill" href="#pills-{{ slug }}" role="tab" aria-controls="pills-{{ slug }}"
+          aria-selected="{% if forloop.first == true %}true{% else %}false{% endif %}">
+          <img src="{{ club.icon | relative_url }}" style="width: 10rem; height: 10rem;" class="shadow">
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
   <div class="tab-content" id="pills-tabContent">
     {% for club in site.data.clubs-and-ancillaries.clubs %}
     {% assign slug = club.name | slugify %}
@@ -78,18 +80,20 @@ title: Clubs & Ancillaries
     <h2 class="font-secondary mt-3">Ancillaries</h2>
     <p><strong>Click on an image to find out more about the ancillary below!</strong></p>
 
-    <ul class="nav nav-pills mb-3 justify-content-center clubs-n-anc" id="pills-tab" role="tablist">
-      {% for ancillary in site.data.clubs-and-ancillaries.ancillaries %}
-      {% assign slug = ancillary.name | slugify %}
-      <li class="text-center nav-item" role="presentation">
-        <a class="nav-link {% if forloop.first == true %}active{% endif %} shadow" id="pills-{{ slug }}-tab"
-          data-toggle="pill" href="#pills-{{ slug }}" role="tab" aria-controls="pills-{{ slug }}"
-          aria-selected="{% if forloop.first == true %}true{% else %}false{% endif %}">
-          <img src="{{ ancillary.icon | relative_url }}" style="width: 10rem; height: 10rem;">
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
+    <div class="overflow-auto mb-3 d-flex">
+      <ul class="nav nav-pills flex-nowrap clubs-n-anc m-auto" id="pills-tab" role="tablist">
+        {% for ancillary in site.data.clubs-and-ancillaries.ancillaries %}
+        {% assign slug = ancillary.name | slugify %}
+        <li class="nav-item" role="presentation">
+          <a class="nav-link {% if forloop.first == true %}active{% endif %}" id="pills-{{ slug }}-tab"
+            data-toggle="pill" href="#pills-{{ slug }}" role="tab" aria-controls="pills-{{ slug }}"
+            aria-selected="{% if forloop.first == true %}true{% else %}false{% endif %}">
+            <img src="{{ ancillary.icon | relative_url }}" style="width: 10rem; height: 10rem;">
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
     <div class="tab-content" id="pills-tabContent">
       {% for ancillary in site.data.clubs-and-ancillaries.ancillaries %}
       {% assign slug = ancillary.name | slugify %}
