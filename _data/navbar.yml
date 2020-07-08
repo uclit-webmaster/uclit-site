@@ -36,5 +36,7 @@
       link: events/calendar
     - name: JCR Rentals
       link: events/jcr-rentals
+- name: Contact
+  link: /contact
 - name: Store
   link: https://university-college-literary-athletic-society.square.site/
