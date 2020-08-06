@@ -1,0 +1,3 @@
+This site is built using [jekyll](https://jekyllrb.com/), a static site generator. Basically it lets you create a static site really easily, without having a bunch of repeated code (ex: for the page headers and footers, or repeating elements like council member photos) by splitting them up into their own components and calling them in the individual pages.
+
+Jekyll also lets you pull data from `.yml` files and generate content for the site from it.

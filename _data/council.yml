@@ -1,4 +1,23 @@
-- name: Core Presidents
+# - name: Core Presidents
+#   people:
+#   - name: Liam
+#     image: assets/images/headshots/liam.jpeg
+#     role: President
+#     from: Bradford, ON
+#     major: Human Geography, Political Science
+#     email: president@uclit.ca
+#     office-hours: 12-1 thursdays
+# - name: Executives
+#   people:
+#   - name: Someone Else
+#     image: assets/images/headshots/danielle.jpg
+#     role: President
+#     from: Bradford, ON
+#     major: Human Geography, Political Science
+#     email: president@uclit.ca
+#     office-hours: 12-1 thursdays
+
+- group: Core Presidents
   people:
   - name: Liam
     image: assets/images/headshots/liam.jpeg
@@ -21,7 +40,7 @@
     major: Human Geography, Political Science
     email: president@uclit.ca
     office-hours: 12-1 thursdays
-- name: Executives
+- group: Executives
   people:
   - name: Someone Else
     image: assets/images/headshots/danielle.jpg
@@ -58,7 +77,7 @@
     major: Human Geography, Political Science
     email: president@uclit.ca
     office-hours: 12-1 thursdays
-- name: Representatives
+- group: Representatives
   people:
   - name: Another Person
     image: assets/images/headshots/danielle.jpg
@@ -95,7 +114,7 @@
     major: Human Geography, Political Science
     email: president@uclit.ca
     office-hours: 12-1 thursdays
-- name: Staff and Ancillaries
+- group: Staff and Ancillaries
   people:
   - name: And Another One
     image: assets/images/headshots/danielle.jpg
@@ -125,7 +144,7 @@
     major: Human Geography, Political Science
     email: president@uclit.ca
     office-hours: 12-1 thursdays
-- name: Deputies
+- group: Deputies
   people: 
   - name: And Another One!
     image: assets/images/headshots/danielle.jpg

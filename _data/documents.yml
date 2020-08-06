@@ -1,3 +1,15 @@
+# - heading: The heading for this section of documents
+#   text: >
+#     Below is the University College Literary & Athletic Society Constitution and Council
+#     Policy that govern our society. These documents are frequently updated and improved to
+#     better serve the needs of UC students. If you have any questions or concerns on these
+#     documents please contact <a href="mailto:vp@uclit.ca">vp@uclit.ca</a>.
+#   documents:
+#     - text: TEXT WITHIN THE DOWNLOAD BUTTON
+#       link: /assets/documents/FILE-THAT-WILL-BE-DOWNLOADED.pdf 
+#     - text: COUNCIL POLICIES
+#       link: /assets/documents/FILE-THAT-WILL-BE-DOWNLOADED.pdf 
+
 - heading: Constitution and Policies
   text: >
     Below is the University College Literary & Athletic Society Constitution and Council

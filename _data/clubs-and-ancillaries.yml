@@ -1,6 +1,68 @@
+# clubs:
+#   - name: UC Dragon Boat Club (UCDBC)
+#     icon: /assets/images/clubs-ancillaries-icons/uc-dragon-boat.svg
+#     socials:
+#       - network: twitter
+#         link: http://facebook.com/university-college-lit # TODO: update
+#       - network: youtube
+#         link: http://facebook.com/university-college-lit
+#       - network: web
+#         link: http://facebook.com/university-college-lit
+#       - network: facebook
+#         link: http://facebook.com/university-college-lit
+#       - network: instagram
+#         link: http://facebook.com/university-college-lit
+#       - network: e-mail # dont forget the mailto: for emails!!
+#         link: mailto:ucdbc@uclit.ca
+#     description: >
+#         <p>
+#           Training with the UCDBC is not merely about winning; paddlers not only gain mental and physical strength, but are also
+#           immersed in a bonding environment where they belong. While the team grows even more, one thing will remain undoubtedly
+#           true: the UCDBC is a one-of-a-kind family.
+#         </p>
+#   - name: GirlUp UofT
+#     icon: /assets/images/clubs-ancillaries-icons/girl-up.svg
+#     socials:
+#       - network: facebook
+#         link: http://facebook.com/university-college-lit
+#     description: >
+#         <p>
+#           Girl Up is an initiative of the UN Foundation, working across a global community of partners to achieve gender equality worldwide.
+#         </p>
+#
+# ancillaries:
+#   - name: Diabolos
+#     icon: /assets/images/clubs-ancillaries-icons/diabolos.svg
+#     socials:
+#       - network: e-mail # dont forget the mailto: for emails!!
+#         link: mailto:ucdbc@uclit.ca
+#       - network: instagram
+#         link: http://facebook.com/university-college-lit
+#     description: >
+#       <p>
+#         Diabolos’ is a student-run, fair trade, environmentally-conscious coffee bar at UC 
+#         serving hot and cold drinks and a variety of pastries, wraps and meals.
+#       </p>
+#   - name: UC Orientation
+#     icon: /assets/images/clubs-ancillaries-icons/uc-orientation.svg
+#     socials:
+#       - network: facebook
+#         link: http://facebook.com/university-college-lit
+#       - network: instagram
+#         link: http://facebook.com/university-college-lit
+#     description: >
+#       <p>
+#         Diabolos’ is a student-run, fair trade, environmentally-conscious coffee bar at UC 
+#         serving hot and cold drinks and a variety of pastries, wraps and meals.
+#       </p>
+#       <p>
+#         For all students who attend, UC Orientation is highly instructive for learning what 
+#         University College has to offer – both for residence students and commuter students. Our 
+#         events focus on both academic achievement and social flourishing making UC Orientation the 
+#         foundation for a balanced university career.
+#       </p>
 clubs:
-  - icon-title: UC Dragon Boat Club
-    name: UC Dragon Boat Club (UCDBC)
+  - name: UC Dragon Boat Club (UCDBC)
     icon: /assets/images/clubs-ancillaries-icons/uc-dragon-boat.svg
     socials:
       - network: twitter
@@ -32,8 +94,7 @@ clubs:
           immersed in a bonding environment where they belong. While the team grows even more, one thing will remain undoubtedly
           true: the UCDBC is a one-of-a-kind family.
         </p>
-  - icon-title: GirlUp UofT
-    name: GirlUp UofT
+  - name: GirlUp UofT
     icon: /assets/images/clubs-ancillaries-icons/girl-up.svg
     socials:
       - network: web
@@ -52,8 +113,7 @@ clubs:
         <p>
           Girl Up is an initiative of the UN Foundation, working across a global community of partners to achieve gender equality worldwide.
         </p>
-  - icon-title: UofT Campus Lions
-    name: UofT Campus Lions Club
+  - name: UofT Campus Lions Club
     icon: /assets/images/clubs-ancillaries-icons/uc-lions.svg
     socials:
       - network: web
@@ -71,8 +131,7 @@ clubs:
       </p>
 
 ancillaries:
-  - icon-title: Diabolos
-    name: Diabolos
+  - name: Diabolos
     icon: /assets/images/clubs-ancillaries-icons/diabolos.svg
     socials:
       - network: e-mail # dont forget the mailto: for emails!!
@@ -90,8 +149,7 @@ ancillaries:
         famous homemade muffin, or stay for lunch and meet new students hanging out in the Junior
         Common Room (JCR). Diabs’ also caters campus events!
       </p>
-  - icon-title: UC Orientation
-    name: UC Orientation
+  - name: UC Orientation
     icon: /assets/images/clubs-ancillaries-icons/uc-orientation.svg
     socials:
       - network: twitter
@@ -122,8 +180,7 @@ ancillaries:
          libraries and study spots on campus - all while encouraging you to build strong and 
          long-lasting connections with your peers.
       </p>
-  - icon-title: The Gargoyle
-    name: The Gargoyle
+  - name: The Gargoyle
     icon: /assets/images/clubs-ancillaries-icons/gargoyle.svg
     socials:
       - network: twitter
@@ -148,8 +205,7 @@ ancillaries:
         Please keep your arms and legs inside our custom-issue hugbox at all times. Check 
         out the latest issue at http://www.ucgargoyle.ca/.
       </p>
-  - icon-title: UC Follies
-    name: UC Follies
+  - name: UC Follies
     icon: /assets/images/clubs-ancillaries-icons/uc-follies.svg
     socials:
       - network: twitter
@@ -178,8 +234,7 @@ ancillaries:
         to fill, both onstage and off, the UC Follies has many opportunities for students to 
         get involved.
       </p>
-  - icon-title: UC Review
-    name: UC Review
+  - name: UC Review
     icon: /assets/images/clubs-ancillaries-icons/uc-review.svg
     socials:
       - network: twitter
@@ -199,8 +254,7 @@ ancillaries:
         For information on how to submit original work or to join one of the committees 
         (Selections, Design/Layout or Publicity) please contact <a href="ucreview@uclit.ca">ucreview@uclit.ca</a>.
       </p>
-  - icon-title: WUSC
-    name: WUSC (World University Services of Canada)
+  - name: WUSC (World University Services of Canada)
     icon: /assets/images/clubs-ancillaries-icons/wusc.svg
     socials:
       - network: facebook
@@ -216,4 +270,3 @@ ancillaries:
         throughout the year to raise awareness of issues facing refugees in Canada and around 
         the world.
       </p>
-

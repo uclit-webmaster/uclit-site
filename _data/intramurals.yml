@@ -1,6 +1,27 @@
+# sports:
+#   - name: Basketball
+#     sign-up-link: "https://forms.google.com/he#1b891Ss"
+#     image: /assets/images/intramurals-photos/uclit-basketball.png
+#   - name: Volleball
+#     sign-up-link: "#"
+#     image: /assets/images/intramurals-photos/uclit-volleyball.png
+#   - name: Soccer
+#     sign-up-link: "#"
+#     image: /assets/images/intramurals-photos/uclit-soccer.png
+#   - name: Badminton
+#     sign-up-link: "#"
+#     image: /assets/images/intramurals-photos/uclit-badminton.png
+#   - name: Hockey
+#     sign-up-link: "#"
+#     image: /assets/images/intramurals-photos/uclit-hockey.png
+#   - name: Dodgeball
+#     sign-up-link: "#"
+#     image: /assets/images/intramurals-photos/uclit-dodgeball.png
+# sign-up-link: "#"
+# deadline-text: The deadline to apply is SOME DATE. After that, please email <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> to see if space is available.
 sports:
   - name: Basketball
-    sign-up-link: "#" # TODO: separate sign-up link for each?
+    sign-up-link: "#"
     image: /assets/images/intramurals-photos/uclit-basketball.png
   - name: Volleball
     sign-up-link: "#"
@@ -18,6 +39,6 @@ sports:
     sign-up-link: "#"
     image: /assets/images/intramurals-photos/uclit-dodgeball.png
   
-sign-up-link: "#" # TODO: add sign-up link
+sign-up-link: "#"
 
 deadline-text: The deadline to apply is SOME DATE. After that, please email <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> to see if space is available.

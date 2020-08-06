@@ -27,21 +27,31 @@
       </div>
       <div class="col-6 col-md">
         <h5>Follow Us</h5>
+        {% for item in site.data.footer.follow_us %}
         <span class="color-primary">
-          <a href="{{ site.data.footer.follow_us.facebook }}"><i class="fab fa-facebook-square"></i></a>
+          <a href="{{ item.link }}">
+          <i class="
+          {% case item.network %}
+            {% when "twitter" %}
+              fab fa-twitter
+            {% when "youtube" %}
+              fab fa-youtube
+            {% when "facebook" %}
+              fab fa-facebook-f
+            {% when "instagram" %}
+              fab fa-instagram
+            {% when "snapchat" %}
+              fab fa-snapchat-square
+            {% when "e-mail" %}
+              fas fa-envelope
+            {% when "square" %}
+              fas fa-gift
+            {% else %}
+              fas fa-globe-americas
+          {% endcase %}
+          "></i></a>
         </span>
-        <span class="color-primary">
-          <a href="{{ site.data.footer.follow_us.twitter }}"><i class="fab fa-twitter"></i></a>
-        </span>
-        <span class="color-primary">
-          <a href="{{ site.data.footer.follow_us.instagram }}"><i class="fab fa-instagram"></i></a>
-        </span>
-        <span class="color-primary">
-          <a href="{{ site.data.footer.follow_us.snapchat }}"><i class="fab fa-snapchat-square"></i></a>
-        </span>
-        <span class="color-primary">
-          <a href="{{ site.data.footer.follow_us.square }}"><i class="fas fa-gift"></i></a>
-        </span>
+        {% endfor %}
       </div>
       <div class="col-6 col-md">
         <h5>Find Us</h5>
