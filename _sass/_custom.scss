@@ -1,5 +1,4 @@
 @import "slider";
-
 @font-face {
     font-family: 'clarendon';
     src: url("../fonts/Clarendon FS Medium.ttf") format("truetype");
@@ -9,7 +8,7 @@
     font-family: 'varsity';
     src: url("../fonts/VarsityTeamBold-6AXq.otf") format("opentype");
 }
- 
+
 body {
     padding-top: 80px;
     // background-size: cover;
@@ -37,7 +36,7 @@ header {
     transition: background-color 200ms linear;
 }
 
-@media(max-width: 768px) {
+@media(max-width: 992px) {
     .navbar {
         background-color: white !important;
         box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06);
@@ -105,7 +104,7 @@ header {
     margin: 0;
     border-radius: 0;
     border: 0px;
-    transition: ease 5s; 
+    transition: ease 5s;
 }
 
 .dropdown .dropdown-menu a {
@@ -254,29 +253,32 @@ header {
 }
 
 .accordion button::after {
-	content: "\f107";
-	color: $primary;
-	// top: -2px;
-	// right: 0px;
+    content: "\f107";
+    color: $primary;
+    // top: -2px;
+    // right: 0px;
     // position: absolute;
     margin-left: 5px;
     font-family: "FontAwesome";
 }
 
 .accordion button[aria-expanded="true"]::after {
-	content: "\f106";
+    content: "\f106";
 }
 
 .accordion * {
     border: none;
 }
 
-.accordion .btn, .accordion .card-body, .accordion .card-header {
+.accordion .btn,
+.accordion .card-body,
+.accordion .card-header {
     padding-left: 0px;
     padding-right: 0px;
 }
 
-.accordion .btn-link:hover, .accordion .btn-link:focus {
+.accordion .btn-link:hover,
+.accordion .btn-link:focus {
     text-decoration: none;
 }
 
@@ -300,7 +302,7 @@ header {
     background-color: #6b1b1b9b;
 }
 
-.intramural-photo-div:hover > .intramural-photo-overlay {
+.intramural-photo-div:hover>.intramural-photo-overlay {
     opacity: 1;
 }
 
@@ -312,8 +314,8 @@ header {
     transition: .5s ease;
 }
 
-.intramural-photo-div:hover > .fill-image {
-    transform:scale(1.2);
+.intramural-photo-div:hover>.fill-image {
+    transform: scale(1.2);
 }
 
 .intramural-text {
@@ -338,11 +340,11 @@ header {
     border-left: 1px solid $gray-300;
     border-right: 1px solid $gray-300;
     border-bottom: 1px solid $gray-300;
-
     padding-top: 1rem;
     padding-left: 1rem;
     padding-right: 1rem;
-    padding-bottom: 1rem;;
+    padding-bottom: 1rem;
+    ;
 }
 
 .club-ancillary-card {
@@ -352,14 +354,14 @@ header {
     border-bottom: medium solid $primary;
 }
 
-.clubs-n-anc.nav-pills .nav-link img{
+.clubs-n-anc.nav-pills .nav-link img {
     padding: 12px;
     background-color: $primary;
     border-radius: 50%;
     transition: all 0.3s ease-in-out 0s;
 }
 
-.clubs-n-anc.nav-pills .nav-link.active img{
+.clubs-n-anc.nav-pills .nav-link.active img {
     border-radius: 0.25rem;
     // padding: 20px;
 }
@@ -373,7 +375,8 @@ header {
     background: none;
 }
 
-.clubs-n-anc li.nav-item { // TODO: fix jumping when switching tabs
+.clubs-n-anc li.nav-item {
+    // TODO: fix jumping when switching tabs
     // min-width: max-content;
     // min-height: 224px;
 }

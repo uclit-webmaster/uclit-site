@@ -8,6 +8,7 @@ plugins:
   - jekyll-autoprefixer
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-analytics
 
 exclude:
   - README.md
@@ -19,4 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome the the UC Lit, the oldest 
   democratically-elected student government
   in Canada
-google_analytics: UA-111111111-1
+
+GoogleAnalytics:          # https://github.com/hendrikschneider/jekyll-analytics
+    id: UA-174941981-1
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
