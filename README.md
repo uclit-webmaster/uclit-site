@@ -5,7 +5,7 @@ This website is generated from a combination of
 - the information in the `.yml` files under the [`/_data/`](_data/) folder.
 - the HTML files included in the various folders like [`/about/history.html`](about/history.html)
 
-**The instructions to update any of the pages listed that are listed below can be found [here](Docs/not_webmaster.md).**
+**The instructions to update any of the pages that are listed below can be found [here](Docs/not_webmaster.md).**
 
 |Page|
 | -- |
