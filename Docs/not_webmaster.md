@@ -103,6 +103,7 @@ The Council file contains a nested list of items:
 
 - each `people` item contains `name`, `image`, `role`, `from`, `major`, `email` and `office-hours`
     keywords.
+
 #### Sample:
 ```yaml
 - group: Core Presidents

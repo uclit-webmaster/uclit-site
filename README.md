@@ -5,9 +5,9 @@ This website is generated from a combination of
 - the information in the `.yml` files under the [`/_data/`](_data/) folder.
 - the HTML files included in the various folders like [`/about/history.html`](about/history.html)
 
-If the section you want to update is any of the following, [here](Docs/not-webmaster.md) are the instructions to update each.
+**The instructions to update any of the pages listed that are listed below can be found [here](Docs/not_webmaster.md).**
 
-|Section|
+|Page|
 | -- |
 |[President's Message](_data/presidents-message.yml)|
 |[Documents](_data/documents.yml)|
@@ -25,9 +25,6 @@ If the section you want to update is any of the following, [here](Docs/not-webma
 
 ### The section I want to update isn't listed there
 
-If the page you want to update isn't there you'd have to ask the webmaster to update it. If you don't mind getting your hands a little dirty with HTML, read on.
+If the page you want to update isn't there you'll have to ask the webmaster to update it. Or, if you don't mind getting your hands a little dirty with HTML, read on.
 
-#### If you're the webmaster
-(or you don't mind getting your hands dirty with HTML)
-
-[Instructions](Docs/webmaster.md)
+[Click here](Docs/webmaster.md) if you're the webmaster or you don't mind working with some HTML.
