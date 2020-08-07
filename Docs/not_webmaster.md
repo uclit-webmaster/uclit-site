@@ -1,6 +1,6 @@
 # How to update the website as a normal non-techy person
 
-The editable data in this site is split up into "data files". When these files are changed and committed, the website will update itself automatically and after a couple minutes you should see the changes online.
+The editable data in this site is split up into "data files" that are structured simply and easy to read. When these files are edited and committed, the website will update itself automatically and after a couple minutes you should see the changes online.
 
 Use this table to find the file you need to change.
 
@@ -23,28 +23,46 @@ The data files are written in ["YAML"](https://yaml.org/start.html) format. This
 
 You can think of them as 2 parts: "Keywords" and "Lists".
 
-### Keywords
-Keywords are like attributes that make up an object. In the example below, `name`, `role`, and `major` are all keywords.
-`council.yml`
+### Example:
 ```yaml
+# This is a comment
 people:
   - name: liam
     role: president
     major: Human Geography
+    image: /assets/images/headshots/liams-headshot.png
+    twitter: https://twitter.com/liam
+  - role: Vice President
+    name: Danielle
+    major: Law
+    image: /assets/images/headshots/danielles-headshot.png
+    twitter: https://twitter.com/danielle
 ```
 
+### Keywords
+Keywords are like attributes that make up an object. They are indicated by a word followed by a colon (":"). The rest of the line after the colon is the *value* of the keyword.
+
+In the example above, `name`, `role`, and `major` are all keywords. 
+
 ### Lists
-** TODO **
+Some keywords can have dashes ("-") that follow them on the line underneath. That means the keyword designates a list of items. The items must all be indented 2 spaces to the right of the keyword. The start of each item in a list is marked by a dash, and the item only ends when the indentation is reduced, or when another dash marks the start of the next item in the list.
+
+In the example above, Liam and Daniel, each with the keywords that make-up them, are both items in the `people` list. (Note that the first keyword in each item doesn't matter, they can be different. The only thing that indicates a new list item is the dash "-").
 
 ## How links work
-** TODO **
+Some keywords can have links (URLs) as their values. They can either point to an **external** resource outside of the uclit website (such as a facebook page, or google form), or a **local** resource that's on this website (a different webpage, or a photo).
 
-## What are the "#"s?
-** TODO **
+If you're linking to an **external** resource, please include the full url, including the "https://" at the beginning. In the example above, `twitter` is an example of an external resource.
+
+If you're linking to a **local** resource, just put "local" path. I.e. if you open this github repo's [main page](https://github.com/uclit-webmaster/uclit-site), you would put the names of the folders you click on to access the resource you want separated by slashes ("/"), followed by the file name. In the example above, `image` is an example of a local resource.
+
+Make sure that the local path you enter leads to a resource that exists, and note that you can always add images or other files to folders by opening them in github and clicking the "Add file" in the top right.
+
+
 ___
 
 ## President's message
-The president's message file just has 3 keywords: `image`, `name` and `message`. Make that whatever link you use for the image, you upload the image as well if it wasn't there before.
+The president's message file just has 3 keywords: `image`, `name` and `message`. Make sure that whatever link you use for the image, you upload the image as well if it wasn't there before.
 #### Sample:
 ```yaml
 image: /assets/images/headshots/presidents-headshot.png
@@ -54,7 +72,12 @@ message: >
 ```
 
 ## Documents
-The Documents file contains a list. Each item in the list has 3 keywords: `heading`, `text` and `documents`. Each document has 2 keywords: `text` and `link`.
+The Documents data file lets you add sections and documents to the Documents page.
+- `heading`: the heading that the section will have
+- `text`: the text describing the document section
+- `documents`: a list of documents to add as buttons under this section
+    - `text`: the text to be shown on the button
+    - `link`: a local path to the document that will be downloaded when this button is pressed.
 
 #### Sample:
 ```yaml
@@ -113,8 +136,8 @@ The Council file contains a nested list of items:
 The Intramurals file contains following keywords:
 - `sign-up-link`: the link to the general intramurals sign-up form
 - `deadline-text`: The text that will be shown on the page to specify the deadline to apply
-- `sports`: a list of sports, each containing the following keywords. For each sport, another square will be shown on the page with the image and sport name/sign-up text on hover.
-    - `name`: the name of the sport to be shown on the page
+- `sports`: a list of sports, each containing the following keywords. For each sport, another square will be shown on the page with the image, and sport name/sign-up text on hover.
+    - `name`: the name of the sport to be shown on the page on hover
     - `sign-up-link`: the google form (or other) sign-up link for the specific sport
     - `image`: the link to the image to show on the page for this sport
 #### Sample: 
@@ -227,7 +250,7 @@ ancillaries:
 
 ## Commissions
 The Commissions file is a list items, each of which contain the following keywords. For each item, another card will be shown on the page with the given information.
-- `name`: the name of the Commission
+- `name`: the name of the commission
 - `image`: the link to the image of the commission
 - `email`: the email of the commission
 - `names`: the names of the commissioners, written the way you'd like to have it displayed on the site
@@ -308,7 +331,7 @@ The footer of the site consists of a row of 4 sections: a general logo section, 
 - `follow_us`: contains a list of contact links
     - `network`: one of `facebook`, `twitter`, `instagram`, `youtube`, `e-mail`, `square`, `snapchat` or `website`. Controls which icon to show for this link
     - `link`: the url where this icon leads to
-- `find_us`: put address here, as shown in the sample. Note that since it starts with a "|" character, the website will respect the line breaks. So it'll be shown on the site the same way it shows in the data file.
+- `find_us`: put address here, as shown in the sample. Note that since it starts with a "|" character, the website will respect the line breaks. So it'll be shown on the site the same way it shows in the data file. [Click here](https://yaml-multiline.info/) to see an explanation.
 #### Sample:
 ```yaml
 quick_links:

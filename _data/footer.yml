@@ -38,7 +38,7 @@ follow_us:
   - network: square
     link:  https://university-college-literary-athletic-society.square.site/
 
-find_us: |
+find_us: | # https://yaml-multiline.info/
   15 King’s College Circle
   Junior Common Room (JCR)
   Toronto, ON M5S 3H7
