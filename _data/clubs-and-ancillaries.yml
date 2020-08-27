@@ -66,15 +66,15 @@ clubs:
     icon: /assets/images/clubs-ancillaries-icons/uc-dragon-boat.svg
     socials:
       - network: twitter
-        link: http://facebook.com/university-college-lit # TODO: update
+        link: https://twitter.com/ucdragonboat
       - network: youtube
-        link: http://facebook.com/university-college-lit
+        link: https://www.youtube.com/channel/UCS8G26qWcve1kKU41tvuyfw
       - network: web
-        link: http://facebook.com/university-college-lit
+        link: http://ucdragonboat.ca/
       - network: facebook
-        link: http://facebook.com/university-college-lit
+        link: https://www.facebook.com/UCdragonboat/
       - network: instagram
-        link: http://facebook.com/university-college-lit
+        link: https://www.instagram.com/ucdragonboat/
       - network: e-mail # dont forget the mailto: for emails!!
         link: mailto:ucdbc@uclit.ca
     description: >
@@ -98,9 +98,9 @@ clubs:
     icon: /assets/images/clubs-ancillaries-icons/girl-up.svg
     socials:
       - network: web
-        link: http://facebook.com/university-college-lit
+        link: http://clubs.girlup.org/clubs/home/2554
       - network: facebook
-        link: http://facebook.com/university-college-lit
+        link: https://www.facebook.com/girlupuoft/
       - network: e-mail
         link: mailto:girlup@uclit.ca
     description: >
@@ -117,9 +117,9 @@ clubs:
     icon: /assets/images/clubs-ancillaries-icons/uc-lions.svg
     socials:
       - network: web
-        link: http://facebook.com/university-college-lit
+        link: https://www.ulife.utoronto.ca/organizations/view/id/2227
       - network: facebook
-        link: http://facebook.com/university-college-lit
+        link: https://facebook.com/groups/140210253262396
       - network: e-mail
         link: mailto:lions@uclit.ca
     description: >
@@ -135,11 +135,11 @@ ancillaries:
     icon: /assets/images/clubs-ancillaries-icons/diabolos.svg
     socials:
       - network: e-mail # dont forget the mailto: for emails!!
-        link: mailto:ucdbc@uclit.ca
+        link: mailto:diabolos@uclit.ca
       - network: facebook
-        link: http://facebook.com/university-college-lit
+        link: https://www.facebook.com/DiabolosCoffeeBar
       - network: instagram
-        link: http://facebook.com/university-college-lit
+        link: https://www.instagram.com/diaboloscoffeebar/
     description: >
       <p>
         Diabolos’ is a student-run, fair trade, environmentally-conscious coffee bar at UC 
@@ -153,15 +153,15 @@ ancillaries:
     icon: /assets/images/clubs-ancillaries-icons/uc-orientation.svg
     socials:
       - network: twitter
-        link: http://facebook.com/university-college-lit # TODO: update
+        link: http://twitter.com/ucorientation
       - network: youtube
-        link: http://facebook.com/university-college-lit
+        link: https://www.youtube.com/channel/UCCxJQoHB3rfyiNfGSrsq9vw
       - network: web
-        link: http://facebook.com/university-college-lit
+        link: http://ucorientation.com/
       - network: facebook
         link: http://facebook.com/university-college-lit
       - network: instagram
-        link: http://facebook.com/university-college-lit
+        link: https://www.instagram.com/uc.orientation
     description: >
       <p>
         Through a week of fun-filled, informative events, UC Orientation aims to provide
@@ -184,15 +184,15 @@ ancillaries:
     icon: /assets/images/clubs-ancillaries-icons/gargoyle.svg
     socials:
       - network: twitter
-        link: http://facebook.com/university-college-lit # TODO: update
-      - network: youtube
-        link: http://facebook.com/university-college-lit
+        link: https://twitter.com/ucgargoyle # TODO: update
+      - network: e-mail
+        link: mailto:submissions@ucgargoyle.ca
       - network: web
-        link: http://facebook.com/university-college-lit
+        link: http://www.ucgargoyle.ca/
       - network: facebook
-        link: http://facebook.com/university-college-lit
+        link: https://www.facebook.com/ucgargoyle/
       - network: instagram
-        link: http://facebook.com/university-college-lit
+        link: https://www.instagram.com/ucgargoyle/
     description: >
       <p>
         Established in 1954, “the Garg” is University College’s greasiest student newspaper 
@@ -209,15 +209,15 @@ ancillaries:
     icon: /assets/images/clubs-ancillaries-icons/uc-follies.svg
     socials:
       - network: twitter
-        link: http://facebook.com/university-college-lit # TODO: update
-      - network: youtube
-        link: http://facebook.com/university-college-lit
+        link: https://twitter.com/ucfollies # TODO: update
+      - network: facebook
+        link: https://www.facebook.com/ucfollies/
       - network: web
-        link: http://facebook.com/university-college-lit
+        link: http://www.ucfollies.net/
       - network: instagram
-        link: http://facebook.com/university-college-lit
-      - network: web
-        link: http://facebook.com/university-college-lit
+        link: https://www.instagram.com/ucfollies/
+      - network: e-mail
+        link: mailto:follies@uclit.ca
     description: >
       <p>
         The UC Follies is University College’s student-driven theatre troupe, entertaining
@@ -238,15 +238,15 @@ ancillaries:
     icon: /assets/images/clubs-ancillaries-icons/uc-review.svg
     socials:
       - network: twitter
-        link: http://facebook.com/university-college-lit # TODO: update
+        link: https://twitter.com/UC_Review_UofT # TODO: update
       - network: instagram
-        link: http://facebook.com/university-college-lit
+        link: https://www.instagram.com/ucreview/
       - network: web
-        link: http://facebook.com/university-college-lit
-      - network: instagram
-        link: http://facebook.com/university-college-lit
+        link: https://www.ucreview.ca/
+      - network: facebook
+        link: https://www.facebook.com/UCReview
       - network: e-mail
-        link: ucreview@uclit.ca
+        link: mailto:ucreview@uclit.ca
     description: >
       <p>
         The UC Review is UC's literary journal, and has been showcasing student art and literature 
@@ -258,11 +258,11 @@ ancillaries:
     icon: /assets/images/clubs-ancillaries-icons/wusc.svg
     socials:
       - network: facebook
-        link: http://facebook.com/university-college-lit # TODO: update
+        link: https://www.facebook.com/UCWUSC/ # TODO: update
       - network: instagram
-        link: http://facebook.com/university-college-lit
+        link: https://www.instagram.com/wusc_uc/
       - network: e-mail
-        link: ucreview@uclit.ca
+        link: mailto:wusc@uclit.ca
     description: >
       <p>
         University College's WUSC committee sponsors one Student Refugee Program student every 
