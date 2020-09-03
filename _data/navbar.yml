@@ -42,6 +42,8 @@
     link: resources/student-initiatives-fund
   - name: Student Academics and Wellness
     link: resources/student-academics-wellness
+  - name: Student Fees and Levies
+    link: resources/student-fees-and-levies
 - name: Events
   options:
     - name: Calendar
