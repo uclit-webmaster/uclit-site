@@ -9,7 +9,7 @@ This website is generated from a combination of
 2. Check if the page you'd like to update is listed in the table below.
     * if the page is listed in the table, please find the instructions to update any of them [here](Docs/not_webmaster.md).**
     * if it's not listed here you'll have to ask the webmaster to update it. Or, if you don't mind getting your hands a little dirty with HTML, [click here](Docs/webmaster.md) 
-3. Check [this guide]() on how to commit the changes so the website gets automagically updated🪄.
+3. Check [this guide](/Docs/how_to_commit.md) on how to commit the changes so the website gets automagically updated🪄.
 
 |Page|
 | -- |
