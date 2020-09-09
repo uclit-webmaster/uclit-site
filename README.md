@@ -13,7 +13,7 @@ This website is generated from a combination of
 
 |Page|
 | -- |
-|[President's Message](Docs/not_webmaster.md#President's-message)|
+|[President's Message](Docs/not_webmaster.md#president's-message)|
 |[Documents](Docs/not_webmaster.md#Documents)|
 |[The Council](Docs/not_webmaster.md#Council)|
 |[Intramurals](Docs/not_webmaster.md#Intramurals)|
