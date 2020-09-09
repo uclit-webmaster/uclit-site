@@ -6,7 +6,7 @@ Use this table to find the file you need to change.
 
 |Section | Data File| Instructions|
 | -- | -- |-- |
-|President's Message | [_data/presidents-message.yml](_data/presidents-message.yml)|[guide](#President's-message)|
+|President's Message | [_data/presidents-message.yml](_data/presidents-message.yml)|[guide](#president's-message)|
 |Documents | [_data/documents.yml](_data/documents.yml)|[guide](#Documents)|
 |The Council | [_data/council.yml](_data/council.yml)|[guide](#Council)|
 |Intramurals | [_data/intramurals.yml](_data/intramurals.yml)|[guide](#Intramurals)|
