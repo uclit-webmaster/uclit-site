@@ -6,17 +6,17 @@ Use this table to find the file you need to change.
 
 |Section | Data File| Instructions|
 | -- | -- |-- |
-|President's Message | [_data/presidents-message.yml](_data/presidents-message.yml)|[guide](#presidents-message)|
-|Documents | [_data/documents.yml](_data/documents.yml)|[guide](#Documents)|
-|The Council | [_data/council.yml](_data/council.yml)|[guide](#Council)|
-|Intramurals | [_data/intramurals.yml](_data/intramurals.yml)|[guide](#Intramurals)|
-|Budgets | [_data/budgets.yml](_data/budgets.yml)|[guide](#Budgets)|
-|Clubs and Ancillaries | [_data/clubs-and-ancillaries.yml](_data/clubs-and-ancillaries.yml)|[guide](#Clubs-and-Ancillaries)|
-|Commissions | [_data/commissions.yml](_data/commissions.yml)|[guide](#Commissions)|
-|Elections | [_data/elections.yml](_data/elections.yml)|[guide](#Elections)|
-|Student academics and wellness | [_data/student-academics-wellnes](_data/student-academics-wellness.yml)|[guide](#student-academics-and-wellness)|
-|Navigation bar | [_data/navbar.yml](_data/navbar.yml)|[guide](#Navigation-bar)|
-|Footer | [_data/footer.yml](_data/footer.yml)|[guide](#Footer)|
+|President's Message | [_data/presidents-message.yml](../_data/presidents-message.yml)|[guide](#presidents-message)|
+|Documents | [_data/documents.yml](../_data/documents.yml)|[guide](#Documents)|
+|The Council | [_data/council.yml](../_data/council.yml)|[guide](#Council)|
+|Intramurals | [_data/intramurals.yml](../_data/intramurals.yml)|[guide](#Intramurals)|
+|Budgets | [_data/budgets.yml](../_data/budgets.yml)|[guide](#Budgets)|
+|Clubs and Ancillaries | [_data/clubs-and-ancillaries.yml](../_data/clubs-and-ancillaries.yml)|[guide](#Clubs-and-Ancillaries)|
+|Commissions | [_data/commissions.yml](../_data/commissions.yml)|[guide](#Commissions)|
+|Elections | [_data/elections.yml](../_data/elections.yml)|[guide](#Elections)|
+|Student academics and wellness | [_data/student-academics-wellnes](../_data/student-academics-wellness.yml)|[guide](#student-academics-and-wellness)|
+|Navigation bar | [_data/navbar.yml](../_data/navbar.yml)|[guide](#Navigation-bar)|
+|Footer | [_data/footer.yml](../_data/footer.yml)|[guide](#Footer)|
 
 ## How Data Files Work
 The data files are written in ["YAML"](https://yaml.org/start.html) format. This makes it easy to understand by humans.
