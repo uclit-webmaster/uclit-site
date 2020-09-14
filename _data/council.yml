@@ -154,41 +154,136 @@
     favourite place to eat on campus: Sid Smith Cafe or Robarts Cafeteria
 - group: Representatives
   people:
-  - name: Another Person
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Another Person
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Another Person
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Another Person
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Another Person
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
+  - name: Basmah Ramadan
+    image: assets/images/headshots/basmah.jpg
+    role: UC Director
+    pronouns: She/Her
+    from: ???
+    major: Third Year in International Relations, Equity, and Political Science
+    email: basmah@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: Robarts 12th Floor
+    favourite place to eat on campus: Brown Food Truck
+  - name: Jeannie Yoo
+    image: assets/images/headshots/jeannie.jpg
+    role: UC Director
+    pronouns: She/Her
+    from: ???
+    major: Second Year in Computer Science and Cognitive Science
+    email: Jeannie@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: Gersstein or Graham Library
+    favourite place to eat on campus: Diabolos
+  - name: Pranay Prem
+    image: assets/images/headshots/pranay.jpg
+    role: UC Director
+    Pronoun: He/Him
+    from: ???
+    major: Second Year in International Relations, Political Science, and History
+    email: pranay@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: UC Library or Sid Smith Commons or Earth Science Library
+    favourite place to eat on campus: Brown Food Truck is the only right answer!
+  - name: Juliana Melino
+    image: assets/images/headshots/juliana.jpg
+    role: Mid-Year Representative
+    pronouns: She/Her
+    from: ???
+    major: Second Year in English, Equity, and Education & Society
+    email: juliana@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: John W. Graham Library at Trinity College
+    favourite place to eat on campus: Caffiends at Victoria College
+  - name: Joshua Bienstock
+    image: assets/images/headshots/joshua.jpg
+    role: Mid-Year Representative
+    pronouns: He/Him
+    from: ???
+    major: Third Year in Political Science, Urban Studies, and Philosophy
+    email: joshua@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: Gerstein Library Reading Room
+    favourite place to eat on campus: Always Diabolos
+  - name: Eric Yin
+    image: assets/images/headshots/eric.jpg
+    role: Mid-Year Representative
+    pronouns: He/Him
+    from: ???
+    major: Second Year in Neuroscience and Statistics
+    email: eric@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: ???
+    favourite place to eat on campus: ???
+  - name: Liah Yared
+    image: assets/images/headshots/liah.jpg
+    role: Mid-Year Representative
+    pronouns: She/Her
+    from: ???
+    major: Third Year in Linquistics and Equity Studies
+    email: liah@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: Gerstein
+    favourite place to eat on campus: UT Sushi
+  - name: Basma Mohamed-Saeed
+    image: assets/images/headshots/Basma.jpg
+    role: Mid-Year Representative
+    pronouns: She/her
+    from: ???
+    major: Third Year in Criminology, Sociology, and Equity 
+    email: basma@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: Robarts 12th Floor or the JCR!
+    favourite place to eat on campus: Brown Food Truck
+  - name: Honesty Senese
+    image: assets/images/headshots/honesty.jpg
+    role: Mid-Year Representative
+    pronouns: She/Her
+    from: ???
+    major: Second Year in Neuroscience and Psychology
+    email: honesty@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: ???
+    favourite place to eat on campus: ???
+  - name: Soliyana Yared
+    image: assets/images/headshots/soli.jpg
+    role: Upper-Year Representative
+    pronouns: She/Her
+    from: ???
+    major: Fourth Year in Criminology, Peace, Conflict & Justice Studies, and Spanish
+    email: soliyana@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: Fireplace Lounge in the Faculty of Law
+    favourite place to eat on campus: Ned's cafe for breakfast is a staple!
+  - name: Tintin Fuliang
+    image: assets/images/headshots/tintin.jpg
+    role: Upper-Year Representative
+    pronouns: He/Him
+    from: ???
+    major: Fourth Year in Biomedical Toxicology, and Health & Disease
+    email: tintin@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: ???
+    favourite place to eat on campus: ???
+  - name: Aniket Kali
+    image: assets/images/headshots/aniket.jpg
+    role: Upper-Year Representative/Sustainability Deputy
+    pronouns: He/Him
+    from: ???
+    major: Fourth Year in Computer Science
+    email: aniket@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: Gerstein
+    favourite place to eat on campus: Brown Food Truck
+  - name: Marco Ng
+    image: assets/images/headshots/marco.jpg
+    role: University College Residence Council President
+    pronouns: ??
+    from: ???
+    major: ???
+    email: ???
+    office-hours: ???
+    favourite place to study on campus: ???
+    favourite place to eat on campus: ???
 - group: Staff and Ancillaries
   people:
   - name: And Another One
