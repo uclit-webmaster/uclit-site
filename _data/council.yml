@@ -1,10 +1,11 @@
 # - name: Core Presidents
 #   people:
 #   - name: Liam
+#     pronouns: He/Him
 #     image: assets/images/headshots/liam.jpeg
 #     role: President
 #     from: Bradford, ON
-#     major: Human Geography, Political Science
+#     year: Fourth Year in Art History and Latin
 #     email: president@uclit.ca
 #     office-hours: 12-1 thursdays
 # - name: Executives
@@ -19,64 +20,138 @@
 
 - group: Core Presidents
   people:
-  - name: Liam
+  - name: Liam Bryant
     image: assets/images/headshots/liam.jpeg
     role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
+    pronouns: He/Him
+    from: [???]
+    major: Fourth Year in Art History and Latin
     email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
+    office-hours: [???]
+    favourite place to study on campus: Graham Library
+    favourite place to eat on campus: Brown Food Truck!
+  - name: Ruth Masuka
+    image: assets/images/headshots/ruth.jpg
+    role: Vice President
+    pronouns: She/Her
+    from: [???]
+    major: Third Year in Peace, Conflict & Justice Studies, Diaspora, Translational Studies
+    email: vp@uclit.ca
+    office-hours: [???]
+    favourite place to study on campus: Eberhard Zeisler Library (John H. Daniels Faculty Library)
+    favourite place to eat on campus: Gourment Burger House (Sid Smith)
+  - name: Daniella Colangelo
+    image: assets/images/headshots/daniella.jpg
+    role: Finance
+    pronouns: She/Her
+    from: [???]
+    major: Third Year in Sociology and Criminology
+    email: finance@uclit.ca
+    office-hours: [???]
+    favourite place to study on campus: Study? On Campus? If I have to, AC
+    favourite place to eat on campus: Take the walk to Whole Foods, worth it
 - group: Executives
   people:
-  - name: Someone Else
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
+  - name: Youssef Metwally
+    image: assets/images/headshots/youssef.jpg
+    role: Equity & Outreach
+    pronouns: He/Him
+    from: [???]
+    major: Second Year in Equity Studies and American Studies
+    email: equity.outreach@uclit.ca
+    office-hours: [???]
+    favourite place to study on campus: E.J. Pratt Library
+    favourite place to eat on campus: Brown Food Truck
+  - name: Isahaq Ibrahim
+    image: assets/images/headshots/isahaq.jpg
+    role: University College Off-Campus (UCOC)
+    pronouns: He/Him
+    from: [???]
+    major: Third Year in CSB and Health & Disease
+    email: isahaq.ibrahim@mail.utoronto.ca
+    office-hours: [???]
+    favourite place to study on campus: A.D. Allen Chemistry Library
+    favourite place to eat on campus: [???]
+  - name: Sophia Fan
+    image: assets/images/headshots/sophia.jpg
+    role: Sustainability
+    pronouns: She/Her
+    from: [???]
+    major: Fourth Year in Ecology and Evolutionary Biology
+    email: sustainability@uclit.ca
+    office-hours: [???]
+    favourite place to study on campus: Home or JCR
+    favourite place to eat on campus: Brown Food Truck
+  - name: Hannah Fleisch
+    image: assets/images/headshots/hannahf.jpg
+    role: Literary and Creative Arts
+    pronouns: She/Her
+    from: [???]
+    major: Literary and Creative Arts
+    email: hannah.fleisch@mail.utoronto.ca
+    office-hours: [???]
+    favourite place to study on campus: Innis Cafe
+    favourite place to eat on campus: [???]
+  - name: Hannah Roberts
+    image: assets/images/headshots/hannahr.jpg
+    role: Athletics
+    pronouns: She/Her
+    from: [???]
+    major: Third Year in Political Science and Sociology
+    email: athletics@uclit.ca
+    office-hours: [???]
+    favourite place to study on campus: 13th Floor of Robarts
+    favourite place to eat on campus: Brown Food Truck
+  - name: Vaish Vijayan
+    image: assets/images/headshots/vaish.jpg
+    role: University Academics & Affairs
+    pronouns: She/Her
+    from: [???]
+    major: Fourth Year in Criminology, Sociology, and Political Science
+    email: uaa@uclit.ca
+    office-hours: [???]
+    favourite place to study on campus: Junior Common Room
+    favourite place to eat on campus: Sid Smith Cafe (love their burrito bowls)
+  - name: Hiba Taha
+    image: assets/images/headshots/hiba.jpg
+    role: Spirit & Communications
+    pronouns: She/Her
+    from: [???]
+    major: Fifth Year in Neuroscience, Physiology, and Immunology
+    email: scc@uclit.ca
+    office-hours: [???]
+    favourite place to study on campus: Wetmore Hall
+    favourite place to eat on campus: Sid Smith Cafe
+  - name: Aanya Bahl
+    image: assets/images/headshots/aanya.jpg
+    role: Mental Wellness
+    pronouns: She/Her
+    from: [???]
+    major: Third Year in Ecology & Evolutionary Biology, Physiology, and Spanish
+    email: wellness@uclit.ca
+    office-hours: [???]
+    favourite place to study on campus: [???]
+    favourite place to eat on campus: [???]
+  - name: Teagan Smith
+    image: assets/images/headshots/teagan.jpg
+    role: Formals
+    pronouns: She/Her
+    from: [???]
+    major: Third Year in Biodiversity & Conservation Biology, Animal Physiology, and Physical & Environmental Geography 
+    email: formals@uclit.ca
+    office-hours: [???]
+    favourite place to study on campus: Noranda Earth Science Library
+    favourite place to eat on campus: Green Beat Cafe in Gerstein Library
+  - name: Andrea Estrabrillo
+    image: assets/images/headshots/andrea.jpg
+    role: Social
+    pronouns: She/Her
+    from: [???]
+    major: Fourth Year in Cell & Molecular Biology, Human Biology, and Health & Disease
+    email: social@uclit.ca
+    office-hours: [???]
+    favourite place to study on campus: Robarts
+    favourite place to eat on campus: Sid Smith Cafe or Robarts Cafeteria
 - group: Representatives
   people:
   - name: Another Person
