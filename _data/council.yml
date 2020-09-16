@@ -155,7 +155,7 @@
 - group: Representatives
   people:
   - name: Basmah Ramadan
-    image: assets/images/headshots/basmah.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
     pronouns: She/Her
     from: ???
@@ -165,7 +165,7 @@
     favourite place to study on campus: Robarts 12th Floor
     favourite place to eat on campus: Brown Food Truck
   - name: Jeannie Yoo
-    image: assets/images/headshots/jeannie.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
     pronouns: She/Her
     from: ???
@@ -175,7 +175,7 @@
     favourite place to study on campus: Gersstein or Graham Library
     favourite place to eat on campus: Diabolos
   - name: Pranay Prem
-    image: assets/images/headshots/pranay.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
     Pronoun: He/Him
     from: ???
@@ -185,7 +185,7 @@
     favourite place to study on campus: UC Library or Sid Smith Commons or Earth Science Library
     favourite place to eat on campus: Brown Food Truck is the only right answer!
   - name: Juliana Melino
-    image: assets/images/headshots/juliana.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: She/Her
     from: ???
@@ -195,7 +195,7 @@
     favourite place to study on campus: John W. Graham Library at Trinity College
     favourite place to eat on campus: Caffiends at Victoria College
   - name: Joshua Bienstock
-    image: assets/images/headshots/joshua.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: He/Him
     from: ???
@@ -205,7 +205,7 @@
     favourite place to study on campus: Gerstein Library Reading Room
     favourite place to eat on campus: Always Diabolos
   - name: Eric Yin
-    image: assets/images/headshots/eric.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: He/Him
     from: ???
@@ -215,7 +215,7 @@
     favourite place to study on campus: ???
     favourite place to eat on campus: ???
   - name: Liah Yared
-    image: assets/images/headshots/liah.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: She/Her
     from: ???
@@ -225,7 +225,7 @@
     favourite place to study on campus: Gerstein
     favourite place to eat on campus: UT Sushi
   - name: Basma Mohamed-Saeed
-    image: assets/images/headshots/Basma.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: She/her
     from: ???
@@ -235,7 +235,7 @@
     favourite place to study on campus: Robarts 12th Floor or the JCR!
     favourite place to eat on campus: Brown Food Truck
   - name: Honesty Senese
-    image: assets/images/headshots/honesty.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: She/Her
     from: ???
@@ -245,7 +245,7 @@
     favourite place to study on campus: ???
     favourite place to eat on campus: ???
   - name: Soliyana Yared
-    image: assets/images/headshots/soli.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
     pronouns: She/Her
     from: ???
@@ -255,7 +255,7 @@
     favourite place to study on campus: Fireplace Lounge in the Faculty of Law
     favourite place to eat on campus: Ned's cafe for breakfast is a staple!
   - name: Tintin Fuliang
-    image: assets/images/headshots/tintin.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
     pronouns: He/Him
     from: ???
@@ -265,7 +265,7 @@
     favourite place to study on campus: ???
     favourite place to eat on campus: ???
   - name: Aniket Kali
-    image: assets/images/headshots/aniket.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative/Sustainability Deputy
     pronouns: He/Him
     from: ???
@@ -275,7 +275,7 @@
     favourite place to study on campus: Gerstein
     favourite place to eat on campus: Brown Food Truck
   - name: Marco Ng
-    image: assets/images/headshots/marco.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: University College Residence Council President
     pronouns: ??
     from: ???

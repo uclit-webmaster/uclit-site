@@ -27,7 +27,7 @@ title: The Council
             {% for person in class.people %}
             <div class="col-md-4 mb-3">
               <div class="card shadow">
-                <img src="{{ person.image | relative_url }}" class="card-img-top" alt="{{ person.name }}">
+                <img src="{{ person.image | relative_url }}" class="card-img-top bg-primary" alt="{{ person.name }}">
                 <div class="card-body">
                   <h5 class="card-title">{{ person.name }}</h5>
                   <h6 class="card-subtitle mb-2 text-muted">{{ person.role }}</h6>
