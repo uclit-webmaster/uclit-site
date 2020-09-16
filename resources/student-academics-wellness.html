@@ -5,7 +5,10 @@ title: Student Academics and Wellness
 <h1 class="font-secondary" data-aos="fade">Student Academics and Wellness</h1>
 {% for item in site.data.student-academics-wellness %}
 <div data-aos="fade-{% cycle 'right', 'left' %}">
-<h2 class="font-secondary text-primary mt-4">{{ item.header }}</h2>
-<p>{{ item.text }}</p>
+    <h2 class="font-secondary text-primary mt-4">{{ item.header }}</h2>
+    <p>{{ item.text | newline_to_br }}</p>
+    {% for button in item.buttons %}
+    <a class="btn btn-primary mr-3" href="{{ button.link }}" target="_blank"><strong>{{ button.text }}</strong></a>
+    {% endfor %}
 </div>
 {% endfor %}

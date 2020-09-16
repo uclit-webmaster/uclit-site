@@ -1,14 +1,13 @@
-# text: >
+# text: |
 #   To ensure openness to our students our budgets are made public. All budgets are subject
 #   to an annual, third-party audit. Any questions or concerns on the budget or budgeting process
 #   can be made to finance@uclit.ca. Click on the button below to access them!
 # documents:
 #   - text: BUDGETS
 #     link: /assets/documents/dummy.pdf
-text: >
-  To ensure openness to our students our budgets are made public. All budgets are subject
-  to an annual, third-party audit. Any questions or concerns on the budget or budgeting process
-  can be made to finance@uclit.ca. Click on the button below to access them!
+text: |
+  To ensure openness to our students our budgets are made public. All budgets are subject to an annual, third-party audit. Any questions or concerns on the budget or budgeting process can be made to finance@uclit.ca. Click on the button below to access them!
+
 documents:
   - text: BUDGETS
     link: /assets/documents/dummy.pdf

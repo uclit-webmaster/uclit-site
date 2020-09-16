@@ -1,3 +1,3 @@
 # https://yaml-multiline.info/ (info about multiline strings in yaml)
-text: >
+text: |
   Watch out for our fall elections!

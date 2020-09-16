@@ -17,9 +17,7 @@ exclude:
 tagline: "Welcome to the UC Lit's official website."
 email: your.email@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome the the UC Lit, the oldest 
-  democratically-elected student government
-  in Canada
+  Welcome the the UC Lit, the oldest democratically-elected student government in Canada
 
 GoogleAnalytics:          # https://github.com/hendrikschneider/jekyll-analytics
     id: UA-174941981-1

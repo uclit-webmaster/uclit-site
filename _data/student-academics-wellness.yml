@@ -1,5 +1,5 @@
 # - header: BLM & RACIAL JUSTICE SUPPORT
-#   text: >
+#   text: | # the "|" makes sure that the line breaks are preserved when this text is shown in the website.
 #     In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi
 #     consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi. Epicurus in animis nostris inesse
 #     notionem, ut aliquid ex eo ortum, tam inportuno. Epicurus in bonis sit sentiri haec putat, ut calere ignem, nivem
@@ -8,13 +8,23 @@
 #     repellere, idque facere nondum depravatum ipsa iudicari. In oculis quidem rerum facilis est et iusto odio
 #     dignissimos ducimus, qui haec. Certe, inquam, pertinax non fuisse torquem detraxit hosti et quidem rerum
 #     necessitatibus saepe.
-
+#   buttons:
+#     - text: Hi this is edgar
+#       link: "www.google.ca"
+    
 - header: COVID-19
-  text: >
+  # You can remove the next line if you don't want any text
+  text: |
     The UCLit’s COVID Emergency Resource Sheet for mental health resources
+  buttons:
+    - text: Hi this is edgar
+      link: https://www.google.ca
+    - text: Hi this is edgar
+      link: https://"www.google.ca"
+
     
 - header: BLM & RACIAL JUSTICE SUPPORT
-  text: >
+  text: |
     Virtual and Video Resources
     
     Desmon Cole’s video on police funding and municipal social responsibility
@@ -107,7 +117,7 @@
     This compilation by Anti-Racist Book Club, which can be found here.
 
 - header: MENTAL HEALTH & WELLNESS RESOURCES
-  text: >
+  text: |
     My Student Support Program (MySSP) provides University of Toronto students with immediate and/or ongoing confidential, 24-hour support for any school, health, or general life concern at no cost to students. You can call or chat with a counsellor directly from your phone whenever, wherever you are for a range of concerns. Students who use MySSP still have access to existing campus and community mental health services; MySSP is an additional support service.
     Download the MySSP app: Apple App Store | Google Play and keep reading so that you understand what to expect.
     You can also access the service 24/7 by calling 1-844-451-9700. Outside of North America, call 001-416-380-6578.
@@ -119,7 +129,6 @@
     Additionally, the Studentcare Psychology Network offers video appointments through the PsyVitalitï partnership, which has a reduced cost in addition to UHIP coverage; both apply.
     All of the information in the above paragraph can be found here.
     For information on how to make your insurance claim for these appointments, visit here, or contact the UCLit here for tips on making your claim.
-
 
     These third party services follow:
 

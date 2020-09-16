@@ -1,5 +1,5 @@
 # - heading: The heading for this section of documents
-#   text: >
+#   text: |
 #     Below is the University College Literary & Athletic Society Constitution and Council
 #     Policy that govern our society. These documents are frequently updated and improved to
 #     better serve the needs of UC students. If you have any questions or concerns on these
@@ -11,31 +11,23 @@
 #       link: /assets/documents/FILE-THAT-WILL-BE-DOWNLOADED.pdf 
 
 - heading: Constitution and Policies
-  text: >
-    Below is the University College Literary & Athletic Society Constitution and Council
-    Policy that govern our society. These documents are frequently updated and improved to
-    better serve the needs of UC students. If you have any questions or concerns on these
-    documents please contact <a href="mailto:vp@uclit.ca">vp@uclit.ca</a>.
+  text: | # the "|" means preserve newlines when inserting it into the html
+    Below is the University College Literary & Athletic Society Constitution and Council Policy that govern our society. These documents are frequently updated and improved to better serve the needs of UC students. If you have any questions or concerns on these documents please contact <a href="mailto:vp@uclit.ca">vp@uclit.ca</a>.
   documents:
     - text: CONSTITUTION
       link: /assets/documents/dummy.pdf
     - text: COUNCIL POLICIES
       link: /assets/documents/dummy.pdf
 - heading: Minutes
-  text: >
-    Minutes contain brief summaries of our meetings. We do our best to ensure these are accurate
-    and fair though they are sometimes incomplete. If you feel there is an issue about any
-    topic within them or would like further information please do not hesitate to contact
-    vp@uclit.ca. Minutes from the previous meeting are posted following approval at the
-    subsequent meeting.
+  text: |
+    Minutes contain brief summaries of our meetings. We do our best to ensure these are accurate and fair though they are sometimes incomplete. If you feel there is an issue about any topic within them or would like further information please do not hesitate to contact vp@uclit.ca. Minutes from the previous meeting are posted following approval at the subsequent meeting.
   documents: 
     - text: MINUTES
       link: /assets/documents/dummy.pdf
 
 - heading: AGM
-  text: >
-    Below you will find documents from the Annual General Meeting of the Council for the 
-    past years.
+  text: |
+    Below you will find documents from the Annual General Meeting of the Council for the past years.
   documents: 
     - text: AGM DOCUMENTS
       link: /assets/documents/dummy.pdf

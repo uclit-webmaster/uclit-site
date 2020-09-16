@@ -71,7 +71,7 @@ title: Clubs & Ancillaries
             </a>
             {% endfor %}
           </p>
-          {{ club.description }}
+          {{ club.description | newline_to_br }}
         </div>
       </div>
     </div>
@@ -129,7 +129,7 @@ title: Clubs & Ancillaries
               </a>
               {% endfor %}
             </p>
-            {{ ancillary.description }}
+            {{ ancillary.description | newline_to_br }}
           </div>
         </div>
       </div>

@@ -67,8 +67,8 @@ The president's message file just has 3 keywords: `image`, `name` and `message`.
 ```yaml
 image: /assets/images/headshots/presidents-headshot.png
 name: President's name
-message: >
-  Paste the president's message here with all the lines indented as shown. This value can span multiple lines because it begins with a ">".
+message: |
+  Paste the president's message here with all the lines indented as shown. If it spans multiple lines because you hit enter, the website will have the same line breaks.
 ```
 
 ## Documents
@@ -82,7 +82,7 @@ The Documents data file lets you add sections and documents to the Documents pag
 #### Sample:
 ```yaml
 - heading: The heading for this section of documents
-  text: >
+  text: |
     Below is the University College Literary & Athletic Society Constitution and Council Policy that govern our society. If you have any questions or concerns on these documents please contact <a href="mailto:vp@uclit.ca">vp@uclit.ca</a>.
   documents:
     - text: CONSTITUTION
@@ -90,7 +90,7 @@ The Documents data file lets you add sections and documents to the Documents pag
     - text: COUNCIL POLICIES
       link: /assets/documents/dummy.pdf
 - heading: The heading for the 2nd section of documents
-  text: >
+  text: |
     Minutes contain brief summaries of our meetings. Minutes from the previous meeting are posted following approval at the subsequent meeting.
   documents: 
     - text: MINUTES
@@ -174,10 +174,8 @@ The Budgets file contains the following keywords:
     - `link`: the link to the document itself that'll be downloaded on the press of the button
 #### Sample:
 ```yaml
-text: >
-  To ensure openness to our students our budgets are made public. All budgets are subject
-  to an annual, third-party audit. Any questions or concerns on the budget or budgeting process
-  can be made to finance@uclit.ca. Click on the button below to access them!
+text: |
+  To ensure openness to our students our budgets are made public. All budgets are subject to an annual, third-party audit. Any questions or concerns on the budget or budgeting process can be made to finance@uclit.ca. Click on the button below to access them!
 documents:
   - text: BUDGETS
     link: /assets/documents/dummy.pdf
@@ -214,8 +212,7 @@ clubs:
         link: http://instagram.com/university-college-lit
       - network: e-mail # dont forget the mailto: for emails!!
         link: mailto:ucdbc@uclit.ca
-    description: >
-        <p>
+    description: |
           Training with the UCDBC is not merely about
           winning; paddlers not only gain mental and
           physical strength, but are also
@@ -223,14 +220,11 @@ clubs:
           belong. While the team grows even more, one
           thing will remain undoubtedly true: the UCDBC is
           a one-of-a-kind family.
-        </p>
-        <p>
+
           Diabolos’ is a student-run, fair trade
           environmentally-conscious coffee bar at UC
           serving hot and cold drinks and a variety of
           pastries, wraps and meals.
-        </p>
-      
 
 ancillaries:
   - name: Diabolos
@@ -240,13 +234,11 @@ ancillaries:
         link: mailto:ucdbc@uclit.ca
       - network: instagram
         link: http://facebook.com/university-college-lit
-    description: >
-      <p>
+    description: |
         Diabolos’ is a student-run, fair trade,
         environmentally-conscious coffee bar at UC
         serving hot and cold drinks and a variety of
         pastries, wraps and meals.
-      </p>
 ```
 
 ## Commissions
@@ -276,26 +268,29 @@ This data file lets you set the text to be displayed in the "Get Involved" -> "E
 - `text`: the text to be shown on the page
 #### Sample:
 ```yaml
-text: >
-  In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi
-  consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi.
+text: |
+  In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi.
   ```
 
 ## Student Academics and Wellness
-This data file contains a list of the headers and text of different sections of the page. Each list item contains the following keywords:
+This data file contains a list of the headers,text and buttons of different sections of the page. Each list item contains the following keywords:
 - `header`: the header of the section to add to the page
-- `text`: the text to add in that section
+- `text`: (optional) the text to add in that section 
+- `buttons`: (optional) list of buttons to include under the text for this section
+  - `text`: the text that the button should contain
+  - `link`: the link that the button should lead to
 
 #### Sample:
 ```yaml
 - header: COVID-19
-  text: >
-    In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi
-    consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi.
+  text: |
+    In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi.
+  buttons:
+    - link: www.google.ca
+      text: click here for the google form
 - header: BLM & RACIAL JUSTICE SUPPORT
-  text: >
-    In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi
-    consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi
+  text: |
+    In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi
 ```
 
 ## Navigation Bar

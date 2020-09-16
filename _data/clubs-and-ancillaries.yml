@@ -14,7 +14,7 @@
 #         link: http://facebook.com/university-college-lit
 #       - network: e-mail # dont forget the mailto: for emails!!
 #         link: mailto:ucdbc@uclit.ca
-#     description: >
+#     description: |
 #         <p>
 #           Training with the UCDBC is not merely about winning; paddlers not only gain mental and physical strength, but are also
 #           immersed in a bonding environment where they belong. While the team grows even more, one thing will remain undoubtedly
@@ -25,7 +25,7 @@
 #     socials:
 #       - network: facebook
 #         link: http://facebook.com/university-college-lit
-#     description: >
+#     description: |
 #         <p>
 #           Girl Up is an initiative of the UN Foundation, working across a global community of partners to achieve gender equality worldwide.
 #         </p>
@@ -38,9 +38,9 @@
 #         link: mailto:ucdbc@uclit.ca
 #       - network: instagram
 #         link: http://facebook.com/university-college-lit
-#     description: >
+#     description: |
 #       <p>
-#         Diabolos’ is a student-run, fair trade, environmentally-conscious coffee bar at UC 
+#         Diabolos’ is a student-run, fair trade, environmentally-conscious coffee bar at UC
 #         serving hot and cold drinks and a variety of pastries, wraps and meals.
 #       </p>
 #   - name: UC Orientation
@@ -50,15 +50,15 @@
 #         link: http://facebook.com/university-college-lit
 #       - network: instagram
 #         link: http://facebook.com/university-college-lit
-#     description: >
+#     description: |
 #       <p>
-#         Diabolos’ is a student-run, fair trade, environmentally-conscious coffee bar at UC 
+#         Diabolos’ is a student-run, fair trade, environmentally-conscious coffee bar at UC
 #         serving hot and cold drinks and a variety of pastries, wraps and meals.
 #       </p>
 #       <p>
-#         For all students who attend, UC Orientation is highly instructive for learning what 
-#         University College has to offer – both for residence students and commuter students. Our 
-#         events focus on both academic achievement and social flourishing making UC Orientation the 
+#         For all students who attend, UC Orientation is highly instructive for learning what
+#         University College has to offer – both for residence students and commuter students. Our
+#         events focus on both academic achievement and social flourishing making UC Orientation the
 #         foundation for a balanced university career.
 #       </p>
 clubs:
@@ -77,23 +77,13 @@ clubs:
         link: https://www.instagram.com/ucdragonboat/
       - network: e-mail # dont forget the mailto: for emails!!
         link: mailto:ucdbc@uclit.ca
-    description: >
-      <p>
-          The University College Dragon Boat Club (UCDBC) is a competitive dragon boat racing club that is built upon passion,
-          drive and resilience. The club has grown dramatically since its time of inception as the UC Dragon Boat Team in 1998.
-          It evolved to the UC Water Dragons after it gained its competitive edge amongst local university teams.
-        </p>
-        <p>
-          Today, the UCDBC contains 2 boats, the UC Water Dragons and the UC Hydras that compete in local and national regattas
-          each summer. From our humble beginnings almost two decades ago, to competing amongst the nation’s top university teams
-          today, our vision of success have remained the same. Our priority is to cultivate an environment that is accepting and
-          fosters growth for athletes of all levels.
-        </p>
-        <p>
-          Training with the UCDBC is not merely about winning; paddlers not only gain mental and physical strength, but are also
-          immersed in a bonding environment where they belong. While the team grows even more, one thing will remain undoubtedly
-          true: the UCDBC is a one-of-a-kind family.
-        </p>
+    description: |
+          The University College Dragon Boat Club (UCDBC) is a competitive dragon boat racing club that is built upon passion, drive and resilience. The club has grown dramatically since its time of inception as the UC Dragon Boat Team in 1998. It evolved to the UC Water Dragons after it gained its competitive edge amongst local university teams.
+
+          Today, the UCDBC contains 2 boats, the UC Water Dragons and the UC Hydras that compete in local and national regattas each summer. From our humble beginnings almost two decades ago, to competing amongst the nation’s top university teams today, our vision of success have remained the same. Our priority is to cultivate an environment that is accepting and fosters growth for athletes of all levels.
+
+          Training with the UCDBC is not merely about winning; paddlers not only gain mental and physical strength, but are also immersed in a bonding environment where they belong. While the team grows even more, one thing will remain undoubtedly true: the UCDBC is a one-of-a-kind family.
+
   - name: GirlUp UofT
     icon: /assets/images/clubs-ancillaries-icons/girl-up.svg
     socials:
@@ -103,16 +93,12 @@ clubs:
         link: https://www.facebook.com/girlupuoft/
       - network: e-mail
         link: mailto:girlup@uclit.ca
-    description: >
-      <p>
+    description: |
           Girl Up is a global leadership development initiative, positioning girls to be leaders in the movement for gender equality. With resources in five languages and more than 2,200 Girl Up Clubs in over 100 countries, we’ve trained 40,000 girls of all backgrounds to create tangible change for girls everywhere.
-        </p>
-        <p>
+
           Girl Up provides leadership training and gives girls tools to become gender equality advocates and activists. Through our programs, girls broaden their social impact skill set, receive a platform to tell their stories, and apply STEM for social good. Our girl leaders create real policy change at local and national levels, raise millions of dollars to support United Nations programs that reach tens of thousands of girls around the world, and build community-based movements.
-        </p>
-        <p>
+
           Girl Up is an initiative of the UN Foundation, working across a global community of partners to achieve gender equality worldwide.
-        </p>
   - name: UofT Campus Lions Club
     icon: /assets/images/clubs-ancillaries-icons/uc-lions.svg
     socials:
@@ -122,13 +108,10 @@ clubs:
         link: https://facebook.com/groups/140210253262396
       - network: e-mail
         link: mailto:lions@uclit.ca
-    description: >
-      <p>
+    description: |
         Our organization does hands-on volunteer work in Toronto. We participate in a broad range of volunteering activities, such as helping out at missions, food banks and soup kitchens. We host multiple volunteering activities a month, a weekly soup kitchen on Sunday evenings and advertise other opportunities for volunteering on our Facebook page.
-      </p>
-      <p>
+
         Our goal is to inform UC students about the various volunteer opportunities in the city. By making these volunteer opportunities more accessible, we hope to bring the spirit of volunteerism and community engagement to UC.
-      </p>
 
 ancillaries:
   - name: Diabolos
@@ -140,15 +123,8 @@ ancillaries:
         link: https://www.facebook.com/DiabolosCoffeeBar
       - network: instagram
         link: https://www.instagram.com/diaboloscoffeebar/
-    description: >
-      <p>
-        Diabolos’ is a student-run, fair trade, environmentally-conscious coffee bar at UC 
-        serving hot and cold drinks and a variety of pastries, wraps and meals. Vegetarian, vegan 
-        and organic options are available. Diabolos’ is famous for its relaxed atmosphere, friendly
-        staff and great music. Students can drop by between classes for a fair-trade coffee and 
-        famous homemade muffin, or stay for lunch and meet new students hanging out in the Junior
-        Common Room (JCR). Diabs’ also caters campus events!
-      </p>
+    description: |
+        Diabolos’ is a student-run, fair trade, environmentally-conscious coffee bar at UC serving hot and cold drinks and a variety of pastries, wraps and meals. Vegetarian, vegan and organic options are available. Diabolos’ is famous for its relaxed atmosphere, friendly staff and great music. Students can drop by between classes for a fair-trade coffee and famous homemade muffin, or stay for lunch and meet new students hanging out in the Junior Common Room (JCR). Diabs’ also caters campus events!
   - name: UC Orientation
     icon: /assets/images/clubs-ancillaries-icons/uc-orientation.svg
     socials:
@@ -162,24 +138,14 @@ ancillaries:
         link: http://facebook.com/university-college-lit
       - network: instagram
         link: https://www.instagram.com/uc.orientation
-    description: >
-      <p>
-        Through a week of fun-filled, informative events, UC Orientation aims to provide
-        incoming students with a welcoming introduction to the University College and U of T
-        communities. We strive to promote UC values of equity, diversity and inclusivity, while 
-        building and strengthening our community as a whole.
-      </p>
-      <p>
-        For all students who attend, UC Orientation is highly instructive for learning what 
-        University College has to offer – both for residence students and commuter students. Our 
-        events focus on both academic achievement and social flourishing making UC Orientation the 
-        foundation for a balanced university career.
-      </p>
-      <p>
-        Our Orientation Leaders offer useful tips on everything from finding your classes to the best
-         libraries and study spots on campus - all while encouraging you to build strong and 
-         long-lasting connections with your peers.
-      </p>
+    description: |
+
+        Through a week of fun-filled, informative events, UC Orientation aims to provide incoming students with a welcoming introduction to the University College and U of T communities. We strive to promote UC values of equity, diversity and inclusivity, while building and strengthening our community as a whole.
+
+        For all students who attend, UC Orientation is highly instructive for learning what University College has to offer – both for residence students and commuter students. Our events focus on both academic achievement and social flourishing making UC Orientation the foundation for a balanced university career.
+
+        Our Orientation Leaders offer useful tips on everything from finding your classes to the best libraries and study spots on campus - all while encouraging you to build strong and long-lasting connections with your peers.
+
   - name: The Gargoyle
     icon: /assets/images/clubs-ancillaries-icons/gargoyle.svg
     socials:
@@ -193,18 +159,11 @@ ancillaries:
         link: https://www.facebook.com/ucgargoyle/
       - network: instagram
         link: https://www.instagram.com/ucgargoyle/
-    description: >
-      <p>
-        Established in 1954, “the Garg” is University College’s greasiest student newspaper 
-        and publishes every two weeks. We are a paper that believes sometimes you should be 
-        angry, and sometimes you should be loud, and if you have not had a voice before, 
-        you deserve a voice. We don’t give print space to bigots and we don’t feign neutrality 
-        on issues of social justice.
-      </p>
-      <p>
-        Please keep your arms and legs inside our custom-issue hugbox at all times. Check 
-        out the latest issue at http://www.ucgargoyle.ca/.
-      </p>
+    description: |
+
+        Established in 1954, “the Garg” is University College’s greasiest student newspaper and publishes every two weeks. We are a paper that believes sometimes you should be angry, and sometimes you should be loud, and if you have not had a voice before, you deserve a voice. We don’t give print space to bigots and we don’t feign neutrality on issues of social justice.
+
+        Please keep your arms and legs inside our custom-issue hugbox at all times. Check out the latest issue at http://www.ucgargoyle.ca/.
   - name: UC Follies
     icon: /assets/images/clubs-ancillaries-icons/uc-follies.svg
     socials:
@@ -218,22 +177,11 @@ ancillaries:
         link: https://www.instagram.com/ucfollies/
       - network: e-mail
         link: mailto:follies@uclit.ca
-    description: >
-      <p>
-        The UC Follies is University College’s student-driven theatre troupe, entertaining
-        University of Toronto’s St. George Campus community for over 100 years with one simple
-        goal: to provide an inclusive space for students to bring their talents outside of 
-        the classroom, and onto the stage. The UC Follies was officially inaugurated in 1924,
-        and has since become one of the University’s largest student theatre groups.
-      </p>
-      <p>
-        The UC Follies’ origins date back to mock parliaments that were being performed around
-        campus in the late 1880s. From classical to contemporary, from plays to comedies to 
-        musicals, the UC Follies produces variety of professional-quality shows throughout the 
-        school year and summer season, and contains a sketch comedy troupe. With plenty roles 
-        to fill, both onstage and off, the UC Follies has many opportunities for students to 
-        get involved.
-      </p>
+    description: |
+        The UC Follies is University College’s student-driven theatre troupe, entertaining University of Toronto’s St. George Campus community for over 100 years with one simple goal: to provide an inclusive space for students to bring their talents outside of the classroom, and onto the stage. The UC Follies was officially inaugurated in 1924, and has since become one of the University’s largest student theatre groups.
+
+        The UC Follies’ origins date back to mock parliaments that were being performed around campus in the late 1880s. From classical to contemporary, from plays to comedies to musicals, the UC Follies produces variety of professional-quality shows throughout the school year and summer season, and contains a sketch comedy troupe. With plenty roles to fill, both onstage and off, the UC Follies has many opportunities for students to get involved.
+
   - name: UC Review
     icon: /assets/images/clubs-ancillaries-icons/uc-review.svg
     socials:
@@ -247,13 +195,8 @@ ancillaries:
         link: https://www.facebook.com/UCReview
       - network: e-mail
         link: mailto:ucreview@uclit.ca
-    description: >
-      <p>
-        The UC Review is UC's literary journal, and has been showcasing student art and literature 
-        for over 30 years. The Review is published twice a year, in the fall and in the spring. 
-        For information on how to submit original work or to join one of the committees 
-        (Selections, Design/Layout or Publicity) please contact <a href="ucreview@uclit.ca">ucreview@uclit.ca</a>.
-      </p>
+    description: |
+        The UC Review is UC's literary journal, and has been showcasing student art and literature for over 30 years. The Review is published twice a year, in the fall and in the spring. For information on how to submit original work or to join one of the committees (Selections, Design/Layout or Publicity) please contact <a href="ucreview@uclit.ca">ucreview@uclit.ca</a>.
   - name: WUSC (World University Services of Canada)
     icon: /assets/images/clubs-ancillaries-icons/wusc.svg
     socials:
@@ -263,10 +206,5 @@ ancillaries:
         link: https://www.instagram.com/wusc_uc/
       - network: e-mail
         link: mailto:wusc@uclit.ca
-    description: >
-      <p>
-        University College's WUSC committee sponsors one Student Refugee Program student every 
-        year to study at the University of Toronto. WUSC also holds events and initiatives 
-        throughout the year to raise awareness of issues facing refugees in Canada and around 
-        the world.
-      </p>
+    description: |
+        University College's WUSC committee sponsors one Student Refugee Program student every year to study at the University of Toronto. WUSC also holds events and initiatives throughout the year to raise awareness of issues facing refugees in Canada and around the world.
