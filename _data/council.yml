@@ -317,25 +317,264 @@
 #    office-hours: 12-1 thursdays
 - group: Deputies
   people: 
-  - name: And Another One!
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: And Another One!
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: And Another One!
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  
+  - name: Rebecca Lee
+    image: assets/images/headshots/rebecca.jpg
+    role: President Deputy
+    pronouns: She/her
+    from: Burnaby, BC
+    major: Second Year in Neuroscience and Computer Science
+    email: rebeccatolee@gmail.com
+    office-hours: ???
+    favourite place to study on campus: Eberhard Zeidler Library (John H. Daniels Faculty Library)
+    favourite place to eat on campus: Gourmet Burger House (Sid Smith)
+  - name: Liah Yared
+    image: assets/images/headshots/Liah.jpg
+    role: Internal Vice-President Deputy
+    pronouns: She/Her
+    from: SCARBOROUGH SCARBOROUGH SCARBOROUGH
+    major: Third Year in Linguistics, Equity, and Disability Studies
+    email: liah.yared@mail.utoronto.ca
+    office-hours: ?
+    favourite place to study on campus: Gerstein
+    favourite place to eat on campus: UT Sushi
+  - name: Basma Saeed
+    image: assets/images/headshots/basma.jpg
+    role: Clubs Vice-President Deputy
+    pronouns: She/Her
+    from: Etobicoke, ON
+    major: Third Year in Sociology and Criminology
+    email: basma.mohamedsaeed@mail.utoronto.ca
+    office-hours: ?
+    favourite place to study on campus: Robarts 12th Floor or the JCR!
+    favourite place to eat on campus: Brown Food Truck
+  - name: Kyle Gluntz
+    image: assets/images/headshots/kyle.jpg
+    role: Finance Deputy
+    pronouns: He/Him
+    from: Hudson, OH, USA
+    major: Second Year in English, Literature & Critical Theory, and French
+    email: bookkeping@uclit.ca
+    office-hours: ?
+    favourite place to study on campus: Department of Art Library
+    favourite place to eat on campus: Brown Food Truck
+  - name: Mahaksh Malhotra
+    image: assets/images/headshots/mahaksh.jpg
+    role: Finance Deputy
+    pronouns: He/Him
+    from: Varanasi, India
+    major: Fourth Year in Economics and Statistics
+    email: auditing@uclit.ca
+    office-hours: ?
+    favourite place to study on campus: 8th Floor, Robarts
+    favourite place to eat on campus: Med-Sci Cafe
+  - name: Chloe Tse
+    image: assets/images/headshots/chloe.jpg
+    role: Equity Deputy
+    pronouns: She/Her
+    from: ?
+    major: Second Year in Neuroscience & Health Studies
+    email: chloe.tse@mail.utoronto.ca
+    office-hours: ?
+    favourite place to study on campus: Sidney Smith Commons
+    favourite place to eat on campus: Chinese Food Truck
+  - name: Suleekha Hirsi
+    image: assets/images/headshots/suleekha.jpg
+    role: Outreach Deputy
+    pronouns: She/Her
+    from: ?
+    major: Second Year in Equity Studies & Sociology
+    email: suleekha.hirsi@mail.utoronto.ca
+    office-hours: ?
+    favourite place to study on campus: 9th floor Robarts
+    favourite place to eat on campus: Sid Smith
+  - name: Solomon Azimi
+    image: assets/images/headshots/solomon.jpg
+    role: UCOC Deputy
+    pronouns: He/Him
+    from: Brampton, ON
+    major: Third year in Rotman Commerce
+    email: solomon.azimi@mail.utoronto.ca
+    office-hours: ?
+    favourite place to study on campus: Home
+    favourite place to eat on campus: Brown Food Truck
+  - name: David Runesha
+    image: assets/images/headshots/david.jpg
+    role: UCOC Deputy
+    pronouns: He/Him
+    from: ?
+    major: Third year in Economics and Statistics
+    email: david.runesha@mail.utoronto.ca
+    office-hours: ?
+    favourite place to study on campus: Robarts
+    favourite place to eat on campus: ?
+  - name: Aniket Kali
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Sustainability Deputy/Upper-Year Representative
+    pronouns: He/Him
+    from: Grande Prairie, AB
+    major: Fourth Year in Computer Science
+    email: aniket@uclit.ca
+    office-hours: ???
+    favourite place to study on campus: Gerstein
+    favourite place to eat on campus: Brown Food Truck
+  - name: Willow Cabral
+    image: assets/images/headshots/
+    role: Sustainability Deputy
+    pronouns: She/her
+    from: Parksville, British Columbia
+    major: Third year in Human Geography, Urban Studies, and GIS
+    email: willow.cabral@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Eberhard Zeidler Architecture Library @ Daniels!!
+    favourite place to eat on campus: Sidney Smith Cafe (I spend too much $ at Second Cup)
+  - name: Willow Cabral
+    image: assets/images/headshots/
+    role: Sustainability Deputy
+    pronouns: She/her
+    from: Parksville, British Columbia
+    major: Third year in Human Geography, Urban Studies, and GIS
+    email: willow.cabral@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Eberhard Zeidler Architecture Library @ Daniels!!
+    favourite place to eat on campus: Sidney Smith Cafe (I spend too much $ at Second Cup)
+  - name: Aiyana Harvey
+    image: assets/images/headshots/
+    role: Literary and Creative Arts Deputy
+    pronouns: She/her
+    from: ?
+    major: Third year in French, Literature, and Drama
+    email: aiyana.harvey@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Hart House Library !!
+    favourite place to eat on campus: Zaad on Bloor
+  - name: Kieley Mackey
+    image: assets/images/headshots/
+    role: Athletics Deputy
+    pronouns: She/Her
+    from: Barrie, ON
+    major: Third year in Health Policy and Bioethics
+    email: kieleymackey.mackey@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Knox Library
+    favourite place to eat on campus: Diablos
+  - name: Kieley Mackey
+    image: assets/images/headshots/
+    role: Athletics Deputy
+    pronouns: She/Her
+    from: Barrie, ON
+    major: Third year in Health Policy and Bioethics
+    email: kieleymackey.mackey@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Knox Library
+    favourite place to eat on campus: Diablos
+  - name: Izzy Toth
+    image: assets/images/headshots/
+    role: Athletics Deputy
+    pronouns: She/Her
+    from: ?
+    major: Third year in Criminology and Industrial Relations
+    email: i.toth@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Graham Library
+    favourite place to eat on campus: Med-Sci Starbucks
+  - name: Shawn Feng
+    image: assets/images/headshots/
+    role: Athletics Deputy
+    pronouns: He/Him
+    from: Hsinchu, Taiwan
+    major: Fourth year in IRHR and EEB
+    email: shawn.feng@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Gerstein
+    favourite place to eat on campus: Not Fung
+  - name: Aalina Bilal
+    image: assets/images/headshots/
+    role: UAA Deputy
+    pronouns: She/Her
+    from: Lahore, Pakistan
+    major: Third Year in Pyschology, Statistics, and Philosophy 
+    email: aalina.bilal@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Robarts or Knox
+    favourite place to eat on campus: Food truck (always)
+  - name: Hannah Allen
+    image: assets/images/headshots/
+    role: SCC Deputy
+    pronouns: She/Her
+    from: Bowmanville, ON
+    major: Fourth Year in History and Philosophy
+    email: hannahmargaret.allen@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Starbucks @ Bedford
+    favourite place to eat on campus: Rezzies
+  - name: Ananmay Sharan
+    image: assets/images/headshots/
+    role: SCC Deputy
+    pronouns: He/Him
+    from: New Delhi, India
+    major: Second Year in Human Geography and Computer Science
+    email: ananmay.sharan@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Knox College Library
+    favourite place to eat on campus: Rezzies
+  - name: Kareem Elhigzi
+    image: assets/images/headshots/
+    role: SCC Deputy
+    pronouns: He/Him
+    from: Mississauga, ON
+    major: Fifth Year in Neuroscience, Physiology, and Immunology
+    email: k.elhigzi@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Robarts 11th Floor St. George
+    favourite place to eat on campus: AC Cafe
+  - name: Natalia Landaverde
+    image: assets/images/headshots/
+    role: Mental Wellness Deputy
+    pronouns: She/Her
+    from: Vaughan, ON
+    major: Third Year in Criminology and English
+    email:  n.landaverde@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: E.J. Pratt or JCR
+    favourite place to eat on campus: Brown Food Truck
+  - name: Thérèse Perucho
+    image: assets/images/headshots/
+    role: Mental Wellness Deputy
+    pronouns: She/Her
+    from: Brampton, ON
+    major: Second Year in Political Science, Human Geography, and Practical French
+    email:  therese.perucho@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: At Gerstein or the JCR!
+    favourite place to eat on campus: Brown Food Truck
+  - name: Arina Mnatsakanyan
+    image: assets/images/headshots/
+    role: Formals Deputy
+    pronouns: She/Her
+    from: Toronto, ON
+    major: Third Year in Psychology, Physiology, and International Relations
+    email:  arina.mnatsakanyan@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Knox College Library 
+    favourite place to eat on campus: Diabolos
+  - name: Ella Levin
+    image: assets/images/headshots/
+    role: Social Deputy
+    pronouns: She/Her
+    from: Toronto, ON
+    major: Second Year in Political Science, Cognitive Science, and Near & Middle Eastern Civilizations
+    email: ella.levin@mail.utoronto.ca
+    office-hours: ???
+    favourite place to study on campus: Gerstein 
+    favourite place to eat on campus: Brown Food Truck!!
+  - name: Scarlett Mackay
+    image: assets/images/headshots/
+    role: Social Deputy
+    pronouns: She/Her
+    from: ?
+    major: Third Year in Geography, Sociology, and French
+    email: scarlett.mackay@mail.utoronto.ca 
+    office-hours: ???
+    favourite place to study on campus: JCR
+    favourite place to eat on campus: Brown Food Truck
+
