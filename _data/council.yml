@@ -284,9 +284,8 @@
     office-hours: ???
     favourite place to study on campus: ???
     favourite place to eat on campus: ???
-- group: Staff and Ancillaries
-  people:
-  Announcement: COMING SOON!
+#- group: Staff and Ancillaries
+#  people:
 #  - name: And Another One
 #    image: assets/images/headshots/danielle.jpg
 #    role: President
@@ -334,7 +333,7 @@
     from: SCARBOROUGH SCARBOROUGH SCARBOROUGH
     major: Third Year in Linguistics, Equity, and Disability Studies
     email: liah.yared@mail.utoronto.ca
-    office-hours: ?
+    office-hours: ???
     favourite place to study on campus: Gerstein
     favourite place to eat on campus: UT Sushi
   - name: Basma Saeed
@@ -344,7 +343,7 @@
     from: Etobicoke, ON
     major: Third Year in Sociology and Criminology
     email: basma.mohamedsaeed@mail.utoronto.ca
-    office-hours: ?
+    office-hours: ???
     favourite place to study on campus: Robarts 12th Floor or the JCR!
     favourite place to eat on campus: Brown Food Truck
   - name: Kyle Gluntz
@@ -354,7 +353,7 @@
     from: Hudson, OH, USA
     major: Second Year in English, Literature & Critical Theory, and French
     email: bookkeping@uclit.ca
-    office-hours: ?
+    office-hours: ???
     favourite place to study on campus: Department of Art Library
     favourite place to eat on campus: Brown Food Truck
   - name: Mahaksh Malhotra
@@ -364,27 +363,27 @@
     from: Varanasi, India
     major: Fourth Year in Economics and Statistics
     email: auditing@uclit.ca
-    office-hours: ?
+    office-hours: ???
     favourite place to study on campus: 8th Floor, Robarts
     favourite place to eat on campus: Med-Sci Cafe
   - name: Chloe Tse
     image: assets/images/headshots/chloe.jpg
     role: Equity Deputy
     pronouns: She/Her
-    from: ?
+    from: ???
     major: Second Year in Neuroscience & Health Studies
     email: chloe.tse@mail.utoronto.ca
-    office-hours: ?
+    office-hours: ???
     favourite place to study on campus: Sidney Smith Commons
     favourite place to eat on campus: Chinese Food Truck
   - name: Suleekha Hirsi
     image: assets/images/headshots/suleekha.jpg
     role: Outreach Deputy
     pronouns: She/Her
-    from: ?
+    from: ???
     major: Second Year in Equity Studies & Sociology
     email: suleekha.hirsi@mail.utoronto.ca
-    office-hours: ?
+    office-hours: ???
     favourite place to study on campus: 9th floor Robarts
     favourite place to eat on campus: Sid Smith
   - name: Solomon Azimi
@@ -394,19 +393,19 @@
     from: Brampton, ON
     major: Third year in Rotman Commerce
     email: solomon.azimi@mail.utoronto.ca
-    office-hours: ?
+    office-hours: ???
     favourite place to study on campus: Home
     favourite place to eat on campus: Brown Food Truck
   - name: David Runesha
     image: assets/images/headshots/david.jpg
     role: UCOC Deputy
     pronouns: He/Him
-    from: ?
+    from: ???
     major: Third year in Economics and Statistics
     email: david.runesha@mail.utoronto.ca
-    office-hours: ?
+    office-hours: ???
     favourite place to study on campus: Robarts
-    favourite place to eat on campus: ?
+    favourite place to eat on campus: ???
   - name: Aniket Kali
     image: assets/images/headshots/council-icons/reps.svg
     role: Sustainability Deputy/Upper-Year Representative
@@ -441,7 +440,7 @@
     image: assets/images/headshots/
     role: Literary and Creative Arts Deputy
     pronouns: She/her
-    from: ?
+    from: ???
     major: Third year in French, Literature, and Drama
     email: aiyana.harvey@mail.utoronto.ca
     office-hours: ???
@@ -471,7 +470,7 @@
     image: assets/images/headshots/
     role: Athletics Deputy
     pronouns: She/Her
-    from: ?
+    from: ???
     major: Third year in Criminology and Industrial Relations
     email: i.toth@mail.utoronto.ca
     office-hours: ???
@@ -571,7 +570,7 @@
     image: assets/images/headshots/
     role: Social Deputy
     pronouns: She/Her
-    from: ?
+    from: ???
     major: Third Year in Geography, Sociology, and French
     email: scarlett.mackay@mail.utoronto.ca 
     office-hours: ???
