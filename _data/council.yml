@@ -24,30 +24,30 @@
     image: assets/images/headshots/liam.jpeg
     role: President
     pronouns: He/Him
-    from: ???
+    from: Carlsbad, CA, USA
     major: Fourth Year in Art History and Latin
     email: president@uclit.ca
-    office-hours: ???
+    office-hours: 2-3 PM Thursdays
     favourite place to study on campus: Graham Library
     favourite place to eat on campus: Brown Food Truck!
   - name: Ruth Masuka
     image: assets/images/headshots/ruth.jpg
     role: Vice President
     pronouns: She/Her
-    from: ???
+    from: Cincinnati, Ohio
     major: Third Year in Peace, Conflict & Justice Studies, Diaspora, Translational Studies
     email: vp@uclit.ca
-    office-hours: ???
+    office-hours: 3-4 PM Monday
     favourite place to study on campus: Eberhard Zeisler Library (John H. Daniels Faculty Library)
     favourite place to eat on campus: Gourment Burger House (Sid Smith)
   - name: Daniella Colangelo
     image: assets/images/headshots/daniella.jpg
     role: Finance
     pronouns: She/Her
-    from: ???
+    from: SCARBOROUGH SCARBOROUGH SCARBOROUGH
     major: Third Year in Sociology and Criminology
     email: finance@uclit.ca
-    office-hours: ???
+    office-hours: 12-1 PM Wednesday
     favourite place to study on campus: Study? On Campus? If I have to, AC
     favourite place to eat on campus: Take the walk to Whole Foods, worth it
 - group: Executives
@@ -56,10 +56,10 @@
     image: assets/images/headshots/hiba.jpg
     role: Spirit & Communications
     pronouns: She/Her
-    from: ???
+    from: Hamilton, ON
     major: Fifth Year in Neuroscience, Physiology, and Immunology
     email: scc@uclit.ca
-    office-hours: ???
+    office-hours: 1-2 PM Friday
     favourite place to study on campus: Wetmore Hall
     favourite place to eat on campus: Sid Smith Cafe
   - name: Youssef Metwally
@@ -69,87 +69,87 @@
     from: ???
     major: Second Year in Equity Studies and American Studies
     email: equity.outreach@uclit.ca
-    office-hours: ???
+    office-hours: Coming Soon!
     favourite place to study on campus: E.J. Pratt Library
     favourite place to eat on campus: Brown Food Truck
   - name: Isahaq Ibrahim
     image: assets/images/headshots/isahaq.jpg
     role: University College Off-Campus (UCOC)
     pronouns: He/Him
-    from: ???
+    from: Toronto, ON
     major: Third Year in Cell Systems Biology and Health & Disease
     email: isahaq.ibrahim@mail.utoronto.ca
-    office-hours: ???
+    office-hours: Coming Soon!
     favourite place to study on campus: A.D. Allen Chemistry Library
-    favourite place to eat on campus: ???
+    favourite place to eat on campus: Off-Campus
   - name: Sophia Fan
     image: assets/images/headshots/sophia.jpg
     role: Sustainability
     pronouns: She/Her
-    from: ???
+    from: Nanaimo, BC
     major: Fourth Year in Ecology and Evolutionary Biology
     email: sustainability@uclit.ca
-    office-hours: ???
+    office-hours: 1-2 PM Wednesday
     favourite place to study on campus: Home or JCR
     favourite place to eat on campus: Brown Food Truck
   - name: Hannah Fleisch
     image: assets/images/headshots/hannahf.jpg
     role: Literary and Creative Arts
     pronouns: She/Her
-    from: ???
+    from: Johannesburg, South Africa
     major: Literary and Creative Arts
     email: hannah.fleisch@mail.utoronto.ca
-    office-hours: ???
+    office-hours: 10-11 AM Wednesday
     favourite place to study on campus: Innis Cafe
-    favourite place to eat on campus: ???
+    favourite place to eat on campus: Innis Cafe
   - name: Hannah Roberts
     image: assets/images/headshots/hannahr.jpg
     role: Athletics
     pronouns: She/Her
-    from: ???
+    from: Mississauga, ON
     major: Third Year in Political Science and Sociology
     email: athletics@uclit.ca
-    office-hours: ???
+    office-hours: 11-12 PM Wednesday
     favourite place to study on campus: 13th Floor of Robarts
     favourite place to eat on campus: Brown Food Truck
   - name: Vaish Vijayan
     image: assets/images/headshots/vaish.jpg
     role: University Academics & Affairs
     pronouns: She/Her
-    from: ???
+    from: Mumbai, India but I moved around a lot when I was growing up 
     major: Fourth Year in Criminology, Sociology, and Political Science
     email: uaa@uclit.ca
-    office-hours: ???
+    office-hours: 3-4 PM Tuesday
     favourite place to study on campus: Junior Common Room
     favourite place to eat on campus: Sid Smith Cafe (love their burrito bowls)
   - name: Aanya Bahl
     image: assets/images/headshots/aanya.jpg
     role: Mental Wellness
     pronouns: She/Her
-    from: ???
+    from: There's too many! (Moved around a lot growing up)
     major: Third Year in Ecology & Evolutionary Biology, Physiology, and Spanish
     email: wellness@uclit.ca
-    office-hours: ???
-    favourite place to study on campus: ???
-    favourite place to eat on campus: ???
+    office-hours: Coming Soon!
+    favourite place to study on campus: JCR
+    favourite place to eat on campus: Diabolos
   - name: Teagan Smith
     image: assets/images/headshots/teagan.jpg
     role: Formals
     pronouns: She/Her
-    from: ???
+    from: Guelph, ON
     major: Third Year in Biodiversity & Conservation Biology, Animal Physiology, and Physical & Environmental Geography 
     email: formals@uclit.ca
-    office-hours: ???
+    office-hours: 2-3 PM Monday
     favourite place to study on campus: Noranda Earth Science Library
     favourite place to eat on campus: Green Beat Cafe in Gerstein Library
   - name: Andrea Estrabrillo
     image: assets/images/headshots/andrea.jpg
     role: Social
     pronouns: She/Her
-    from: ???
+    from: Hamilton, ON
     major: Fourth Year in Cell & Molecular Biology, Human Biology, and Health & Disease
     email: social@uclit.ca
-    office-hours: ???
+    office-hours: 10-11 AM Monday
     favourite place to study on campus: Robarts
     favourite place to eat on campus: Sid Smith Cafe or Robarts Cafeteria
 - group: Representatives
@@ -158,62 +158,62 @@
     image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
     pronouns: She/Her
-    from: ???
+    from: Damascus, Syria 
     major: Third Year in International Relations, Equity, and Political Science
     email: basmah@uclit.ca
-    office-hours: ???
+    office-hours: 11-12 PM Monday
     favourite place to study on campus: Robarts 12th Floor
     favourite place to eat on campus: Brown Food Truck
   - name: Jeannie Yoo
     image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
     pronouns: She/Her
-    from: ???
+    from: Seoul, South Korea
     major: Second Year in Computer Science and Cognitive Science
     email: Jeannie@uclit.ca
-    office-hours: ???
+    office-hours: Coming Soon!
     favourite place to study on campus: Gersstein or Graham Library
     favourite place to eat on campus: Diabolos
   - name: Pranay Prem
     image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
     Pronoun: He/Him
-    from: ???
+    from: Kuala Lumpur, Malaysia
     major: Second Year in International Relations, Political Science, and History
     email: pranay@uclit.ca
-    office-hours: ???
+    office-hours: 2-3 PM Tuesday
     favourite place to study on campus: UC Library or Sid Smith Commons or Earth Science Library
     favourite place to eat on campus: Brown Food Truck is the only right answer!
   - name: Juliana Melino
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: She/Her
-    from: ???
+    from: Scarborough, Ontario
     major: Second Year in English, Equity, and Education & Society
     email: juliana@uclit.ca
-    office-hours: ???
+    office-hours: 3-4 PM Thursday
     favourite place to study on campus: John W. Graham Library at Trinity College
     favourite place to eat on campus: Caffiends at Victoria College
   - name: Joshua Bienstock
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: He/Him
-    from: ???
+    from: North York, Ontario
     major: Third Year in Political Science, Urban Studies, and Philosophy
     email: joshua@uclit.ca
-    office-hours: ???
+    office-hours: 11-12 Thursday
     favourite place to study on campus: Gerstein Library Reading Room
     favourite place to eat on campus: Always Diabolos
   - name: Eric Yin
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: He/Him
-    from: ???
+    from: Sherwood Park, AB
     major: Second Year in Neuroscience and Statistics
     email: eric@uclit.ca
-    office-hours: ???
-    favourite place to study on campus: ???
-    favourite place to eat on campus: ???
+    office-hours: 12-1 Tuesday
+    favourite place to study on campus: Knox College
+    favourite place to eat on campus: Rezzies
   - name: Liah Yared
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -228,30 +228,30 @@
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: She/her
-    from: ???
+    from: Etobicoke, ON
     major: Third Year in Criminology, Sociology, and Equity 
     email: basma@uclit.ca
-    office-hours: ???
+    office-hours: 1-2 PM Tuesday
     favourite place to study on campus: Robarts 12th Floor or the JCR!
     favourite place to eat on campus: Brown Food Truck
   - name: Honesty Senese
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: She/Her
-    from: ???
+    from: Niagara Falls, ON
     major: Second Year in Neuroscience and Psychology
     email: honesty@uclit.ca
-    office-hours: ???
-    favourite place to study on campus: ???
-    favourite place to eat on campus: ???
+    office-hours: 11-12 PM Tuesday
+    favourite place to study on campus: Gerstein
+    favourite place to eat on campus: Starbucks at Robarts
   - name: Soliyana Yared
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
     pronouns: She/Her
-    from: ???
+    from: Scarborough, ON 
     major: Fourth Year in Criminology, Peace, Conflict & Justice Studies, and Spanish
     email: soliyana@uclit.ca
-    office-hours: ???
+    office-hours: Coming Soon!
     favourite place to study on campus: Fireplace Lounge in the Faculty of Law
     favourite place to eat on campus: Ned's cafe for breakfast is a staple!
   - name: Tintin Fuliang
@@ -268,13 +268,13 @@
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative/Sustainability Deputy
     pronouns: He/Him
-    from: ???
+    from: Grande Prairie, AB
     major: Fourth Year in Computer Science
     email: aniket@uclit.ca
-    office-hours: ???
+    office-hours: 12-1 PM Thursday
     favourite place to study on campus: Gerstein
     favourite place to eat on campus: Brown Food Truck
-  - name: Marco Ng
+  - name: Emma
     image: assets/images/headshots/council-icons/reps.svg
     role: University College Residence Council President
     pronouns: ??
@@ -323,7 +323,6 @@
     from: Burnaby, BC
     major: Second Year in Neuroscience and Computer Science
     email: rebeccatolee@gmail.com
-    office-hours: ???
     favourite place to study on campus: Eberhard Zeidler Library (John H. Daniels Faculty Library)
     favourite place to eat on campus: Gourmet Burger House (Sid Smith)
   - name: Liah Yared
@@ -333,17 +332,16 @@
     from: SCARBOROUGH SCARBOROUGH SCARBOROUGH
     major: Third Year in Linguistics, Equity, and Disability Studies
     email: liah.yared@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Gerstein
     favourite place to eat on campus: UT Sushi
   - name: Basma Saeed
     image: assets/images/headshots/basma.jpg
-    role: Clubs Vice-President Deputy
+    role: Clubs Vice-President Deputy/Mid-Year Representative
     pronouns: She/Her
     from: Etobicoke, ON
     major: Third Year in Sociology and Criminology
     email: basma.mohamedsaeed@mail.utoronto.ca
-    office-hours: ???
+    office-hours: 1-2 PM Tuesday
     favourite place to study on campus: Robarts 12th Floor or the JCR!
     favourite place to eat on campus: Brown Food Truck
   - name: Kyle Gluntz
@@ -353,7 +351,6 @@
     from: Hudson, OH, USA
     major: Second Year in English, Literature & Critical Theory, and French
     email: bookkeping@uclit.ca
-    office-hours: ???
     favourite place to study on campus: Department of Art Library
     favourite place to eat on campus: Brown Food Truck
   - name: Mahaksh Malhotra
@@ -363,7 +360,6 @@
     from: Varanasi, India
     major: Fourth Year in Economics and Statistics
     email: auditing@uclit.ca
-    office-hours: ???
     favourite place to study on campus: 8th Floor, Robarts
     favourite place to eat on campus: Med-Sci Cafe
   - name: Chloe Tse
@@ -373,7 +369,6 @@
     from: ???
     major: Second Year in Neuroscience & Health Studies
     email: chloe.tse@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Sidney Smith Commons
     favourite place to eat on campus: Chinese Food Truck
   - name: Suleekha Hirsi
@@ -383,7 +378,6 @@
     from: ???
     major: Second Year in Equity Studies & Sociology
     email: suleekha.hirsi@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: 9th floor Robarts
     favourite place to eat on campus: Sid Smith
   - name: Solomon Azimi
@@ -393,19 +387,17 @@
     from: Brampton, ON
     major: Third year in Rotman Commerce
     email: solomon.azimi@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Home
     favourite place to eat on campus: Brown Food Truck
   - name: David Runesha
     image: assets/images/headshots/david.jpg
     role: UCOC Deputy
     pronouns: He/Him
-    from: ???
+    from: Chicago, Illinois
     major: Third year in Economics and Statistics
     email: david.runesha@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Robarts
-    favourite place to eat on campus: ???
+    favourite place to eat on campus: Brown Food Truck
   - name: Aniket Kali
     image: assets/images/headshots/council-icons/reps.svg
     role: Sustainability Deputy/Upper-Year Representative
@@ -413,7 +405,7 @@
     from: Grande Prairie, AB
     major: Fourth Year in Computer Science
     email: aniket@uclit.ca
-    office-hours: ???
+    office-hours: 12-1 PM Thursday
     favourite place to study on campus: Gerstein
     favourite place to eat on campus: Brown Food Truck
   - name: Willow Cabral
@@ -423,17 +415,6 @@
     from: Parksville, British Columbia
     major: Third year in Human Geography, Urban Studies, and GIS
     email: willow.cabral@mail.utoronto.ca
-    office-hours: ???
-    favourite place to study on campus: Eberhard Zeidler Architecture Library @ Daniels!!
-    favourite place to eat on campus: Sidney Smith Cafe (I spend too much $ at Second Cup)
-  - name: Willow Cabral
-    image: assets/images/headshots/
-    role: Sustainability Deputy
-    pronouns: She/her
-    from: Parksville, British Columbia
-    major: Third year in Human Geography, Urban Studies, and GIS
-    email: willow.cabral@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Eberhard Zeidler Architecture Library @ Daniels!!
     favourite place to eat on campus: Sidney Smith Cafe (I spend too much $ at Second Cup)
   - name: Aiyana Harvey
@@ -443,7 +424,6 @@
     from: ???
     major: Third year in French, Literature, and Drama
     email: aiyana.harvey@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Hart House Library !!
     favourite place to eat on campus: Zaad on Bloor
   - name: Kieley Mackey
@@ -453,17 +433,6 @@
     from: Barrie, ON
     major: Third year in Health Policy and Bioethics
     email: kieleymackey.mackey@mail.utoronto.ca
-    office-hours: ???
-    favourite place to study on campus: Knox Library
-    favourite place to eat on campus: Diablos
-  - name: Kieley Mackey
-    image: assets/images/headshots/
-    role: Athletics Deputy
-    pronouns: She/Her
-    from: Barrie, ON
-    major: Third year in Health Policy and Bioethics
-    email: kieleymackey.mackey@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Knox Library
     favourite place to eat on campus: Diablos
   - name: Izzy Toth
@@ -473,7 +442,6 @@
     from: ???
     major: Third year in Criminology and Industrial Relations
     email: i.toth@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Graham Library
     favourite place to eat on campus: Med-Sci Starbucks
   - name: Shawn Feng
@@ -483,7 +451,6 @@
     from: Hsinchu, Taiwan
     major: Fourth year in IRHR and EEB
     email: shawn.feng@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Gerstein
     favourite place to eat on campus: Not Fung
   - name: Aalina Bilal
@@ -493,7 +460,6 @@
     from: Lahore, Pakistan
     major: Third Year in Pyschology, Statistics, and Philosophy 
     email: aalina.bilal@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Robarts or Knox
     favourite place to eat on campus: Food truck (always)
   - name: Hannah Allen
@@ -503,7 +469,6 @@
     from: Bowmanville, ON
     major: Fourth Year in History and Philosophy
     email: hannahmargaret.allen@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Starbucks @ Bedford
     favourite place to eat on campus: Rezzies
   - name: Ananmay Sharan
@@ -513,7 +478,6 @@
     from: New Delhi, India
     major: Second Year in Human Geography and Computer Science
     email: ananmay.sharan@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Knox College Library
     favourite place to eat on campus: Rezzies
   - name: Kareem Elhigzi
@@ -523,7 +487,6 @@
     from: Mississauga, ON
     major: Fifth Year in Neuroscience, Physiology, and Immunology
     email: k.elhigzi@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Robarts 11th Floor St. George
     favourite place to eat on campus: AC Cafe
   - name: Natalia Landaverde
@@ -533,7 +496,6 @@
     from: Vaughan, ON
     major: Third Year in Criminology and English
     email:  n.landaverde@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: E.J. Pratt or JCR
     favourite place to eat on campus: Brown Food Truck
   - name: Thérèse Perucho
@@ -543,7 +505,6 @@
     from: Brampton, ON
     major: Second Year in Political Science, Human Geography, and Practical French
     email:  therese.perucho@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: At Gerstein or the JCR!
     favourite place to eat on campus: Brown Food Truck
   - name: Arina Mnatsakanyan
@@ -553,7 +514,6 @@
     from: Toronto, ON
     major: Third Year in Psychology, Physiology, and International Relations
     email:  arina.mnatsakanyan@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Knox College Library 
     favourite place to eat on campus: Diabolos
   - name: Ella Levin
@@ -563,7 +523,6 @@
     from: Toronto, ON
     major: Second Year in Political Science, Cognitive Science, and Near & Middle Eastern Civilizations
     email: ella.levin@mail.utoronto.ca
-    office-hours: ???
     favourite place to study on campus: Gerstein 
     favourite place to eat on campus: Brown Food Truck!!
   - name: Scarlett Mackay
@@ -573,7 +532,6 @@
     from: ???
     major: Third Year in Geography, Sociology, and French
     email: scarlett.mackay@mail.utoronto.ca 
-    office-hours: ???
     favourite place to study on campus: JCR
     favourite place to eat on campus: Brown Food Truck
 
