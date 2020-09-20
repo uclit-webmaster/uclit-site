@@ -41,7 +41,7 @@
     favourite place to study on campus: Eberhard Zeisler Library (John H. Daniels Faculty Library)
     favourite place to eat on campus: Gourment Burger House (Sid Smith)
   - name: Daniella Colangelo
-    image: assets/images/headshots/daniella.jpg
+    image: assets/images/commissions-icons/finance.svg
     role: Finance
     pronouns: She/Her
     from: SCARBOROUGH SCARBOROUGH SCARBOROUGH
@@ -53,7 +53,7 @@
 - group: Executives
   people:
   - name: Hiba Taha
-    image: assets/images/headshots/hiba.jpg
+    image: assets/images/commissions-icons/scc.svg
     role: Spirit & Communications
     pronouns: She/Her
     from: Hamilton, ON
@@ -63,7 +63,7 @@
     favourite place to study on campus: Wetmore Hall
     favourite place to eat on campus: Sid Smith Cafe
   - name: Youssef Metwally
-    image: assets/images/headshots/youssef.jpg
+    image: assets/images/commissions-icons/equity-and-outreach.svg
     role: Equity & Outreach
     pronouns: He/Him
     from: ???
@@ -73,7 +73,7 @@
     favourite place to study on campus: E.J. Pratt Library
     favourite place to eat on campus: Brown Food Truck
   - name: Isahaq Ibrahim
-    image: assets/images/headshots/isahaq.jpg
+    image: assets/images/commissions-icons/ucoc.svg
     role: University College Off-Campus (UCOC)
     pronouns: He/Him
     from: Toronto, ON
@@ -83,7 +83,7 @@
     favourite place to study on campus: A.D. Allen Chemistry Library
     favourite place to eat on campus: Off-Campus
   - name: Sophia Fan
-    image: assets/images/headshots/sophia.jpg
+    image: assets/images/commissions-icons/sustainability.svg
     role: Sustainability
     pronouns: She/Her
     from: Nanaimo, BC
@@ -93,7 +93,7 @@
     favourite place to study on campus: Home or JCR
     favourite place to eat on campus: Brown Food Truck
   - name: Hannah Fleisch
-    image: assets/images/headshots/hannahf.jpg
+    image: assets/images/commissions-icons/lca.svg
     role: Literary and Creative Arts
     pronouns: She/Her
     from: Johannesburg, South Africa
@@ -103,7 +103,7 @@
     favourite place to study on campus: Innis Cafe
     favourite place to eat on campus: Innis Cafe
   - name: Hannah Roberts
-    image: assets/images/headshots/hannahr.jpg
+    image: assets/images/commissions-icons/athletics.svg
     role: Athletics
     pronouns: She/Her
     from: Mississauga, ON
@@ -113,7 +113,7 @@
     favourite place to study on campus: 13th Floor of Robarts
     favourite place to eat on campus: Brown Food Truck
   - name: Vaish Vijayan
-    image: assets/images/headshots/vaish.jpg
+    image: assets/images/commissions-icons/university-academic-affairs.svg
     role: University Academics & Affairs
     pronouns: She/Her
     from: Mumbai, India but I moved around a lot when I was growing up 
@@ -123,7 +123,7 @@
     favourite place to study on campus: Junior Common Room
     favourite place to eat on campus: Sid Smith Cafe (love their burrito bowls)
   - name: Aanya Bahl
-    image: assets/images/headshots/aanya.jpg
+    image: assets/images/commissions-icons/mental-wellness.svg
     role: Mental Wellness
     pronouns: She/Her
     from: There's too many! (Moved around a lot growing up)
@@ -133,7 +133,7 @@
     favourite place to study on campus: JCR
     favourite place to eat on campus: Diabolos
   - name: Teagan Smith
-    image: assets/images/headshots/teagan.jpg
+    image: assets/images/commissions-icons/formals.svg
     role: Formals
     pronouns: She/Her
     from: Guelph, ON
@@ -143,7 +143,7 @@
     favourite place to study on campus: Noranda Earth Science Library
     favourite place to eat on campus: Green Beat Cafe in Gerstein Library
   - name: Andrea Estrabrillo
-    image: assets/images/headshots/andrea.jpg
+    image: assets/images/commissions-icons/social.svg
     role: Social
     pronouns: She/Her
     from: Hamilton, ON
