@@ -5,7 +5,7 @@
 #   as shown. This value can span multiple lines because it begins 
 #   with a ">""
 
-image: /assets/images/headshots/output-onlinepngtools.png
+image: /assets/images/headshots/liam.jpeg
 name: Liam Bryant
 # https://yaml-multiline.info/ (info about multiline strings in yaml)
 message: |
