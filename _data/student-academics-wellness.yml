@@ -12,18 +12,18 @@
 #     - text: Hi this is edgar
 #       link: "www.google.ca"
     
-- header: COVID-19
+#- header: COVID-19
   # You can remove the next line if you don't want any text
-  text: |
-    The UCLit’s COVID Emergency Resource Sheet for mental health resources
-  buttons:
-    - text: Hi this is edgar
-      link: https://www.google.ca
-    - text: Hi this is edgar
-      link: https://"www.google.ca"
+  #text: |
+    #The UCLit’s COVID Emergency Resource Sheet for mental health resources
+ # buttons:
+   # - text: Hi this is edgar
+   #   link: https://www.google.ca
+   # - text: Hi this is edgar
+     # link: https://"www.google.ca"
 
     
-- header: BLM & RACIAL JUSTICE SUPPORT
+- header: University College Student Support Resources Document
   text: |
   buttons:
     - text: UC Student Support Resources
