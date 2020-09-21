@@ -21,7 +21,7 @@
 - group: Core Executives
   people:
   - name: Liam Bryant
-    image: assets/images/headshots/liam.jpeg
+    image: assets/images/commissions-icons/president.svg
     role: President
     pronouns: He/Him
     from: Carlsbad, CA, USA
@@ -31,7 +31,7 @@
     favourite place to study on campus: Graham Library
     favourite place to eat on campus: Brown Food Truck!
   - name: Ruth Masuka
-    image: assets/images/headshots/ruth.jpg
+    image: assets/images/commissions-icons/vp.svg
     role: Vice President
     pronouns: She/Her
     from: Cincinnati, Ohio
@@ -317,7 +317,7 @@
 - group: Deputies
   people: 
   - name: Rebecca Lee
-    image: assets/images/headshots/rebecca.jpg
+    image: assets/images/commissions-icons/president.svg
     role: President Deputy
     pronouns: She/her
     from: Burnaby, BC
@@ -326,7 +326,7 @@
     favourite place to study on campus: Eberhard Zeidler Library (John H. Daniels Faculty Library)
     favourite place to eat on campus: Gourmet Burger House (Sid Smith)
   - name: Liah Yared
-    image: assets/images/headshots/Liah.jpg
+    image: assets/images/commissions-icons/vp.svg
     role: Internal Vice-President Deputy
     pronouns: She/Her
     from: SCARBOROUGH SCARBOROUGH SCARBOROUGH
@@ -335,7 +335,7 @@
     favourite place to study on campus: Gerstein
     favourite place to eat on campus: UT Sushi
   - name: Basma Saeed
-    image: assets/images/headshots/basma.jpg
+    image: assets/images/commissions-icons/vp.svg
     role: Clubs Vice-President Deputy/Mid-Year Representative
     pronouns: She/Her
     from: Etobicoke, ON
