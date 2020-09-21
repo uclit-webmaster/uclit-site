@@ -218,7 +218,7 @@
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: She/Her
-    from: ???
+    from: Scarborough, Ontario
     major: Third Year in Linquistics and Equity Studies
     email: liah@uclit.ca
     office-hours: ???
@@ -274,16 +274,16 @@
     office-hours: 12-1 PM Thursday
     favourite place to study on campus: Gerstein
     favourite place to eat on campus: Brown Food Truck
-  - name: Emma
-    image: assets/images/headshots/council-icons/reps.svg
-    role: University College Residence Council President
-    pronouns: ??
-    from: ???
-    major: ???
-    email: ???
-    office-hours: ???
-    favourite place to study on campus: ???
-    favourite place to eat on campus: ???
+  # name: Emma
+  #  image: assets/images/headshots/council-icons/reps.svg
+  #  role: University College Residence Council President
+  #  pronouns: ??
+  #  from: ???
+  #  major: ???
+  #  email: ???
+  #  office-hours: ???
+  #  favourite place to study on campus: ???
+  #  favourite place to eat on campus: ???
 #- group: Staff and Ancillaries
 #  people:
 #  - name: And Another One
@@ -345,7 +345,7 @@
     favourite place to study on campus: Robarts 12th Floor or the JCR!
     favourite place to eat on campus: Brown Food Truck
   - name: Kyle Gluntz
-    image: assets/images/headshots/kyle.jpg
+    image: assets/images/commissions-icons/finance.svg
     role: Finance Deputy
     pronouns: He/Him
     from: Hudson, OH, USA
@@ -354,7 +354,7 @@
     favourite place to study on campus: Department of Art Library
     favourite place to eat on campus: Brown Food Truck
   - name: Mahaksh Malhotra
-    image: assets/images/headshots/mahaksh.jpg
+    image: assets/images/commissions-icons/finance.svg
     role: Finance Deputy
     pronouns: He/Him
     from: Varanasi, India
@@ -363,7 +363,7 @@
     favourite place to study on campus: 8th Floor, Robarts
     favourite place to eat on campus: Med-Sci Cafe
   - name: Chloe Tse
-    image: assets/images/headshots/chloe.jpg
+    image: assets/images/commissions-icons/equity-and-outreach.svg
     role: Equity Deputy
     pronouns: She/Her
     from: ???
@@ -372,7 +372,7 @@
     favourite place to study on campus: Sidney Smith Commons
     favourite place to eat on campus: Chinese Food Truck
   - name: Suleekha Hirsi
-    image: assets/images/headshots/suleekha.jpg
+    image: assets/images/commissions-icons/equity-and-outreach.svg
     role: Outreach Deputy
     pronouns: She/Her
     from: ???
@@ -381,7 +381,7 @@
     favourite place to study on campus: 9th floor Robarts
     favourite place to eat on campus: Sid Smith
   - name: Solomon Azimi
-    image: assets/images/headshots/solomon.jpg
+    image: assets/images/commissions-icons/ucoc.svg
     role: UCOC Deputy
     pronouns: He/Him
     from: Brampton, ON
@@ -390,7 +390,7 @@
     favourite place to study on campus: Home
     favourite place to eat on campus: Brown Food Truck
   - name: David Runesha
-    image: assets/images/headshots/david.jpg
+    image: assets/images/commissions-icons/ucoc.svg
     role: UCOC Deputy
     pronouns: He/Him
     from: Chicago, Illinois
@@ -399,8 +399,8 @@
     favourite place to study on campus: Robarts
     favourite place to eat on campus: Brown Food Truck
   - name: Aniket Kali
-    image: assets/images/headshots/council-icons/reps.svg
-    role: Sustainability Deputy/Upper-Year Representative
+    image: assets/images/commissions-icons/sustainability.svg
+    role: Sustainability Deputy
     pronouns: He/Him
     from: Grande Prairie, AB
     major: Fourth Year in Computer Science
@@ -409,7 +409,7 @@
     favourite place to study on campus: Gerstein
     favourite place to eat on campus: Brown Food Truck
   - name: Willow Cabral
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/sustainability.svg
     role: Sustainability Deputy
     pronouns: She/her
     from: Parksville, British Columbia
@@ -418,16 +418,16 @@
     favourite place to study on campus: Eberhard Zeidler Architecture Library @ Daniels!!
     favourite place to eat on campus: Sidney Smith Cafe (I spend too much $ at Second Cup)
   - name: Aiyana Harvey
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/lca.svg
     role: Literary and Creative Arts Deputy
     pronouns: She/her
-    from: ???
+    from: Calgary, Alberta
     major: Third year in French, Literature, and Drama
     email: aiyana.harvey@mail.utoronto.ca
     favourite place to study on campus: Hart House Library !!
     favourite place to eat on campus: Zaad on Bloor
   - name: Kieley Mackey
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/athletics.svg
     role: Athletics Deputy
     pronouns: She/Her
     from: Barrie, ON
@@ -436,7 +436,7 @@
     favourite place to study on campus: Knox Library
     favourite place to eat on campus: Diablos
   - name: Izzy Toth
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/athletics.svg
     role: Athletics Deputy
     pronouns: She/Her
     from: ???
@@ -445,7 +445,7 @@
     favourite place to study on campus: Graham Library
     favourite place to eat on campus: Med-Sci Starbucks
   - name: Shawn Feng
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/athletics.svg
     role: Athletics Deputy
     pronouns: He/Him
     from: Hsinchu, Taiwan
@@ -454,7 +454,7 @@
     favourite place to study on campus: Gerstein
     favourite place to eat on campus: Not Fung
   - name: Aalina Bilal
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/university-academic-affairs.svg
     role: UAA Deputy
     pronouns: She/Her
     from: Lahore, Pakistan
@@ -463,7 +463,7 @@
     favourite place to study on campus: Robarts or Knox
     favourite place to eat on campus: Food truck (always)
   - name: Hannah Allen
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/scc.svg
     role: SCC Deputy
     pronouns: She/Her
     from: Bowmanville, ON
@@ -472,7 +472,7 @@
     favourite place to study on campus: Starbucks @ Bedford
     favourite place to eat on campus: Rezzies
   - name: Ananmay Sharan
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/scc.svg
     role: SCC Deputy
     pronouns: He/Him
     from: New Delhi, India
@@ -481,7 +481,7 @@
     favourite place to study on campus: Knox College Library
     favourite place to eat on campus: Rezzies
   - name: Kareem Elhigzi
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/scc.svg
     role: SCC Deputy
     pronouns: He/Him
     from: Mississauga, ON
@@ -490,7 +490,7 @@
     favourite place to study on campus: Robarts 11th Floor St. George
     favourite place to eat on campus: AC Cafe
   - name: Natalia Landaverde
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/mental-wellness.svg
     role: Mental Wellness Deputy
     pronouns: She/Her
     from: Vaughan, ON
@@ -499,7 +499,7 @@
     favourite place to study on campus: E.J. Pratt or JCR
     favourite place to eat on campus: Brown Food Truck
   - name: Thérèse Perucho
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/mental-wellness.svg
     role: Mental Wellness Deputy
     pronouns: She/Her
     from: Brampton, ON
@@ -508,7 +508,7 @@
     favourite place to study on campus: At Gerstein or the JCR!
     favourite place to eat on campus: Brown Food Truck
   - name: Arina Mnatsakanyan
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/formals.svg
     role: Formals Deputy
     pronouns: She/Her
     from: Toronto, ON
@@ -517,7 +517,7 @@
     favourite place to study on campus: Knox College Library 
     favourite place to eat on campus: Diabolos
   - name: Ella Levin
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/social.svg
     role: Social Deputy
     pronouns: She/Her
     from: Toronto, ON
@@ -526,10 +526,10 @@
     favourite place to study on campus: Gerstein 
     favourite place to eat on campus: Brown Food Truck!!
   - name: Scarlett Mackay
-    image: assets/images/headshots/
+    image: assets/images/commissions-icons/social.svg
     role: Social Deputy
     pronouns: She/Her
-    from: ???
+    from: London, England
     major: Third Year in Geography, Sociology, and French
     email: scarlett.mackay@mail.utoronto.ca 
     favourite place to study on campus: JCR
