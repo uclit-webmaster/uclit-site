@@ -24,7 +24,7 @@
     image: assets/images/commissions-icons/president.svg
     role: President
     pronouns: He/Him
-    from: Carlsbad, CA, USA
+    from: Carlsbad, CA
     major: Fourth Year in Art History and Latin
     email: president@uclit.ca
     office-hours: 2-3 PM Thursdays
@@ -34,7 +34,7 @@
     image: assets/images/commissions-icons/vp.svg
     role: Vice President
     pronouns: She/Her
-    from: Cincinnati, Ohio
+    from: Cincinnati, OH
     major: Third Year in Peace, Conflict & Justice Studies, Diaspora, Translational Studies
     email: vp@uclit.ca
     office-hours: 3-4 PM Monday
@@ -44,7 +44,7 @@
     image: assets/images/commissions-icons/finance.svg
     role: Finance
     pronouns: She/Her
-    from: SCARBOROUGH SCARBOROUGH SCARBOROUGH
+    from: Scarborough, ON
     major: Third Year in Sociology and Criminology
     email: finance@uclit.ca
     office-hours: 12-1 PM Wednesday
@@ -66,7 +66,7 @@
     image: assets/images/commissions-icons/equity-and-outreach.svg
     role: Equity & Outreach
     pronouns: He/Him
-    from: ???
+    from: ---
     major: Second Year in Equity Studies and American Studies
     email: equity.outreach@uclit.ca
     office-hours: Coming Soon!
@@ -116,7 +116,7 @@
     image: assets/images/commissions-icons/university-academic-affairs.svg
     role: University Academics & Affairs
     pronouns: She/Her
-    from: Mumbai, India but I moved around a lot when I was growing up 
+    from: Mumbai, India 
     major: Fourth Year in Criminology, Sociology, and Political Science
     email: uaa@uclit.ca
     office-hours: 3-4 PM Tuesday
@@ -188,7 +188,7 @@
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: She/Her
-    from: Scarborough, Ontario
+    from: Scarborough, ON
     major: Second Year in English, Equity, and Education & Society
     email: juliana@uclit.ca
     office-hours: 3-4 PM Thursday
@@ -198,7 +198,7 @@
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: He/Him
-    from: North York, Ontario
+    from: North York, ON
     major: Third Year in Political Science, Urban Studies, and Philosophy
     email: joshua@uclit.ca
     office-hours: 11-12 Thursday
@@ -218,10 +218,10 @@
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: She/Her
-    from: Scarborough, Ontario
+    from: Scarborough, ON
     major: Third Year in Linquistics and Equity Studies
     email: liah@uclit.ca
-    office-hours: ???
+    office-hours: 10-11 AM Friday
     favourite place to study on campus: Gerstein
     favourite place to eat on campus: UT Sushi
   - name: Basma Mohamed-Saeed
@@ -251,19 +251,19 @@
     from: Scarborough, ON 
     major: Fourth Year in Criminology, Peace, Conflict & Justice Studies, and Spanish
     email: soliyana@uclit.ca
-    office-hours: Coming Soon!
+    office-hours: 1-2 PM Monday
     favourite place to study on campus: Fireplace Lounge in the Faculty of Law
     favourite place to eat on campus: Ned's cafe for breakfast is a staple!
   - name: Tintin Fuliang
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
     pronouns: He/Him
-    from: ???
+    from:
     major: Fourth Year in Biomedical Toxicology, and Health & Disease
     email: tintin@uclit.ca
-    office-hours: ???
-    favourite place to study on campus: ???
-    favourite place to eat on campus: ???
+    office-hours:
+    favourite place to study on campus:
+    favourite place to eat on campus:
   - name: Aniket Kali
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
@@ -329,7 +329,7 @@
     image: assets/images/commissions-icons/vp.svg
     role: Internal Vice-President Deputy
     pronouns: She/Her
-    from: SCARBOROUGH SCARBOROUGH SCARBOROUGH
+    from: Scarborough, ON
     major: Third Year in Linguistics, Equity, and Disability Studies
     email: liah.yared@mail.utoronto.ca
     favourite place to study on campus: Gerstein
@@ -348,7 +348,7 @@
     image: assets/images/commissions-icons/finance.svg
     role: Finance Deputy
     pronouns: He/Him
-    from: Hudson, OH, USA
+    from: Hudson, OH
     major: Second Year in English, Literature & Critical Theory, and French
     email: bookkeping@uclit.ca
     favourite place to study on campus: Department of Art Library
@@ -366,7 +366,7 @@
     image: assets/images/commissions-icons/equity-and-outreach.svg
     role: Equity Deputy
     pronouns: She/Her
-    from: ???
+    from:
     major: Second Year in Neuroscience & Health Studies
     email: chloe.tse@mail.utoronto.ca
     favourite place to study on campus: Sidney Smith Commons
@@ -375,7 +375,7 @@
     image: assets/images/commissions-icons/equity-and-outreach.svg
     role: Outreach Deputy
     pronouns: She/Her
-    from: ???
+    from:
     major: Second Year in Equity Studies & Sociology
     email: suleekha.hirsi@mail.utoronto.ca
     favourite place to study on campus: 9th floor Robarts
@@ -393,7 +393,7 @@
     image: assets/images/commissions-icons/ucoc.svg
     role: UCOC Deputy
     pronouns: He/Him
-    from: Chicago, Illinois
+    from: Chicago, IL
     major: Third year in Economics and Statistics
     email: david.runesha@mail.utoronto.ca
     favourite place to study on campus: Robarts
@@ -412,7 +412,7 @@
     image: assets/images/commissions-icons/sustainability.svg
     role: Sustainability Deputy
     pronouns: She/her
-    from: Parksville, British Columbia
+    from: Parksville, BC
     major: Third year in Human Geography, Urban Studies, and GIS
     email: willow.cabral@mail.utoronto.ca
     favourite place to study on campus: Eberhard Zeidler Architecture Library @ Daniels!!
@@ -421,7 +421,7 @@
     image: assets/images/commissions-icons/lca.svg
     role: Literary and Creative Arts Deputy
     pronouns: She/her
-    from: Calgary, Alberta
+    from: Calgary, AB
     major: Third year in French, Literature, and Drama
     email: aiyana.harvey@mail.utoronto.ca
     favourite place to study on campus: Hart House Library !!
@@ -439,7 +439,7 @@
     image: assets/images/commissions-icons/athletics.svg
     role: Athletics Deputy
     pronouns: She/Her
-    from: ???
+    from: Kennebunk, ME
     major: Third year in Criminology and Industrial Relations
     email: i.toth@mail.utoronto.ca
     favourite place to study on campus: Graham Library
