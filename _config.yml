@@ -2,13 +2,15 @@ url: "https://uclit.ca" # the base hostname & protocol for your site, e.g. http:
 baseurl: "/" # the subpath of your site, e.g. /blog
 title: "UC Lit" # the name of your site, e.g. ACME Corp.
 sass:
-  sass_dir: assets/css 
+  sass_dir: assets/css
+  style: compressed
 
 plugins:
   - jekyll-autoprefixer
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-analytics
+  - jekyll-gzip
 
 exclude:
   - README.md
