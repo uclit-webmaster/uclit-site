@@ -10,7 +10,7 @@
   }); // initialize AOS animate on scroll lib
 </script>
 <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
-<div id="footer">
+<footer id="footer">
   <div class="container pt-4 mt-md-5 pt-md-5">
     <div class="row">
       <div class="col-6 col-md">
@@ -18,7 +18,7 @@
         <small class="d-block mb-3 text-muted">© 2020</small>
       </div>
       <div class="col-6 col-md">
-        <h5>Quick Links</h5>
+        <h4>Quick Links</h4>
         <ul class="list-unstyled text-small">
         {% for item in site.data.footer.quick_links %}
           <li class="mb-1 py-1"><a class="text-muted" href="{{ item.link | relative-url }}">{{ item.name }}</a></li>
@@ -26,7 +26,7 @@
         </ul>
       </div>
       <div class="col-6 col-md">
-        <h5>Follow Us</h5>
+        <h4>Follow Us</h4>
         {% for item in site.data.footer.follow_us %}
         <span class="color-primary pr-3" style="font-size: 25px">
           <a href="{{ item.link }}" aria-label="find us on {{ item.network }}!">
@@ -54,9 +54,9 @@
         {% endfor %}
       </div>
       <div class="col-6 col-md">
-        <h5>Find Us</h5>
+        <h4>Find Us</h4>
         <p style="white-space: pre-wrap" class="text-small text-muted">{{ site.data.footer.find_us }}</p>
       </div>
     </div>
   </div>
-</div>
+</footer>
