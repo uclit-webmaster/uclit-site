@@ -135,14 +135,18 @@ The Council file contains a nested list of items:
 
 ## Intramurals
 The Intramurals file contains following keywords:
+- `text`: the text to be shown on the intramurals page. Can contain HTML tag for formatting.
 - `sign-up-link`: the link to the general intramurals sign-up form
-- `deadline-text`: The text that will be shown on the page to specify the deadline to apply
 - `sports`: a list of sports, each containing the following keywords. For each sport, another square will be shown on the page with the image, and sport name/sign-up text on hover.
     - `name`: the name of the sport to be shown on the page on hover
     - `sign-up-link`: the google form (or other) sign-up link for the specific sport
     - `image`: the link to the image to show on the page for this sport
 #### Sample: 
 ```yaml
+text: |
+  this is some text that will be displayed in the intramurals page
+  <p>You can also use html tags for more control on how the text will<strong>look.</strong></p>
+
 sports:
   - name: Basketball
     sign-up-link: "#"
@@ -163,7 +167,6 @@ sports:
     sign-up-link: "#"
     image: /assets/images/intramurals-photos/uclit-dodgeball.png
 sign-up-link: "#" # TODO: add sign-up link
-deadline-text: The deadline to apply is SOME DATE. After that, please email <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> to see if space is available.
 ```
 
 ## Budgets

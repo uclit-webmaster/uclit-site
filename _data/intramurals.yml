@@ -1,3 +1,7 @@
+# text: |
+#   this is some text that will be displayed in the intramurals page
+#   <p>You can also use html tags for more control on how the text will<strong>look.</strong></p>
+#
 # sports:
 #   - name: Basketball
 #     sign-up-link: "https://forms.google.com/he#1b891Ss"
@@ -18,7 +22,46 @@
 #     sign-up-link: "#"
 #     image: /assets/images/intramurals-photos/uclit-dodgeball.png
 # sign-up-link: "#"
-# deadline-text: The deadline to apply is SOME DATE. After that, please email <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> to see if space is available.
+text: |
+  <p>UofT's Intramural Program provides an opportunity for students to play on their college's sports teams, fostering friendly competition between students across campus. Competing in intramurals is one of the easiest ways to get involved in the UC community. If you would like to join a UC intramural team or compete in one of the singles sports, please fill out the form below.</p> 
+
+  <p>Players are more than welcome to sign up for multiple UC intramural teams or sports, however, separate forms are required for each sport.</p>
+
+  <p>All sports will run from the end of September until November.</p>
+
+  <p>Players who attend all games of a team will receive a perfect attendance medal. Captains will receive CCR recognition.</p> 
+
+  <p>Please note that if you register for an open singles or e-sports singles sport that you will not be part of a formal UC intramural "team". You will represent UC but compete individually against other students representing their own colleges and faculties. This may include other UC students.</p>
+
+  <p>If you register for an open doubles sport you are free to partner with a student from another college/faculty as long as you indicate that below. Both partners must register for intramurals through their respective college/faculty.</p>
+  
+  <p><strong> ***Registration will CLOSE ON WEDNESDAY, SEPTEMBER 16th AT 11:59PM. After this date, you must email <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> to check availability for this team.</strong></p>
+  <p><strong> ******CAPTAIN applications for dodgeball will close September 12th at 11:59pm. You will still be permitted to register for sports however no captain applications after this date will be considered.</strong></p>
+
+    <p>Sports available for the year are:</p>
+  <p class="mb-0"><strong>OPEN SINGLES</strong></p>
+  <ul><li>Badminton (Choice between Tuesday 6-8:15pm, Wednesday 11am-1:15pm, Friday 6-8:15pm)</li></ul>
+  <ul><li>Table Tennis (Choice between Wednesday 6-8:15pm and Friday 6-8:15pm)</li></ul>
+  <ul><li>Washer Toss (Tuesdays, game start time 6-8:15pm)</li></ul>
+  <ul><li>Bocce Ball (Tuesdays, game start time 6-8:15pm)</li></ul>
+
+  <p class="mb-0"><strong>OPEN DOUBLES</strong></p>
+  <ul><li>Spikeball (Choice between Monday 6-8:15pm and Wednesday 6-8:15pm)</li></ul>
+  <ul><li>IM Amazing Race (Thursdays, game start time 7pm)</li></ul>
+
+  <p class="mb-0"><strong>E-SPORTS SINGLES</strong></p>
+  <ul><li>FIFA PS4 (TBD)</li></ul>
+  <ul><li>FIFA Xbox (TBD)</li></ul>
+  <ul><li>NBA 2K PS4 (TBD)</li></ul>
+  <ul><li>NBA 2K Xbox (TBD)</li></ul>
+  <ul><li>NHL 20 PS4 (TBD)</li></ul>
+  <ul><li>NHL 20 Xbox (TBD)</li></ul>
+
+  <p class="mb-0"><strong>COED</strong></p>
+  <ul><li>Dodgeball (Thursdays, game start time 6-8pm)</li></ul>
+
+  <p>For inquiries about intramurals, contact Hannah Roberts at <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> or Deputies Izzy Toth, Kieley Mackey, and Shawn Feng at <a href="mailto:coed@uclit.ca">coed@uclit.ca</a> and <a href="mailto:womens@uclit.ca">womens@uclit.ca</a></p>
+
 sports:
   - name: Basketball
     sign-up-link: "https://docs.google.com/forms/d/e/1FAIpQLScRbNVRo_oI-ELZx12QO-n3igDK_7EpuV5AperLhQsjCiO9hA/viewform"
@@ -40,5 +83,3 @@ sports:
     image: /assets/images/intramurals-photos/uclit-dodgeball.png
   
 sign-up-link: "https://docs.google.com/forms/d/e/1FAIpQLScRbNVRo_oI-ELZx12QO-n3igDK_7EpuV5AperLhQsjCiO9hA/viewform"
-
-deadline-text: The deadline to apply is SOME DATE. After that, please email <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> to see if space is available.
