@@ -1,36 +1,28 @@
 # https://yaml-multiline.info/ (info about multiline strings in yaml)
 text: |
   <p><strong>UC LIT FALL 2020 ELECTIONS</strong></p>
-    <p> The Nomination forms for our First Year Representatives are now open! If you believe an individual will be able to successfully meet the requirements of the First Year Representative Position, please nominate them using the Nomination Form below before Wednesday, September 30th 11:59pm! </p> 
+    <p> Our elections have closed and four candidates have received enough votes to enter Office upon ratification by Council. </p> 
     
-    <p> Currently, you can nominate 1 or more of the following </p>
-      <ul><li> Ida Mehrdadi </li></ul>
-      <ul><li> Violet Mackintosh </li></ul>
-      <ul><li> Tasneem Choudhury </li></ul>
-      <ul><li> Sohail Rai de Haan </li></ul>
-      <ul><li> Khanak Gupta </li></ul>
-      <ul><li> Fiona Du </li></ul>
-      <ul><li> Angel Hsieh </li></ul>
-      <ul><li> Rubaina Farin </li></ul>
-      <ul><li> Mihir Vittalam </li></ul>
-      <ul><li> Ramzia Kanbar </li></ul>
+    <p> Our four First Year Representatives are: </p>
       <ul><li> Michelle Sue </li></ul>
-      <ul><li> Sommer Pesikan </li></ul>
-      <ul><li> Mathis Roy Vigne </li></ul>
       <ul><li> Kiana Ravanasa </li></ul>
       <ul><li> Neha Sultana </li></ul>
-      <ul><li> Jason Wang </li></ul>
       <ul><li> Emma Caramazza </li></ul>
+      
+  <p><strong>UC LIT FALL 2020 SPECIAL BY-ELECTIONS</strong></p>
+    <p> Two candidates from the General Elections have tied for the fifth and final first year representative position, and will face a runoff vote pursuant to Council Policies §10.II.E. </p>
+  
+    <p> Our two runoff candidates are: </p>
+      <ul><li> Angel Hsieh </li></ul>
       <ul><li> Shreyansi Gandhi </li></ul>
-      <ul><li> Achnit Singh </li></ul>
-      <ul><li> Emma Biamonte </li></ul>
-      <ul><li> Rianna Sarbajna </li></ul>
-
-  <p> If you are still interested in running to become a First Year Representative, contact email elections@uclit.ca</p>
+  
+  <p> Voting will take place starting October 22nd, 2020 at 9AM, and close October 23rd, 2020 at midnight. </p>
 
 # Comment out the rest of this if you don't want any buttons
-buttons:
-  - text: CLICK HERE FOR THE NOMINATION FORM 
-    link: https://forms.gle/2XHXCEUWecJY5GrCA
+#buttons:
+#  - text: CLICK HERE FOR THE NOMINATION FORM 
+#    link: https://forms.gle/2XHXCEUWecJY5GrCA
+ - text: CLICK HERE TO VOTE
+    link: https://voting.utoronto.ca
 #  - text: CLICK HERE TO BE A CANDIDATE
 #    link: https://google.ca
