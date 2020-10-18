@@ -19,10 +19,10 @@ text: |
   <p> Voting will take place starting October 22nd, 2020 at 9AM, and close October 23rd, 2020 at midnight. If you have any questions, please contact the [Elections Coordinator](mailto:elections@uclit.ca) </p>
 
 # Comment out the rest of this if you don't want any buttons
-#buttons:
-#  - text: CLICK HERE FOR THE NOMINATION FORM 
-#    link: https://forms.gle/2XHXCEUWecJY5GrCA
- - text: CLICK HERE TO VOTE
+buttons:
+  - text: CLICK HERE TO VOTE
     link: https://voting.utoronto.ca
 #  - text: CLICK HERE TO BE A CANDIDATE
+#  - text: CLICK HERE FOR THE NOMINATION FORM
+#    link: https://forms.gle/2XHXCEUWecJY5GrCA
 #    link: https://google.ca
