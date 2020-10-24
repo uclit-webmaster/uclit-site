@@ -3,17 +3,18 @@ text: |
   <p><strong>UC LIT FALL 2020 ELECTIONS</strong></p>
     <p> Our elections have closed and four candidates have received enough votes to enter Office upon ratification by Council. </p> 
     
-    <p> Our four First Year Representatives are: </p>
+    <p> Your five First Year Representatives are: </p>
       <ul><li> Michelle Sue </li></ul>
       <ul><li> Kiana Ravanasa </li></ul>
       <ul><li> Neha Sultana </li></ul>
       <ul><li> Emma Caramazza </li></ul>
       <ul><li> Shreyansi Gandhi </li></ul>
       
+      
 # Comment out the rest of this if you don't want any buttons
-buttons:
-  - text: CLICK HERE TO VOTE
-    link: https://voting.utoronto.ca
+#buttons:
+#  - text: CLICK HERE TO VOTE
+#    link: https://voting.utoronto.ca
 #  - text: CLICK HERE TO BE A CANDIDATE
 #  - text: CLICK HERE FOR THE NOMINATION FORM
 #    link: https://forms.gle/2XHXCEUWecJY5GrCA
