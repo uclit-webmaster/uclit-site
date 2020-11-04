@@ -1,5 +1,6 @@
 # https://yaml-multiline.info/ (info about multiline strings in yaml)
 text: |
+
   <p><strong>UC LIT NOVEMBER 2020 BY-ELECTION</strong></p>
     <p> This by-election seeks to fill the vacant Formals Commissioner position for the remainder of the 2020-2021 Council term. </p> 
     
@@ -8,6 +9,7 @@ text: |
       <ul><li> November 11th to 14th - Nomination Period </li></ul>
       <ul><li> November 15th to 18th - Campaign Period </li></ul>
       <ul><li> November 19th to 20th - Voting Period </li></ul>
+      
       
   <p><strong>UC LIT FALL 2020 ELECTIONS RESULTS</strong></p>
     <p> Our elections have closed and five candidates have received enough votes to enter Office upon ratification by Council. </p> 
@@ -19,7 +21,9 @@ text: |
       <ul><li> Emma Caramazza </li></ul>
       <ul><li> Shreyansi Gandhi </li></ul>
       
+      
   <p><strong>ANY QUESTIONS? EMAIL ELECTIONS@UCLIT.CA!</strong></p>
+  
       
 # Comment out the rest of this if you don't want any buttons
 #buttons:
