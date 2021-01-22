@@ -31,7 +31,11 @@ title: The Council
                 <div class="card-body">
                   <h5 class="card-title">{{ person.name }}</h5>
                   <h6 class="card-subtitle mb-2 text-muted">{{ person.role }}</h6>
-                  <p class="card-text">{{ person.from }} - {{ person.major }}</p>
+                  <p class="card-text"><i class="fas fa-map-marked-alt"></i> {{ person.from }} <br>
+                  <i class="fas fa-graduation-cap"></i> {{ person.major }}</p>
+                  {% if person.office-hours %}<p class="card-text"><b>Office Hours:</b> {{ person.office-hours }}</p>{% endif%}
+                  {% if person.favourite-place-to-study-on-campus %}<p class="card-text"><b>Favourite place to study on campus:</b> {{ person.favourite-place-to-study-on-campus }}</p>{% endif%}
+                  {% if person.favourite-place-to-eat-on-campus %}<p class="card-text"><b>Favourite place to eat on campus:</b> {{ person.favourite-place-to-eat-on-campus }}</p>{% endif%}
                 </div>
                 <div class="card-footer bg-white border-top-0"><a href="mailto:{{ person.email }}">{{ person.email }}</a></div>
               </div>

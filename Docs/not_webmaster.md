@@ -101,8 +101,8 @@ The Documents data file lets you add sections and documents to the Documents pag
 The Council file contains a nested list of items:
 - The top-most level is the "groups", i.e. each of the pills on the left side of the about -> council page. Each has the `group` keyword which sets the text inside of the pill, and the `people` keyword to list the people in that group.
 
-- each `people` item contains `name`, `image`, `role`, `from`, `major`, `email` and `office-hours`
-    keywords.
+- each `people` item contains `name`, `image`, `role`, `from`, `major` and `email` keywords.
+    - optional keywords: `office-hours`, `favourite-place-to-study-on-campus` and `favourite-place-to-eat-on-campus`. If these are not included then they won't be displayed on the page.
 
 #### Sample:
 ```yaml
@@ -115,6 +115,8 @@ The Council file contains a nested list of items:
     major: Human Geography, Political Science
     email: president@uclit.ca
     office-hours: 12-1 thursdays
+    favourite-place-to-study-on-campus: Wetmore Hall
+    favourite-place-to-eat-on-campus: Sid Smith Cafe
   - name: Danielle
     image: assets/images/headshots/danieele.jpeg
     role: President
@@ -122,6 +124,7 @@ The Council file contains a nested list of items:
     major: Human Geography, Political Science
     email: president@uclit.ca
     office-hours: 12-1 thursdays
+    favourite-place-to-study-on-campus: Wetmore Hall
 - group: Executives
   people:
   - name: Someone Else
@@ -131,6 +134,7 @@ The Council file contains a nested list of items:
     major: Human Geography, Political Science
     email: president@uclit.ca
     office-hours: 12-1 thursdays
+    favourite-place-to-eat-on-campus: Sid Smith Cafe
 ```
 
 ## Intramurals
