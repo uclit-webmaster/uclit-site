@@ -1,32 +1,15 @@
 # https://yaml-multiline.info/ (info about multiline strings in yaml)
 text: |
+  In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi. Epicurus in animis nostris inesse notionem, ut aliquid ex eo ortum, tam inportuno. Epicurus in bonis sit sentiri haec putat, ut calere ignem, nivem esse admonere.
+  
+current-election-text: |
+  In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi. Epicurus in animis nostris inesse notionem, ut aliquid ex eo ortum, tam inportuno. Epicurus in bonis sit sentiri haec putat, ut calere ignem, nivem esse admonere.
 
-  <p><strong>UC LIT NOVEMBER 2020 BY-ELECTION RESULTS</strong></p>
-    <p> This election has closed and one candidate has received enough votes to enter Office upon ratification by Council. </p> 
-    
-    <p> Your Formals Commissioner will be: </p>
-      <ul><li> Varsha Pillai </li></ul>
-  
-      
-  <p><strong>UC LIT FALL 2020 ELECTIONS RESULTS</strong></p>
-    <p> Our elections have closed and five candidates have received enough votes to enter Office upon ratification by Council. </p> 
-    
-    <p> Your five First Year Representatives are: </p>
-      <ul><li> Michelle Sue </li></ul>
-      <ul><li> Kiana Ravanasa </li></ul>
-      <ul><li> Neha Sultana </li></ul>
-      <ul><li> Emma Caramazza </li></ul>
-      <ul><li> Shreyansi Gandhi </li></ul>
-      
-      
-  <p><strong>ANY QUESTIONS? EMAIL ELECTIONS@UCLIT.CA!</strong></p>
-  
-      
 # Comment out the rest of this if you don't want any buttons
-#buttons:
-#  - text: CLICK HERE TO VOTE
-#    link: https://voting.utoronto.ca
-#  - text: CLICK HERE TO BE A CANDIDATE
-#  - text: CLICK HERE FOR THE NOMINATION FORM
-#    link: https://forms.gle/2XHXCEUWecJY5GrCA
-#    link: https://google.ca
+buttons:
+ - text: NOMINATION FORM
+   link: https://docs.google.com/document/d/1kAze-mqIMEoSidXYvp18dgxJetnvjHolm4doN6CVmEs/edit?usp=sharing
+ - text: VOTE HERE
+   link: https://voting.utoronto.ca/
+ - text: ELECTIONS ARCHIVE
+   link: https://drive.google.com/drive/folders/11Sws4cnaROTs858_2ljzMMjRRUOU998Q?usp=sharing

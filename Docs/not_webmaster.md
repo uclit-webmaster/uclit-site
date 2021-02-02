@@ -272,11 +272,20 @@ The Commissions file is a list items, each of which contain the following keywor
 
 ## Elections
 This data file lets you set the text to be displayed in the "Get Involved" -> "Elections" page.
-- `text`: the text to be shown on the page
+- `text`: the text to be shown at the top of the page
+- `buttons`: list of `text` and `link`s defining buttons to be displayed beside the table in the current election section of the page.
+- `current-election-text`: text to be shown in the current election section of the page
 #### Sample:
 ```yaml
 text: |
   In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi.
+current-election-text: |
+  In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi consequatur?
+buttons:
+ - text: NOMINATION FORM
+   link: https://docs.google.com/document/d/1kAze-mqIMEoSidXYvp18dgxJetnvjHolm4doN6CVmEs/edit?usp=sharing
+ - text: VOTE HERE
+   link: https://voting.utoronto.ca/
   ```
 
 ## Student Academics and Wellness
