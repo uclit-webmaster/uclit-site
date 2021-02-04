@@ -8,7 +8,7 @@ title: Budgets and Documents
 <h3 class="font-secondary text-primary">{{ item.heading }}</h3>
 <p>{{ item.text }}</p>
 <div class="mb-2">
-{% for document in item.documents %}
+{% for document in item.budgets-documents %}
 <a class="btn btn-primary" href="{{ document.link | relative_url }}" target="_blank"><strong>{{ document.text }}</strong></a>
 {% endfor %}
 </div>
