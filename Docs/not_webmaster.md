@@ -7,10 +7,9 @@ Use this table to find the file you need to change.
 |Section | Data File| Instructions|
 | -- | -- |-- |
 |President's Message | [_data/presidents-message.yml](../_data/presidents-message.yml)|[guide](#presidents-message)|
-|Documents | [_data/documents.yml](../_data/documents.yml)|[guide](#Documents)|
+|Budgets and Documents | [_data/budgets-documents.yml](../_data/budgets-documents.yml)|[guide](#Budgets-and-Documents)|
 |The Council | [_data/council.yml](../_data/council.yml)|[guide](#Council)|
 |Intramurals | [_data/intramurals.yml](../_data/intramurals.yml)|[guide](#Intramurals)|
-|Budgets | [_data/budgets.yml](../_data/budgets.yml)|[guide](#Budgets)|
 |Clubs and Ancillaries | [_data/clubs-and-ancillaries.yml](../_data/clubs-and-ancillaries.yml)|[guide](#Clubs-and-Ancillaries)|
 |Commissions | [_data/commissions.yml](../_data/commissions.yml)|[guide](#Commissions)|
 |Elections | [_data/elections.yml](../_data/elections.yml)|[guide](#Elections)|
@@ -71,8 +70,8 @@ message: |
   Paste the president's message here with all the lines indented as shown. If it spans multiple lines because you hit enter, the website will have the same line breaks.
 ```
 
-## Documents
-The Documents data file lets you add sections and documents to the Documents page.
+## Budgets and Documents
+This file lets you add sections and documents to the "Budgets and Documents" page.
 - `heading`: the heading that the section will have
 - `text`: the text describing the document section
 - `documents`: a list of documents to add as buttons under this section
@@ -171,21 +170,6 @@ sports:
     sign-up-link: "#"
     image: /assets/images/intramurals-photos/uclit-dodgeball.png
 sign-up-link: "#" # TODO: add sign-up link
-```
-
-## Budgets
-The Budgets file contains the following keywords:
-- `text`: The text to be shown at the top of the page.
-- `documents`: a list of documents, each containing the following keywords. Each document will cause another download button to be shown on the page
-    - `text`: text to be placed in the download button for the doc
-    - `link`: the link to the document itself that'll be downloaded on the press of the button
-#### Sample:
-```yaml
-text: |
-  To ensure openness to our students our budgets are made public. All budgets are subject to an annual, third-party audit. Any questions or concerns on the budget or budgeting process can be made to finance@uclit.ca. Click on the button below to access them!
-documents:
-  - text: BUDGETS
-    link: /assets/documents/dummy.pdf
 ```
 
 ## Clubs and Ancillaries
