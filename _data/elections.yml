@@ -12,6 +12,7 @@ subtext: |
   <p>All valid nominees (those who have been seconded and received ten (10) nominations) will be invited to join the election. There will be a <strong>mandatory</strong> all-candidates meeting with the Elections Coordinator to determine the rules and guidelines of the election. Inattendance will lead to disqualification. Following this meeting, the Campaigning Period will begin, and candidates may begin their personal campaigns in accordance with the Elections Code. There will be a two-day Voting Period at the conclusion of the Campaiging Period, after which any nominees who have received the majority or plurality of their election pool will be offered to Council for ratification of their Office.</p>
 
 current-election-text: |
+  <p>† Information sessions will be held on a case-by-case basis, so if you have any questions about the election or the positions, please get in touch with the <a href="mailto:elections@uclit.ca">Election Coordinator</a> to set up a time!</p>
   
 # Comment out the rest of this if you don't want any buttons
 buttons:
