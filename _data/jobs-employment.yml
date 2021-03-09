@@ -27,29 +27,34 @@ text: |
   The Society offers a number of paid and unpaid employment opportunities for members of our community. Any full or part-time UC student is eligible to apply for a hired position on Council, but status as an employee of the Society will make you ineligible for election. For further questions about this or any step of the hiring process, please refer to our <a href="https://uclit.ca/resources/budgets-documents">Policies on Hiring (CP§8, 10)</a> and feel free to contact the <a href="mailto:president@uclit.ca">President's Office</a> at any time.
 
   <p> The Council term and their employment periods are split into three four-month units: the Summer Period (S) from May to August, the Fall Period (F) from September to December, and the Winter Period (W) from January to April. These periods are denoted both in a position's "Term of Hire", as well as in their "Rate of Pay, indicating when a period is active for, and after which periods they will receive disbursements of their honorarium, respectively.</p>
+  
+  <p>
+  </p>
 
 jobs:
   - title: Web Coordinator
-    position-outline: 
-    application-link: https://uclit.tumblr.com/
-    application-instructions: Please submit an accurate and up-to-date Résumé/CV along with a one-page Statement of Intent to the <a href="mailto:president@uclit.ca">President's Office</a>
+    position-outline: |
+      Dog
+    application-link: mailto:president@uclit.ca
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
     table-data:
       - left: Term of Hire
         right: May 2021-22
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
-        right: $500
-      - left: number of positions
+        right: $200 (S), $100 (F), $200 (W)
+      - left: Number of Positions
         right: 1
       - left: Supervisors
         right: Office of the President
-      - left: Affiliate Bodies
-        right: None
+      - left: Currently Open for Hire?
+        right: No
 
-  - title: Another Master
+  - title: Orientation
     position-outline: Master the Another
-    application-link: https://google.ca
+    application-link: mailto:president@uclit.ca
     application-instructions: Fill out the form and email it to president@uclit.ca
     table-data:
       - left: Date(s) of Hire
