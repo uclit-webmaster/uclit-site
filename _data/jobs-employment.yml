@@ -22,19 +22,22 @@
 #       - left: renumeration and pay
 #         right: None
 
-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas commodo tortor a massa fringilla, nec gravida mauris congue. Donec a enim rutrum, vehicula mi at, fermentum nisl. Nullam ultrices porta est ut tempus. Praesent eget quam ac elit fermentum pharetra. Nulla vestibulum et odio vel euismod. Fusce vitae odio massa. Sed scelerisque bibendum ligula vitae fringilla. Sed quis rhoncus sem, nec dictum est. Duis suscipit, mi auctor bibendum congue, nisl orci mattis nisi, quis imperdiet leo dolor nec sapien. Nam rhoncus lectus vitae ex ullamcorper fringilla. Nulla quis iaculis lectus.
+text: The Society offers a number of paid and unpaid employment opportunities for members of our community. Any full or part-time UC student is eligible to apply for a hired position on Council, but status as an employee of the Society will make you ineligible for election. For further questions about this or any step of the hiring process, please refer to our <a href="https://uclit.ca/resources/budgets-documents">Policies on Hiring (CP§8, 10)</a> and feel free to contact the <a href="mailto:president@uclit.ca">President's Office</a> at any time.
+
+<p> The Council term and their employment periods are split into three four-month units: the Summer Period (S) from May to August, the Fall Period (F) from September to December, and the Winter Period (W) from January to April. These periods are denoted both in a position's "Term of Hire", as well as in their "Rate of Pay, indicating when a period is active for, and after which periods they will receive disbursements of their honorarium, respectively.
+</p>
 
 jobs:
-  - title: Web Master
-    position-outline: Master the web
+  - title: Web Coordinator
+    position-outline: 
     application-link: https://uclit.tumblr.com/
-    application-instructions: Fill out the form and email it to president@uclit.ca
+    application-instructions: Please submit an accurate and up-to-date Résumé/CV along with a one-page Statement of Intent to the <a href="mailto:president@uclit.ca">President's Office</a>
     table-data:
-      - left: Date(s) of Hire
+      - left: Term of Hire
         right: May 2021-22
-      - left: renumeration and pay
-        right: paid
-      - left: rate of pay
+      - left: Renumeration and Pay
+        right: Paid
+      - left: Rate of Pay
         right: $500
       - left: number of positions
         right: 1
