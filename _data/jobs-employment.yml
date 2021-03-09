@@ -34,13 +34,13 @@ text: |
 jobs:
   - title: Web Coordinator
     position-outline: |
-      Dog
+      The Web Coordinator manages and maintains the Society's domain, namely by developing the website, while working closely with the Communications and Outreach Commission to coordinate all forms of digital communication and social media. The position entails ≤8 per-week hours.
     application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
     table-data:
       - left: Term of Hire
-        right: May 2021-22
+        right: May 2021-22 (S, F, W)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
@@ -49,27 +49,27 @@ jobs:
         right: 1
       - left: Supervisors
         right: Office of the President
-      - left: Currently Open for Hire?
-        right: No
+      - left: Hiring Period
+        right: Not Currently Accepting Applications
 
-  - title: Orientation
-    position-outline: Master the Another
+  - title: Orientation Chair
+    position-outline: |
+      University College Orientation is a seven-day program, which provides incoming students with transition support, engaging programming that complements the academic experience, and a sense of collegiality and community. The program is organized on behalf of University College and the University College Literary and Athletic Society (UCLit).The Orientation Co-Chairs are responsible for overseeing all operations of Orientation while working alongside the UCLit, the office of the Dean of Students at University College, and Central Student Life to plan and execute University College’s Orientation Week. The position entails anywhere from 15-40 per-week hours.
+
     application-link: mailto:president@uclit.ca
-    application-instructions: Fill out the form and email it to president@uclit.ca
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV along with a completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>
     table-data:
-      - left: Date(s) of Hire
-        right: Aug 2021-22
-      - left: renumeration and pay
-        right: None
-      - left: rate of pay
-        right: $0
-      - left: number of positions
-        right: 50
+      - left: Term of Hire
+        right: February 2021-2022 (S, F, W)
+      - left: Renumeration and Pay
+        right: Paid
+      - left: Rate of Pay
+        right: $2800 (S), $1,400 (F), $2,800 (W)
+      - left: Number of Positions
+        right: 2
       - left: Supervisors
         right: Office of the President
-      - left: Affiliate Bodies
-        right: None
-      - left: Something else
-        right: None
-
+      - left: Hiring Period
+        right: Not Currently Accepting Applications
 
