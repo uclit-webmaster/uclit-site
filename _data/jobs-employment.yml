@@ -54,11 +54,13 @@ jobs:
 
   - title: Orientation Chair
     position-outline: |
-      University College Orientation is a seven-day program, which provides incoming students with transition support, engaging programming that complements the academic experience, and a sense of collegiality and community. The program is organized on behalf of University College and the University College Literary and Athletic Society (UCLit).The Orientation Co-Chairs are responsible for overseeing all operations of Orientation while working alongside the UCLit, the office of the Dean of Students at University College, and Central Student Life to plan and execute University College’s Orientation Week. The position entails anywhere from 15-40 per-week hours.
+      University College Orientation is a seven-day program, which provides incoming students with transition support, engaging programming that complements the academic experience, and a sense of collegiality and community. The program is organized on behalf of University College and the University College Literary and Athletic Society.
+      
+      <p>The Orientation Co-Chairs are responsible for overseeing all operations of Orientation while working alongside the UCLit, the office of the Dean of Students at University College, and Central Student Life to plan and execute University College’s Orientation Week. The position entails anywhere from 15-40 per-week hours.</p>
 
-    application-link: mailto:president@uclit.ca
+    application-link: /assets/documents/UC Orientation Co-Chair Application.pdf
     application-instructions: |
-      Please submit an accurate and up-to-date Résumé or CV along with a completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>
+      Please submit an accurate and up-to-date Résumé or CV along with a completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>.
     table-data:
       - left: Term of Hire
         right: February 2021-2022 (S, F, W)
