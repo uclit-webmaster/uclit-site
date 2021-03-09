@@ -1,0 +1,66 @@
+# ===========================
+#          TEMPLATE
+# ===========================
+# text: This text is shown at the top of the page
+# jobs:
+#   - title: Web Master
+#     position-outline: Master the web
+#     application-link: https://google.ca
+#     application-instructions: Fill out the form and email it to president@uclit.ca
+#     table-data:
+#       - left: left cell
+#         right: right cell
+#       - left: left cell in another row
+#         right: right cell in another row
+#   - title: Another Master
+#     position-outline: Master the Another
+#     application-link: https://google.ca
+#     application-instructions: Fill out the form and email it to president@uclit.ca
+#     table-data:
+#       - left: Date(s) of Hire
+#         right: Aug 2021-22
+#       - left: renumeration and pay
+#         right: None
+
+text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas commodo tortor a massa fringilla, nec gravida mauris congue. Donec a enim rutrum, vehicula mi at, fermentum nisl. Nullam ultrices porta est ut tempus. Praesent eget quam ac elit fermentum pharetra. Nulla vestibulum et odio vel euismod. Fusce vitae odio massa. Sed scelerisque bibendum ligula vitae fringilla. Sed quis rhoncus sem, nec dictum est. Duis suscipit, mi auctor bibendum congue, nisl orci mattis nisi, quis imperdiet leo dolor nec sapien. Nam rhoncus lectus vitae ex ullamcorper fringilla. Nulla quis iaculis lectus.
+
+jobs:
+  - title: Web Master
+    position-outline: Master the web
+    application-link: https://uclit.tumblr.com/
+    application-instructions: Fill out the form and email it to president@uclit.ca
+    table-data:
+      - left: Date(s) of Hire
+        right: May 2021-22
+      - left: renumeration and pay
+        right: paid
+      - left: rate of pay
+        right: $500
+      - left: number of positions
+        right: 1
+      - left: Supervisors
+        right: Office of the President
+      - left: Affiliate Bodies
+        right: None
+
+  - title: Another Master
+    position-outline: Master the Another
+    application-link: https://google.ca
+    application-instructions: Fill out the form and email it to president@uclit.ca
+    table-data:
+      - left: Date(s) of Hire
+        right: Aug 2021-22
+      - left: renumeration and pay
+        right: None
+      - left: rate of pay
+        right: $0
+      - left: number of positions
+        right: 50
+      - left: Supervisors
+        right: Office of the President
+      - left: Affiliate Bodies
+        right: None
+      - left: Something else
+        right: None
+
+

@@ -13,7 +13,8 @@ Use this table to find the file you need to change.
 |Clubs and Ancillaries | [_data/clubs-and-ancillaries.yml](../_data/clubs-and-ancillaries.yml)|[guide](#Clubs-and-Ancillaries)|
 |Commissions | [_data/commissions.yml](../_data/commissions.yml)|[guide](#Commissions)|
 |Elections | [_data/elections.yml](../_data/elections.yml)|[guide](#Elections)|
-|Student academics and wellness | [_data/student-academics-wellnes](../_data/student-academics-wellness.yml)|[guide](#student-academics-and-wellness)|
+|Student academics and wellness | [_data/student-academics-wellness.yml](../_data/student-academics-wellness.yml)|[guide](#student-academics-and-wellness)|
+|Jobs and Employment | [_data/jobs-employment.yml](../_data/jobs-employment.yml)|[guide](#jobs-and-employment)|
 |Navigation bar | [_data/navbar.yml](../_data/navbar.yml)|[guide](#Navigation-bar)|
 |Footer | [_data/footer.yml](../_data/footer.yml)|[guide](#Footer)|
 
@@ -273,7 +274,7 @@ buttons:
   ```
 
 ## Student Academics and Wellness
-This data file contains a list of the headers,text and buttons of different sections of the page. Each list item contains the following keywords:
+This data file contains a list of the headers, text and buttons of different sections of the page. Each list item contains the following keywords:
 - `header`: the header of the section to add to the page
 - `text`: (optional) the text to add in that section 
 - `buttons`: (optional) list of buttons to include under the text for this section
@@ -291,6 +292,40 @@ This data file contains a list of the headers,text and buttons of different sect
 - header: BLM & RACIAL JUSTICE SUPPORT
   text: |
     In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi
+```
+
+## Jobs and Employment
+This data file contains a brief heading, and then a list of jobs to display on the page. Each Job consists of the following:
+- `title`: the title of the position
+- `position-outline`: a brief outline of the role
+- `application-link`: a link to the application form
+- `application-instructions`: instructions on how to apply for the position
+- `table-data`: a 2-column table with information on the role, containing a list of rows:
+    - `left`: text to put in the left cell of the row
+    - `right`: text to put in the right cell of the row
+
+#### Sample:
+```yaml
+text: This text is shown at the top of the page
+jobs:
+  - title: Web Master
+    position-outline: Master the web
+    application-link: https://google.ca
+    application-instructions: Fill out the form and email it to president@uclit.ca
+    table-data:
+      - left: left cell
+        right: right cell
+      - left: left cell in another row
+        right: right cell in another row
+  - title: Another Master
+    position-outline: Master the Another
+    application-link: https://google.ca
+    application-instructions: Fill out the form and email it to president@uclit.ca
+    table-data:
+      - left: Date(s) of Hire
+        right: Aug 2021-22
+      - left: renumeration and pay
+        right: None
 ```
 
 ## Navigation Bar

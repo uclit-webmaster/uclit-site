@@ -1,0 +1,66 @@
+---
+layout: default
+title: Jobs and Employment
+---
+<h1 class="font-secondary" data-aos="fade">Jobs & Employment</h1>
+<p>{{site.data.jobs-employment.text}}</p>
+
+<div class="row mt-3" data-aos="fade-up">
+  <div class="col-md-3 mb-3">
+    <div class="nav flex-column nav-pills rounded bg-white" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+      {% for job in site.data.jobs-employment.jobs %}
+      {% assign jobslug = job.title | slugify %}
+      <a class="nav-link {% if forloop.first == true %}active{% endif %} text-large" id="{{ jobslug }}-tab" data-toggle="pill" href="#{{ jobslug }}" role="tab"
+        aria-controls="{{ jobslug }}" aria-selected="{% if forloop.first == true %}true{% else %}false{% endif %}">{{ job.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="col-md-9">
+    <div class="tab-content shadow rounded mb-3 py-3" id="v-pills-tabContent">
+      {% for job in site.data.jobs-employment.jobs %}
+      {% assign jobslug = job.title | slugify %}
+      <div class="tab-pane fade {% if forloop.first == true %}show active{% endif %}" id="{{ jobslug }}" role="tabpanel" aria-labelledby="{{ jobslug }}-tab">
+        <div class="container">
+          <div class="row text-center">
+            <h2 class="font-secondary mx-auto">{{ job.title }}</h2>
+          </div>
+          <!-- 2-col information table -->
+          <div class="row">
+            <div class="col-lg-6 order-2 order-lg-1">
+              <div class="table-responsive-lg">
+                <table class="table table-bordered table-hover">
+                  <tbody>
+                    {% for row in job.table-data %}
+                    <tr>
+                    <td>{{ row.left }}</td>
+                    <td>{{ row.right }}</td>
+                    </tr>
+                    {% endfor %}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+            <!-- Job information -->
+            <div class="col-lg-6 order-lg-2">
+              
+              <h4 class="font-secondary text-secondary text-center">Position Outline</h3>
+              <p>{{ job.position-outline }}</p>
+
+              <h4 class="font-secondary text-secondary text-center">Submission Instructions</h3>
+              <p>{{ job.application-instructions }}</p>
+
+              <div class="text-center">
+                <a type="button" class="btn btn-primary btn-lg w-75 my-3" href="{{ job.application-link }}" target="_blank">Apply Now</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  
+</div>
