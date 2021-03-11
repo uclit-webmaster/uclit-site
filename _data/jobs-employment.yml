@@ -7,7 +7,7 @@
 #     position-outline: Master the web
 #     application-link: https://google.ca
 #     application-instructions: Fill out the form and email it to president@uclit.ca
-#     table-data:
+#     table-data: # new lines are preserved, no need for <p> tags!
 #       - left: left cell
 #         right: right cell
 #       - left: left cell in another row
@@ -16,7 +16,7 @@
 #     position-outline: Master the Another
 #     application-link: https://google.ca
 #     application-instructions: Fill out the form and email it to president@uclit.ca
-#     table-data:
+#     table-data: # new lines are preserved, no need for <p> tags!
 #       - left: Date(s) of Hire
 #         right: Aug 2021-22
 #       - left: renumeration and pay
@@ -40,7 +40,7 @@ jobs:
     application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
-    table-data:
+    table-data: # new lines are preserved, no need for <p> tags
       - left: Term of Hire
         right: May 2021-22 (S, F, W)
       - left: Renumeration and Pay
@@ -62,7 +62,7 @@ jobs:
     application-link: /assets/documents/UC Orientation Co-Chair Application.pdf
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>.
-    table-data:
+    table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: February 2021-2022 (S, F, W)
       - left: Renumeration and Pay
@@ -84,14 +84,15 @@ jobs:
     application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
-    table-data:
+    table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: April 2021-22 (S, F, W)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
-        right: $500 (S), $1020 (F), Variable (W)
-        <p>Add. hours (≤10) at $16/hr (F, W) poss.</p)
+        right: |
+          $500 (S), $1020 (F), Variable (W)
+          Add. hours (≤10) at $16/hr (F, W) poss.)
       - left: Number of Positions
         right: 1
       - left: Supervisors
@@ -105,14 +106,15 @@ jobs:
     application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
-    table-data:
+    table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: April 2021-22 (S, F, W)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
-        right: $1000 (S), $1000 (F), $1050 (W)
-        <p>Add. hours poss. at $50/mtg.</p>
+        right: |
+          $1000 (S), $1000 (F), $1050 (W)
+          Add. hours poss. at $50/mtg.
       - left: Number of Positions
         right: 1
       - left: Supervisors
@@ -126,14 +128,15 @@ jobs:
     application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
-    table-data:
+    table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: April 2021-22 (S, F, W)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
-        right: $160 (S), $160 (F), $200 (W)
-        <p>Add. hours poss. at $40/mtg.</p>
+        right: | 
+          $160 (S), $160 (F), $200 (W)
+          Add. hours poss. at $40/mtg.
       - left: Number of Positions
         right: 1
       - left: Supervisors
@@ -147,7 +150,7 @@ jobs:
     application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
-    table-data:
+    table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: April 2021-22 (S, F, W)
       - left: Renumeration and Pay
