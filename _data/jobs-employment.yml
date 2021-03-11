@@ -120,7 +120,6 @@ jobs:
       - left: Hiring Status
         right: Reviewing Submitted Applications
         
-jobs:
   - title: Speaker of the Society
     position-outline: |
       The Society Speaker establishes procedure at each of the organization’s multi-committee meetings, including our Annual General Meeting (AGM), Judiciary Committee, and all regular Meetings of Council. The Speaker is an ex-officio, non-voting executive, and is supervised directly by the Office of the Vice President.The position has ≤8 per-week hours.
@@ -142,7 +141,6 @@ jobs:
       - left: Hiring Status
         right: Reviewing Submitted Applications
 
-jobs:
   - title: Mental Wellness Commissioner
     position-outline: |
       The Mental Wellness Commissioner (MWC) position is a hired role which sits on Council as a non-voting member. The MWC is required to attend and fulfill all Commissioner expectations regardless of their position as staff, including meeting attendance. It is the Society’s only hired Commissioner position due to the health-related nature of its mandate. This is an unpaid position whose workload equals that of an elected Commissioner on Society Council, approximately 10-20 of per-week hours.
