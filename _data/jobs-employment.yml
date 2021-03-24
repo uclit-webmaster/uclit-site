@@ -120,7 +120,7 @@ jobs:
       - left: Supervisors
         right: Office of the Vice President
       - left: Hiring Status
-        right: Currently Accepting Applications
+        right: Accepting Applications!
         
   - title: Speaker of the Society
     position-outline: |
