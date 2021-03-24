@@ -98,7 +98,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Reviewing Submitted Applications
+        right: Not Currently Accepting Applications
         
   - title: Secretary of the Society
     position-outline: |
@@ -120,7 +120,7 @@ jobs:
       - left: Supervisors
         right: Office of the Vice President
       - left: Hiring Status
-        right: Reviewing Submitted Applications
+        right: Currently Accepting Applications
         
   - title: Speaker of the Society
     position-outline: |
@@ -142,7 +142,7 @@ jobs:
       - left: Supervisors
         right: Office of the Vice President
       - left: Hiring Status
-        right: Reviewing Submitted Applications
+        right: Not Currently Accepting Applications
 
   - title: Mental Wellness Commissioner
     position-outline: |
@@ -162,4 +162,4 @@ jobs:
       - left: Supervisors
         right: Council At-Large
       - left: Hiring Status
-        right: Reviewing Submitted Applications
+        right: Not Currently Accepting Applications
