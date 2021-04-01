@@ -54,7 +54,11 @@ title: Jobs and Employment
               <p>{{ job.application-instructions }}</p>
 
               <div class="text-center">
+                {% if job.currently-accepting %}
                 <a type="button" class="btn btn-primary btn-lg w-75 my-3" href="{{ job.application-link }}" target="_blank">Apply Now</a>
+                {% else %}
+                <a type="button" class="btn btn-primary disabled btn-lg w-75 my-3" target="_blank" href="#" disabled>Not currently accepting applications</a>
+                {% endif %}
               </div>
             </div>
           </div>
