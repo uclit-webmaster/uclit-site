@@ -8,8 +8,10 @@
 #     year: Fourth Year in Art History and Latin
 #     email: president@uclit.ca
 #     office-hours: 12-1 thursdays
-#     favourite-place-to-study-on-campus: Gerstein Library Reading Room
-#     favourite-place-to-eat-on-campus: Always Diabolos
+#     favourite-part-about-uc: The council
+#     favourite-quote: |
+#       "that's life"
+#       - frank sinatra
 # - name: Executives
 #   people:
 #   - name: Someone Else
@@ -19,8 +21,6 @@
 #     major: Human Geography, Political Science
 #     email: president@uclit.ca
 #     office-hours: 12-1 thursdays
-#     favourite-place-to-study-on-campus: Gerstein Library Reading Room
-#     favourite-place-to-eat-on-campus: Always Diabolos
 
 - group: Core Executives
   people:
@@ -32,9 +32,10 @@
     major: 
     email: president@uclit.ca
     office-hours: TBD
-    favourite-place-to-study-on-campus: Graham Library
-    favourite-place-to-eat-on-campus: Brown Food Truck!
-    favourite-quote: Brown Food Truck!
+    favourite-part-about-uc: ---
+    favourite-quote: |
+      "that's life"
+      - frank sinatra
   - name: Ruth Masuka
     image: assets/images/commissions-icons/VP.png
     role: Vice President
@@ -43,8 +44,10 @@
     major: Third Year in Peace, Conflict & Justice Studies, Diaspora, Translational Studies
     email: vp@uclit.ca
     office-hours: Wednesday's 1:00pm-2:00pm
-    favourite-place-to-study-on-campus: Eberhard Zeisler Library (John H. Daniels Faculty Library)
-    favourite-place-to-eat-on-campus: Gourment Burger House (Sid Smith)
+    favourite-part-about-uc: ---
+    favourite-quote: |
+      "that's life"
+      - frank sinatra
   - name: Daniella Colangelo
     image: assets/images/commissions-icons/FINANCE.png
     role: Finance
@@ -53,8 +56,10 @@
     major: Third Year in Sociology and Criminology
     email: finance@uclit.ca
     office-hours: Tuesday's 2:00pm-3:00pm
-    favourite-place-to-study-on-campus: Study? On Campus? If I have to, AC
-    favourite-place-to-eat-on-campus: Take the walk to Whole Foods, worth it
+    favourite-part-about-uc: ---
+    favourite-quote: |
+      "that's life"
+      - frank sinatra
 - group: Executives
   people:
   - name: Hiba Taha
@@ -65,8 +70,8 @@
     major: Fifth Year in Neuroscience, Physiology, and Immunology
     email: scc@uclit.ca
     office-hours: Monday's 2:00pm-3:00pm
-    favourite-place-to-study-on-campus: Wetmore Hall
-    favourite-place-to-eat-on-campus: Sid Smith Cafe
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Youssef Metwally
     image: assets/images/commissions-icons/EO.png
     role: Equity & Outreach
@@ -75,8 +80,8 @@
     major: Second Year in Equity Studies and American Studies
     email: equity.outreach@uclit.ca
     office-hours: Thursday's 1:00pm-2:00pm
-    favourite-place-to-study-on-campus: E.J. Pratt Library
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Isahaq Ibrahim
     image: assets/images/commissions-icons/UCOC.png
     role: University College Off-Campus (UCOC)
@@ -85,8 +90,8 @@
     major: Third Year in Cell Systems Biology and Health & Disease
     email: isahaq.ibrahim@mail.utoronto.ca
     office-hours: Coming Soon!
-    favourite-place-to-study-on-campus: A.D. Allen Chemistry Library
-    favourite-place-to-eat-on-campus: Off-Campus
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Sophia Fan
     image: assets/images/commissions-icons/SUS.png
     role: Sustainability
@@ -95,8 +100,8 @@
     major: Fourth Year in Ecology and Evolutionary Biology
     email: sustainability@uclit.ca
     office-hours: Friday's 12:00pm-1:00pm
-    favourite-place-to-study-on-campus: Home or JCR
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Hannah Fleisch
     image: assets/images/commissions-icons/LCA.png
     role: Literary and Creative Arts (LCA)
@@ -105,8 +110,8 @@
     major: Literary and Creative Arts
     email: hannah.fleisch@mail.utoronto.ca
     office-hours: Coming Soon!
-    favourite-place-to-study-on-campus: Innis Cafe
-    favourite-place-to-eat-on-campus: Innis Cafe
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Hannah Roberts
     image: assets/images/commissions-icons/ATHLETICS.png
     role: Athletics
@@ -115,8 +120,8 @@
     major: Third Year in Political Science and Sociology
     email: athletics@uclit.ca
     office-hours: Friday's 3:00pm-4:00pm
-    favourite-place-to-study-on-campus: 13th Floor of Robarts
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Vaish Vijayan
     image: assets/images/commissions-icons/UAA.png
     role: University Academics & Affairs
@@ -125,8 +130,8 @@
     major: Fourth Year in Criminology, Sociology, and Political Science
     email: uaa@uclit.ca
     office-hours: Monday's 1:00pm-2:00pm
-    favourite-place-to-study-on-campus: Junior Common Room
-    favourite-place-to-eat-on-campus: Sid Smith Cafe (love their burrito bowls)
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Suleekha Hirsi
     image: assets/images/commissions-icons/MW.png
     role: Mental Wellness
@@ -135,8 +140,8 @@
     major: Second Year in Equity Studies and Sociology
     email: wellness@uclit.ca
     office-hours: Monday's 3:00pm-4:00pm
-    favourite-place-to-study-on-campus: Robarts 9th Floor & JCR
-    favourite-place-to-eat-on-campus: Sidney Smith 
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Varsha Pillai 
     image: assets/images/commissions-icons/FORMALS.png
     role: Formals
@@ -145,8 +150,8 @@
     major: 3rd Year, Criminology, Public Policy and Economics 
     email: formals@uclit.ca
     office-hours: Monday's 3:00pm-4:00pm
-    favourite-place-to-study-on-campus: 12th floor Robarts
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Andrea Estrabrillo
     image: assets/images/commissions-icons/SOCIAL.png
     role: Social
@@ -155,8 +160,8 @@
     major: Fourth Year in Cell & Molecular Biology, Human Biology, and Health & Disease
     email: social@uclit.ca
     office-hours: Wednesday's 11:00am-12:00pm
-    favourite-place-to-study-on-campus: Robarts
-    favourite-place-to-eat-on-campus: Sid Smith Cafe or Robarts Cafeteria
+    favourite-part-about-uc: ---
+    favourite-quote: ---
 - group: First Year Representatives
   people:
   - name: Emma Caramazza 
@@ -167,8 +172,8 @@
     major: Social Sciences
     email: Emma@uclit.ca
     office-hours: Monday's 12:00pm-1:00pm
-    favourite-place-to-study-on-campus: Robarts, 5th floor by a window
-    favourite-place-to-eat-on-campus: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Neha Sultana
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -177,8 +182,8 @@
     major: Social Sciences
     email: Neha@uclit.ca
     office-hours: Thursday's 10:00am-11:00am
-    favourite-place-to-study-on-campus: Home because of lockdown :((
-    favourite-place-to-eat-on-campus: Also home because of lockdown :((
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Michelle Sue
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -187,8 +192,8 @@
     major: Life Sciences
     email: Michelle@uclit.ca
     office-hours: Coming Soon!
-    favourite-place-to-study-on-campus: Morrison study rooms^^
-    favourite-place-to-eat-on-campus: Anything open after 10PM + Coco
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Kiana Ravanasa
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -197,8 +202,8 @@
     major: Math and Physical Sciences
     email: Kiana@uclit.ca
     office-hours: Friday's 10:00am-11:00am
-    favourite-place-to-study-on-campus: Morrison study rooms
-    favourite-place-to-eat-on-campus: McDonald's on Bloor because it's the only place open 24/7
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Shreyansi Gandhi
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -207,8 +212,8 @@
     major: Social Sciences
     email: Shreyansi@uclit.ca
     office-hours: Wednesday's 2:00pm-3:00pm
-    favourite-place-to-study-on-campus: Never been to campus lol
-    favourite-place-to-eat-on-campus: I can only hope to have one soon haha(recommendations are more than welcome)
+    favourite-part-about-uc: ---
+    favourite-quote: ---
 - group: Mid-Year Representatives
   people:
   - name: Juliana Melino
@@ -219,8 +224,8 @@
     major: Second Year in English, Equity, and Education & Society
     email: juliana@uclit.ca
     office-hours: Monday's 10:00am-11:00am
-    favourite-place-to-study-on-campus: John W. Graham Library at Trinity College
-    favourite-place-to-eat-on-campus: Caffiends at Victoria College
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Joshua Bienstock
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -229,8 +234,8 @@
     major: Third Year in Political Science, Urban Studies, and Philosophy
     email: joshua@uclit.ca
     office-hours: Monday's 11:00am-12:00pm
-    favourite-place-to-study-on-campus: Gerstein Library Reading Room
-    favourite-place-to-eat-on-campus: Always Diabolos
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Eric Yin
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -239,8 +244,8 @@
     major: Second Year in Neuroscience and Statistics
     email: eric@uclit.ca
     office-hours: Tuesday's 12:00pm-1:00pm
-    favourite-place-to-study-on-campus: Knox College
-    favourite-place-to-eat-on-campus: Rezzies
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Liah Yared
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -249,8 +254,8 @@
     major: Third Year in Linquistics and Equity Studies
     email: liah@uclit.ca
     office-hours: Wednesday's 12:00pm-1:00pm
-    favourite-place-to-study-on-campus: Gerstein
-    favourite-place-to-eat-on-campus: UT Sushi
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Basma Mohamed-Saeed
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -259,8 +264,8 @@
     major: Third Year in Criminology, Sociology, and Equity 
     email: basma@uclit.ca
     office-hours: Tuesday's 1:00pm-2:00pm
-    favourite-place-to-study-on-campus: Robarts 12th Floor or the JCR!
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Honesty Senese
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -269,8 +274,8 @@
     major: Third Year in Neuroscience and Psychology
     email: honesty@uclit.ca
     office-hours: Friday's 2:00pm-3:00pm
-    favourite-place-to-study-on-campus: Gerstein
-    favourite-place-to-eat-on-campus: Starbucks at Robarts
+    favourite-part-about-uc: ---
+    favourite-quote: ---
 - group: Upper Year Representatives
   people:
   - name: Soliyana Yared
@@ -281,8 +286,8 @@
     major: Fourth Year in Criminology, Peace, Conflict & Justice Studies, and Spanish
     email: soliyana@uclit.ca
     office-hours: Thursday's 2:00pm-3:00pm
-    favourite-place-to-study-on-campus: Fireplace Lounge in the Faculty of Law
-    favourite-place-to-eat-on-campus: Ned's cafe for breakfast is a staple!
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Tintin Fuliang
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
@@ -291,8 +296,8 @@
     major: Fourth Year in Biomedical Toxicology, and Health & Disease
     email: tintin@uclit.ca
     office-hours: Thursday's 3:00pm-4:00pm
-    favourite-place-to-study-on-campus: I don't study on campus
-    favourite-place-to-eat-on-campus: Croutons but they closed it down
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Aniket Kali
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
@@ -301,8 +306,8 @@
     major: Fourth Year in Computer Science
     email: aniket@uclit.ca
     office-hours: Tuesday's 10:00am-11:00am
-    favourite-place-to-study-on-campus: Gerstein
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
 - group: UTSU UC Directors
   people:
   - name: Basmah Ramadan
@@ -313,8 +318,8 @@
     major: Third Year in International Relations, Equity, and Political Science
     email: basmah@uclit.ca
     office-hours: Thursday's 11:00am-12:00pm
-    favourite-place-to-study-on-campus: Robarts 12th Floor
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Jeannie Yoo
     image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
@@ -323,8 +328,8 @@
     major: Second Year in Computer Science and Cognitive Science
     email: Jeannie@uclit.ca
     office-hours: Thursday's 12:00pm-1:00pm
-    favourite-place-to-study-on-campus: Gersstein or Graham Library
-    favourite-place-to-eat-on-campus: Diabolos
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Pranay Prem
     image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
@@ -333,8 +338,8 @@
     major: Second Year in International Relations, Political Science, and History
     email: pranay@uclit.ca
     office-hours: Friday's 11:00am-12:00pm
-    favourite-place-to-study-on-campus: UC Library or Sid Smith Commons or Earth Science Library
-    favourite-place-to-eat-on-campus: Brown Food Truck is the only right answer!
+    favourite-part-about-uc: ---
+    favourite-quote: ---
 
 #- group: Staff and Ancillaries
 #  people:
@@ -375,8 +380,8 @@
     from: Burnaby, BC
     major: Second Year in Neuroscience and Computer Science
     email: rebeccatolee@gmail.com
-    favourite-place-to-study-on-campus: Eberhard Zeidler Library (John H. Daniels Faculty Library)
-    favourite-place-to-eat-on-campus: Gourmet Burger House (Sid Smith)
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Liah Yared
     image: assets/images/commissions-icons/VP.png
     role: Internal Vice-President Deputy
@@ -384,8 +389,8 @@
     from: Scarborough, ON
     major: Third Year in Linguistics, Equity, and Disability Studies
     email: liah.yared@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Gerstein
-    favourite-place-to-eat-on-campus: UT Sushi
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Basma Saeed
     image: assets/images/commissions-icons/VP.png
     role: Clubs Vice-President Deputy
@@ -394,8 +399,8 @@
     major: Third Year in Sociology and Criminology
     email: basma.mohamedsaeed@mail.utoronto.ca
     office-hours: 1-2 PM Tuesday
-    favourite-place-to-study-on-campus: Robarts 12th Floor or the JCR!
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Mahaksh Malhotra
     image: assets/images/commissions-icons/FINANCE.png
     role: Finance Deputy
@@ -403,8 +408,8 @@
     from: Varanasi, India
     major: Fourth Year in Economics and Statistics
     email: auditing@uclit.ca
-    favourite-place-to-study-on-campus: 8th Floor, Robarts
-    favourite-place-to-eat-on-campus: Med-Sci Cafe
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Chloe Tse
     image: assets/images/commissions-icons/EO.png
     role: Equity Deputy
@@ -412,8 +417,8 @@
     from:
     major: Second Year in Neuroscience & Health Studies
     email: chloe.tse@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Sidney Smith Commons
-    favourite-place-to-eat-on-campus: Chinese Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Solomon Azimi
     image: assets/images/commissions-icons/UCOC.png
     role: UCOC Deputy
@@ -421,8 +426,8 @@
     from: Brampton, ON
     major: Third year in Rotman Commerce
     email: solomon.azimi@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Home
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: David Runesha
     image: assets/images/commissions-icons/UCOC.png
     role: UCOC Deputy
@@ -430,8 +435,8 @@
     from: Chicago, IL
     major: Third year in Economics and Statistics
     email: david.runesha@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Robarts
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Aniket Kali
     image: assets/images/commissions-icons/SUS.png
     role: Sustainability Deputy
@@ -440,8 +445,8 @@
     major: Fourth Year in Computer Science
     email: aniket@uclit.ca
     office-hours: 12-1 PM Thursday
-    favourite-place-to-study-on-campus: Gerstein
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Willow Cabral
     image: assets/images/commissions-icons/SUS.png
     role: Sustainability Deputy
@@ -449,8 +454,8 @@
     from: Parksville, BC
     major: Third year in Human Geography, Urban Studies, and GIS
     email: willow.cabral@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Eberhard Zeidler Architecture Library @ Daniels!!
-    favourite-place-to-eat-on-campus: Sidney Smith Cafe (I spend too much $ at Second Cup)
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Aiyana Harvey
     image: assets/images/commissions-icons/LCA.png
     role: Literary and Creative Arts Deputy
@@ -458,8 +463,8 @@
     from: Calgary, AB
     major: Third year in French, Literature, and Drama
     email: aiyana.harvey@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Hart House Library !!
-    favourite-place-to-eat-on-campus: Zaad on Bloor
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Kieley Mackey
     image: assets/images/commissions-icons/ATHLETICS.png
     role: Athletics Deputy
@@ -467,8 +472,8 @@
     from: Barrie, ON
     major: Third year in Health Policy and Bioethics
     email: kieleymackey.mackey@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Knox Library
-    favourite-place-to-eat-on-campus: Diablos
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Izzy Toth
     image: assets/images/commissions-icons/ATHLETICS.png
     role: Athletics Deputy
@@ -476,8 +481,8 @@
     from: Kennebunk, ME
     major: Third year in Criminology and Industrial Relations
     email: i.toth@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Graham Library
-    favourite-place-to-eat-on-campus: Med-Sci Starbucks
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Shawn Feng
     image: assets/images/commissions-icons/ATHLETICS.png
     role: Athletics Deputy
@@ -485,8 +490,8 @@
     from: Hsinchu, Taiwan
     major: Fourth year in IRHR and EEB
     email: shawn.feng@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Gerstein
-    favourite-place-to-eat-on-campus: Not Fung
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Aalina Bilal
     image: assets/images/commissions-icons/UAA.png
     role: UAA Deputy
@@ -494,8 +499,8 @@
     from: Lahore, Pakistan
     major: Third Year in Pyschology, Statistics, and Philosophy 
     email: aalina.bilal@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Robarts or Knox
-    favourite-place-to-eat-on-campus: Food truck (always)
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Hannah Allen
     image: assets/images/commissions-icons/SCC.png
     role: SCC Deputy
@@ -503,8 +508,8 @@
     from: Bowmanville, ON
     major: Fourth Year in History and Philosophy
     email: hannahmargaret.allen@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Starbucks @ Bedford
-    favourite-place-to-eat-on-campus: Rezzies
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Kareem Elhigzi
     image: assets/images/commissions-icons/SCC.png
     role: SCC Deputy
@@ -512,8 +517,8 @@
     from: Mississauga, ON
     major: Fifth Year in Neuroscience, Physiology, and Immunology
     email: k.elhigzi@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Robarts 11th Floor St. George
-    favourite-place-to-eat-on-campus: AC Cafe
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Natalia Landaverde
     image: assets/images/commissions-icons/MW.png
     role: Mental Wellness Deputy
@@ -521,8 +526,8 @@
     from: Vaughan, ON
     major: Third Year in Criminology and English
     email:  n.landaverde@mail.utoronto.ca
-    favourite-place-to-study-on-campus: E.J. Pratt or JCR
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Thérèse Perucho
     image: assets/images/commissions-icons/MW.png
     role: Mental Wellness Deputy
@@ -530,8 +535,8 @@
     from: Brampton, ON
     major: Second Year in Political Science, Human Geography, and Practical French
     email:  therese.perucho@mail.utoronto.ca
-    favourite-place-to-study-on-campus: At Gerstein or the JCR!
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Arina Mnatsakanyan
     image: assets/images/commissions-icons/FORMALS.png
     role: Formals Deputy
@@ -539,8 +544,8 @@
     from: Toronto, ON
     major: Third Year in Psychology, Physiology, and International Relations
     email:  arina.mnatsakanyan@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Knox College Library 
-    favourite-place-to-eat-on-campus: Diabolos
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Ella Levin
     image: assets/images/commissions-icons/SOCIAL.png
     role: Social Deputy
@@ -548,8 +553,8 @@
     from: Toronto, ON
     major: Second Year in Political Science, Cognitive Science, and Near & Middle Eastern Civilizations
     email: ella.levin@mail.utoronto.ca
-    favourite-place-to-study-on-campus: Gerstein 
-    favourite-place-to-eat-on-campus: Brown Food Truck!!
+    favourite-part-about-uc: ---
+    favourite-quote: ---
   - name: Scarlett Mackay
     image: assets/images/commissions-icons/SOCIAL.png
     role: Social Deputy
@@ -557,6 +562,6 @@
     from: London, England
     major: Third Year in Geography, Sociology, and French
     email: scarlett.mackay@mail.utoronto.ca 
-    favourite-place-to-study-on-campus: JCR
-    favourite-place-to-eat-on-campus: Brown Food Truck
+    favourite-part-about-uc: ---
+    favourite-quote: ---
 

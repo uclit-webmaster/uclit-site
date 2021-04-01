@@ -102,10 +102,7 @@ The Council file contains a nested list of items:
 - The top-most level is the "groups", i.e. each of the pills on the left side of the about -> council page. Each has the `group` keyword which sets the text inside of the pill, and the `people` keyword to list the people in that group.
 
 - each `people` item contains `name`, `image`, `role`, `from`, `major` and `email` keywords.
-    - optional keywords: `office-hours`, `favourite-place-to-study-on-campus` and `favourite-place-to-eat-on-campus`. If these are not included then they won't be displayed on the page.
-
-#### Sample:
-```yaml
+    - optional keywords: `office-hours`, `favourite-part-about-uclit` and `favourite-quote`. If these are not included then they won't be displayed on the page.quote```yaml
 - group: Core Presidents
   people:
   - name: Liam
