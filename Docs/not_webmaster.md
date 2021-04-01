@@ -295,6 +295,7 @@ This data file contains a list of the headers, text and buttons of different sec
 This data file contains a brief heading, and then a list of jobs to display on the page. Each Job consists of the following:
 - `title`: the title of the position
 - `position-outline`: a brief outline of the role
+- `currently-accepting`: either `true` or `false`, controls whether to show the Apply Now button or not
 - `application-link`: a link to the application form
 - `application-instructions`: instructions on how to apply for the position
 - `table-data`: a 2-column table with information on the role, containing a list of rows:
@@ -307,6 +308,7 @@ text: This text is shown at the top of the page
 jobs:
   - title: Web Master
     position-outline: Master the web
+    currently-accepting: true
     application-link: https://google.ca
     application-instructions: Fill out the form and email it to president@uclit.ca
     table-data:
@@ -316,6 +318,7 @@ jobs:
         right: right cell in another row
   - title: Another Master
     position-outline: Master the Another
+    currently-accepting: false
     application-link: https://google.ca
     application-instructions: Fill out the form and email it to president@uclit.ca
     table-data:
