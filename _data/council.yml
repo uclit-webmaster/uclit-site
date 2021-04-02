@@ -167,7 +167,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -177,7 +177,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -187,7 +187,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -197,7 +197,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -207,7 +207,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
 - group: Mid-Year Representatives
   people:
   - name: Michelle Sue
@@ -219,7 +219,7 @@
     email: michelle@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The lovely staff and Sir Dan's quad
-    favourite-quote: ---
+    favourite-quote:
   - name: Neha Sultana
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -229,7 +229,7 @@
     email: neha@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The diversity
-    favourite-quote: ---
+    favourite-quote:
   - name: Sarah Chen
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -239,7 +239,7 @@
     email: sarah@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Morrison common rooms
-    favourite-quote: ---
+    favourite-quote:
   - name: Violet Mackintosh
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -249,7 +249,7 @@
     email: violet@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Whitney Quad and how lovely everyone is 
-    favourite-quote: ---
+    favourite-quote:
   - name: Kiana Ravanasa
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -259,7 +259,7 @@
     email: kiana@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: All the wonderful people 
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -269,7 +269,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
 - group: Upper Year Representatives
   people:
   - name: Coming Soon!
@@ -281,6 +281,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
@@ -290,6 +291,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
@@ -299,6 +301,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
+    favourite-quote:
 - group: UTSU UC Directors
   people:
   - name: Coming Soon!
@@ -310,7 +313,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
@@ -320,7 +323,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
@@ -330,7 +333,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
 
 #- group: Staff and Ancillaries
 #  people:
