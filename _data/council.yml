@@ -1,4 +1,4 @@
-# - name: Core Executives
+# - name: Core Presidents
 #   people:
 #   - name: Liam
 #     pronouns: He/Him
@@ -29,13 +29,11 @@
     role: President
     pronouns: She/Her
     from: Scarborough, Ontario
-    major: Third Year in English, History, and Education & Society
+    major: Third Year in English, History, and Education and Society
     email: president@uclit.ca
     office-hours: Coming Soon!
-    favourite-part-about-uc: Whitney Hall
-    favourite-quote: |
-       "There is nothing stronger in the world than gentleness"
-       - Han Suyin
+    favourite-part-about-uc: The beautiful architecture
+    favourite-quote:
   - name: Youssef Metwally
     image: assets/images/commissions-icons/VP.png
     role: Vice President
@@ -45,9 +43,7 @@
     email: vp@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Sir Dan's Quad
-    favourite-quote: |
-       "Believe in something even if it means sacrificing everything"
-       - Colin Kaepernick
+    favourite-quote:
   - name: Shreyansi Gandhi 
     image: assets/images/commissions-icons/FINANCE.png
     role: Finance
@@ -57,9 +53,7 @@
     email: finance@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The gorgeous UC building
-    favourite-quote: |
-       "In the long run, we're all dead"
-       - John Maynard Keynes
+    favourite-quote:
 - group: Executives
   people:
   - name: Basma Mohamed-Saeed
@@ -71,8 +65,7 @@
     email: communications@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Junior Common Room
-    favourite-quote: |
-       "Behind every successful person is a substantial amount of coffee"
+    favourite-quote:
   - name: Lucy Stark
     image: assets/images/commissions-icons/EO.png
     role: Equity
@@ -82,19 +75,17 @@
     email: equity@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: We stick together like the vegan cheese served at Fung
-    favourite-quote: |
-       "Stop making perfection your only standard of progress"
-       - Sydney Cummings
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/commissions-icons/UCOC.png
-    role: Off-Campus
+    role: Off-Campus (UCOC)
     pronouns: ---
     from: ---
     major: ---
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Willow Cabral
     image: assets/images/commissions-icons/SUS.png
     role: Sustainability
@@ -104,21 +95,17 @@
     email: sustainability@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The architecture!!!
-    favourite-quote:: |
-       "Not all those who wander are lost"
-       - JRR Tolkien
+    favourite-quote:
   - name: Hannah Fleisch
     image: assets/images/commissions-icons/LCA.png
-    role: Literary and Creative Arts
+    role: Literary and Creative Arts (LCA)
     pronouns: She/Her
     from: Johannesburg, South Africa
     major: Fourth Year in Cinema Studies, Physics, and Diaspora and Transnational Studies
     email: lca@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: David Cronenberg is an alumni 
-    favourite-quote: |
-       "Troy"
-       - Gabriella
+    favourite-quote:
   - name: Hannah Roberts
     image: assets/images/commissions-icons/ATHLETICS.png
     role: Athletics
@@ -128,21 +115,17 @@
     email: athletics@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Late nights on Back Campus
-    favourite-quote: |
-       "I prefer not to speak. If I speak, I am in big trouble"
-       - José Mourinho
+    favourite-quote:
   - name: Aalina Bilal
     image: assets/images/commissions-icons/UAA.png
-    role: University & Academic Affairs
+    role: University Academics & Affairs
     pronouns: She/Her
     from: Lahore, Pakistan 
     major: Fourth Year in Psychology, Cognitive Science, and Philosophy
     email: uaa@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Nutella Heaven :) 
-    favourite-quote: |
-       "Roads? Where we're going we don't need roads"
-       - Back to the Future
+    favourite-quote:
   - name: Divya Gupta
     image: assets/images/commissions-icons/MW.png
     role: Mental Wellness
@@ -152,9 +135,7 @@
     email: wellness@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The fact that it looks like Hogwarts (and of course, the Sir Dan's Quad!)
-    favourite-quote: |
-       "O Captain! My Captain!"
-       - Dead Poets Society
+    favourite-quote:
   - name: Natalia Landaverde 
     image: assets/images/commissions-icons/FORMALS.png
     role: Formals
@@ -164,21 +145,17 @@
     email: formals@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Junior Common Room
-    favourite-quote: |
-       "I think it's a mistake to ever look for hope outside of one's self"
-       - Arthur Miller
+    favourite-quote:
   - name: Honesty Senese
     image: assets/images/commissions-icons/SOCIAL.png
-    role: Spirit and Social
+    role: Spirit and Socials
     pronouns: She/Her
     from: Niagara Falls, Ontario
     major: Fourth Year in Neuroscience and Psychology
     email: social@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The number of places to get coffee
-    favourite-quote: |
-       "Never be so polite you forget your power"
-       - Taylor Swift
+    favourite-quote:
 - group: First Year Representatives
   people:
   - name: Coming Soon! 
@@ -190,7 +167,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -200,7 +177,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -210,7 +187,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -220,7 +197,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -230,7 +207,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
 - group: Mid-Year Representatives
   people:
   - name: Michelle Sue
@@ -242,21 +219,17 @@
     email: michelle@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The lovely staff and Sir Dan's quad
-    favourite-quote: |
-       "We are what we repeatedly do, excellence then, is not an act but a habit"
-       - Aristotle
+    favourite-quote:
   - name: Neha Sultana
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: She/Her
     from: Toronto, Ontario
-    major:
+    major: ---
     email: neha@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The diversity
-    favourite-quote: |
-       "What we see changes according to what we look for"
-       - E.J. Koh, The Magical Language of Others
+    favourite-quote:
   - name: Sarah Chen
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -265,10 +238,8 @@
     major: Second Year in Environmental Geography; Geographic Information Systems (GIS) and Contemporary Asian Studies
     email: sarah@uclit.ca
     office-hours: Coming Soon!
-    favourite-part-about-uc: Morrison Common Rooms
-    favourite-quote: |
-       "Trust the timing of your life"
-       - Brittany Burgunder
+    favourite-part-about-uc: Morrison common rooms
+    favourite-quote:
   - name: Violet Mackintosh
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -278,9 +249,7 @@
     email: violet@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Whitney Quad and how lovely everyone is 
-    favourite-quote: |
-       "The two most important days in your life are the day you are born and the day you find out why"
-       - Mark Twain
+    favourite-quote:
   - name: Kiana Ravanasa
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -290,8 +259,7 @@
     email: kiana@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: All the wonderful people 
-    favourite-quote: |
-       "Be the rainbow in someone's cloud"
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -301,7 +269,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
 - group: Upper Year Representatives
   people:
   - name: Coming Soon!
@@ -313,7 +281,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
@@ -323,7 +291,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
@@ -333,7 +301,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
 - group: UTSU UC Directors
   people:
   - name: Coming Soon!
@@ -345,7 +313,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
@@ -355,7 +323,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
@@ -365,7 +333,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
 
 #- group: Staff and Ancillaries
 #  people:
@@ -407,7 +375,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/commissions-icons/VP.png
     role: Clubs Vice-President Deputy
@@ -416,7 +384,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/commissions-icons/FINANCE.png
     role: Finance Deputy
@@ -425,7 +393,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/commissions-icons/EO.png
     role: Equity Deputy
@@ -434,7 +402,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/commissions-icons/UCOC.png
     role: UCOC Deputy
@@ -443,7 +411,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Coming Soon!
     image: assets/images/commissions-icons/UCOC.png
     role: UCOC Deputy
@@ -452,7 +420,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-quote:
   - name: Erika Lindsay
     image: assets/images/commissions-icons/SUS.png
     role: Sustainability Deputy
@@ -461,7 +429,7 @@
     major: Fourth Year in Human Geography, Urban Studies and Political Science
     email: erika.lindsay@mail.utoronto.ca
     favourite-part-about-uc: The Junior Common Room & Commuter Student Centre of course!
-    favourite-quote: 
+    favourite-quote:
   - name: Alex Levesque
     image: assets/images/commissions-icons/SUS.png
     role: Sustainability Deputy
