@@ -33,11 +33,9 @@
     email: president@uclit.ca
     office-hours: Coming Soon
     favourite-part-about-uc: The beautiful architecture
-    favourite-quote: |
-      "There is
-      nothing stronger in the
-      world than gentleness"
-      - Han Suyin
+    favourite-quote: | 
+      "There is nothing stronger in the world than gentleness"
+    - Han Suyin
   - name: Youssef Metwally
     image: assets/images/commissions-icons/VP.png
     role: Vice President
@@ -47,11 +45,7 @@
     email: vp@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Sir Dan's Quad
-    favourite-quote:  |
-      "Believe in
-      something even if it
-      means sacrificing everything"
-      - Colin Kaepernick
+    favourite-quote: Believe in something even if it means sacrificing everything - Colin Kaepernick
   - name: Shreyansi Gandhi 
     image: assets/images/commissions-icons/FINANCE.png
     role: Finance
@@ -64,85 +58,85 @@
     favourite-quote: ---
 - group: Executives
   people:
-  - name: Hiba Taha
+  - name: Basma Mohamed-Saeed
     image: assets/images/commissions-icons/SCC.png
-    role: Spirit & Communications (SCC)
+    role: Communications and Outreach
     pronouns: She/Her
-    from: Hamilton, ON
-    major: Fifth Year in Neuroscience, Physiology, and Immunology
-    email: scc@uclit.ca
-    office-hours: Monday's 2:00pm-3:00pm
-    favourite-part-about-uc: ---
+    from: Etobicoke, ON
+    major: Fourth Year in Criminology, Sociology, and Equity
+    email: communications@uclit.ca
+    office-hours: Coming Soon
+    favourite-part-about-uc: Junior Common Room
     favourite-quote: ---
-  - name: Youssef Metwally
+  - name: Lucy Stark
     image: assets/images/commissions-icons/EO.png
-    role: Equity & Outreach
-    pronouns: He/Him
-    from: ---
-    major: Second Year in Equity Studies and American Studies
-    email: equity.outreach@uclit.ca
-    office-hours: Thursday's 1:00pm-2:00pm
-    favourite-part-about-uc: ---
+    role: Equity
+    pronouns: She/Her
+    from: Wilmington, Delaware
+    major: Third Year Double Major in History and Economics
+    email: equity@uclit.ca
+    office-hours: Coming Soon
+    favourite-part-about-uc: We stick together like the vegan cheese served at Fung
     favourite-quote: ---
-  - name: Isahaq Ibrahim
+  - name: Coming Soon
     image: assets/images/commissions-icons/UCOC.png
     role: University College Off-Campus (UCOC)
-    pronouns: He/Him
-    from: Toronto, ON
-    major: Third Year in Cell Systems Biology and Health & Disease
-    email: isahaq.ibrahim@mail.utoronto.ca
-    office-hours: Coming Soon!
+    pronouns: ---
+    from: ---
+    major: ---
+    email: ---
+    office-hours: Coming Soon
     favourite-part-about-uc: ---
     favourite-quote: ---
-  - name: Sophia Fan
+  - name: Willow Cabral
     image: assets/images/commissions-icons/SUS.png
     role: Sustainability
     pronouns: She/Her
-    from: Nanaimo, BC
-    major: Fourth Year in Ecology and Evolutionary Biology
+    from: Vancouver Island, BC
+    major: Fourth Year in Human/Environmental Geography, Urban Studies, Focus in Planning
     email: sustainability@uclit.ca
-    office-hours: Friday's 12:00pm-1:00pm
-    favourite-part-about-uc: ---
+    office-hours: Coming Soon
+    favourite-part-about-uc: The architecture!!!
     favourite-quote: ---
   - name: Hannah Fleisch
     image: assets/images/commissions-icons/LCA.png
     role: Literary and Creative Arts (LCA)
     pronouns: She/Her
     from: Johannesburg, South Africa
-    major: Literary and Creative Arts
-    email: hannah.fleisch@mail.utoronto.ca
-    office-hours: Coming Soon!
-    favourite-part-about-uc: ---
+    major: Fourth Year in Cinema Studies, Physics, Minor in Diaspora and Transnational Studies
+    email: lca@uclit.ca
+    office-hours: Coming Soon
+    favourite-part-about-uc: David Cronenberg is an alumni 
     favourite-quote: ---
   - name: Hannah Roberts
     image: assets/images/commissions-icons/ATHLETICS.png
     role: Athletics
     pronouns: She/Her
     from: Mississauga, ON
-    major: Third Year in Political Science and Sociology
+    major: Fourth Year in Political Science and Sociology
     email: athletics@uclit.ca
-    office-hours: Friday's 3:00pm-4:00pm
-    favourite-part-about-uc: ---
+    office-hours: Coming Soon
+    favourite-part-about-uc: Late nights on Back Campus
     favourite-quote: ---
-  - name: Vaish Vijayan
+  - name: Aalina Bilal
     image: assets/images/commissions-icons/UAA.png
     role: University Academics & Affairs
     pronouns: She/Her
-    from: Mumbai, India 
-    major: Fourth Year in Criminology, Sociology, and Political Science
+    from: Lahore, Pakistan 
+    major: Fourth Year in Psychology, Cognitive Science, Minor in Philosophy
     email: uaa@uclit.ca
-    office-hours: Monday's 1:00pm-2:00pm
-    favourite-part-about-uc: ---
+    office-hours: Coming Soon
+    favourite-part-about-uc: Nutella Heaven :) 
     favourite-quote: ---
-  - name: Suleekha Hirsi
+  - name: Divya Gupta
     image: assets/images/commissions-icons/MW.png
     role: Mental Wellness
     pronouns: She/Her
-    from: Brampton, ON
-    major: Second Year in Equity Studies and Sociology
+    from: New Dehli, India
+    major: Second Year in Psychology, Computer Science and Cognitive Science
     email: wellness@uclit.ca
-    office-hours: Monday's 3:00pm-4:00pm
-    favourite-part-about-uc: ---
+    office-hours: Coming soon
+    favourite-part-about-uc: The fact that it looks like Hogwarts (and ofcourse, the sir dan's quad!)
     favourite-quote: ---
   - name: Varsha Pillai 
     image: assets/images/commissions-icons/FORMALS.png
