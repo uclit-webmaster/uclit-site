@@ -178,7 +178,7 @@
     favourite-part-about-uc: The number of places to get coffee
     favourite-quote: |
        "Never be so polite you forget your power"
-       - Arthur Miller
+       - Taylor Swift
 - group: First Year Representatives
   people:
   - name: Coming Soon! 
@@ -242,17 +242,21 @@
     email: michelle@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The lovely staff and Sir Dan's quad
-    favourite-quote:
+    favourite-quote: |
+       "We are what we repeatedly do, excellence then, is not an act but a habit"
+       - Aristotle
   - name: Neha Sultana
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     pronouns: She/Her
     from: Toronto, Ontario
-    major: ---
+    major:
     email: neha@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The diversity
-    favourite-quote:
+    favourite-quote: |
+       "What we see changes according to what we look for"
+       - E.J. Koh, The Magical Language of Others
   - name: Sarah Chen
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -261,8 +265,10 @@
     major: Second Year in Environmental Geography; Geographic Information Systems (GIS) and Contemporary Asian Studies
     email: sarah@uclit.ca
     office-hours: Coming Soon!
-    favourite-part-about-uc: Morrison common rooms
-    favourite-quote:
+    favourite-part-about-uc: Morrison Common Rooms
+    favourite-quote: |
+       "Trust the timing of your life"
+       - Brittany Burgunder
   - name: Violet Mackintosh
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -272,7 +278,9 @@
     email: violet@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Whitney Quad and how lovely everyone is 
-    favourite-quote:
+    favourite-quote: |
+       "The two most important days in your life are the day you are born and the day you find out why"
+       - Mark Twain
   - name: Kiana Ravanasa
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
