@@ -8,4 +8,4 @@ image: /assets/images/All_our_meetings_will_be_held_at_12_pm_on_the_following_da
 name: Meeting Dates
 # https://yaml-multiline.info/ (info about multiline strings in yaml)
 message: |
-  Any UC student is welcome to attend our meetings! Visit bit.ly/uclitmonthlymeetings and enter the password "reznikoff" to join
+  Any UC student is welcome to attend our meetings! Visit <bit.ly/uclitmonthlymeetings> and enter the password <strong> reznikoff <strong> to join.
