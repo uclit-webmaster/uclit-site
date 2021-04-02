@@ -164,7 +164,9 @@
     email: formals@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Junior Common Room
-    favourite-quote:
+    favourite-quote: |
+       "I think it's a mistake to ever look for hope outside of one's self"
+       - Arthur Miller
   - name: Honesty Senese
     image: assets/images/commissions-icons/SOCIAL.png
     role: Spirit and Social
@@ -174,7 +176,9 @@
     email: social@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The number of places to get coffee
-    favourite-quote:
+    favourite-quote: |
+       "Never be so polite you forget your power"
+       - Arthur Miller
 - group: First Year Representatives
   people:
   - name: Coming Soon! 
@@ -186,7 +190,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -196,7 +200,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -206,7 +210,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -216,7 +220,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -226,7 +230,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
 - group: Mid-Year Representatives
   people:
   - name: Michelle Sue
