@@ -290,7 +290,8 @@
     email: kiana@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: All the wonderful people 
-    favourite-quote:
+    favourite-quote: |
+       "Be the rainbow in someone's cloud"
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -300,7 +301,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
 - group: Upper Year Representatives
   people:
   - name: Coming Soon!
@@ -312,7 +313,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
@@ -322,7 +323,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
@@ -332,7 +333,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
 - group: UTSU UC Directors
   people:
   - name: Coming Soon!
@@ -344,7 +345,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
@@ -354,7 +355,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
@@ -364,7 +365,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
 
 #- group: Staff and Ancillaries
 #  people:
@@ -406,7 +407,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/commissions-icons/VP.png
     role: Clubs Vice-President Deputy
@@ -415,7 +416,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/commissions-icons/FINANCE.png
     role: Finance Deputy
@@ -424,7 +425,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/commissions-icons/EO.png
     role: Equity Deputy
@@ -433,7 +434,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/commissions-icons/UCOC.png
     role: UCOC Deputy
@@ -442,7 +443,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/commissions-icons/UCOC.png
     role: UCOC Deputy
@@ -451,7 +452,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Erika Lindsay
     image: assets/images/commissions-icons/SUS.png
     role: Sustainability Deputy
@@ -460,7 +461,7 @@
     major: Fourth Year in Human Geography, Urban Studies and Political Science
     email: erika.lindsay@mail.utoronto.ca
     favourite-part-about-uc: The Junior Common Room & Commuter Student Centre of course!
-    favourite-quote:
+    favourite-quote: 
   - name: Alex Levesque
     image: assets/images/commissions-icons/SUS.png
     role: Sustainability Deputy
