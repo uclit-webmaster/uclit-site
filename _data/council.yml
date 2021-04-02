@@ -519,7 +519,9 @@
     major: Second Year in Political Science
     email: emma.caramazza@mail.utoronto.ca
     favourite-part-about-uc: Its location! So central to campus and the city
-    favourite-quote: 
+    favourite-quote:  |
+       "Happiness is only real when shared"
+       - Christopher McCandless
   - name: Fatima Abbasi
     image: assets/images/commissions-icons/SCC.png
     role: Communications and Outreach Deputy
@@ -527,8 +529,10 @@
     from: Mississauga, Ontario
     major: Third Year in Political Science and Islamic Studies 
     email: noor.abbasi@mail.utoronto.ca
-    favourite-part-about-uc: The quad, because of frosh memories
-    favourite-quote:
+    favourite-part-about-uc: The quad, because of Frosh memories
+    favourite-quote:  |
+       "Where there is a will, there is a way"
+       - Multiple people claim to have authored this quote 
   - name: Coming Soon!
     image: assets/images/commissions-icons/SCC.png
     role: Communications and Outreach Deputy
@@ -537,7 +541,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/commissions-icons/MW.png
     role: Mental Wellness Deputy
@@ -546,7 +550,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote: 
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/commissions-icons/MW.png
     role: Mental Wellness Deputy
@@ -555,7 +559,7 @@
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Kenzy El-Morsi
     image: assets/images/commissions-icons/FORMALS.png
     role: Formals Deputy
@@ -564,23 +568,25 @@
     major: Third Year in Diaspora and Transnational Studies, Cinema Studies & Political Science
     email:  kenzy.elmorsi@mail.utoronto.ca
     favourite-part-about-uc: Rezzies Cafe
-    favourite-quote: 
+    favourite-quote:  |
+       "Those who dream by day are cognizant of many things which escape those who dream only by night"
+       - Edgar Allan Poe
   - name: Coming Soon!
     image: assets/images/commissions-icons/SOCIAL.png
-    role: Social Deputy
+    role: Spirit and Social Deputy
     pronouns: ---
     from: ---
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote: 
+    favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/commissions-icons/SOCIAL.png
-    role: Social Deputy
+    role: Spirit and Social Deputy
     pronouns: ---
     from: ---
     major: ---
     email: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
 
