@@ -4,3 +4,8 @@
 #   Paste the president's message here with all the lines indented
 #   as shown. This value can span multiple lines because it begins 
 #   with a ">""
+image: /assets/images/All_our_meetings_will_be_held_at_12_pm_on_the_following_dates..._copy.jpg
+name: Meeting Dates
+# https://yaml-multiline.info/ (info about multiline strings in yaml)
+message: |
+  For over one hundred and fifty years, our council has represented students at UC, and this year will prove no dif
