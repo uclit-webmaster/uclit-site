@@ -87,7 +87,7 @@
        - Sydney Cummings
   - name: Coming Soon!
     image: assets/images/commissions-icons/UCOC.png
-    role: Off-Campus (UCOC)
+    role: Off-Campus
     pronouns: ---
     from: ---
     major: ---
@@ -109,14 +109,16 @@
        - JRR Tolkien
   - name: Hannah Fleisch
     image: assets/images/commissions-icons/LCA.png
-    role: Literary and Creative Arts (LCA)
+    role: Literary and Creative Arts
     pronouns: She/Her
     from: Johannesburg, South Africa
     major: Fourth Year in Cinema Studies, Physics, and Diaspora and Transnational Studies
     email: lca@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: David Cronenberg is an alumni 
-    favourite-quote:
+    favourite-quote: |
+       "Troy"
+       - Gabriella
   - name: Hannah Roberts
     image: assets/images/commissions-icons/ATHLETICS.png
     role: Athletics
@@ -126,7 +128,9 @@
     email: athletics@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Late nights on Back Campus
-    favourite-quote:
+    favourite-quote: |
+       "I prefer not to speak. If I speak, I am in big trouble"
+       - José Mourinho
   - name: Aalina Bilal
     image: assets/images/commissions-icons/UAA.png
     role: University Academics & Affairs
