@@ -73,7 +73,6 @@
     favourite-part-about-uc: Junior Common Room
     favourite-quote: |
        "Behind every successful person is a substantial amount of coffee"
-       - Basma Mohamed-Saeed
   - name: Lucy Stark
     image: assets/images/commissions-icons/EO.png
     role: Equity
@@ -95,7 +94,7 @@
     email: ---
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote:
+    favourite-quote: ---
   - name: Willow Cabral
     image: assets/images/commissions-icons/SUS.png
     role: Sustainability
@@ -105,7 +104,9 @@
     email: sustainability@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The architecture!!!
-    favourite-quote:
+    favourite-quote:: |
+       "Not all those who wander are lost"
+       - JRR Tolkien
   - name: Hannah Fleisch
     image: assets/images/commissions-icons/LCA.png
     role: Literary and Creative Arts (LCA)
