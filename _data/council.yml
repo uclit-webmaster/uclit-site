@@ -1,4 +1,4 @@
-# - name: Core Presidents
+# - name: Core Executives
 #   people:
 #   - name: Liam
 #     pronouns: He/Him
@@ -71,7 +71,9 @@
     email: communications@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Junior Common Room
-    favourite-quote:
+    favourite-quote: |
+       "Stop making perfection your only standard of progress"
+       - Sydney Cummings
   - name: Lucy Stark
     image: assets/images/commissions-icons/EO.png
     role: Equity
