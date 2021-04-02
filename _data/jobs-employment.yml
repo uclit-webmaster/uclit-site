@@ -63,7 +63,7 @@ jobs:
       
       <p>The Orientation Co-Chairs are responsible for overseeing all operations of Orientation while working alongside the UCLit, the office of the Dean of Students at University College, and Central Student Life to plan and execute University College’s Orientation Week. The position entails anywhere from 15-40 per-week hours.</p>
     application-link: /assets/documents/UC Orientation Co-Chair Application.pdf
-    currently-accepting: true
+    currently-accepting: false
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>.
     table-data: # new lines are preserved, no need for <p> tags!
