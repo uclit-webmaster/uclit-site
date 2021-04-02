@@ -133,14 +133,16 @@
        - José Mourinho
   - name: Aalina Bilal
     image: assets/images/commissions-icons/UAA.png
-    role: University Academics & Affairs
+    role: University & Academic Affairs
     pronouns: She/Her
     from: Lahore, Pakistan 
     major: Fourth Year in Psychology, Cognitive Science, and Philosophy
     email: uaa@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: Nutella Heaven :) 
-    favourite-quote:
+    favourite-quote: |
+       "Roads? Where we're going we don't need roads"
+       - Back to the Future
   - name: Divya Gupta
     image: assets/images/commissions-icons/MW.png
     role: Mental Wellness
@@ -150,7 +152,9 @@
     email: wellness@uclit.ca
     office-hours: Coming Soon!
     favourite-part-about-uc: The fact that it looks like Hogwarts (and of course, the Sir Dan's Quad!)
-    favourite-quote:
+    favourite-quote: |
+       "O Captain! My Captain!"
+       - Dead Poets Society
   - name: Natalia Landaverde 
     image: assets/images/commissions-icons/FORMALS.png
     role: Formals
@@ -163,7 +167,7 @@
     favourite-quote:
   - name: Honesty Senese
     image: assets/images/commissions-icons/SOCIAL.png
-    role: Spirit and Socials
+    role: Spirit and Social
     pronouns: She/Her
     from: Niagara Falls, Ontario
     major: Fourth Year in Neuroscience and Psychology
