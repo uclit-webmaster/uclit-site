@@ -108,7 +108,7 @@ jobs:
   - title: Secretary of the Society
     position-outline: |
       The Society Secretary provides brief yet comprehensive minutes of all of the organization’s multi-committee meetings, including our Annual General Meeting (AGM), all regular Meetings of Council, and our weekly Operating Meetings. The Secretary is an ex-officio, non-voting executive, and is supervised directly by the Office of the Vice President. The position has ≤8 per-week hours.
-    currently-accepting: true
+    currently-accepting: false
     application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
@@ -126,7 +126,7 @@ jobs:
       - left: Supervisors
         right: Office of the Vice President
       - left: Hiring Status
-        right: Accepting Applications until April 7, 2021
+        right: Not Currently Accepting Applications
         
   - title: Speaker of the Society
     position-outline: |
