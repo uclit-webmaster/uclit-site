@@ -12,13 +12,13 @@
 - name: ATHLETICS
   image: assets/images/commissions-icons/athletics.svg # these SVGs were created in figma and then copied as svg (right click, copy as svg) and pasted in a blank file.
   email: athletics@uclit.ca
-  commissioners: HANNAH ROBERTS, DEPUTIES TBD
+  commissioners: HANNAH ROBERTS WITH JESSE MCDOUGALL AND AWS MUSTAFA
   description: The Athletics Commission runs all sports themed events, such as ski trips, Raptors games, viewing parties and much more! They also oversee all the UC intramurals - more information about joining a team can be found on the Intramurals page!
 
 - name: LITERARY & CREATIVE ARTS (LCA)
   image: assets/images/commissions-icons/lca.svg
   email: lca@uclit.ca
-  commissioners: HANNAH FLEISCH, DEPUTIES TBD
+  commissioners: HANNAH FLEISCH WITH THÉRÈSE DOMINGA PERUCHO
   description: LCA specializes in providing a platform for UC students to showcase their talent and creativity, and encourage art around our college. They also oversee UC publications such as our newspaper, the UC Gargoyle, and our literary journal, The UC Review.
 
 - name: COMMUNICATIONS AND OUTREACH
@@ -54,13 +54,13 @@
 - name: MENTAL WELLNESS
   image: assets/images/commissions-icons/mental-wellness.svg
   email: wellness@uclit.ca
-  commissioners: DIVYA GUPTA, DEPUTIES TBD
+  commissioners: DIVYA GUPTA WITH ALI SYED
   description: The Mental Wellness Commission strives to bring awareness to issues surrounding mental health around UC and UofT, and reduce stigma. This is done through holding various events, workshops and discussions.
 
 - name: FINANCE
   image: assets/images/commissions-icons/finance.svg
   email: finance@uclit.ca
-  commissioners: SHREYANSI GANDHI, DEPUTIES TBD
+  commissioners: SHREYANSI GANDHI WITH ARINA MNATSKANYAN
   description: The Finance Commission helps prepare the UC Lit's annual audit, and does bookkeeping for all the different commissions, clubs and ancillaries to ensure we're managing students' money wisely!
 
 - name: FORMALS
