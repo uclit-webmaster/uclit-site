@@ -417,14 +417,14 @@
     email: ---
     favourite-part-about-uc: ---
     favourite-quote: ---
-  - name: Coming Soon!
+  - name: Arina Mnatsakanyan
     image: assets/images/commissions-icons/FINANCE.png
     role: Finance Deputy
-    pronouns: ---
-    from: ---
-    major: ---
-    email: ---
-    favourite-part-about-uc: ---
+    pronouns: She/Her
+    from: Toronto, Ontario
+    major: Fourth Year in  International Relations, Psychology and Physiology 
+    email: arina.mnatsakanyan@mail.utoronto.ca
+    favourite-part-about-uc: Its amazing community and the tea lattes at Diabolos'
     favourite-quote: ---
   - name: Coming Soon!
     image: assets/images/commissions-icons/EO.png
@@ -539,24 +539,17 @@
     favourite-quote:  |
        "When given the choice between being right or being kind, choose kind"
        - Dr. Wayne W. Dyer
-  - name: Coming Soon!
+  - name: Ali Syed
     image: assets/images/commissions-icons/MW.png
     role: Mental Wellness Deputy
-    pronouns: ---
-    from: ---
-    major: ---
-    email: ---
-    favourite-part-about-uc: ---
-    favourite-quote: ---
-  - name: Coming Soon!
-    image: assets/images/commissions-icons/MW.png
-    role: Mental Wellness Deputy
-    pronouns: ---
-    from: ---
-    major: ---
-    email: ---
-    favourite-part-about-uc: ---
-    favourite-quote: ---
+    pronouns: He/Him
+    from: Milton, Ontario
+    major: Third Year in Computer Science
+    email: al.syed@mail.utoronto.ca
+    favourite-part-about-uc: Walking around our captivating building
+    favourite-quote: |
+         "Nothing is impossible, even the word says i'm possible" 
+         - Audrey Hepburn
   - name: Kenzy El-Morsi
     image: assets/images/commissions-icons/FORMALS.png
     role: Formals Deputy
@@ -568,22 +561,25 @@
     favourite-quote:  |
        "Those who dream by day are cognizant of many things which escape those who dream only by night"
        - Edgar Allan Poe
-  - name: Coming Soon!
+  - name: Aiyana Harvey
     image: assets/images/commissions-icons/SOCIAL.png
     role: Spirit and Social Deputy
-    pronouns: ---
-    from: ---
-    major: ---
-    email: ---
-    favourite-part-about-uc: ---
-    favourite-quote: ---
-  - name: Coming Soon!
+    pronouns: She/Her
+    from: Calgary, Alberta
+    major: Fourth Year in French Literature and Drama
+    email: aiyana.harvey@mail.utoronto.ca
+    favourite-part-about-uc: The CSC!
+    favourite-quote:  |
+       "Synesthesia is the one where you hear sound"
+       - Scarlett Mackay
+  - name: Scarlett Mackay
     image: assets/images/commissions-icons/SOCIAL.png
     role: Spirit and Social Deputy
-    pronouns: ---
-    from: ---
-    major: ---
-    email: ---
+    pronouns: She/Her
+    from: London, England
+    major: Fourth Year in Human Geography & Sociology, Minor in French
+    email: scarlett.mackay@mail.utoronto.ca
     favourite-part-about-uc: ---
-    favourite-quote: ---
-
+    favourite-quote: |
+       "No, synesthesia is the one where you see colour"
+       - Aiyana Harvey
