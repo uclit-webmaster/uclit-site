@@ -79,6 +79,27 @@ jobs:
         right: Office of the President
       - left: Hiring Status
         right: Not Currently Accepting Applications
+        
+  - title: Commuter Orientation Chair
+    position-outline: |
+      Coming Soon!
+    currently-accepting: false
+    application-link: mailto:president@uclit.ca
+    application-instructions: |
+      Coming Soon!
+    table-data: # new lines are preserved, no need for <p> tags!
+      - left: Term of Hire
+        right: May 2021-22 (S, F, W)
+      - left: Renumeration and Pay
+        right: Paid
+      - left: Rate of Pay
+        right: Coming Soon!
+      - left: Number of Positions
+        right: 2
+      - left: Supervisors
+        right: Office of the President
+      - left: Hiring Status
+        right: Not Currently Accepting Applications
 
   - title: Diabolos Manager
     position-outline: |
@@ -151,23 +172,4 @@ jobs:
       - left: Hiring Status
         right: Not Currently Accepting Applications
 
-  - title: Mental Wellness Commissioner
-    position-outline: |
-      The Mental Wellness Commissioner (MWC) position is a hired role which sits on Council as a non-voting member. The MWC is required to attend and fulfill all Commissioner expectations regardless of their position as staff, including meeting attendance. It is the Society’s only hired Commissioner position due to the health-related nature of its mandate. This is an unpaid position whose workload equals that of an elected Commissioner on Society Council, approximately 10-20 of per-week hours.
-    currently-accepting: false
-    application-link: mailto:president@uclit.ca
-    application-instructions: |
-      Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
-    table-data: # new lines are preserved, no need for <p> tags!
-      - left: Term of Hire
-        right: April 2021-22 (S, F, W)
-      - left: Renumeration and Pay
-        right: Unpaid
-      - left: Rate of Pay
-        right: N/A
-      - left: Number of Positions
-        right: 1
-      - left: Supervisors
-        right: Council At-Large
-      - left: Hiring Status
-        right: Not Currently Accepting Applications
+  
