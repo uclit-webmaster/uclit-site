@@ -86,7 +86,7 @@ jobs:
       
       <p>The Commuter Orientation Co-Chairs are responsible for overseeing all operations of Commuter Orientation. The role will require approximately 10 hours per week in June & July, and 15 hours per week in August.
     currently-accepting: true
-    application-link: mailto:president@uclit.ca
+    application-link: http://bit.ly/commuterorientation21
     application-instructions: |
       Please submit an accurate and up-to-date Resume along with the completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>.
     table-data: # new lines are preserved, no need for <p> tags!
