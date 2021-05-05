@@ -91,7 +91,7 @@ jobs:
       Coming Soon!
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: May 2021-22 (S, F, W)
+        right: May 2021- January 2022 (S, F, W)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
