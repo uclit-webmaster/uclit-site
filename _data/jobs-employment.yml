@@ -101,7 +101,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Accepting Applications Until May 19
+        right: Accepting Applications Until Wednesday, May 19 2021
 
   - title: Diabolos Manager
     position-outline: |
