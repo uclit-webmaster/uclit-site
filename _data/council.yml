@@ -594,19 +594,21 @@
     pronouns: She/Her
     image: assets/images/commissions-icons/SOCIAL.png
     role: Secretary
-    from: Toronto, ON
+    from: Toronto, Ontario
     major: Second Year in Life Sciences
     email: secretary@uclit.ca
     favourite-part-about-uc: The fact that we can still see the axe markings from the Diabolos/Reznikoff fight.
     favourite-quote: |
       "I can do this all day"
       - Captain America
-  - name:
-    pronouns:
+  - name: Jad El-Ghali
+    pronouns: He/Him
     image: assets/images/commissions-icons/SOCIAL.png
     role: Speaker
-    from: 
-    major: 
+    from: Mississauga, Ontario
+    major: Third Year in Political Science & Sociology 
     email: speaker@uclit.ca
-    favourite-part-about-uc:
-    favourite-quote:
+    favourite-part-about-uc: Our long history, and status as the founding college of UofT.
+    favourite-quote: |
+      "Prejudice rarely survives experience"
+      - Eve Zibart
