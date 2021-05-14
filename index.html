@@ -5,13 +5,13 @@ title: Home page
 {% include responsive-jumbotron.html subtitle="Welcome to the oldest democratically-elected student government in Canada."%}
 <div class="row mt-5 justify-content-center">
     <div class="col-sm-4" data-aos="fade-right">
-        <img class="img-fluid" src={{ site.data.presidents-message.image | relative_url }} class="rounded float-right"
-            alt="{{ site.data.presidents-message.name }}, president">
+        <img class="img-fluid" src={{ site.data.homepage.presidents-message.image | relative_url }} class="rounded float-right"
+            alt="{{ site.data.homepage.presidents-message.name }}, president">
     </div>
     <div class="col-sm-4 mt-3" data-aos="fade-left">
-        <h2 class="font-secondary">{{ site.data.presidents-message.name }}</h2>
+        <h2 class="font-secondary">{{ site.data.homepage.presidents-message.name }}</h2>
         <h3>2021-2022</h3>
-        <p>{{ site.data.presidents-message.message }}</p>
+        <p>{{ site.data.homepage.presidents-message.message }}</p>
         <a class="btn btn-primary" href="{{ '/events/calendar' | relative_url }}"><strong>OTHER UPCOMING EVENTS</strong></a> 
     </div>
 </div>

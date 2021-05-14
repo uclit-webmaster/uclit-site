@@ -1,19 +1,39 @@
 <div class="container" data-aos="fade">
-  <div class="row no-gutters">
-    
-    <div class="col-md-4">
-      <div class="jumbotron jumbotron-fluid bg-transparent">
-        <div class="container pl-0">
-          <h1 class="font-secondary">Welcome to the oldest democratically-elected student government in Canada.</h1>
-          <a class="btn btn-primary btn-lg" href="{{ '/about/council' | relative_url }}" role="button"><strong>MEET THE COUNCIL</strong></a>
+    <div class="row no-gutters">
+
+        <div class="col-md-4">
+            <div class="jumbotron jumbotron-fluid bg-transparent">
+                <div class="container pl-0">
+                    <h1 class="font-secondary">Welcome to the oldest democratically-elected student government in Canada.</h1>
+                    <a class="btn btn-primary btn-lg" href="{{ '/about/council' | relative_url }}" role="button"><strong>MEET THE COUNCIL</strong></a>
+                </div>
+            </div>
         </div>
-      </div>
+
+        <div class="col-md-8">
+
+            <div id="jumbotronCarousel" class="carousel slide shadow" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    {% for slide in site.data.homepage.jumbotron-slides %}
+                    <li data-target="#jumbotronCarousel" data-slide-to="{{ forloop.index0 }}" {% if forlop.first == true %}class="active" {% endif %}></li>
+                    {% endfor %}
+                </ol>
+                <div class="carousel-inner">
+                    {% for slide in site.data.homepage.jumbotron-slides %}
+                    <div class="carousel-item{% if forloop.first == true %} active{% endif %}">
+                        <img src="{{ slide.image | relative_url }}" class="d-block w-100" alt="{{ slide.alt-text }}">
+                    </div>
+                    {% endfor %}
+                </div>
+                <a class="carousel-control-prev" href="#jumbotronCarousel" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#jumbotronCarousel" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
     </div>
-    
-    <div class="col-md-8">
-      
-      <img src="{{ '/assets/images/University_College_University_of_Toronto.jpg' | relative_url }}" class="shadow-6 img-fluid" alt="University College East Wing">
-      
-    </div>
-  </div>
 </div>

@@ -6,7 +6,7 @@ Use this table to find the file you need to change.
 
 |Section | Data File| Instructions|
 | -- | -- |-- |
-|President's Message | [_data/presidents-message.yml](../_data/presidents-message.yml)|[guide](#presidents-message)|
+|President's Message | [_data/homepage.yml](../_data/homepage.yml)|[guide](#homepage)|
 |Budgets and Documents | [_data/budgets-documents.yml](../_data/budgets-documents.yml)|[guide](#Budgets-and-Documents)|
 |The Council | [_data/council.yml](../_data/council.yml)|[guide](#Council)|
 |Intramurals | [_data/intramurals.yml](../_data/intramurals.yml)|[guide](#Intramurals)|
@@ -61,14 +61,23 @@ Make sure that the local path you enter leads to a resource that exists, and not
 
 ___
 
-## President's message
-The president's message file just has 3 keywords: `image`, `name` and `message`. Make sure that whatever link you use for the image, you upload the image as well if it wasn't there before.
+## Homepage
+This file controls the president's message and the slideshow to be shown in the homepage. There are 2 top level keywords:
+- `jumbotron-slides`: This contains a list of `image` and `alt-text` keywords, one for each image to be shown in the slideshow.
+- `presidents-message`: 3 keywords: `image`, `name` and `message`. 
+Make sure that whatever link you use for the images, you upload them as well if they weren't there before.
 #### Sample:
 ```yaml
-image: /assets/images/headshots/presidents-headshot.png
-name: President's name
-message: |
-  Paste the president's message here with all the lines indented as shown. If it spans multiple lines because you hit enter, the website will have the same line breaks.
+jumbotron-slides:
+  - image: /assets/images/University_College_University_of_Toronto.jpg
+    alt-text: text to be shown in case the image doesn't load and for screen readers for vision-impaired users.
+  - image: /assets/images/University_College_University_of_Toronto-east-wing.jpg
+    alt-text: University College east wing
+presidents-message:
+  image: /assets/images/headshots/presidents-headshot.png
+  name: President's name
+  message: |
+    Paste the president's message here with all the lines indented as shown. If it spans multiple lines because you hit enter, the website will have the same line breaks.
 ```
 
 ## Budgets and Documents
