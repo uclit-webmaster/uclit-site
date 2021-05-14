@@ -17,9 +17,9 @@
 jumbotron-slides:
   - image: /assets/images/homepage/University_College_University_of_Toronto.jpg
     alt-text: University College East Wing
-  - image: /assets/images/homepage/orientation_2020.png
+  - image: /assets/images/homepage/orientation2020.png
     alt-text: UC Orientation 2020: UC Universe
-  - image: /assets/images/homepage/orientation 2020.png
+  - image: /assets/images/homepage/fireball2020.png
     alt-text: Fireball 2020: Enter the Inferno
 
 presidents-message:
