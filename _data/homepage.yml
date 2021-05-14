@@ -16,6 +16,8 @@
 
 jumbotron-slides:
   - image: /assets/images/homepage/University_College_University_of_Toronto.jpg
+    alt-text: University College East Wing
+  - image: /assets/images/homepage/University_College_University_of_Toronto.jpg
     alt-text: University College east wing
 
 presidents-message:
