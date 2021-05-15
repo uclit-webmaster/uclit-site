@@ -37,6 +37,8 @@ follow_us:
     link: https://snapchat.com/add/uclit_uoft/
   - network: youtube
     link:  https://www.youtube.com/user/UniversityCollegeLit
+  - network: discord
+    link:  https://discord.gg/fKyQjVeh5k
 
 find_us: | # https://yaml-multiline.info/
   15 King’s College Circle
