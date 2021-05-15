@@ -17,14 +17,16 @@
 #   Toronto, ON M5S 3H7
 
 quick_links:
-  - name: The Council
-    link: /about/council
-  - name: Intramurals
+  - name: Join a Commission
+    link: /get-involved/commissions
+  - name: Play in our Intramurals
     link: /get-involved/intramurals
-  - name: UC Clubs
-    link: /get-involved/clubs-and-ancillaries
-  - name: JCR Rentals
+  - name: Run in our Elections
     link: /events/jcr-rentals
+  - name: Check Out UC Clubs/Ancillaries
+    link: /get-involved/clubs-and-ancillaries
+  - name: Work With Us
+    link: /get-involved/jobs-and-employment
 
 follow_us:
   - network: facebook
