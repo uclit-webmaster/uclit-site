@@ -23,6 +23,10 @@ jumbotron-slides:
     alt-text: Fireball 2020, Enter the Inferno
   - image: /assets/images/homepage/corncoming_2019.png
     alt-text: SGRT Corncoming 2019
+  - image: /assets/images/homepage/orientation_2019.png
+    alt-text: UC Orientation 2019, Now UC Me
+  - image: /assets/images/homepage/exam destressor_2019.png
+    alt-text: University and Academic Affairs Exam Destressor 2019
 
 presidents-message:
   image: /assets/images/homepage/All_our_meetings_will_be_held_at_12_pm_on_the_following_dates..._copy.jpg
