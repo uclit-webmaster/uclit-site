@@ -45,11 +45,11 @@ jobs:
       Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags
       - left: Term of Hire
-        right: May 2021-22 (S, F, W)
+        right: May 2021-22 (Summer Term, Fall Term, Winter Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
-        right: $200 (S), $100 (F), $200 (W)
+        right: $200 (Summer Term), $100 (Fall Term), $200 (Winter Term)
       - left: Number of Positions
         right: 1
       - left: Supervisors
@@ -68,11 +68,11 @@ jobs:
       Please submit an accurate and up-to-date Résumé or CV along with a completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: February 2021-2022 (S, F, W)
+        right: February 2021-2022 (Summer Term, Fall Term, Winter Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
-        right: $2800 (S), $1,400 (F), $2,800 (W)
+        right: $2800 (Summer Term), $1,400 (Fall Term), $2,800 (Winter Term)
       - left: Number of Positions
         right: 2
       - left: Supervisors
@@ -91,11 +91,11 @@ jobs:
       Please submit an accurate and up-to-date Resume along with the completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: May 2021- January 2022 (S, F, W)
+        right: May 2021- January 2022 (Summer Term, Fall Term, Winter Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
-        right: Coming Soon!
+        right: $880 (Summer Term), $880 (Fall Term), $440 (Winter Term)
       - left: Number of Positions
         right: 2
       - left: Supervisors
@@ -114,13 +114,13 @@ jobs:
       Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: April 2021-22 (S, F, W)
+        right: April 2021-22 (Summer Term, Fall Term, Winter Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
         right: |
-          $500 (S), $1020 (F), Variable (W)
-          Add. hours (≤10) at $16/hr (F, W) poss.)
+          $500 (Summer Term), $1020 (Fall Term), Variable (Winter Term)
+          Additional hours (≤10) at $16/hr (Fall Term, Winter Term) posible
       - left: Number of Positions
         right: 1
       - left: Supervisors
@@ -137,12 +137,12 @@ jobs:
       Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: April 2021-22 (S, F, W)
+        right: April 2021-22 (Summer Term, Fall Term, Winter Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
         right: |
-          $1000 (S), $1000 (F), $1050 (W)
+          $1000 (Summer Term), $1000 (Fall Term), $1050 (Winter Term)
           Add. hours poss. at $50/mtg.
       - left: Number of Positions
         right: 1
@@ -160,12 +160,12 @@ jobs:
       Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: April 2021-22 (S, F, W)
+        right: April 2021-22 (Summer Term, Fall Term, Winter Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
         right: | 
-          $160 (S), $160 (F), $200 (W)
+          $160 (Summer Term), $160 (Fall Term), $200 (Winter Term)
           Add. hours poss. at $40/mtg.
       - left: Number of Positions
         right: 1
