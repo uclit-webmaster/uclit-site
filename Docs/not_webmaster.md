@@ -369,7 +369,7 @@ The footer of the site consists of a row of 4 sections: a general logo section, 
     - `name`: the text that will be clickable
     - `link`: the url that the text will lead to. Like the nav bar above, the links can be relative or external (see sample above)
 - `follow_us`: contains a list of contact links
-    - `network`: one of `facebook`, `twitter`, `instagram`, `youtube`, `e-mail`, `square`, `snapchat` or `website`. Controls which icon to show for this link
+    - `network`: one of `facebook`, `twitter`, `instagram`, `youtube`, `e-mail`, `square`, `snapchat`, `discord` or `website`. Controls which icon to show for this link
     - `link`: the url where this icon leads to
 - `find_us`: put address here, as shown in the sample. Note that since it starts with a "|" character, the website will respect the line breaks. So it'll be shown on the site the same way it shows in the data file. [Click here](https://yaml-multiline.info/) to see an explanation.
 #### Sample:
