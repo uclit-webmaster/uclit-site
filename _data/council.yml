@@ -25,7 +25,7 @@
 - group: Core Executives
   people:
   - name: Juliana Melino
-    image: assets/images/commissions-icons/PRESIDENT.png
+    image: assets/images/headshots/juliana.jpg
     role: President
     pronouns: She/Her
     from: Scarborough, Ontario
@@ -37,7 +37,7 @@
        "There is nothing stronger in the world than gentleness"
        - Han Suyin
   - name: Youssef Metwally
-    image: assets/images/commissions-icons/VP.png
+    image: assets/images/headshots/youssef.jpg
     role: Vice President
     pronouns: He/Him
     from: South Riding, Virginia
@@ -74,7 +74,7 @@
     favourite-quote: |
        "Behind every successful person is a substantial amount of coffee"
   - name: Lucy Stark
-    image: assets/images/commissions-icons/EO.png
+    image: assets/images/headshots/lucy.jpg
     role: Equity
     pronouns: She/Her
     from: Wilmington, Delaware
@@ -258,7 +258,7 @@
        "What we see changes according to what we look for"
        - E.J. Koh, The Magical Language of Others
   - name: Sarah Chen
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/sarah.jpg
     role: Mid-Year Representative
     pronouns: She/Her
     from: Vancouver, British Columbia
@@ -270,7 +270,7 @@
        "Trust the timing of your life"
        - Brittany Burgunder
   - name: Violet Mackintosh
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/violet.jpeg
     role: Mid-Year Representative
     pronouns: She/Her
     from: London, United Kingdom
@@ -337,7 +337,7 @@
 - group: UTSU UC Directors
   people:
   - name: Easha Khan
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/easha.jpeg
     role: UC Director
     pronouns: She/Her
     from: Vaughan, Ontario
@@ -401,7 +401,7 @@
 - group: Deputies
   people: 
   - name: Chloe Tse
-    image: assets/images/commissions-icons/VP.png
+    image: assets/images/headshots/chloe .jpg
     role: Vice President Internal Deputy
     pronouns: She/Her
     from: Toronto, Ontario
@@ -437,7 +437,7 @@
     favourite-part-about-uc: ---
     favourite-quote: ---
   - name: Maya Javier
-    image: assets/images/commissions-icons/EO.png
+    image: assets/images/headshots/maya .JPG
     role: Equity Deputy
     pronouns: She/Her
     from: Vancouver, British Columbia
@@ -481,7 +481,7 @@
        "I don't exactly know what I mean by that, but I mean it"
        - J.D. Salinger
   - name: Thérèse Perucho
-    image: assets/images/commissions-icons/LCA.png
+    image: assets/images/headshots/therese.jpeg
     role: Literary and Creative Arts Deputy
     pronouns: She/her
     from: Brampton, Ontario
@@ -492,7 +492,7 @@
        "Be who you are and say what you feel because those who mind don't matter, and those who matter don't mind"
        - Dr. Seuss
   - name: Jesse McDougall
-    image: assets/images/commissions-icons/ATHLETICS.png
+    image: assets/images/headshots/jesse.JPG
     role: Athletics Deputy
     pronouns: He/Him
     from: Vermont, United States
@@ -512,7 +512,7 @@
        "It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable"
        - Socrates
   - name: Emma Caramazza
-    image: assets/images/commissions-icons/UAA.png
+    image: assets/images/headshots/emma.JPG
     role: University and Academic Affairs Deputy
     pronouns: She/Her
     from: Washington, D.C.
@@ -592,7 +592,7 @@
   people: 
   - name: Rubaina Farin
     pronouns: She/Her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/rubaina.JPG
     role: Secretary
     from: Toronto, Ontario
     major: Second Year in Life Sciences
@@ -603,7 +603,7 @@
       - Captain America
   - name: Jad El-Ghali
     pronouns: He/Him
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/jad.jpeg
     role: Speaker
     from: Mississauga, Ontario
     major: Third Year in Political Science & Sociology 
