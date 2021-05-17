@@ -3,15 +3,15 @@ layout: default
 title: Commissions
 ---
 <h1 class="font-secondary">Commissions</h1>
+<p data-aos="fade-up">
+    Committees are the central organ of the Society, performing any number of essential and auxilliary functions. There are multiple types of Commmittees, some which persist each year, and some which are struck as necessary, or for other purposes. Check out the types below, and get in touch with the <a href="mailto:president@uclit.ca">President's Office</a> if you're interested in joining!
+</p>
 <div class="container">
   <div class="row ">
     {% for commission in site.data.commissions %}
     <div class="col-md-6 p-2" data-aos="fade-{% cycle 'right', 'left' %}">
       <div class="card shadow">
         <div class="card-body">
-<p data-aos="fade-up">
-    Committees are the central organ of the Society, performing any number of essential and auxilliary functions. There are multiple types of Commmittees, some which persist each year, and some which are struck as necessary, or for other purposes. Check out the types below, and get in touch with the <a href="mailto:president@uclit.ca">President's Office</a> if you're interested in joining!
-</p>
             
           <div class="d-flex commission-header">
             <img src="{{ commission.image | relative_url }}" class="commission-icon">
