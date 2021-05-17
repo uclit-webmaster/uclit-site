@@ -74,7 +74,7 @@
     favourite-quote: |
        "Behind every successful person is a substantial amount of coffee"
   - name: Lucy Stark
-    image: assets/images/headshots/lucy.jpg
+    image: assets/images/headshots/lucy.jpeg
     role: Equity
     pronouns: She/Her
     from: Wilmington, Delaware
@@ -337,7 +337,7 @@
 - group: UTSU UC Directors
   people:
   - name: Easha Khan
-    image: assets/images/headshots/easha.jpeg
+    image: assets/images/headshots/easha2.jpeg
     role: UC Director
     pronouns: She/Her
     from: Vaughan, Ontario
@@ -592,7 +592,7 @@
   people: 
   - name: Rubaina Farin
     pronouns: She/Her
-    image: assets/images/headshots/rubaina.JPG
+    image: assets/images/headshots/rubaina2.jpeg
     role: Secretary
     from: Toronto, Ontario
     major: Second Year in Life Sciences
