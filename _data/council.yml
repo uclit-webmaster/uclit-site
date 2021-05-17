@@ -120,7 +120,7 @@
        "Troy"
        - Gabriella
   - name: Hannah Roberts
-    image: assets/images/commissions-icons/ATHLETICS.png
+    image: assets/images/headshots/hannahr.JPG
     role: Athletics
     pronouns: She/Her
     from: Mississauga, Ontario
@@ -132,7 +132,7 @@
        "I prefer not to speak. If I speak, I am in big trouble"
        - José Mourinho
   - name: Aalina Bilal
-    image: assets/images/commissions-icons/UAA.png
+    image: assets/images/headshots/aalina.jpeg
     role: University & Academic Affairs
     pronouns: She/Her
     from: Lahore, Pakistan 
@@ -246,7 +246,7 @@
        "We are what we repeatedly do, excellence then, is not an act but a habit"
        - Aristotle
   - name: Neha Sultana
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/neha.jpg
     role: Mid-Year Representative
     pronouns: She/Her
     from: Toronto, Ontario
