@@ -85,7 +85,7 @@ jobs:
       University College Commuter Orientation (or MyJourney) is a two-day program which provides incoming commuter students with transition support, as well as a sense of collegiality and community.
       
       <p>The Commuter Orientation Co-Chairs are responsible for overseeing all operations of Commuter Orientation. The role will require approximately 10 hours per week in June & July, and 15 hours per week in August.
-    currently-accepting: true
+    currently-accepting: false
     application-link: http://bit.ly/commuterorientation21
     application-instructions: |
       Please submit an accurate and up-to-date Resume along with the completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>.
@@ -101,7 +101,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Accepting Applications Until Wednesday, May 19 2021
+        right: Not Currently Accepting Applications
 
   - title: Diabolos Manager
     position-outline: |
