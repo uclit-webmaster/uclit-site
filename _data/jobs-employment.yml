@@ -45,7 +45,7 @@ jobs:
       Please submit an accurate and up-to-date Résumé or CV along with a brief Statement of Intent (Max 250 Words) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags
       - left: Term of Hire
-        right: May 2021-22 (Summer Term, Fall Term, Winter Term)
+        right: June 2021-22 (Summer Term, Fall Term, Winter Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
@@ -55,7 +55,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Not Currently Accepting Applications
+        right: Accepting Applications Until June 11, 2021!
 
   - title: Orientation Chair
     position-outline: |
