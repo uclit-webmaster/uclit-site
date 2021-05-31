@@ -15,7 +15,7 @@
   commissioners: HANNAH ROBERTS WITH JESSE MCDOUGALL AND AWS MUSTAFA
   description: The Athletics Commission runs all sports themed events, such as ski trips, Raptors games, viewing parties and much more! They also oversee all the UC intramurals - more information about joining a team can be found on the Intramurals page!
 
-- name: LITERARY & CREATIVE ARTS (LCA)
+- name: LITERARY & CREATIVE ARTS
   image: assets/images/commissions-icons/lca.svg
   email: lca@uclit.ca
   commissioners: HANNAH FLEISCH WITH THÉRÈSE DOMINGA PERUCHO
@@ -68,7 +68,8 @@
   email: formals@uclit.ca
   commissioners: NATALIA LANDAVERDE WITH KENZY EL-MORSI
   description: The Formals Commission brings us our annual Fireball, the largest semi-formal on campus! This commission also runs the Year-End Ball and Red & White, our other two semi-formals.
-- name: OFF CAMPUS (UCOC)
+
+- name: OFF CAMPUS
   image: assets/images/commissions-icons/ucoc.svg
   email: ucoc@uclit.ca
   commissioners: COMING SOON!
