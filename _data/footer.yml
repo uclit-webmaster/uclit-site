@@ -17,13 +17,13 @@
 #   Toronto, ON M5S 3H7
 
 quick_links:
-  - name: Join a Commission
+  - name: Commissions
     link: /get-involved/commissions
-  - name: Play in Our Intramurals
+  - name: Intramurals
     link: /get-involved/intramurals
-  - name: Run in Our Elections
+  - name: Elections
     link: /events/jcr-rentals
-  - name: Check Out UC Clubs/Ancillaries
+  - name: UC Clubs/Ancillaries
     link: /get-involved/clubs-and-ancillaries
   - name: Work With Us
     link: /get-involved/jobs-and-employment
@@ -44,3 +44,4 @@ find_us: | # https://yaml-multiline.info/
   15 King’s College Circle
   Junior Common Room (JCR)
   Toronto, ON M5S 3H7
+  contact@uclit.ca
