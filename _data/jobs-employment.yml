@@ -60,7 +60,7 @@ jobs:
   - title: Elections Coordinator
     position-outline: |
       The Elections Coordinator manages and maintains the Society's elections, ensuring that they are fair, equitable, and accessible to all UC students. This is a paid position with an honorarium of $200 paid after the successful conclusion and report to Council of the Fall Elections, and the remaining $500 paid after the successful conclusion and report to council of the Spring Elections.
-    currently-accepting: true
+    currently-accepting: false
     application-link: https://docs.google.com/document/d/1H9HFMPyHLVOmouyjefOnh8s-038vYh1d7UpXZMJ45qU/edit?usp=sharing
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
