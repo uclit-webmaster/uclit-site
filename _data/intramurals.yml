@@ -45,19 +45,5 @@ text: |
   <p>If you register for an open doubles sport you are free to partner with a student from another college/faculty as long as you indicate that below. Both partners must register for intramurals through their respective college/faculty.</p>
   
   <p>For inquiries about intramurals, contact Hannah Roberts at <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> or Deputies Jesse McDougall and Aws Mustafa at <a href="mailto:coed@uclit.ca">coed@uclit.ca</a> and <a href="mailto:womens@uclit.ca">womens@uclit.ca</a></p>
-
-sports:
-  - name: Basketball
-    image: /assets/images/intramurals-photos/uclit-basketball.png
-  - name: Volleball
-    image: /assets/images/intramurals-photos/uclit-volleyball.png
-  - name: Soccer
-    image: /assets/images/intramurals-photos/uclit-soccer.png
-  - name: Badminton
-    image: /assets/images/intramurals-photos/uclit-badminton.png
-  - name: Hockey
-    image: /assets/images/intramurals-photos/uclit-hockey.png
-  - name: Dodgeball
-    image: /assets/images/intramurals-photos/uclit-dodgeball.png
   
 sign-up-link: "https://forms.gle/KWD9TnWm1rYeWb1P9"
