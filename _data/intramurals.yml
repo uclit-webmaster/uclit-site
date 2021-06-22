@@ -25,6 +25,13 @@
 text: |
   <p><strong> Registration for Summer 2021 UC Intramurals is now open until June 28th! After this date, you must email <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> to check availability. </strong></p>
   
+      <p>Sports available for the year are:</p>
+  <p class="mb-0"><strong>OPEN DOUBLES</strong></p>
+  <ul><li><strong>Spikeball<strong> - Choice between Wednesdays 6:15-8:15pm (July 14th - August 11th) and Saturdays 2pm-4:15pm (July 17th - August 14th)</li></ul>
+  <ul><li>CornHole - Mondays, game start time 6pm-8pm (July 12th - August 16th)</li></ul>
+  <ul><li>Kan Jam - Tuesdays, game start time 7pm-9:15pm (July 13th - August 10th)</li></ul>
+  <ul><li>Soccer Tennis - Thursdays, game start time 6pm-8:15pm (July 15th - August 12th)</li></ul>
+  
   <p>UofT's Intramural Program provides an opportunity for students to play on their college's sports teams, fostering friendly competition between students across campus. Competing in intramurals is one of the easiest ways to get involved in the UC community. If you would like to join a UC intramural team or compete in one of the singles sports, please fill out the form below.</p> 
 
   <p>Players are more than welcome to sign up for multiple UC intramural teams or sports, however, separate forms are required for each sport.</p>
@@ -37,16 +44,6 @@ text: |
 
   <p>If you register for an open doubles sport you are free to partner with a student from another college/faculty as long as you indicate that below. Both partners must register for intramurals through their respective college/faculty.</p>
   
-
-
-
-    <p>Sports available for the year are:</p>
-  <p class="mb-0"><strong>OPEN DOUBLES</strong></p>
-  <ul><li>Spikeball (Choice between Wednesdays 6:15-8:15pm and Saturdays 2pm-4:15pm)</li></ul>
-  <ul><li>Cornhole (Mondays, game start time 6pm-8pm)</li></ul>
-  <ul><li>Kanjam (Tuesdays, game start time 7pm-9:15pm)</li></ul>
-  <ul><li>Soccer Tennis (Thursdays, game start time 6pm-8:15pm)</li></ul>
-
   <p>For inquiries about intramurals, contact Hannah Roberts at <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> or Deputies Jesse McDougall and Aws Mustafa at <a href="mailto:coed@uclit.ca">coed@uclit.ca</a> and <a href="mailto:womens@uclit.ca">womens@uclit.ca</a></p>
 
 sports:
