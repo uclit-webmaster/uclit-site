@@ -39,7 +39,7 @@ jobs:
   - title: Web Coordinator
     position-outline: |
       The Web Coordinator manages and maintains the Society's domain, namely by developing the website, while working closely with the Communications and Outreach Commission to coordinate all forms of digital communication and social media. The position entails ≤8 per-week hours.
-    currently-accepting: true
+    currently-accepting: false
     application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
@@ -55,12 +55,12 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Accepting Applications Until June 28, 2021!
+        right: Not Currently Accepting Applications
         
   - title: Elections Coordinator
     position-outline: |
       The Elections Coordinator manages and maintains the Society's elections, ensuring that they are fair, equitable, and accessible to all UC students. This is a paid position with an honorarium of $200 paid after the successful conclusion and report to Council of the Fall Elections, and the remaining $500 paid after the successful conclusion and report to council of the Spring Elections.
-    currently-accepting: false
+    currently-accepting: true
     application-link: https://docs.google.com/document/d/1H9HFMPyHLVOmouyjefOnh8s-038vYh1d7UpXZMJ45qU/edit?usp=sharing
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
@@ -76,7 +76,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Not Currently Accepting Applications
+        right: Accepting Applications!
 
   - title: Orientation Chair
     position-outline: |
