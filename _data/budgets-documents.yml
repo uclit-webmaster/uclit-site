@@ -17,7 +17,7 @@
     - text: BUDGETS
       link: https://drive.google.com/drive/folders/14_9anw58AZrzG13NJVxtCHPWk7nAliAc?usp=sharing
       
-- heading: Constitution and Policies
+- heading: Constitution and Council Policies
   text: |
     Below are the University College Literary & Athletic Society Constitution and Council Policies which govern our society. These documents are frequently updated and improved to better serve the needs of UC students. If you have any questions or concerns on these documents please contact the <a href="mailto:vp@uclit.ca">Office of the Vice President</a>.
   documents:
@@ -26,13 +26,20 @@
     - text: COUNCIL POLICIES
       link: /assets/documents/Council Policies.pdf
       
-- heading: Minutes
+- heading: Meeting Minutes
   text: |
-    Minutes contain brief summaries of our meetings. We do our best to ensure these are accurate and fair though they are sometimes incomplete. If you feel there is an issue about any topic within them or would like further information please do not hesitate to contact the <a href="mailto:vp@uclit.ca">Vice President's Office</a>. Minutes from the previous meeting are posted following approval at the subsequent meeting.
+    Minutes contain brief summaries of our meetings. We do our best to ensure these are accurate and fair though they are sometimes incomplete. If you feel there is an issue about any topic within them or would like further information please do not hesitate to contact the <a href="mailto:vp@uclit.ca">Office of the Vice President</a>. Minutes from the previous meeting are posted following approval at the subsequent meeting.
   documents: 
     - text: MINUTES
       link: https://drive.google.com/drive/folders/1J_zc1Gvm32twSk6NsGnlIpBtR4pnQ0rO?usp=sharing
     - text: AGM MINUTES
       link: https://drive.google.com/drive/u/1/folders/1f4oxho1ClTtUwxgr4BAwcPPWcrg_-dKU
+      
+- heading: Council Attendance Tracker
+  text: |
+    This document tracks the each member of Council's record of attendance. We do our best to ensure these are accurate and fair though they are sometimes incomplete. If you feel there is an issue about any topic within them or would like further information please do not hesitate to contact the <a href="mailto:vp@uclit.ca">Office of the Vice President</a>.
+  documents: 
+    - text: Attendance Tracker
+      link: https://docs.google.com/spreadsheets/d/1BuuAXkLzwPuEElihS0_hhFNelm16c6W4KyqRefqT-70/edit?usp=sharing
 
   
