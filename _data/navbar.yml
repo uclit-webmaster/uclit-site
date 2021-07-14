@@ -36,6 +36,8 @@
       link: get-involved/jobs-and-employment
 - name: Resources
   options:
+  - name: Constitution and Council Policies
+    link: resources/constitution-council-policies
   - name: Budgets and Documents
     link: resources/budgets-documents
   - name: Student Initiatives Fund
