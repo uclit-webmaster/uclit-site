@@ -46,6 +46,8 @@
     link: resources/student-fees-and-levies
 - name: Events
   options:
+    - name: Event Photos
+      link: https://drive.google.com/drive/folders/1296dL_YlLI1NADdnJDwbYUp-6kj7CZOE?usp=sharing
     - name: Calendar
       link: events/calendar
     - name: JCR Rentals
