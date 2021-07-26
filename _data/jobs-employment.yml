@@ -76,7 +76,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Accepting Applications!
+        right: Not Currently Accepting Applications
 
   - title: Orientation Chair
     position-outline: |
