@@ -29,8 +29,7 @@ title: The Council
               <div class="card shadow">
                 <img src="{{ person.image | relative_url }}" class="card-img-top bg-primary" alt="{{ person.name }}">
                 <div class="card-body">
-                  <h5 class="card-title">{{ person.name }}</h5>
-                  <span class="card-subtitle mb-2">{{ person.pronouns }}</span>
+                  <h5 class="card-title">{{ person.name }}</h5>{{ person.pronouns }} <br>
                   <h6 class="card-subtitle mb-2 text-muted">{{ person.role }}</h6>
                   <p class="card-text"><i class="fas fa-map-marked-alt"></i> {{ person.from }} <br>
                   <i class="fas fa-graduation-cap"></i> {{ person.major }}</p>
