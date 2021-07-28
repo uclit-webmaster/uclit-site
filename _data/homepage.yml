@@ -30,7 +30,7 @@ jumbotron-slides:
 
 presidents-message:
   image: /assets/images/homepage/All_our_meetings_will_be_held_at_12_pm_on_the_following_dates..._copy.jpg
-  name: 2021-2022 Meeting Dates
+  name: Meeting Dates (2021-2022)
   # https://yaml-multiline.info/ (info about multiline strings in yaml)
   message: |
     Any UC student is welcome to attend our meetings! Visit <a href="https://bit.ly/uclitmonthlymeetings">bit.ly/uclitmonthlymeetings</a> and enter the password <strong>reznikoff</strong> to join.
