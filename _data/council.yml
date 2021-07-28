@@ -27,7 +27,6 @@
   - name: Juliana Melino (she/her)
     image: assets/images/headshots/juliana.jpg
     role: President
-    pronouns: She/Her
     from: Scarborough, Ontario
     major: Third Year in English, History, & Education and Society
     email: president@uclit.ca
@@ -39,7 +38,6 @@
   - name: Youssef Metwally
     image: assets/images/headshots/youssef.jpg
     role: Vice President
-    pronouns: He/Him
     from: South Riding, Virginia
     major: Third Year in Critical Equity & American Studies
     email: vp@uclit.ca
@@ -51,7 +49,6 @@
   - name: Shreyansi Gandhi 
     image: assets/images/headshots/shreyansi.jpeg
     role: Finance
-    pronouns: She/Her
     from: Mumbai, India
     major: Second Year in Economics, Statistics, & Spanish
     email: finance@uclit.ca
@@ -65,7 +62,6 @@
   - name: Basma Mohamed-Saeed
     image: assets/images/headshots/basma.jpg
     role: Communications and Outreach
-    pronouns: She/Her
     from: Etobicoke, Ontario
     major: Fourth Year in Criminology, Sociology, & Equity
     email: communications@uclit.ca
@@ -76,7 +72,6 @@
   - name: Lucy Stark
     image: assets/images/headshots/lucy.jpeg
     role: Equity
-    pronouns: She/Her
     from: Wilmington, Delaware
     major: Third Year in History & Economics
     email: equity@uclit.ca
@@ -88,7 +83,6 @@
   - name: Coming Soon!
     image: assets/images/commissions-icons/UCOC.png
     role: Off-Campus
-    pronouns: ---
     from: ---
     major: ---
     email: ---
@@ -98,7 +92,6 @@
   - name: Willow Cabral
     image: assets/images/headshots/willow.jpg
     role: Sustainability
-    pronouns: She/Her
     from: Vancouver Island, British Columbia
     major: Fourth Year in Human/Environmental Geography (Focus in Planning) & Urban Studies
     email: sustainability@uclit.ca
@@ -110,7 +103,6 @@
   - name: Hannah Fleisch
     image: assets/images/headshots/hannahf.jpeg
     role: Literary and Creative Arts
-    pronouns: She/Her
     from: Johannesburg, South Africa
     major: Fourth Year in Cinema Studies, Physics, & Diaspora and Transnational Studies
     email: lca@uclit.ca
@@ -122,7 +114,6 @@
   - name: Hannah Roberts
     image: assets/images/headshots/hannahr.JPG
     role: Athletics
-    pronouns: She/Her
     from: Mississauga, Ontario
     major: Fourth Year in Political Science & Sociology
     email: athletics@uclit.ca
@@ -134,7 +125,6 @@
   - name: Aalina Bilal
     image: assets/images/headshots/aalina.jpeg
     role: University & Academic Affairs
-    pronouns: She/Her
     from: Lahore, Pakistan 
     major: Fourth Year in Psychology, Cognitive Science, & Philosophy
     email: uaa@uclit.ca
@@ -146,7 +136,6 @@
   - name: Divya Gupta
     image: assets/images/headshots/divya.jpg
     role: Mental Wellness
-    pronouns: She/Her
     from: New Dehli, India
     major: Second Year in Psychology, Computer Science, & Cognitive Science
     email: wellness@uclit.ca
@@ -158,7 +147,6 @@
   - name: Natalia Landaverde 
     image: assets/images/headshots/natalia.jpeg
     role: Formals
-    pronouns: She/Her
     from: Vaughan, Ontario
     major: Fourth Year in Criminology, English, & History
     email: formals@uclit.ca
@@ -170,7 +158,6 @@
   - name: Honesty Senese
     image: assets/images/headshots/honesty.jpeg
     role: Spirit and Social
-    pronouns: She/Her
     from: Niagara Falls, Ontario
     major: Fourth Year in Neuroscience & Psychology
     email: social@uclit.ca
@@ -184,7 +171,6 @@
   - name: Coming Soon! 
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
-    pronouns: ---
     from: ---
     major: ---
     email: ---
@@ -194,7 +180,6 @@
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
-    pronouns: ---
     from: ---
     major: ---
     email: ---
@@ -204,7 +189,6 @@
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
-    pronouns: ---
     from: ---
     major: ---
     email: ---
@@ -214,7 +198,6 @@
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
-    pronouns: ---
     from: ---
     major: ---
     email: ---
@@ -224,7 +207,6 @@
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
-    pronouns: ---
     from: ---
     major: ---
     email: ---
@@ -236,7 +218,6 @@
   - name: Michelle Sue
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
-    pronouns: She/Her
     from: North Vancouver, British Columbia
     major: Second Year in Physiology & Global Health
     email: michelle@uclit.ca
@@ -248,7 +229,6 @@
   - name: Neha Sultana
     image: assets/images/headshots/neha.jpg
     role: Mid-Year Representative
-    pronouns: She/Her
     from: Toronto, Ontario
     major: Second Year in Sociocultural and Linguistic Anthropology (Focus in Medical Anthropology), History, & Political Science
     email: neha@uclit.ca
@@ -260,7 +240,6 @@
   - name: Sarah Chen
     image: assets/images/headshots/sarah.jpg
     role: Mid-Year Representative
-    pronouns: She/Her
     from: Vancouver, British Columbia
     major: Second Year in Environmental Geography, Geographic Information Systems (GIS), & Contemporary Asian Studies
     email: sarah@uclit.ca
@@ -272,7 +251,6 @@
   - name: Violet Mackintosh
     image: assets/images/headshots/violet.jpeg
     role: Mid-Year Representative
-    pronouns: She/Her
     from: London, United Kingdom
     major: Second Year in German & Political Science 
     email: violet@uclit.ca
@@ -283,8 +261,7 @@
        - Mark Twain
   - name: Kiana Ravanasa
     image: assets/images/headshots/kiana.jpeg
-    role: Mid-Year Representative
-    pronouns: She/her
+    role: Mid-Year Representative-
     from: Chicago, Illinois
     major: Second Year in Economics & Statistics 
     email: kiana@uclit.ca
@@ -295,7 +272,6 @@
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
-    pronouns: ---
     from: ---
     major: ---
     email: ---
@@ -307,7 +283,6 @@
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
-    pronouns: ---
     from: ---
     major: ---
     email: ---
@@ -317,7 +292,6 @@
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
-    pronouns: ---
     from: ---
     major: ---
     email: ---
@@ -327,7 +301,6 @@
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
-    pronouns: ---
     from: ---
     major: ---
     email: ---
@@ -339,7 +312,6 @@
   - name: Easha Khan
     image: assets/images/headshots/easha2.jpeg
     role: UC Director
-    pronouns: She/Her
     from: Vaughan, Ontario
     major: Second Year in Political Science, English, & Canadian Studies
     email: easha@uclit.ca
@@ -350,7 +322,6 @@
   - name: Muskan Nagra
     image: assets/images/headshots/muskan.jpg
     role: UC Director
-    pronouns: She/Her
     from: Brampton, Ontario
     major: Second Year in Humanities
     email: muskan@uclit.ca
@@ -395,7 +366,6 @@
   - name: Chloe Tse
     image: assets/images/headshots/chloe2.jpg
     role: Vice President Internal Deputy
-    pronouns: She/Her
     from: Toronto, Ontario
     major: Third Year in Neuroscience & Health Studies
     email: chloe.tse@mail.utoronto.ca
@@ -403,7 +373,6 @@
   - name: Kieley Mackey
     image: assets/images/headshots/kieley.jpg
     role: Vice-President Clubs Deputy
-    pronouns: She/Her
     from: Barrie, Ontario
     major: Fourth Year in Health Studies and Bioethics
     email: kieleymackey.mackey@mail.utoronto.ca
@@ -411,7 +380,6 @@
   - name: Arina Mnatsakanyan
     image: assets/images/headshots/arina.jpeg
     role: Finance Deputy
-    pronouns: She/Her
     from: Toronto, Ontario
     major: Fourth Year in  International Relations, Psychology, & Physiology 
     email: arina.mnatsakanyan@mail.utoronto.ca
@@ -419,7 +387,6 @@
   - name: Subhi Jha
     image: assets/images/commissions-icons/EO.png
     role: Equity Deputy
-    pronouns: She/Her
     from: Bihar, India
     major: Third Year in History, Philosophy, & English
     email: subhi.jha@mail.utoronto.ca
@@ -430,7 +397,6 @@
   - name: Maya Javier
     image: assets/images/headshots/maya.jpg
     role: Equity Deputy
-    pronouns: She/Her
     from: Vancouver, British Columbia
     major: Second Year in Critical Equity Studies & Political Science
     email: maya.javier@mail.utoronto.ca
@@ -441,7 +407,6 @@
   - name: Tasneem Choudhury
     image: assets/images/headshots/tasneem.JPG
     role: Off-Campus Deputy
-    pronouns: She/Her
     from: Toronto, Ontario
     major: Second Year in English, History, & Education and Society 
     email: t.choudhury@mail.utoronto.ca
@@ -452,7 +417,6 @@
   - name: Erika Lindsay
     image: assets/images/headshots/erika.jpg
     role: Sustainability Deputy
-    pronouns: She/Her
     from: Brampton, Ontario
     major: Fourth Year in Human Geography, Urban Studies, & Political Science
     email: erika.lindsay@mail.utoronto.ca
@@ -463,7 +427,6 @@
   - name: Alex Levesque
     image: assets/images/headshots/alex.jpg
     role: Sustainability Deputy
-    pronouns: He/Him
     from: Toronto, Ontario
     major: Third year in  Sociology, Political Science, & Environmental Studies
     email: al.levesque@mail.utoronto.ca
@@ -474,7 +437,6 @@
   - name: Thérèse Perucho
     image: assets/images/headshots/therese.jpeg
     role: Literary and Creative Arts Deputy
-    pronouns: She/her
     from: Brampton, Ontario
     major: Third Year in Human Geography, Political Science, & Practical French
     email: therese.perucho@mail.utoronto.ca
@@ -485,7 +447,6 @@
   - name: Jesse McDougall
     image: assets/images/headshots/jesse.jpeg
     role: Athletics Deputy
-    pronouns: He/Him
     from: Vermont, United States
     major: Third Year in Political Science & Spanish
     email: jesse.mcdougall@mail.utoronto.ca
@@ -493,7 +454,6 @@
   - name: Aws Mustafa
     image: assets/images/commissions-icons/ATHLETICS.png
     role: Athletics Deputy
-    pronouns: He/Him
     from: Toronto, Ontario
     major: Second Year in Human Bio & Molecular Genetics
     email: aws.mustafa@mail.utoronto.ca
@@ -504,7 +464,6 @@
   - name: Emma Caramazza
     image: assets/images/headshots/emma.JPG
     role: University and Academic Affairs Deputy
-    pronouns: She/Her
     from: Washington, D.C.
     major: Second Year in Political Science
     email: emma.caramazza@mail.utoronto.ca
@@ -515,7 +474,6 @@
   - name: Fatima Abbasi
     image: assets/images/headshots/fatima.jpg
     role: Communications and Outreach Deputy
-    pronouns: She/Her
     from: Mississauga, Ontario
     major: Third Year in Political Science & Islamic Studies 
     email: noor.abbasi@mail.utoronto.ca
@@ -526,7 +484,6 @@
   - name: Chelsea Song
     image: assets/images/headshots/chelsea.jpg
     role: Communications and Outreach Deputy
-    pronouns: She/her
     from: Toronto, Ontario
     major: Third Year in Human Biology & Physiology
     email: chelsea.song@mail.utoronto.ca
@@ -537,7 +494,6 @@
   - name: Ali Syed
     image: assets/images/headshots/ali2.jpg
     role: Mental Wellness Deputy
-    pronouns: He/Him
     from: Milton, Ontario
     major: Third Year in Computer Science
     email: al.syed@mail.utoronto.ca
@@ -548,7 +504,6 @@
   - name: Kenzy El-Morsi
     image: assets/images/commissions-icons/FORMALS.png
     role: Formals Deputy
-    pronouns: She/Her
     from: Cairo, Egypt
     major: Third Year in Diaspora and Transnational Studies, Cinema Studies & Political Science
     email:  kenzy.elmorsi@mail.utoronto.ca
@@ -559,7 +514,6 @@
   - name: Aiyana Harvey
     image: assets/images/headshots/aiyana.jpg
     role: Spirit and Social Deputy
-    pronouns: She/Her
     from: Calgary, Alberta
     major: Fourth Year in French Literature & Drama
     email: aiyana.harvey@mail.utoronto.ca
@@ -570,7 +524,6 @@
   - name: Scarlett Mackay
     image: assets/images/commissions-icons/SOCIAL.png
     role: Spirit and Social Deputy
-    pronouns: She/Her
     from: London, England
     major: Fourth Year in Human Geography & Sociology, Minor in French
     email: scarlett.mackay@mail.utoronto.ca
@@ -581,7 +534,6 @@
 - group: Staff
   people: 
   - name: Rubaina Farin
-    pronouns: She/Her
     image: assets/images/headshots/rubaina2.jpeg
     role: Secretary
     from: Toronto, Ontario
@@ -592,7 +544,6 @@
       "I can do this all day"
       - Captain America
   - name: Jad El-Ghali
-    pronouns: He/Him
     image: assets/images/headshots/jad2.jpeg
     role: Speaker
     from: Mississauga, Ontario
