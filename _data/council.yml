@@ -24,7 +24,8 @@
 
 - group: Core Executives
   people:
-  - name: Juliana Melino (she/her)
+  - name: Juliana Melino
+    pronouns: she/her
     image: assets/images/headshots/juliana.jpg
     role: President
     from: Scarborough, Ontario
