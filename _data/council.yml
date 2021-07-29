@@ -47,7 +47,8 @@
     favourite-quote: |
        "Believe in something even if it means sacrificing everything"
        - Colin Kaepernick
-  - name: Shreyansi Gandhi 
+  - name: Shreyansi Gandhi
+    pronouns: she/her
     image: assets/images/headshots/shreyansi.jpeg
     role: Finance
     from: Mumbai, India
@@ -61,6 +62,7 @@
 - group: Executives
   people:
   - name: Basma Mohamed-Saeed
+    pronouns: she/her
     image: assets/images/headshots/basma.jpg
     role: Communications and Outreach
     from: Etobicoke, Ontario
