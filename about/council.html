@@ -31,7 +31,7 @@ title: The Council
                 <div class="card-body">
                   <h5 class="card-title">{{ person.name }}</h5>
                   <h6 class="card-subtitle mb-2 text-muted">{{ person.role }}</h6>
-                  {% if person.pronouns %}<p class="card-text"><i class="fas fa-tag"></i> {{ person.pronouns }}{% endif%}
+                  <div {% if person.pronouns %}<p class="card-text"><i class="fas fa-tag"></i> {{ person.pronouns }}{% endif%}
                   <div class="card-text"><i class="fas fa-map-marked-alt"></i> {{ person.from }}
                   <div class="card-text"><i class="fas fa-graduation-cap"></i> {{ person.major }} </p>
                   {% if person.favourite-part-about-uc %}<p class="card-text"><b>Favourite Part About UC:</b> {{ person.favourite-part-about-uc }}</p>{% endif%}
