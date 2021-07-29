@@ -137,6 +137,7 @@
        "Roads? Where we're going we don't need roads"
        - Back to the Future
   - name: Divya Gupta
+    pronouns: she/her
     image: assets/images/headshots/divya.jpg
     role: Mental Wellness
     from: New Dehli, India
@@ -147,7 +148,8 @@
     favourite-quote: |
        "O Captain! My Captain!"
        - Dead Poets Society
-  - name: Natalia Landaverde 
+  - name: Natalia Landaverde
+    pronouns: she/her
     image: assets/images/headshots/natalia.jpeg
     role: Formals
     from: Vaughan, Ontario
@@ -159,6 +161,7 @@
        "I think it's a mistake to ever look for hope outside of one's self"
        - Arthur Miller
   - name: Honesty Senese
+    pronouns: she/her
     image: assets/images/headshots/honesty.jpeg
     role: Spirit and Social
     from: Niagara Falls, Ontario
@@ -230,6 +233,7 @@
        "We are what we repeatedly do, excellence then, is not an act but a habit"
        - Aristotle
   - name: Neha Sultana
+    pronouns: she/her
     image: assets/images/headshots/neha.jpg
     role: Mid-Year Representative
     from: Toronto, Ontario
@@ -252,6 +256,7 @@
        "Trust the timing of your life"
        - Brittany Burgunder
   - name: Violet Mackintosh
+    pronouns: she/her
     image: assets/images/headshots/violet.jpeg
     role: Mid-Year Representative
     from: London, United Kingdom
@@ -313,6 +318,7 @@
 - group: UTSU UC Directors
   people:
   - name: Easha Khan
+    pronouns: she/her
     image: assets/images/headshots/easha2.jpeg
     role: UC Director
     from: Vaughan, Ontario
@@ -323,6 +329,7 @@
     favourite-quote: |
        "Invest in your dreams, grind now, and shine later"
   - name: Muskan Nagra
+    pronouns: she/her
     image: assets/images/headshots/muskan.jpg
     role: UC Director
     from: Brampton, Ontario
@@ -367,6 +374,7 @@
 - group: Deputies
   people: 
   - name: Chloe Tse
+    pronouns: she/her
     image: assets/images/headshots/chloe2.jpg
     role: Vice President Internal Deputy
     from: Toronto, Ontario
@@ -408,6 +416,7 @@
        "I do not like to think at all"
        - Kanye West
   - name: Tasneem Choudhury
+    pronouns: she/her
     image: assets/images/headshots/tasneem.JPG
     role: Off-Campus Deputy
     from: Toronto, Ontario
@@ -428,6 +437,7 @@
        "We need to cultivate listening, partnership, and solidarity to carve out a better collective future"
        - Desmond Cole
   - name: Alex Levesque
+    pronouns: he/him
     image: assets/images/headshots/alex.jpg
     role: Sustainability Deputy
     from: Toronto, Ontario
@@ -438,6 +448,7 @@
        "I don't exactly know what I mean by that, but I mean it"
        - J.D. Salinger
   - name: Thérèse Perucho
+    pronouns: she/her
     image: assets/images/headshots/therese.jpeg
     role: Literary and Creative Arts Deputy
     from: Brampton, Ontario
@@ -475,6 +486,7 @@
        "Happiness is only real when shared"
        - Christopher McCandless
   - name: Fatima Abbasi
+    pronouns: she/her
     image: assets/images/headshots/fatima.jpg
     role: Communications and Outreach Deputy
     from: Mississauga, Ontario
@@ -485,6 +497,7 @@
        "Where there is a will, there is a way"
        - Multiple people claim to have authored this quote 
   - name: Chelsea Song
+    pronouns: she/her
     image: assets/images/headshots/chelsea.jpg
     role: Communications and Outreach Deputy
     from: Toronto, Ontario
@@ -495,6 +508,7 @@
        "When given the choice between being right or being kind, choose kind"
        - Dr. Wayne W. Dyer
   - name: Ali Syed
+    pronouns: he/him
     image: assets/images/headshots/ali2.jpg
     role: Mental Wellness Deputy
     from: Milton, Ontario
@@ -505,6 +519,7 @@
          "Nothing is impossible, even the word says i'm possible" 
          - Audrey Hepburn
   - name: Kenzy El-Morsi
+    pronouns: she/her
     image: assets/images/commissions-icons/FORMALS.png
     role: Formals Deputy
     from: Cairo, Egypt
@@ -515,6 +530,7 @@
        "Those who dream by day are cognizant of many things which escape those who dream only by night"
        - Edgar Allan Poe
   - name: Aiyana Harvey
+    pronouns: she/her
     image: assets/images/headshots/aiyana.jpg
     role: Spirit and Social Deputy
     from: Calgary, Alberta
@@ -525,6 +541,7 @@
        "Synesthesia is the one where you hear sound"
        - Scarlett Mackay
   - name: Scarlett Mackay
+    pronouns: she/her
     image: assets/images/commissions-icons/SOCIAL.png
     role: Spirit and Social Deputy
     from: London, England
