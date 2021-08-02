@@ -212,7 +212,7 @@ jobs:
       - left: Rate of Pay
         right: N/A
       - left: Number of Positions
-        right: 1
+        right: 2
       - left: Supervisors
         right: Office of the President, Office of the Dean of Students
       - left: Hiring Status
