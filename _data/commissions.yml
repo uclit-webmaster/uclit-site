@@ -57,12 +57,6 @@
   commissioners: DIVYA GUPTA WITH ALI SYED
   description: The Mental Wellness Commission strives to bring awareness to issues surrounding mental health around UC and UofT, and reduce stigma. This is done through holding various events, workshops and discussions.
 
-- name: FINANCE
-  image: assets/images/commissions-icons/finance.svg
-  email: finance@uclit.ca
-  commissioners: SHREYANSI GANDHI WITH ARINA MNATSKANYAN
-  description: The Finance Commission helps prepare the UC Lit's annual audit, and does bookkeeping for all the different commissions, clubs and ancillaries to ensure we're managing students' money wisely!
-
 - name: FORMALS
   image: assets/images/commissions-icons/formals.svg
   email: formals@uclit.ca
@@ -73,4 +67,10 @@
   image: assets/images/commissions-icons/ucoc.svg
   email: ucoc@uclit.ca
   commissioners: COMING SOON!
-  description: UCOC works with the Commuter Dons (CoCos) to make the lives of our 80% commuter population as easy as possible. Come find your home away from home at the Commuter Student Centre (CSC), or sign up to be part of the MyJourney commuter orientation!
+  description: UCOC works with the Commuter Dons (CoCos) to make the lives of our 80% commuter population as easy as possible. Meet other commuters, participate in fun events, and find your home away from home at the Commuter Student Centre (CSC)!
+
+- name: FINANCE
+  image: assets/images/commissions-icons/finance.svg
+  email: finance@uclit.ca
+  commissioners: SHREYANSI GANDHI WITH ARINA MNATSKANYAN
+  description: The Finance Commission helps prepare the UC Lit's annual audit, and does bookkeeping for all the different commissions, clubs and ancillaries to ensure we're managing students' money wisely!
