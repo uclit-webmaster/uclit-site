@@ -60,13 +60,14 @@
 - name: MENTAL WELLNESS
   image: assets/images/commissions-icons/mental-wellness.svg
   email: wellness@uclit.ca
-  
+  instagram: <a href="https://www.instagram.com/mentalwellness.uclit">@mentalwellness.uclit</a>
   commissioners: DIVYA GUPTA WITH ALI SYED
   description: The Mental Wellness Commission strives to bring awareness to issues surrounding mental health around UC and UofT, and reduce stigma. This is done through holding various events, workshops and discussions.
-  instagram: <a href="https://www.instagram.com/mentalwellness.uclit">@mentalwellness.uclit</a>
+  
 - name: FORMALS
   image: assets/images/commissions-icons/formals.svg
   email: formals@uclit.ca
+  instagram: <a href="https://www.instagram.com/formals.uclit">@formals.uclit</a>
   commissioners: NATALIA LANDAVERDE WITH KENZY EL-MORSI
   description: The Formals Commission brings us our annual Fireball, the largest semi-formal on campus! This commission also runs the Year-End Ball and Red & White, our other two semi-formals.
 
