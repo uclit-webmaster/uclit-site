@@ -17,7 +17,7 @@ current-election-text: |
 # Comment out the rest of this if you don't want any buttons
 buttons:
  - text: NOMINATION FORM
-   link: https://docs.google.com/document/d/1kAze-mqIMEoSidXYvp18dgxJetnvjHolm4doN6CVmEs/edit?usp=sharing
+   link: https://uclit.ca/assets/documents/Elections_Nomination_Form.pdf
  - text: CURRENT NOMINEES
    link: https://docs.google.com/document/d/12V7Grol_UQVkFL1qhwDgRxWf1Xzut3Mv3k3tzPrWoTA/edit?usp=sharing
  - text: CURRENT ELECTION CODE
