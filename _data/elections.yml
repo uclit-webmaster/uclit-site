@@ -4,10 +4,6 @@ text: |
   
   <p>Our early Fall general election selects our First Year Representative cohort and in the Winter term, we elect our Executive, and Middle and Upper Year Representatives. At anytime between March and January, there may also be Special By-Elections as necessary. Any UC student in good academic standing is eligible to run in our elections; feel free to explore the positions in the position information button below, and check out our work-in-progress results archive to learn about past elections. If you have any questions whatsoever, don't hesitate to send an email to the <a href="mailto:elections@uclit.ca">Elections Coordinator</a>!</p>
 
-buttons:
- - text: NOMINATION FORM
-   link: https://uclit.ca/assets/documents/Elections_Nomination_Form.pdf
-
 subtext: |
   <p>This election will be held entirely online following collegiate, university, provincial, and federal guidlines on best practices for COVID-19 prevention and general environmental health and safety guidelines. The 2021 Fall Elections Code contains special provisions considering the use of digital campaigning, and there will be no election bond held in trust.</p>
   
@@ -24,8 +20,8 @@ buttons:
    link: https://uclit.ca/assets/documents/Elections_Nomination_Form.pdf
  - text: ELECTIONS CODE (coming soon)
    link: 
- - text: POSITION INFORMATION (FALL AND SPRING)
-   link: https://docs.google.com/document/d/13J3YeeuuL8rJmt2lvKBt3N0vc__3djTbA4UltQfcl0E/edit?usp=sharing
+ - text: CANDIDATE INFORMATION
+   link: https://docs.google.com/document/d/12V7Grol_UQVkFL1qhwDgRxWf1Xzut3Mv3k3tzPrWoTA/edit?usp=sharing
  - text: VOTE HERE
    link: https://voting.utoronto.ca/
  - text: ELECTION RESULTS ARCHIVE
