@@ -16,8 +16,8 @@ current-election-text: |
   
 # Comment out the rest of this if you don't want any buttons
 buttons:
- - text: NOMINATION FORM
-   link: https://uclit.ca/assets/documents/Elections_Nomination_Form.pdf
+ - text: NOMINATION FORM (AVAILABLE ON SEPT 24)
+   link: 
  - text: ELECTIONS CODE (COMING SOON)
    link: 
  - text: CANDIDATE INFORMATION
