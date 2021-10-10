@@ -17,7 +17,7 @@ current-election-text: |
 # Comment out the rest of this if you don't want any buttons
 buttons:
  - text: NOMINATION FORM
-   link: https://docs.google.com/document/d/1kAze-mqIMEoSidXYvp18dgxJetnvjHolm4doN6CVmEs/edit?usp=drivesdk
+ #  link: https://docs.google.com/document/d/1kAze-mqIMEoSidXYvp18dgxJetnvjHolm4doN6CVmEs/edit?usp=drivesdk
  - text: ELECTIONS CODE
    link: https://docs.google.com/document/d/1BoAyx5qiV-Z2yUWlRXFKk2Nr-i3qVC3Qe1tLm2dTcls/edit?usp=sharing
  - text: CANDIDATE INFORMATION
