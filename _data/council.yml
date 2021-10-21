@@ -292,6 +292,7 @@
 - group: Upper Year Representatives
   people:
   - name: Nuha Maliath
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
     from: Scarborough, ON
