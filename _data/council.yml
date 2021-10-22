@@ -177,15 +177,17 @@
        - Taylor Swift
 - group: First Year Representatives
   people:
-  - name: Coming Soon! 
+  - name: Tushaar Sarin
+    pronouns: he/him
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
-    from: ---
-    major: ---
-    email: ---
-    office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: ---
+    from: Chandigarh, India
+    major: First Year in Computer Science and Cinema Studies
+    email: tushaar@uclit.ca
+    office-hours: Fridays 2-3PM
+    favourite-part-about-uc: Just how big and grand and beautiful it is
+    favourite-quote: |
+       "Per aspera ad astra"
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
@@ -293,14 +295,16 @@
   people:
   - name: Nuha Maliath
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/nuha.JPG
     role: Upper-Year Representative
     from: Scarborough, ON
     major: Fourth Year in Molecular Genetics & Microbiology and Biomedical Toxicology
     email: ---
     office-hours: Thursdays 10-11AM, Fridays 11-12PM
     favourite-part-about-uc: It is so easy to get lost in and discover cool new places
-    favourite-quote:
+    favourite-quote: |
+       "Just Keep Swimming"
+       - Finding Nemo
   - name: Coming Soon!
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
