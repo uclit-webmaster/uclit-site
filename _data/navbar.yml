@@ -54,5 +54,5 @@
       link: events/jcr-rentals
 - name: Contact
   link: /contact
-# name: Store
- # link: https://uclit.square.site/
+- name: Store
+  link: https://uclit.square.site/
