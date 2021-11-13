@@ -175,7 +175,7 @@ jobs:
       Diabolos’ Coffee Bar (referred to as “Diabolos’“) is a subsidiary business of the incorporated University College Literary and Athletic Society. Historically it exists in a non-profit, or break-even capacity, with a primary focus on supporting students in the College community with low-cost, accessible dining options.
       
       <p>The Manager will be tasked with maintaining the financial, operational, and administrative wellbeing of the entity, applying for all legal documentation to authorize its operation in the City of Toronto, and ensure the hire of subsequent employees whenever applicable. The position has ≤10 per-week hours.</p>
-    currently-accepting: false
+    currently-accepting: true
     application-link: https://bit.ly/diabolosmanagerapp
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
@@ -186,14 +186,13 @@ jobs:
         right: Paid
       - left: Rate of Pay
         right: |
-          $16 per hour capped at 10 hours per week, not including any barista shifts worked.
-          10% profit-sharing agreement paid out at the end of the operating year.
+          $16 per hour capped at 10 hours per week, not including any barista shifts worked. 10% profit-sharing agreement paid out at the end of the operating year.
       - left: Number of Positions
         right: 1
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Not Currently Accepting Applications
+        right: Accepting Applications until November 22!
 
   - title: WUSC Director
     position-outline: |
