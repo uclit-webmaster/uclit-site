@@ -170,24 +170,24 @@ jobs:
       - left: Hiring Status
         right: Not Currently Accepting Applications
 
-  - title: Diabolos Manager
+  - title: Diabolos' Manager
     position-outline: |
       Diabolos’ Coffee Bar (referred to as “Diabolos’“) is a subsidiary business of the incorporated University College Literary and Athletic Society. Historically it exists in a non-profit, or break-even capacity, with a primary focus on supporting students in the College community with low-cost, accessible dining options.
       
       <p>The Manager will be tasked with maintaining the financial, operational, and administrative wellbeing of the entity, applying for all legal documentation to authorize its operation in the City of Toronto, and ensure the hire of subsequent employees whenever applicable. The position has ≤10 per-week hours.</p>
     currently-accepting: false
-    application-link: mailto:president@uclit.ca
+    application-link: https://bit.ly/diabolosmanagerapp
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: April 2021-22 (Summer Term, Fall Term, Winter Term)
+        right: December 2021- April 2022 (Winter Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
         right: |
-          $500 (Summer Term), $1020 (Fall Term), Variable (Winter Term)
-          Additional hours (≤10) at $16/hr (Fall Term, Winter Term) posible
+          $16 per hour capped at 10 hours per week, not including any barista shifts worked.
+          10% profit-sharing agreement paid out at the end of the operating year.
       - left: Number of Positions
         right: 1
       - left: Supervisors
