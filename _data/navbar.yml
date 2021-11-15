@@ -9,7 +9,7 @@
 #     - name: A Brief History
 #       link: /about/history
 # - name: Store
-#   link: https://university-college-literary-athletic-society.square.site/
+#   link: https://uclit.square.site/
 - name: Home
   link: /
 - name: About
@@ -55,4 +55,4 @@
 - name: Contact
   link: /contact
 - name: Store
- # link: https://uclit.square.site/
+  link: https://uclit.square.site/
