@@ -225,15 +225,17 @@
     favourite-quote: ---
 - group: Mid-Year Representatives
   people:
-  - name: Coming Soon!
+  - name: Yashasvini Singh
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
-    from: ---
-    major: ---
-    email: ---
-    office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: ---
+    from: New Delhi, India
+    major: Second Year in Economics and Sociology
+    email: yashasvini@uclit.ca
+    office-hours: Fridays 3-4PM
+    favourite-part-about-uc: Its incredible history
+    favourite-quote: |
+    "I am ready to face any challenges that might be foolish enough to face me."
+    - Dwight Schrute
   - name: Neha Sultana
     pronouns: she/her
     image: assets/images/headshots/neha.jpg
