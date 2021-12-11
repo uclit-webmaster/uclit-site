@@ -323,14 +323,16 @@
      "Love is the one thing that transcends time and space. Maybe we should trust that, even if we cannot understand it." 
      - Brand, Interstellar 
   - name: Theodora Tang
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/theodora.JPG
     role: Upper-Year Representative
     from: Taipei, Taiwan / Vancouver, British Columbia
     major: Fourth Year in Nutritional Sciences and Psychology
     email: theodora@uclit.ca
     office-hours: Fridays 10-11AM
     favourite-part-about-uc: The new UC library and the LGBTout drop in centre in the Sir Dan's Arch
-    favourite-quote: ---
+    favourite-quote: |
+     "Grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference" 
+     - Reinhold Niebuhr
 - group: UTSU UC Directors
   people:
   - name: Easha Khan
