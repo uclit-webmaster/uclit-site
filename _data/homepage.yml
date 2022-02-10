@@ -29,7 +29,7 @@ jumbotron-slides:
     alt-text: University and Academic Affairs Exam Destressor 2019
 
 presidents-message:
-  image: /assets/images/homepage/open_forum_five_points.jpg
+  image: /assets/images/homepage/open_forum_five_points.png
   name: Truth and Reconciliation Open Forum
   # https://yaml-multiline.info/ (info about multiline strings in yaml)
   message: |
