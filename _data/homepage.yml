@@ -29,8 +29,10 @@ jumbotron-slides:
     alt-text: University and Academic Affairs Exam Destressor 2019
 
 presidents-message:
-  image: /assets/images/homepage/All_our_meetings_will_be_held_at_12_pm_on_the_following_dates..._copy.jpg
-  name: Meeting Dates (2021-2022)
+  image: /assets/images/homepage/open_forum_five_points.png
+  name: Truth and Reconciliation Open Forum
   # https://yaml-multiline.info/ (info about multiline strings in yaml)
   message: |
-    Any UC student is welcome to attend our meetings! Visit <a href="https://bit.ly/uclitmonthlymeetings">bit.ly/uclitmonthlymeetings</a> and enter the password <strong>reznikoff</strong> to join.
+    On December 2, 2021, the University College Literary & Athletic Society (UC Lit)  held an Open Forum to discuss and reflect on UC’s reports and initiatives related to Truth & Reconciliation. We were joined by students, staff, faculty, and administrators from across disciplines, colleges, and faculties. This forum was facilitated by the UC Lit’s Equity Commission and moderated by Teagan de Laronde, a 5th year Indigenous Studies Specialist with minors in Political Science and Religion.
+    
+    We have summarized broadly the main points discussed at the UC Truth & Reconciliation Open Forum. These points will inform the Equity Commission’s initiatives throughout the rest of the 2022 Winter Semester as well as in future years.
