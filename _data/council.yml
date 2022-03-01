@@ -85,7 +85,7 @@
     favourite-quote: |
        "Stop making perfection your only standard of progress"
        - Sydney Cummings
-  - name: Coming Soon!
+  - name: Chelsea Song
     image: assets/images/commissions-icons/UCOC.png
     role: Off-Campus
     from: ---
@@ -94,7 +94,7 @@
     office-hours: ---
     favourite-part-about-uc: ---
     favourite-quote: ---
-  - name: Coming Soon!
+  - name: Nithya Gopalakrishnan
     image: assets/images/commissions-icons/SUS.png
     role: Sustainability
     from: ---
@@ -218,7 +218,7 @@
     favourite-quote: |
        "We are all in the gutter, but some of us are looking at the stars."
        - Oscar Wilde
-  - name: Coming Soon!
+  - name: Kelly Gong
     image: assets/images/headshots/council-icons/reps.svg
     role: First Year Representative
     from: ---
@@ -287,7 +287,7 @@
     favourite-part-about-uc: All the wonderful people 
     favourite-quote: |
        "Be the rainbow in someone's cloud"
-  - name: Coming Soon!
+  - name: Euan Pound
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     from: ---
@@ -358,6 +358,16 @@
     favourite-quote: |
        "Never, ever be afraid to make some noise and get in good trouble. Necessary trouble."
        - John Lewis
+  - name: Nicholas Merrithew
+    pronouns: ---
+    image: assets/images/headshots/council-icons/reps.svg
+    role: UC Director
+    from: --
+    major: --
+    email: nicholas@uclit.ca
+    office-hours: --
+    favourite-part-about-uc: --
+    favourite-quote: --
 
 #- group: Staff and Ancillaries
 #  people:
