@@ -96,15 +96,15 @@ jobs:
         right: Paid
       - left: Rate of Pay
         right: |
-          $1000 (Summer Term), $1000 (Fall Term), $1050 (Winter Term)
-          Add. hours poss. at $50/mtg.
+          $50 per meeting.
+
       - left: Number of Positions
         right: 1
       - left: Supervisors
         right: Office of the Vice President
       - left: Hiring Status
         right: Accepting Applications until March 21!
-        
+
   - title: Speaker of the Society
     position-outline: |
       The Society Speaker establishes procedure at each of the organization’s multi-committee meetings, including our Annual General Meeting (AGM), Judiciary Committee, and all regular Meetings of Council. The Speaker is an ex-officio, non-voting executive, and is supervised directly by the Office of the Vice President.The position has ≤8 per-week hours.
@@ -119,8 +119,7 @@ jobs:
         right: Paid
       - left: Rate of Pay
         right: | 
-          $160 (Summer Term), $160 (Fall Term), $200 (Winter Term)
-          Add. hours poss. at $40/mtg.
+          $40 per meeting.
       - left: Number of Positions
         right: 1
       - left: Supervisors
