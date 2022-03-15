@@ -96,7 +96,7 @@ jobs:
         right: Paid
       - left: Rate of Pay
         right: |
-          $50 per meeting.
+          $50 per meetin
 
       - left: Number of Positions
         right: 1
@@ -119,7 +119,7 @@ jobs:
         right: Paid
       - left: Rate of Pay
         right: | 
-          $40 per meeting.
+          $40 per meeting
       - left: Number of Positions
         right: 1
       - left: Supervisors
