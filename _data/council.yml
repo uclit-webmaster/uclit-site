@@ -24,205 +24,172 @@
 
 - group: Core Executives
   people:
-  - name: Juliana Melino
+  - name: Thérèse Perucho
     pronouns: she/her
-    image: assets/images/headshots/juliana.jpg
+    image: assets/images/headshots/therese.jpeg
     role: President
-    from: Scarborough, Ontario
-    major: Third Year in English, History, & Education and Society
+    from: Brampton, Ontario
+    major: Fourth Year in Human Geography with a focus in Planning, Political Science & Practical French
     email: president@uclit.ca
-    office-hours: Tuesdays 10AM-11AM
-    favourite-part-about-uc: Whitney Hall
+    office-hours: -
+    favourite-part-about-uc: The buildings and architecture, but especially the Junior Common Room!
     favourite-quote: |
-       "There is nothing stronger in the world than gentleness"
-       - Han Suyin
-  - name: Youssef Metwally
-    pronouns: he/him
-    image: assets/images/headshots/youssef.jpg
+       "Verily the lust for comfort murders the passion of the soul, and then walks grinning in the funeral"
+       - Kahlil Gibran
+       
+  - name: Chelsea Song
+    pronouns: she/her
+    image: ---
     role: Vice President
-    from: South Riding, Virginia
-    major: Third Year in Critical Equity & American Studies
+    from: Scarborough, Ontario
+    major: Fourth Year in Global Health & Immunology
     email: vp@uclit.ca
-    office-hours: Thursdays 2-3PM
+    office-hours: -
     favourite-part-about-uc: Sir Dan's Quad
     favourite-quote: |
-       "Believe in something even if it means sacrificing everything"
-       - Colin Kaepernick
+       "No act of kindness, no matter how small, is ever wasted"
+       - Aesop
+       
   - name: Shreyansi Gandhi
     pronouns: she/her
     image: assets/images/headshots/shreyansi.jpeg
     role: Finance
     from: Mumbai, India
-    major: Second Year in Economics, Statistics, & Spanish
+    major: Third Year in Economics, Statistics, & Spanish
     email: finance@uclit.ca
-    office-hours: Mondays 10AM-11AM
-    favourite-part-about-uc: The gorgeous UC building
+    office-hours: -
+    favourite-part-about-uc: The halls in the UC building!
     favourite-quote: |
        "In the long run, we're all dead"
        - John Maynard Keynes
+       
 - group: Executives
   people:
-  - name: Basma Mohamed-Saeed
+  - name: Sabrina Shahidan
     pronouns: she/her
-    image: assets/images/headshots/basma.jpg
+    image: ---
     role: Communications and Outreach
-    from: Etobicoke, Ontario
-    major: Fourth Year in Criminology, Sociology, & Equity
+    from: Kuala Lumpur, Malaysia
+    major: Second Year in Economics, Public Policy, & Statistics
     email: communications@uclit.ca
-    office-hours: Thursdays 10AM-11AM
-    favourite-part-about-uc: Junior Common Room
+    office-hours: -
+    favourite-part-about-uc: The intricacies of the UC building architecture!
     favourite-quote: |
-       "Behind every successful person is a substantial amount of coffee"
-  - name: Lucy Stark
+       "Let me stay tender hearted, despite despite despite"
+       - Chen Chen
+       
+  - name: Maya Javier
     pronouns: she/her
-    image: assets/images/headshots/lucy.jpeg
+    image: ---
     role: Equity
-    from: Wilmington, Delaware
-    major: Third Year in History & Economics
+    from: Vancouver, Canada
+    major: Third Year in Political Science & Critical Studies in Equity and Solidarity
     email: equity@uclit.ca
-    office-hours: Mondays 2-3PM
-    favourite-part-about-uc: We stick together like the vegan cheese served at Fung
+    office-hours: -
+    favourite-part-about-uc: The architecture, especially the UC library.
     favourite-quote: |
-       "Stop making perfection your only standard of progress"
-       - Sydney Cummings
-  - name: Chelsea Song
-    image: assets/images/commissions-icons/UCOC.png
+       "Nobody in the world, nobody in history has ever gotten their freedom by appealing to the moral sense of the people who were oppressing them."
+       - Assata Shakur
+       
+  - name: Neha Sultana
+    image: ---
     role: Off-Campus
-    from: ---
-    major: ---
-    email: ---
-    office-hours: Wednesdays 11AM-12PM
-    favourite-part-about-uc: ---
-    favourite-quote: ---
-  - name: Nithya Gopalakrishnan
+    from: Toronto, Ontario
+    major: Third Year in Social, Cultural, and Linguistic Anthropology with a focus in Medical Anthropology, History, Politcal Science
+    email: ucoc@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The architecture is beautiful!
+    favourite-quote:  |
+        "What we see changes according to what we look for."
+        - E.J. Koh
+    
+  - name: Yashasvini Singh
     pronouns: she/her
-    image: assets/images/commissions-icons/SUS.png
+    image: ---
     role: Sustainability
-    from: Calgary, Alberta
-    major: First Year in Life Sciences
+    from: New Delhi, India
+    major: Third Year in Economics & Sociology
     email: sustainability@uclit.ca
     office-hours: Thursdays 1-2PM
-    favourite-part-about-uc: Sir Dans Quad and how nice the community is
+    favourite-part-about-uc:The incredible history and gorgeous buildings!
     favourite-quote: |
-     "The future doesn't exist. The only thing that exists is now and our memory of what happened in the past." - David Suzuki
-  - name: Thérèse Perucho
-    pronouns: she/her
-    image: assets/images/headshots/therese.jpeg
-    role: Literary and Creative Arts
-    from: Brampton, Ontario
-    major: Third Year in Human Geography and Political Science Major, Practical French Minor
-    email: lca@uclit.ca
-    office-hours: Wednesdays 1-2PM
-    favourite-part-about-uc: The buildings and architecture
-    favourite-quote: |
-     "Be who you are and say what you feel because those who mind don't matter, and those who matter don't mind" - Dr. Seuss
-  - name: Hannah Roberts
-    pronouns: she/her
-    image: assets/images/headshots/hannahr.JPG
-    role: Athletics
-    from: Mississauga, Ontario
-    major: Fourth Year in Political Science & Sociology
-    email: athletics@uclit.ca
-    office-hours: Mondays 12-1PM
-    favourite-part-about-uc: Late nights on Back Campus
-    favourite-quote: |
-       "I prefer not to speak. If I speak, I am in big trouble"
-       - José Mourinho
-  - name: Aalina Bilal
-    pronouns: she/her
-    image: assets/images/headshots/aalina.jpeg
-    role: University & Academic Affairs
-    from: Lahore, Pakistan 
-    major: Fourth Year in Psychology, Cognitive Science, & Philosophy
-    email: uaa@uclit.ca
-    office-hours: Fridays 10AM-11AM
-    favourite-part-about-uc: Nutella Heaven :) 
-    favourite-quote: |
-       "Roads? Where we're going we don't need roads"
-       - Back to the Future
-  - name: Divya Gupta
-    pronouns: she/her
-    image: assets/images/headshots/divya.jpg
-    role: Mental Wellness
-    from: New Dehli, India
-    major: Second Year in Psychology, Computer Science, & Cognitive Science
-    email: wellness@uclit.ca
-    office-hours: Thursdays 11AM-12PM
-    favourite-part-about-uc: The fact that it looks like Hogwarts (and of course, the Sir Dan's Quad!)
-    favourite-quote: |
-       "O Captain! My Captain!"
-       - Dead Poets Society
-  - name: Natalia Landaverde
-    pronouns: she/her
-    image: assets/images/headshots/natalia.jpeg
-    role: Formals
-    from: Vaughan, Ontario
-    major: Fourth Year in Criminology, English, & History
-    email: formals@uclit.ca
-    office-hours: Mondays 11AM-12PM
-    favourite-part-about-uc: Junior Common Room
-    favourite-quote: |
-       "I think it's a mistake to ever look for hope outside of one's self"
-       - Arthur Miller
-  - name: Honesty Senese
-    pronouns: she/her
-    image: assets/images/headshots/honesty.jpeg
-    role: Spirit and Social
-    from: Niagara Falls, Ontario
-    major: Fourth Year in Neuroscience & Psychology
-    email: social@uclit.ca
-    office-hours: Tuesdays 11AM-12PM
-    favourite-part-about-uc: The number of places to get coffee
-    favourite-quote: |
-       "Never be so polite you forget your power"
-       - Taylor Swift
-- group: First Year Representatives
-  people:
-  - name: Tushaar Sarin
-    pronouns: he/him
-    image: assets/images/headshots/tushaar.JPG
-    role: First Year Representative
-    from: Chandigarh, India
-    major: First Year in Computer Science and Cinema Studies
-    email: tushaar@uclit.ca
-    office-hours: Fridays 11AM-12PM
-    favourite-part-about-uc: Just how big and grand and beautiful it is
-    favourite-quote: |
-       "Per aspera ad astra"
-  - name: Elizabeth (Elzbieta) Chernyak
+       "If it was safer on the ground, we wouldn't be on a boat."
+        - Matthew Healy
+        
+  - name: Elžbieta (Elizabeth) Chernyak
     pronouns: she/her
     image: assets/images/headshots/elizabeth.jpg
-    role: First Year Representative
+    role: Literary and Creative Arts
     from: Vilnius, Lithuania
-    major: First Year in Life Science and Drama
-    email: elizabeth@uclit.ca
-    office-hours: Thursdays 12-1PM
-    favourite-part-about-uc: How grand and castle like it is!! (And of course, the people are AMAZING!!)
+    major: Second Year in Life Sciences & Drama
+    email: lca@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: How grand and castle-like it is! (And of course, the people are amazing.)
+    favourite-quote: |
+     There is too much wisdom in the world to just pick one quote.
+     
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: Athletics
+    from: ---
+    major: ---
+    email: athletics@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: ---
     favourite-quote: ---
-  - name: Abidah Edun
+    
+  - name: ---
+    pronouns: ---
+    image: 
+    role: University & Academic Affairs
+    from: ---
+    major: ---
+    email: uaa@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+  - name: Sarah Elliot
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
-    role: First Year Representative
-    from: Brampton, Ontario
-    major: First Year in Arts and Science
-    email: abidah@uclit.ca
-    office-hours: Tuesdays 2-3PM
-    favourite-part-about-uc: Being at UC is like fulfilling my dreams of going to Hogwarts!
+    image: ---
+    role: Mental Wellness
+    from: New Dehli, India
+    major: Second Year in Life Sciences
+    email: wellness@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: Late night trip to rezzies!
     favourite-quote: |
-       "Everything happens for a reason"
-  - name: Maggie Li
-    image: assets/images/headshots/council-icons/reps.svg
-    role: First Year Representative
-    from: Calgary, Alberta
-    major: First Year in Life Sciences
-    email: maggie@uclit.ca
-    office-hours: Wednesdays 2-3PM and Fridays 1-2PM
-    favourite-part-about-uc: The community and the views!
-    favourite-quote: |
-       "We are all in the gutter, but some of us are looking at the stars."
-       - Oscar Wilde
-  - name: Kelly Gong
-    image: assets/images/headshots/council-icons/reps.svg
+       "It never hurts to keep looking for sunshine."
+       - Eeyore
+       
+  - name: ---
+    pronouns: she/her
+    image: ---
+    role: Formals
+    from: ---
+    major: ---
+    email: formals@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: Spirit and Social
+    from: ---
+    major: ---
+    email: social@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+- group: First Year Representatives
+  people:
+  - name: ---
+    pronouns: ---
+    image: ---
     role: First Year Representative
     from: ---
     major: ---
@@ -230,112 +197,138 @@
     office-hours: ---
     favourite-part-about-uc: ---
     favourite-quote: ---
-- group: Mid-Year Representatives
-  people:
-  - name: Yashasvini Singh
-    image: assets/images/headshots/yashasvini 2.jpg
-    role: Mid-Year Representative
-    from: New Delhi, India
-    major: Second Year in Economics and Sociology
-    email: yashasvini@uclit.ca
-    office-hours: Wednesdays 3-4PM
-    favourite-part-about-uc: Its incredible history
-    favourite-quote: |
-       "I am ready to face any challenges that might be foolish enough to face me."
-       - Dwight Schrute
-  - name: Neha Sultana
-    pronouns: she/her
-    image: assets/images/headshots/neha.jpg
-    role: Mid-Year Representative
-    from: Toronto, Ontario
-    major: Second Year in Sociocultural and Linguistic Anthropology (Focus in Medical Anthropology), History, & Political Science
-    email: neha@uclit.ca
-    office-hours: Mondays 1-2PM
-    favourite-part-about-uc: The diversity
-    favourite-quote: |
-       "What we see changes according to what we look for"
-       - E.J. Koh, The Magical Language of Others
-  - name: Sarah Chen
-    pronouns: she/her
-    image: assets/images/headshots/sarah.jpg
-    role: Mid-Year Representative
-    from: Vancouver, British Columbia
-    major: Second Year in Environmental Geography, Geographic Information Systems (GIS), & Contemporary Asian Studies
-    email: sarah@uclit.ca
-    office-hours: Thursdays 3-4PM
-    favourite-part-about-uc: Morrison Common Rooms
-    favourite-quote: |
-       "Trust the timing of your life"
-       - Brittany Burgunder
-  - name: Violet Mackintosh
-    pronouns: she/her
-    image: assets/images/headshots/violet.jpeg
-    role: Mid-Year Representative
-    from: London, United Kingdom
-    major: Second Year in German & Political Science 
-    email: violet@uclit.ca
-    office-hours: Mondays 3-4PM
-    favourite-part-about-uc: Whitney Quad and how lovely everyone is 
-    favourite-quote: |
-       "The two most important days in your life are the day you are born and the day you find out why"
-       - Mark Twain
-  - name: Kiana Ravanasa
-    pronouns: she/her
-    image: assets/images/headshots/kiana.jpeg
-    role: Mid-Year Representative-
-    from: Chicago, Illinois
-    major: Second Year in Economics & Statistics 
-    email: kiana@uclit.ca
-    office-hours: Fridays 3-4PM
-    favourite-part-about-uc: All the wonderful people 
-    favourite-quote: |
-       "Be the rainbow in someone's cloud"
-  - name: Euan Pound
-    image: assets/images/headshots/council-icons/reps.svg
-    role: Mid-Year Representative
+    
+  - name: ---
+    pronouns: ---
+    image: 
+    role: First Year Representative
     from: ---
     major: ---
     email: ---
-    office-hours: Wednesdays 10AM-11AM
+    office-hours: ---
     favourite-part-about-uc: ---
     favourite-quote: ---
+    
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: First Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: |
+       ---
+       
+  - name: ---
+    image: ---
+    role: First Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+  - name: ---
+    image: ---
+    role: First Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+- group: Mid-Year Representatives
+  people:
+  - name: Kelly Gong
+    image: ---
+    role: Mid-Year Representative
+    from: Hunan, China
+    major: Second Year in Psychology & Neuroscience
+    email: kelly@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The Junior Common Room!
+    favourite-quote: |
+       "The only limit to our realization of tomorrow will be our doubts of today."
+       - Franklin D. Roosevelt
+       
+  - name: Chiara Chu
+    pronouns: she/her
+    image: ---
+    role: Mid-Year Representative
+    from: Taipei, Taiwan
+    major: Second Year in Book and Media Studies, Industry Relations & Human Resources
+    email: chiara@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The UC building!
+    favourite-quote: |
+       "Good morning, and in case I don't see ya, good afternoon, good evening, and good night!"
+       - Truman, The Truman Show
+       
+  - name: Kristina Cổ
+    pronouns: she/her
+    image: Kristina Cổ
+    role: Mid-Year Representative
+    from: San Francisco, United States
+    major: Second Year in Criminology & Sociolegal Studies; Minors in Philosophy & Critical Studies in Equity and Solidarity
+    email: kristina@uclit.ca
+    office-hours: Kristina Cổ
+    favourite-part-about-uc: UC library!
+    favourite-quote: |
+       "With our thoughts, we make the world."
+       - Bhuddha
+       
+  - name: Poorvi Sharma
+    pronouns: she/her
+    image: ---
+    role: Mid-Year Representative
+    from: Mumbai, India
+    major: Third Year in Cognitive Science, Computer Science & Statistics
+    email: poorvi@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The fact that it feels like I'm in a Harry Potter movie!
+    favourite-quote: |
+       "Smile and the world smiles with you. Growl and you get better service."
+       - Garfield
+       
+  
 - group: Upper Year Representatives
   people:
-  - name: Nuha Maliath
-    pronouns: she/her
-    image: assets/images/headshots/nuha.JPG
+  - name: ---
+    pronouns: ---
+    image: ---
     role: Upper-Year Representative
-    from: Scarborough, Ontario
-    major: Fourth Year in Molecular Genetics & Microbiology and Biomedical Toxicology
-    email: nuha@uclit.ca
-    office-hours: Tuesdays 1-2PM
-    favourite-part-about-uc: It is so easy to get lost in and discover cool new places
-    favourite-quote: |
-       "Just Keep Swimming"
-       - Finding Nemo
-  - name: Suleekha Hirsi
-    pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
     role: Upper-Year Representative
-    from: Brampton, Ontario
-    major: Third Year in Political Science and Peace, Conflict Justice Studies Double Major & Women and Gender Studies Minor
-    email: suleekha@uclit.ca
-    office-hours: Fridays 2-3PM
-    favourite-part-about-uc: The architecture because it reminded me of Hogwarts... before the construction
-    favourite-quote: |
-     "Love is the one thing that transcends time and space. Maybe we should trust that, even if we cannot understand it." 
-     - Brand, Interstellar 
-  - name: Theodora Tang
-    image: assets/images/headshots/theodora.JPG
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+     
+  - name: ---
+    image: ---
     role: Upper-Year Representative
-    from: Taipei, Taiwan / Vancouver, British Columbia
-    major: Fourth Year in Nutritional Sciences and Psychology
-    email: theodora@uclit.ca
-    office-hours: Fridays 12-1PM
-    favourite-part-about-uc: The new UC library and the LGBTout drop in centre in the Sir Dan's Arch
-    favourite-quote: |
-     "Grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference" 
-     - Reinhold Niebuhr
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+     
 - group: UTSU UC Directors
   people:
   - name: Easha Khan
@@ -349,6 +342,7 @@
     favourite-part-about-uc: The architecture, people, and the city!
     favourite-quote: |
        "Invest in your dreams, grind now, and shine later"
+       
   - name: Muskan Nagra
     pronouns: she/her
     image: assets/images/headshots/muskan.jpg
@@ -361,6 +355,7 @@
     favourite-quote: |
        "Never, ever be afraid to make some noise and get in good trouble. Necessary trouble."
        - John Lewis
+       
   - name: Nicholas Merrithew
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
@@ -402,82 +397,74 @@
 #    major: Human Geography, Political Science
 #    email: president@uclit.ca
 #    office-hours: 12-1 thursdays
+
 - group: Deputies
   people: 
-  - name: Chloe Tse
-    pronouns: she/her
-    image: assets/images/headshots/chloe2.jpg
+  - name: ---
+    pronouns: ---
+    image: ---
     role: Vice President Internal Deputy
-    from: Toronto, Ontario
-    major: Third Year in Neuroscience & Health Studies
-    email: chloe.tse@mail.utoronto.ca
-    favourite-part-about-uc: The Quad!
-  - name: Kieley Mackey
-    image: assets/images/headshots/kieley.jpg
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    
+  - name: ---
+    image: ---
     role: Vice-President Clubs Deputy
-    from: Barrie, Ontario
-    major: Fourth Year in Health Studies and Bioethics
-    email: kieleymackey.mackey@mail.utoronto.ca
-    favourite-part-about-uc: Back Campus!
-  - name: Arina Mnatsakanyan
-    image: assets/images/headshots/arina.jpeg
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    
+  - name: ---
+    image: ---
     role: Finance Deputy
-    from: Toronto, Ontario
-    major: Fourth Year in  International Relations, Psychology, & Physiology 
-    email: arina.mnatsakanyan@mail.utoronto.ca
-    favourite-part-about-uc: Its amazing community and the tea lattes at Diabolos'
-  - name: Subhi Jha
-    image: assets/images/commissions-icons/EO.png
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    
+  - name: ---
+    image: ---
     role: Equity Deputy
-    from: Bihar, India
-    major: Third Year in History, Philosophy, & English
-    email: subhi.jha@mail.utoronto.ca
-    favourite-part-about-uc: JCR and Rezzies!
-    favourite-quote: |
-       "A word after a word / after a word is power"
-       - Margaret Atwood
-  - name: Maya Javier
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+       
+  - name: ---
     image: assets/images/headshots/maya.jpg
     role: Equity Deputy
-    from: Vancouver, British Columbia
-    major: Second Year in Critical Equity Studies & Political Science
-    email: maya.javier@mail.utoronto.ca
-    favourite-part-about-uc: The architecture
-    favourite-quote: |
-       "I do not like to think at all"
-       - Kanye West
-  - name: Tasneem Choudhury
-    pronouns: she/her
-    image: assets/images/headshots/tasneem.JPG
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
     role: Off-Campus Deputy
-    from: Toronto, Ontario
-    major: Second Year in English, History, & Education and Society 
-    email: t.choudhury@mail.utoronto.ca
-    favourite-part-about-uc: The Building! It's so pretty
-    favourite-quote: |
-       "It is our choices that show us what we truly are far more than our abilities"
-       - Harry Potter
-  - name: Erika Lindsay
-    image: assets/images/headshots/erika.jpg
+    from: ---
+    major: ---
+    email: 
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+       
+  - name: Nithya Gopalakrishnan
+    pronouns: she/her
+    image: ---
     role: Sustainability Deputy
-    from: Brampton, Ontario
-    major: Fourth Year in Human Geography, Urban Studies, & Political Science
-    email: erika.lindsay@mail.utoronto.ca
-    favourite-part-about-uc: The Junior Common Room & Commuter Student Centre of course!
+    from: Calgary, Alberta
+    major: Second Year in Genome Biology, Health and Disease, & Immunology
+    email: nithya.gopalakrishnan@mail.utoronto.ca
+    favourite-part-about-uc: The Junior Common Room!
     favourite-quote:  |
-       "We need to cultivate listening, partnership, and solidarity to carve out a better collective future"
-       - Desmond Cole
-  - name: Alex Levesque
-    pronouns: he/him
-    image: assets/images/headshots/alex.jpg
-    role: Sustainability Deputy
-    from: Toronto, Ontario
-    major: Third year in  Sociology, Political Science, & Environmental Studies
-    email: al.levesque@mail.utoronto.ca
-    favourite-part-about-uc: The food at Fung
-    favourite-quote:  |
-       "I don't exactly know what I mean by that, but I mean it"
-       - J.D. Salinger
+       "The future doesn't exist. The only thing that exists is now and our memory of what happened in the past."
+       - David Suzuki
+       
   - name: Coming Soon!
     pronouns: ---
     image: assets/images/commissions-icons/LCA.png
@@ -487,119 +474,105 @@
     email: ---
     favourite-part-about-uc: ---
     favourite-quote: ---
-  - name: Jesse McDougall
-    image: assets/images/headshots/jesse.jpeg
+    
+  - name: ---
+    image: ---
     role: Athletics Deputy
-    from: Vermont, United States
-    major: Third Year in Political Science & Spanish
-    email: jesse.mcdougall@mail.utoronto.ca
-    favourite-part-about-uc: Athletics!
-  - name: Aws Mustafa
-    image: assets/images/commissions-icons/ATHLETICS.png
-    role: Athletics Deputy
-    from: Toronto, Ontario
-    major: Second Year in Human Bio & Molecular Genetics
-    email: aws.mustafa@mail.utoronto.ca
-    favourite-part-about-uc: UC's History
-    favourite-quote: |
-       "It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable"
-       - Socrates
-  - name: Emma Caramazza
-    pronouns: she/her
-    image: assets/images/headshots/emma.JPG
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
     role: University and Academic Affairs Deputy
-    from: Washington, D.C.
-    major: Second Year in Political Science
-    email: emma.caramazza@mail.utoronto.ca
-    favourite-part-about-uc: Its location! So central to campus and the city
-    favourite-quote:  |
-       "Happiness is only real when shared"
-       - Christopher McCandless
-  - name: Fatima Abbasi
-    pronouns: she/her
-    image: assets/images/headshots/fatima.jpg
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote:  ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
     role: Communications and Outreach Deputy
-    from: Mississauga, Ontario
-    major: Third Year in Political Science & Islamic Studies 
-    email: noor.abbasi@mail.utoronto.ca
-    favourite-part-about-uc: The quad, because of Frosh memories
-    favourite-quote:  |
-       "Where there is a will, there is a way"
-       - Multiple people claim to have authored this quote 
-  - name: Chelsea Song
-    pronouns: she/her
-    image: assets/images/headshots/chelsea.jpg
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
     role: Communications and Outreach Deputy
-    from: Toronto, Ontario
-    major: Third Year in Human Biology & Physiology
-    email: chelsea.song@mail.utoronto.ca
-    favourite-part-about-uc: Junior Common Room!
-    favourite-quote:  |
-       "When given the choice between being right or being kind, choose kind"
-       - Dr. Wayne W. Dyer
-  - name: Ali Syed
-    pronouns: he/him
-    image: assets/images/headshots/ali2.jpg
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote:  ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
     role: Mental Wellness Deputy
-    from: Milton, Ontario
-    major: Third Year in Computer Science
-    email: al.syed@mail.utoronto.ca
-    favourite-part-about-uc: Walking around our captivating building
-    favourite-quote: |
-         "Nothing is impossible, even the word says i'm possible" 
-         - Audrey Hepburn
-  - name: Kenzy El-Morsi
-    pronouns: she/her
-    image: assets/images/commissions-icons/FORMALS.png
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+         
+  - name: ---
+    pronouns: ---
+    image: ---
     role: Formals Deputy
-    from: Cairo, Egypt
-    major: Third Year in Diaspora and Transnational Studies, Cinema Studies & Political Science
-    email:  kenzy.elmorsi@mail.utoronto.ca
-    favourite-part-about-uc: Rezzies Cafe
-    favourite-quote:  |
-       "Those who dream by day are cognizant of many things which escape those who dream only by night"
-       - Edgar Allan Poe
-  - name: Aiyana Harvey
-    pronouns: she/her
-    image: assets/images/headshots/aiyana.jpg
+    from: 
+    major: 
+    email:  
+    favourite-part-about-uc: 
+    favourite-quote: ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
     role: Spirit and Social Deputy
-    from: Calgary, Alberta
-    major: Fourth Year in French Literature & Drama
-    email: aiyana.harvey@mail.utoronto.ca
-    favourite-part-about-uc: The CSC!
-    favourite-quote:  |
-       "Synesthesia is the one where you hear sound"
-       - Scarlett Mackay
-  - name: Scarlett Mackay
-    pronouns: she/her
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote:  ---
+       
+  - name: ---
+    pronouns: ---
     image: assets/images/commissions-icons/SOCIAL.png
     role: Spirit and Social Deputy
-    from: London, England
-    major: Fourth Year in Human Geography & Sociology, Minor in French
-    email: scarlett.mackay@mail.utoronto.ca
-    favourite-part-about-uc: It's so close to the brown food truck!!
-    favourite-quote: |
-       "No, synesthesia is the one where you see colour"
-       - Aiyana Harvey
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+       
 - group: Staff
   people: 
   - name: Rubaina Farin
     image: assets/images/headshots/rubaina2.jpeg
     role: Secretary
     from: Toronto, Ontario
-    major: Second Year in Life Sciences
+    major: Third Year, Double Major in genetics and Computational Cognitive Sciences, Minor in Women and Gender Studies
     email: secretary@uclit.ca
-    favourite-part-about-uc: The fact that we can still see the axe markings from the Diabolos/Reznikoff fight.
+    favourite-part-about-uc: The people! 
     favourite-quote: |
-      "I can do this all day"
-      - Captain America
-  - name: Jad El-Ghali
-    image: assets/images/headshots/jad2.jpeg
+      "People say nothing is impossible, but I do nothing every day."
+      - A.A. Milne
+      
+  - name: Norah Rahman
+    image: ---
     role: Speaker
-    from: Mississauga, Ontario
-    major: Third Year in Political Science & Sociology 
+    from: Toronto, Ontario
+    major: Second Year, Double Major in Peace, Conflict and Justice & Anthropology
     email: speaker@uclit.ca
-    favourite-part-about-uc: Our long history, and status as the founding college of UofT.
+    favourite-part-about-uc: Chickecn tenders at Howard Ferg.
     favourite-quote: |
-      "Prejudice rarely survives experience"
-      - Eve Zibart
+      "We have laboured long to build a heaven, only to find it populated with horrors."
+      - Alan Moore, Watchmen
