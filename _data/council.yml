@@ -25,7 +25,7 @@
   people:
   - name: Thérèse Perucho
     pronouns: she/her
-    image: assets/images/headshots/therese2.jpg
+    image: assets/images/headshots/therese(new).jpg
     role: President
     from: Brampton, Ontario
     major: Fourth Year in Human Geography with a focus in Planning, Political Science & Practical French
@@ -37,7 +37,7 @@
        - Kahlil Gibran
   - name: Chelsea Song
     pronouns: she/her
-    image: ---
+    image: assets/images/headshots/chelsea.jpg
     role: Vice President
     from: Scarborough, Ontario
     major: Fourth Year in Global Health & Immunology
@@ -78,7 +78,7 @@
        
   - name: Maya Javier
     pronouns: she/her
-    image: ---
+    image: assets/images/headshots/maya.jpg
     role: Equity
     from: Vancouver, Canada
     major: Third Year in Political Science & Critical Studies in Equity and Solidarity
@@ -90,7 +90,7 @@
        - Assata Shakur
        
   - name: Neha Sultana
-    image: ---
+    image: assets/images/headshots/neha(new).jpg
     role: Off-Campus
     from: Toronto, Ontario
     major: Third Year in Social, Cultural, and Linguistic Anthropology with a focus in Medical Anthropology, History, Politcal Science
@@ -103,7 +103,7 @@
     
   - name: Yashasvini Singh
     pronouns: she/her
-    image: ---
+    image: assets/images/headshots/yashasvini.jpg
     role: Sustainability
     from: New Delhi, India
     major: Third Year in Economics & Sociology
@@ -116,7 +116,7 @@
         
   - name: Elžbieta (Elizabeth) Chernyak
     pronouns: she/her
-    image: assets/images/headshots/elizabeth.jpg
+    image: assets/images/headshots/elzbieta.jpeg
     role: Literary and Creative Arts
     from: Vilnius, Lithuania
     major: Second Year in Life Sciences & Drama
@@ -137,7 +137,7 @@
     favourite-part-about-uc: ---
     favourite-quote: ---
     
-  - name: ---
+  - name: Emma Caramazza
     pronouns: ---
     image: 
     role: University & Academic Affairs
@@ -150,7 +150,7 @@
     
   - name: Sarah Elliot
     pronouns: she/her
-    image: ---
+    image: assets/images/headshots/sarah.jpg
     role: Mental Wellness
     from: New Dehli, India
     major: Second Year in Life Sciences
@@ -161,7 +161,7 @@
        "It never hurts to keep looking for sunshine."
        - Eeyore
        
-  - name: ---
+  - name: Kenzy Al-Morsi
     pronouns: she/her
     image: ---
     role: Formals
@@ -172,7 +172,7 @@
     favourite-part-about-uc: ---
     favourite-quote: ---
     
-  - name: ---
+  - name: Euan Pound
     pronouns: ---
     image: ---
     role: Spirit and Social
@@ -242,7 +242,7 @@
 - group: Mid-Year Representatives
   people:
   - name: Kelly Gong
-    image: ---
+    image: assets/images/headshots/kelly gong.jpeg
     role: Mid-Year Representative
     from: Hunan, China
     major: Second Year in Psychology & Neuroscience
@@ -268,7 +268,7 @@
        
   - name: Kristina Cổ
     pronouns: she/her
-    image: Kristina Cổ
+    image: assets/images/headshots/kristina.jpg
     role: Mid-Year Representative
     from: San Francisco, United States
     major: Second Year in Criminology & Sociolegal Studies; Minors in Philosophy & Critical Studies in Equity and Solidarity
@@ -453,7 +453,7 @@
        
   - name: Nithya Gopalakrishnan
     pronouns: she/her
-    image: ---
+    image: assets/images/headshots/nithya.PNG
     role: Sustainability Deputy
     from: Calgary, Alberta
     major: Second Year in Genome Biology, Health and Disease, & Immunology
@@ -463,7 +463,7 @@
        "The future doesn't exist. The only thing that exists is now and our memory of what happened in the past."
        - David Suzuki
        
-  - name: Coming Soon!
+  - name: ---
     pronouns: ---
     image: assets/images/commissions-icons/LCA.png
     role: Literary and Creative Arts Deputy
