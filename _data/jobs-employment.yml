@@ -1,0 +1,217 @@
+# ===========================
+#          TEMPLATE
+# ===========================
+# text: This text is shown at the top of the page
+# jobs:
+#   - title: Web Master
+#     position-outline: Master the web
+#     currently-accepting: true
+#     application-link: https://google.ca     **NOT SHOWN IF currently-accepting IS FALSE!! **
+#     application-instructions: Fill out the form and email it to president@uclit.ca
+#     table-data: # new lines are preserved, no need for <p> tags!
+#       - left: left cell
+#         right: right cell
+#       - left: left cell in another row
+#         right: right cell in another row
+#   - title: Another Master
+#     position-outline: Master the Another
+#     currently-accepting: true
+#     application-link: https://google.ca
+#     application-instructions: Fill out the form and email it to president@uclit.ca
+#     table-data: # new lines are preserved, no need for <p> tags!
+#       - left: Date(s) of Hire
+#         right: Aug 2021-22
+#       - left: renumeration and pay
+#         right: None
+
+text: |
+
+  The Society offers a number of paid and unpaid employment opportunities for members of our community. Any full or part-time UC student is eligible to apply for a hired position on Council, but status as an employee of the Society will make you ineligible for election. For further questions about this or any step of the hiring process, please refer to our <a href="https://uclit.ca/resources/budgets-documents">Policies on Hiring (CP§11)</a> and feel free to contact the <a href="mailto:president@uclit.ca">President's Office</a> at any time.
+
+  <p> The Council term and their employment periods are split into three four-month units: the Summer Period (S) from May to August, the Fall Period (F) from September to December, and the Winter Period (W) from January to April. These periods are denoted both in a position's "Term of Hire", as well as in their "Rate of Pay, indicating when a period is active for, and after which periods they will receive disbursements of their honorarium, respectively.</p>
+ 
+  <p>The University College Literary and Athletic Society is an equal opportunity employer, and understands that despite attempts to include equity at every step of our application process, applicants may still require accomodations. We are committed to making any and all accomodations necessary and would be happy to hear any and all comments or concerns you have of our process, so don't hesitate <a href="mailto:equity.outreach@uclit.ca">to get in touch</a>.
+  
+  <p>
+  </p>
+
+jobs:
+  - title: Orientation Chair
+    position-outline: |
+      University College Orientation is a seven-day program, which provides incoming students with transition support, engaging programming that complements the academic experience, and a sense of collegiality and community. The program is organized on behalf of University College and the University College Literary and Athletic Society.
+      
+      <p>The Orientation Co-Chairs are responsible for overseeing all operations of Orientation while working alongside the UCLit, the office of the Dean of Students at University College, and Central Student Life to plan and execute University College’s Orientation Week. The position entails anywhere from 15-40 per-week hours.</p>
+    application-link: https://bit.ly/orientationcochair22
+    currently-accepting: false
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV along with a completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>.
+    table-data: # new lines are preserved, no need for <p> tags!
+      - left: Term of Hire
+        right: March 2021-2022 (Summer Term, Fall Term, Winter Term)
+      - left: Renumeration and Pay
+        right: Paid
+      - left: Rate of Pay
+        right: $2800 (Summer Term), $1,400 (Fall Term), $2,800 (Winter Term)
+      - left: Number of Positions
+        right: 2
+      - left: Supervisors
+        right: Office of the President
+      - left: Hiring Status
+        right: Not Currently Accepting Applications
+        
+  - title: Commuter Orientation Chair
+    position-outline: |
+      University College Commuter Orientation is a two-day program which provides incoming commuter students with transition support, as well as a sense of collegiality and community.
+      
+      <p>The Commuter Orientation Co-Chairs are responsible for overseeing all operations of Commuter Orientation. The role will require approximately 10 hours per week in June & July, and 15 hours per week in August.
+    currently-accepting: false
+    application-link: https://bit.ly/commuterorientationchair22
+    application-instructions: |
+      Please submit an accurate and up-to-date Resume along with the completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>.
+    table-data: # new lines are preserved, no need for <p> tags!
+      - left: Term of Hire
+        right: March 2021- January 2022 (Summer Term, Fall Term, Winter Term)
+      - left: Renumeration and Pay
+        right: Paid
+      - left: Rate of Pay
+        right: $880 (Summer Term), $880 (Fall Term), $440 (Winter Term)
+      - left: Number of Positions
+        right: 2
+      - left: Supervisors
+        right: Office of the President
+      - left: Hiring Status
+        right: Not Currently Accepting Applications
+        
+  - title: Secretary of the Society
+    position-outline: |
+      The Society Secretary provides brief yet comprehensive minutes of all of the organization’s multi-committee meetings, including our Annual General Meeting (AGM), all regular Meetings of Council, and our weekly Operating Meetings. The Secretary is an ex-officio, non-voting executive, and is supervised directly by the Office of the Vice President. The position has ≤8 per-week hours.
+    currently-accepting: false
+    application-link: mailto:president@uclit.ca
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
+    table-data: # new lines are preserved, no need for <p> tags!
+      - left: Term of Hire
+        right: April 2021-22 (Summer Term, Fall Term, Winter Term)
+      - left: Renumeration and Pay
+        right: Paid
+      - left: Rate of Pay
+        right: |
+          $50 per meeting
+
+      - left: Number of Positions
+        right: 1
+      - left: Supervisors
+        right: Office of the Vice President
+      - left: Hiring Status
+        right: Not Currently Accepting Applications
+
+  - title: Speaker of the Society
+    position-outline: |
+      The Society Speaker establishes procedure at each of the organization’s multi-committee meetings, including our Annual General Meeting (AGM), Judiciary Committee, and all regular Meetings of Council. The Speaker is an ex-officio, non-voting executive, and is supervised directly by the Office of the Vice President.The position has ≤8 per-week hours.
+    currently-accepting: true
+    application-link: mailto:president@uclit.ca
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
+    table-data: # new lines are preserved, no need for <p> tags!
+      - left: Term of Hire
+        right: August 2021-May 2022 (Summer Term, Fall Term, Winter Term)
+      - left: Renumeration and Pay
+        right: Paid
+      - left: Rate of Pay
+        right: | 
+          $40 per meeting
+      - left: Number of Positions
+        right: 1
+      - left: Supervisors
+        right: Office of the Vice President
+      - left: Hiring Status
+        right: Accepting Applications!
+        
+  - title: Web Coordinator
+    position-outline: |
+      The Web Coordinator manages and maintains the Society's website. The website is "static site" generated by Jekyll and hosted on GitHub Pages. Applicants should be comfortable working with HTML, CSS, and JSS (frontend skills).
+    currently-accepting: false
+    application-link: mailto:president@uclit.ca
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
+    table-data: # new lines are preserved, no need for <p> tags
+      - left: Term of Hire
+        right: September 2021- June 2022 (Fall Term, Winter Term)
+      - left: Renumeration and Pay
+        right: Paid
+      - left: Rate of Pay
+        right: $100 (Fall Term), $200 (Winter Term)
+      - left: Number of Positions
+        right: 1
+      - left: Supervisors
+        right: Office of the President
+      - left: Hiring Status
+        right: Not Currently Accepting Applications
+        
+  - title: Elections Coordinator
+    position-outline: |
+      The Elections Coordinator manages and maintains the Society's elections, ensuring that they are fair, equitable, and accessible to all UC students.
+    currently-accepting: false
+    application-link: mailto:president@uclit.ca
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
+    table-data: # new lines are preserved, no need for <p> tags
+      - left: Term of Hire
+        right: June 2021-22 (Summer Term, Fall Term, Winter Term)
+      - left: Renumeration and Pay
+        right: Paid
+      - left: Rate of Pay
+        right: $200 (Fall Term), $500 (Winter Term)
+      - left: Number of Positions
+        right: 1
+      - left: Supervisors
+        right: Office of the President
+      - left: Hiring Status
+        right: Not Currently Accepting Applications
+
+  - title: Diabolos' Manager
+    position-outline: |
+      Diabolos’ Coffee Bar (referred to as “Diabolos’“) is a subsidiary business of the incorporated University College Literary and Athletic Society. Historically it exists in a non-profit, or break-even capacity, with a primary focus on supporting students in the College community with low-cost, accessible dining options.
+      
+      <p>The Manager will be tasked with maintaining the financial, operational, and administrative wellbeing of the entity, applying for all legal documentation to authorize its operation in the City of Toronto, and ensure the hire of subsequent employees whenever applicable. The position has ≤10 per-week hours.</p>
+    currently-accepting: false
+    application-link: https://bit.ly/diabolosmanagerapp
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
+    table-data: # new lines are preserved, no need for <p> tags!
+      - left: Term of Hire
+        right: December 2021- April 2022 (Winter Term)
+      - left: Renumeration and Pay
+        right: Paid
+      - left: Rate of Pay
+        right: |
+          $16 per hour capped at 10 hours per week, not including any barista shifts worked. 10% profit-sharing agreement paid out at the end of the operating year.
+      - left: Number of Positions
+        right: 1
+      - left: Supervisors
+        right: Office of the President
+      - left: Hiring Status
+        right: Not Currently Accepting Applications
+
+  - title: WUSC Director
+    position-outline: |
+      The Co-Directors of the University College Literary and Athletic Society WUSC division are tasked with being the support and primary contact point for the college’s sponsored WUSC student, in collaboration with the Equity Commission of the UC Lit and the Office of Student Life at University College. Previous holders of this position have identified it as a great starting off point for providing community service to the college and a place to formalize general interest in the social services.
+      
+      <p> The Co-Directors are governed uniquely by a Committee jointly administered by the Office of the Dean of Students, University College, and the UC Lit, as well as in accordance with the guidelines and programs set out by the national WUSC organization. The hours will vary, however, they will not exceed ten (10) hours per week per Director during the regular school year.
+    currently-accepting: false
+    application-link: https://bit.ly/WUSCdirector21
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV , a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
+    table-data: # new lines are preserved, no need for <p> tags!
+      - left: Term of Hire
+        right: April 2021-22 (Summer Term, Fall Term, Winter Term)
+      - left: Renumeration and Pay
+        right: Volunteer
+      - left: Rate of Pay
+        right: N/A
+      - left: Number of Positions
+        right: 2
+      - left: Supervisors
+        right: Office of the President, Office of the Dean of Students
+      - left: Hiring Status
+        right: Not Currently Accepting Applications

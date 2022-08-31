@@ -3,6 +3,67 @@ layout: default
 title: Elections
 ---
 <h1 class="font-secondary" data-aos="fade">Elections</h1>
-<p data-aos="fade-up">
-    {{ site.data.elections.text }}
-</p>
+<div data-aos="fade-up">
+    <p>{{ site.data.elections.text }}</p>
+    <br>
+    
+    <h2 class="font-secondary text-primary">The Election Process</h2>
+    <p>{{ site.data.elections.subtext }}</p>
+    <br>
+
+        <h2 class="font-secondary text-primary">Current Election Schedule: Third Round Elections 2022-2023</h2>
+    <p> Positions up for Election: </p>
+    <p><b>Executive:</b></p>
+    <p>Off-Campus Commissioner (1 position)</p>
+    <p>Mental Wellness Commissioner (1 position)</p>
+    <p><b>Representatives:</b></p>
+    <p>Mid-Year Reps (4 positions)</p>
+    <p>Upper-Year Reps (3 positions)</p>
+    <br>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="table-responsive">
+                <table class="table table-bordered">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>Dates</th><th>Event</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><p>Monday, April 18 (12pm-1pm)</p>
+                                <p>Tuesday, April 19 (7pm-8pm)</p>
+                                <p>Wednesday, April 20 (6pm-7pm)</p>
+                                <p>Thursday, April 21 (4pm-5pm)</p></td><td>Information Sessions</td>
+                        </tr>
+                        <tr>
+                            <td>9am Friday, April 22 - 11.59pm Sunday, May 1 </td><td>Nomination Period</td>
+                        </tr>
+                        <tr>
+                            <td>Monday, May 2 (11am-12pm) <strong>OR</strong> (5pm-6pm)</td><td>All-Candidates Meeting</td>
+                        </tr>
+                        <tr>
+                            <td>9am Tuesday, May 3 - 9pm Tuesday, May 10</td><td>Campaign Period</td>
+                        </tr>
+                        <tr>
+                            <td>9am Wednesday, May 11 - 9pm Thursday, May 12</td><td>Voting Period</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-md-6">
+
+            {% for button in site.data.elections.buttons %}
+            <div>
+                <a class="btn btn-primary my-2 btn-block btn-lg" href="{{ button.link | relative_url }}" target="_blank"><strong>{{ button.text
+                        }}</strong></a>
+            </div>
+            {% endfor %}
+
+        </div>
+        <div class="col-md-6">
+            <p>{{ site.data.elections.current-election-text }}</p>
+        </div>
+    </div>
+</div>

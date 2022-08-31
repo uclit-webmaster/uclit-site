@@ -12,65 +12,74 @@
 - name: ATHLETICS
   image: assets/images/commissions-icons/athletics.svg # these SVGs were created in figma and then copied as svg (right click, copy as svg) and pasted in a blank file.
   email: athletics@uclit.ca
-  commissioners: HANNAH ROBERTS WITH KIELEY MACKEY, IZZY TOTH, SHAEN FENG
+  instagram: <a href="https://www.instagram.com/ucathletics">@ucathletics</a>
+  commissioners: HANNAH ROBERTS WITH JESSE MCDOUGALL AND AWS MUSTAFA
   description: The Athletics Commission runs all sports themed events, such as ski trips, Raptors games, viewing parties and much more! They also oversee all the UC intramurals - more information about joining a team can be found on the Intramurals page!
 
-- name: LITERARY & CREATIVE ARTS (LCA)
+- name: LITERARY & CREATIVE ARTS
   image: assets/images/commissions-icons/lca.svg
   email: lca@uclit.ca
-  commissioners: HANNAH FLEISCH WITH AIYANA HARVEY, CALEB SANDBLOM
+  instagram: <a href="https://www.instagram.com/lca.uclit">@lca.uclit</a>
+  commissioners: THÉRÈSE DOMINGA PERUCHO
   description: LCA specializes in providing a platform for UC students to showcase their talent and creativity, and encourage art around our college. They also oversee UC publications such as our newspaper, the UC Gargoyle, and our literary journal, The UC Review.
 
-- name: SPIRIT & COMMUNICATIONS (SCC)
+- name: COMMUNICATIONS AND OUTREACH
   image: assets/images/commissions-icons/scc.svg
-  email: scc@uclit.ca
-  commissioners: HIBA TAHA WITH HANNAH ALLEN, KAREEM ELHIGZI, ANANMAY SHARAN
-  description: The Spirit & Communications Commission, or SCC for short, is responsible for making sure the UC Lit represents and reaches out to all of our constituents through our website, blog, social media, tabling, meet & greets, collecting feedback, and creating Spirit Wear!
+  email: communications@uclit.ca
+  commissioners: BASMA MOHAMED-SAEED WITH FATIMA ABBASI AND CHELSEA SONG
+  description: The Communications and Outreach Commission is responsible for making sure the UC Lit represents and reaches out to all of our constituents through our website, blog, social media, tabling, meet & greets, and collecting feedback!
 
 - name: SUSTAINABILITY
   image: assets/images/commissions-icons/sustainability.svg
   email: sustainability@uclit.ca
-  commissioners: SOPHIA FAN WITH ANIKET KALI, WILLOW CABRAL
-  description: LCA specializes in providing a platform for UC students to showcase their talent and creativity, and encourage art around our college. They also oversee UC publications such as our newspaper, the UC Gargoyle, and our literary journal, The UC Review.
+  instagram: <a href="https://www.instagram.com/sustainability.uclit">@sustainability.uclit</a>
+  commissioners: WILLOW CABRAL WITH ERIKA LINDSAY AND ALEX LEVESQUE
+  description: Sustainability advocates for environmental justice at UC and beyond. They do this through pushing for fossil fuel divestment, promoting a just transition, educating community members, organizing and supporting actions, and solidarity work.
 
-- name: EQUITY AND OUTREACH
+- name: EQUITY 
   image: assets/images/commissions-icons/equity-and-outreach.svg
-  email: equity.outreach@uclit.ca
-  commissioners: YOUSSEF METWALLY WITH CHLOE TSE, SULEEKHA HIRSI
-  description: The Equity & Outreach Commission brings light to equity issues within our UC community and hold events that promote the diversity of UC. It also supports local charities, provides volunteer opportunities for students to get involved in their local community, and more!
+  email: equity@uclit.ca
+  instagram: <a href="https://www.instagram.com/equity.uclit">@equity.uclit</a>
+  commissioners: LUCY STARK WITH SUBHI JHA AND MAYA JAVIER
+  description: The Equity Commission brings light to equity issues within our UC community and hold events that promote the diversity of UC. It also supports local charities, provides volunteer opportunities for students to get involved in their local community, and more!
 
-- name: SOCIAL
+- name: SPIRIT AND SOCIAL
   image: assets/images/commissions-icons/social.svg
   email: social@uclit.ca
-  commissioners: ANDREA ESTRABILLO WITH ELLA LEVIN, SCARLETT MACKAY
-  description: The Social Commission brings us all of our Pub Crawls, Club Nights, Board Games Nights, and other fun activities on and off campus!
+  instagram: <a href="https://www.instagram.com/spiritsocial.uclit">@spiritsocial.uclit</a>
+  commissioners: HONESTY SENESE WITH SCARLETT MACKAY AND AIYANA HARVEY
+  description: The Spirit and Social Commission brings us all of our Pub Crawls, Club Nights, Board Games Nights, and other fun activities on and off campus! They also create spiritwear!
 
-- name: UNIVERISTY AND ACADEMIC AFFAIRS
+- name: UNIVERSITY AND ACADEMIC AFFAIRS
   image: assets/images/commissions-icons/university-academic-affairs.svg
   email: uaa@uclit.ca
-  commissioners: VAISH VIJAYAN WITH AALINA BILAL
+  instagram: <a href="https://www.instagram.com/uaa.uclit">@uaa.uclit</a>
+  commissioners: AALINA BILAL WITH EMMA CARAMAZZA
   description: UAA works to promote an active learning community at UC. They run events targeted towards academic success and post-secondary opportunities, and raise awareness of university-wide issues that affect fair access to education at U of T.
 
 - name: MENTAL WELLNESS
   image: assets/images/commissions-icons/mental-wellness.svg
   email: wellness@uclit.ca
-  commissioners: AANYA BAHL WITH NATALIA LANDAVERDE, THERESE PURUCHO
+  instagram: <a href="https://www.instagram.com/mentalwellness.uclit">@mentalwellness.uclit</a>
+  commissioners: DIVYA GUPTA WITH ALI SYED
   description: The Mental Wellness Commission strives to bring awareness to issues surrounding mental health around UC and UofT, and reduce stigma. This is done through holding various events, workshops and discussions.
+  
+- name: FORMALS
+  image: assets/images/commissions-icons/formals.svg
+  email: formals@uclit.ca
+  instagram: <a href="https://www.instagram.com/formals.uclit">@formals.uclit</a>
+  commissioners: NATALIA LANDAVERDE WITH KENZY EL-MORSI
+  description: The Formals Commission brings us our annual Fireball, the largest semi-formal on campus! This commission also runs the Year-End Ball and Red & White, our other two semi-formals.
+
+- name: OFF CAMPUS
+  image: assets/images/commissions-icons/ucoc.svg
+  email: ucoc@uclit.ca
+  instagram: <a href="https://www.instagram.com/offcampus.uclit">@offcampus.uclit</a>
+  commissioners: CHELSEA SONG
+  description: UCOC works with the Commuter Dons (CoCos) to make the lives of our 80% commuter population as easy as possible. Meet other commuters, participate in fun events, and find your home away from home at the Commuter Student Centre (CSC)!
 
 - name: FINANCE
   image: assets/images/commissions-icons/finance.svg
   email: finance@uclit.ca
-  commissioners: DANIELLA COLANGELO WITH KYLE GLUNTZ, MAHAKSH MALHOTRA
+  commissioners: SHREYANSI GANDHI WITH ARINA MNATSKANYAN
   description: The Finance Commission helps prepare the UC Lit's annual audit, and does bookkeeping for all the different commissions, clubs and ancillaries to ensure we're managing students' money wisely!
-
-- name: FORMALS
-  image: assets/images/commissions-icons/formals.svg
-  email: formals@uclit.ca
-  commissioners: TEAGAN SMITH WITH ARINA MNATSAKANYAN, RACHEL CHEN
-  description: "The Formals Commission brings us our annual Fireball, the largest semi-formal on campus! This commission also runs our other two semi-formals : Year-End Ball and Red & White. Apply to be a Fireball room head by October 4!"
-
-- name: OFF CAMPUS (UCOC)
-  image: assets/images/commissions-icons/ucoc.svg
-  email: ucoc@uclit.ca
-  commissioners: ISAHAQ IBRAHIM WITH SOLOMON AZIMI, DAVID RUNESHA
-  description: UCOC works hard with the Commuter Dons (CoCos) to make the lives of our 80% commuter population as easy as possible. Come find your home away from home at the Commuter Student Centre (CSC), or sign up to be part of the MyJourney commuter orientation!

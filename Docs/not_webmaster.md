@@ -6,17 +6,17 @@ Use this table to find the file you need to change.
 
 |Section | Data File| Instructions|
 | -- | -- |-- |
-|President's Message | [_data/presidents-message.yml](_data/presidents-message.yml)|[guide](#President's-message)|
-|Documents | [_data/documents.yml](_data/documents.yml)|[guide](#Documents)|
-|The Council | [_data/council.yml](_data/council.yml)|[guide](#Council)|
-|Intramurals | [_data/intramurals.yml](_data/intramurals.yml)|[guide](#Intramurals)|
-|Budgets | [_data/budgets.yml](_data/budgets.yml)|[guide](#Budgets)|
-|Clubs and Ancillaries | [_data/clubs-and-ancillaries.yml](_data/clubs-and-ancillaries.yml)|[guide](#Clubs-and-Ancillaries)|
-|Commissions | [_data/commissions.yml](_data/commissions.yml)|[guide](#Commissions)|
-|Elections | [_data/elections.yml](_data/elections.yml)|[guide](#Elections)|
-|Student academics and wellness | [_data/student-academics-wellnes](_data/student-academics-wellness.yml)|[guide](#student-academics-and-wellness)|
-|Navigation bar | [_data/navbar.yml](_data/navbar.yml)|[guide](#Navigation-bar)|
-|Footer | [_data/footer.yml](_data/footer.yml)|[guide](#Footer)|
+|President's Message | [_data/homepage.yml](../_data/homepage.yml)|[guide](#homepage)|
+|Budgets and Documents | [_data/budgets-documents.yml](../_data/budgets-documents.yml)|[guide](#Budgets-and-Documents)|
+|The Council | [_data/council.yml](../_data/council.yml)|[guide](#Council)|
+|Intramurals | [_data/intramurals.yml](../_data/intramurals.yml)|[guide](#Intramurals)|
+|Clubs and Ancillaries | [_data/clubs-and-ancillaries.yml](../_data/clubs-and-ancillaries.yml)|[guide](#Clubs-and-Ancillaries)|
+|Commissions | [_data/commissions.yml](../_data/commissions.yml)|[guide](#Commissions)|
+|Elections | [_data/elections.yml](../_data/elections.yml)|[guide](#Elections)|
+|Student academics and wellness | [_data/student-academics-wellness.yml](../_data/student-academics-wellness.yml)|[guide](#student-academics-and-wellness)|
+|Jobs and Employment | [_data/jobs-employment.yml](../_data/jobs-employment.yml)|[guide](#jobs-and-employment)|
+|Navigation bar | [_data/navbar.yml](../_data/navbar.yml)|[guide](#Navigation-bar)|
+|Footer | [_data/footer.yml](../_data/footer.yml)|[guide](#Footer)|
 
 ## How Data Files Work
 The data files are written in ["YAML"](https://yaml.org/start.html) format. This makes it easy to understand by humans.
@@ -61,18 +61,27 @@ Make sure that the local path you enter leads to a resource that exists, and not
 
 ___
 
-## President's message
-The president's message file just has 3 keywords: `image`, `name` and `message`. Make sure that whatever link you use for the image, you upload the image as well if it wasn't there before.
+## Homepage
+This file controls the president's message and the slideshow to be shown in the homepage. There are 2 top level keywords:
+- `jumbotron-slides`: This contains a list of `image` and `alt-text` keywords, one for each image to be shown in the slideshow.
+- `presidents-message`: 3 keywords: `image`, `name` and `message`. 
+Make sure that whatever link you use for the images, you upload them as well if they weren't there before.
 #### Sample:
 ```yaml
-image: /assets/images/headshots/presidents-headshot.png
-name: President's name
-message: >
-  Paste the president's message here with all the lines indented as shown. This value can span multiple lines because it begins with a ">".
+jumbotron-slides:
+  - image: /assets/images/University_College_University_of_Toronto.jpg
+    alt-text: text to be shown in case the image doesn't load and for screen readers for vision-impaired users.
+  - image: /assets/images/University_College_University_of_Toronto-east-wing.jpg
+    alt-text: University College east wing
+presidents-message:
+  image: /assets/images/headshots/presidents-headshot.png
+  name: President's name
+  message: |
+    Paste the president's message here with all the lines indented as shown. If it spans multiple lines because you hit enter, the website will have the same line breaks.
 ```
 
-## Documents
-The Documents data file lets you add sections and documents to the Documents page.
+## Budgets and Documents
+This file lets you add sections and documents to the "Budgets and Documents" page.
 - `heading`: the heading that the section will have
 - `text`: the text describing the document section
 - `documents`: a list of documents to add as buttons under this section
@@ -82,7 +91,7 @@ The Documents data file lets you add sections and documents to the Documents pag
 #### Sample:
 ```yaml
 - heading: The heading for this section of documents
-  text: >
+  text: |
     Below is the University College Literary & Athletic Society Constitution and Council Policy that govern our society. If you have any questions or concerns on these documents please contact <a href="mailto:vp@uclit.ca">vp@uclit.ca</a>.
   documents:
     - text: CONSTITUTION
@@ -90,7 +99,7 @@ The Documents data file lets you add sections and documents to the Documents pag
     - text: COUNCIL POLICIES
       link: /assets/documents/dummy.pdf
 - heading: The heading for the 2nd section of documents
-  text: >
+  text: |
     Minutes contain brief summaries of our meetings. Minutes from the previous meeting are posted following approval at the subsequent meeting.
   documents: 
     - text: MINUTES
@@ -101,11 +110,8 @@ The Documents data file lets you add sections and documents to the Documents pag
 The Council file contains a nested list of items:
 - The top-most level is the "groups", i.e. each of the pills on the left side of the about -> council page. Each has the `group` keyword which sets the text inside of the pill, and the `people` keyword to list the people in that group.
 
-- each `people` item contains `name`, `image`, `role`, `from`, `major`, `email` and `office-hours`
-    keywords.
-
-#### Sample:
-```yaml
+- each `people` item contains `name`, `image`, `role`, `from`, `major` and `email` keywords.
+    - optional keywords: `office-hours`, `favourite-part-about-uclit` and `favourite-quote`. If these are not included then they won't be displayed on the page.quote```yaml
 - group: Core Presidents
   people:
   - name: Liam
@@ -115,6 +121,8 @@ The Council file contains a nested list of items:
     major: Human Geography, Political Science
     email: president@uclit.ca
     office-hours: 12-1 thursdays
+    favourite-place-to-study-on-campus: Wetmore Hall
+    favourite-place-to-eat-on-campus: Sid Smith Cafe
   - name: Danielle
     image: assets/images/headshots/danieele.jpeg
     role: President
@@ -122,6 +130,7 @@ The Council file contains a nested list of items:
     major: Human Geography, Political Science
     email: president@uclit.ca
     office-hours: 12-1 thursdays
+    favourite-place-to-study-on-campus: Wetmore Hall
 - group: Executives
   people:
   - name: Someone Else
@@ -131,18 +140,23 @@ The Council file contains a nested list of items:
     major: Human Geography, Political Science
     email: president@uclit.ca
     office-hours: 12-1 thursdays
+    favourite-place-to-eat-on-campus: Sid Smith Cafe
 ```
 
 ## Intramurals
 The Intramurals file contains following keywords:
+- `text`: the text to be shown on the intramurals page. Can contain HTML tag for formatting.
 - `sign-up-link`: the link to the general intramurals sign-up form
-- `deadline-text`: The text that will be shown on the page to specify the deadline to apply
 - `sports`: a list of sports, each containing the following keywords. For each sport, another square will be shown on the page with the image, and sport name/sign-up text on hover.
     - `name`: the name of the sport to be shown on the page on hover
     - `sign-up-link`: the google form (or other) sign-up link for the specific sport
     - `image`: the link to the image to show on the page for this sport
 #### Sample: 
 ```yaml
+text: |
+  this is some text that will be displayed in the intramurals page
+  <p>You can also use html tags for more control on how the text will<strong>look.</strong></p>
+
 sports:
   - name: Basketball
     sign-up-link: "#"
@@ -163,24 +177,6 @@ sports:
     sign-up-link: "#"
     image: /assets/images/intramurals-photos/uclit-dodgeball.png
 sign-up-link: "#" # TODO: add sign-up link
-deadline-text: The deadline to apply is SOME DATE. After that, please email <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> to see if space is available.
-```
-
-## Budgets
-The Budgets file contains the following keywords:
-- `text`: The text to be shown at the top of the page.
-- `documents`: a list of documents, each containing the following keywords. Each document will cause another download button to be shown on the page
-    - `text`: text to be placed in the download button for the doc
-    - `link`: the link to the document itself that'll be downloaded on the press of the button
-#### Sample:
-```yaml
-text: >
-  To ensure openness to our students our budgets are made public. All budgets are subject
-  to an annual, third-party audit. Any questions or concerns on the budget or budgeting process
-  can be made to finance@uclit.ca. Click on the button below to access them!
-documents:
-  - text: BUDGETS
-    link: /assets/documents/dummy.pdf
 ```
 
 ## Clubs and Ancillaries
@@ -214,8 +210,7 @@ clubs:
         link: http://instagram.com/university-college-lit
       - network: e-mail # dont forget the mailto: for emails!!
         link: mailto:ucdbc@uclit.ca
-    description: >
-        <p>
+    description: |
           Training with the UCDBC is not merely about
           winning; paddlers not only gain mental and
           physical strength, but are also
@@ -223,14 +218,11 @@ clubs:
           belong. While the team grows even more, one
           thing will remain undoubtedly true: the UCDBC is
           a one-of-a-kind family.
-        </p>
-        <p>
+
           Diabolos’ is a student-run, fair trade
           environmentally-conscious coffee bar at UC
           serving hot and cold drinks and a variety of
           pastries, wraps and meals.
-        </p>
-      
 
 ancillaries:
   - name: Diabolos
@@ -240,13 +232,11 @@ ancillaries:
         link: mailto:ucdbc@uclit.ca
       - network: instagram
         link: http://facebook.com/university-college-lit
-    description: >
-      <p>
+    description: |
         Diabolos’ is a student-run, fair trade,
         environmentally-conscious coffee bar at UC
         serving hot and cold drinks and a variety of
         pastries, wraps and meals.
-      </p>
 ```
 
 ## Commissions
@@ -273,29 +263,78 @@ The Commissions file is a list items, each of which contain the following keywor
 
 ## Elections
 This data file lets you set the text to be displayed in the "Get Involved" -> "Elections" page.
-- `text`: the text to be shown on the page
+- `text`: the text to be shown at the top of the page
+- `buttons`: list of `text` and `link`s defining buttons to be displayed beside the table in the current election section of the page.
+- `current-election-text`: text to be shown in the current election section of the page
 #### Sample:
 ```yaml
-text: >
-  In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi
-  consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi.
+text: |
+  In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi.
+current-election-text: |
+  In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi consequatur?
+buttons:
+ - text: NOMINATION FORM
+   link: https://docs.google.com/document/d/1kAze-mqIMEoSidXYvp18dgxJetnvjHolm4doN6CVmEs/edit?usp=sharing
+ - text: VOTE HERE
+   link: https://voting.utoronto.ca/
   ```
 
 ## Student Academics and Wellness
-This data file contains a list of the headers and text of different sections of the page. Each list item contains the following keywords:
+This data file contains a list of the headers, text and buttons of different sections of the page. Each list item contains the following keywords:
 - `header`: the header of the section to add to the page
-- `text`: the text to add in that section
+- `text`: (optional) the text to add in that section 
+- `buttons`: (optional) list of buttons to include under the text for this section
+  - `text`: the text that the button should contain
+  - `link`: the link that the button should lead to
 
 #### Sample:
 ```yaml
 - header: COVID-19
-  text: >
-    In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi
-    consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi.
+  text: |
+    In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi.
+  buttons:
+    - link: www.google.ca
+      text: click here for the google form
 - header: BLM & RACIAL JUSTICE SUPPORT
-  text: >
-    In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi
-    consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi
+  text: |
+    In quo enim maxime consuevit iactare vestra se esse ratione voluptatem sequi nesciunt. Quid ex ea commodi consequatur? quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi
+```
+
+## Jobs and Employment
+This data file contains a brief heading, and then a list of jobs to display on the page. Each Job consists of the following:
+- `title`: the title of the position
+- `position-outline`: a brief outline of the role
+- `currently-accepting`: either `true` or `false`, controls whether to show the Apply Now button or not
+- `application-link`: a link to the application form
+- `application-instructions`: instructions on how to apply for the position
+- `table-data`: a 2-column table with information on the role, containing a list of rows:
+    - `left`: text to put in the left cell of the row
+    - `right`: text to put in the right cell of the row
+
+#### Sample:
+```yaml
+text: This text is shown at the top of the page
+jobs:
+  - title: Web Master
+    position-outline: Master the web
+    currently-accepting: true
+    application-link: https://google.ca
+    application-instructions: Fill out the form and email it to president@uclit.ca
+    table-data:
+      - left: left cell
+        right: right cell
+      - left: left cell in another row
+        right: right cell in another row
+  - title: Another Master
+    position-outline: Master the Another
+    currently-accepting: false
+    application-link: https://google.ca
+    application-instructions: Fill out the form and email it to president@uclit.ca
+    table-data:
+      - left: Date(s) of Hire
+        right: Aug 2021-22
+      - left: renumeration and pay
+        right: None
 ```
 
 ## Navigation Bar
@@ -330,7 +369,7 @@ The footer of the site consists of a row of 4 sections: a general logo section, 
     - `name`: the text that will be clickable
     - `link`: the url that the text will lead to. Like the nav bar above, the links can be relative or external (see sample above)
 - `follow_us`: contains a list of contact links
-    - `network`: one of `facebook`, `twitter`, `instagram`, `youtube`, `e-mail`, `square`, `snapchat` or `website`. Controls which icon to show for this link
+    - `network`: one of `facebook`, `twitter`, `instagram`, `youtube`, `e-mail`, `square`, `snapchat`, `discord` or `website`. Controls which icon to show for this link
     - `link`: the url where this icon leads to
 - `find_us`: put address here, as shown in the sample. Note that since it starts with a "|" character, the website will respect the line breaks. So it'll be shown on the site the same way it shows in the data file. [Click here](https://yaml-multiline.info/) to see an explanation.
 #### Sample:

@@ -27,11 +27,16 @@ title: The Council
             {% for person in class.people %}
             <div class="col-md-4 mb-3">
               <div class="card shadow">
-                <img src="{{ person.image | relative_url }}" class="card-img-top" alt="{{ person.name }}">
+                <img src="{{ person.image | relative_url }}" class="card-img-top bg-primary" alt="{{ person.name }}">
                 <div class="card-body">
                   <h5 class="card-title">{{ person.name }}</h5>
                   <h6 class="card-subtitle mb-2 text-muted">{{ person.role }}</h6>
-                  <p class="card-text">{{ person.from }} - {{ person.major }}</p>
+                  {% if person.pronouns %}<p class="card-text"><i class="fas fa-tag"></i> {{ person.pronouns }} </p>{% endif%}
+                  <p class="card-text"><i class="fas fa-map-marked-alt"></i> {{ person.from }} </p>
+                  <p class="card-text"><i class="fas fa-graduation-cap"></i> {{ person.major }} </p>
+                  {% if person.favourite-part-about-uc %}<p class="card-text"><b>Favourite Part About UC:</b> {{ person.favourite-part-about-uc }}</p>{% endif%}
+                  {% if person.favourite-quote %}<p class="card-text" style="white-space: pre-wrap;"><b>Favourite Quote:</b> {{ person.favourite-quote }}</p>{% endif%}
+                  {% if person.office-hours %}<p class="card-text"><b>Office Hours:</b> {{ person.office-hours }}</p>{% endif%}
                 </div>
                 <div class="card-footer bg-white border-top-0"><a href="mailto:{{ person.email }}">{{ person.email }}</a></div>
               </div>

@@ -1,4 +1,4 @@
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 <script src="https://kit.fontawesome.com/24e6625de5.js" crossorigin="anonymous"></script>
@@ -10,26 +10,26 @@
   }); // initialize AOS animate on scroll lib
 </script>
 <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
-<div id="footer">
+<footer id="footer">
   <div class="container pt-4 mt-md-5 pt-md-5">
     <div class="row">
       <div class="col-6 col-md">
-        <img class="mb-2" src="{{ '/assets/images/logo.png' | relative_url }}" alt="uclit logo" height="30px">
+        <img class="mb-2" src="{{ '/assets/images/logo.svg' | relative_url }}" alt="uclit logo" height="30px">
         <small class="d-block mb-3 text-muted">© 2020</small>
       </div>
       <div class="col-6 col-md">
-        <h5>Quick Links</h5>
+        <h4>Quick Links</h4>
         <ul class="list-unstyled text-small">
         {% for item in site.data.footer.quick_links %}
-          <li><a class="text-muted" href="{{ item.link | relative-url }}">{{ item.name }}</a></li>
+          <li class="mb-1 py-1"><a class="text-muted" href="{{ item.link | relative-url }}">{{ item.name }}</a></li>
         {% endfor %}
         </ul>
       </div>
       <div class="col-6 col-md">
-        <h5>Follow Us</h5>
+        <h4>Follow Us</h4>
         {% for item in site.data.footer.follow_us %}
-        <span class="color-primary">
-          <a href="{{ item.link }}">
+        <span class="color-primary pr-3" style="font-size: 25px">
+          <a href="{{ item.link }}" aria-label="find us on {{ item.network }}!">
           <i class="
           {% case item.network %}
             {% when "twitter" %}
@@ -46,6 +46,8 @@
               fas fa-envelope
             {% when "square" %}
               fas fa-gift
+            {% when "discord" %}
+              fab fa-discord
             {% else %}
               fas fa-globe-americas
           {% endcase %}
@@ -54,9 +56,9 @@
         {% endfor %}
       </div>
       <div class="col-6 col-md">
-        <h5>Find Us</h5>
-        <p style="white-space: pre-wrap" class="text-small text-muted">{{ site.data.footer.find_us}}</p>
+        <h4>Find Us</h4>
+        <p style="white-space: pre-wrap" class="text-small text-muted">{{ site.data.footer.find_us }}</p>
       </div>
     </div>
   </div>
-</div>
+</footer>

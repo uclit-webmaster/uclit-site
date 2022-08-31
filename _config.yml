@@ -2,13 +2,15 @@ url: "https://uclit.ca" # the base hostname & protocol for your site, e.g. http:
 baseurl: "/" # the subpath of your site, e.g. /blog
 title: "UC Lit" # the name of your site, e.g. ACME Corp.
 sass:
-  sass_dir: assets/css 
+  sass_dir: assets/css
+  style: compressed
 
 plugins:
   - jekyll-autoprefixer
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-analytics
+  - jekyll-gzip
 
 exclude:
   - README.md
@@ -17,9 +19,7 @@ exclude:
 tagline: "Welcome to the UC Lit's official website."
 email: your.email@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome the the UC Lit, the oldest 
-  democratically-elected student government
-  in Canada
+  Welcome to the UC Lit, the oldest democratically-elected student government in Canada.
 
 GoogleAnalytics:          # https://github.com/hendrikschneider/jekyll-analytics
     id: UA-174941981-1

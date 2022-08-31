@@ -3,18 +3,22 @@ layout: default
 title: Commissions
 ---
 <h1 class="font-secondary">Commissions</h1>
+<p data-aos="fade-up">
+    Commissions are specific Council committees which operate semi-independently, but still depend on general Council action and support. Check out the types below, and join our <a href="https://discord.gg/fKyQjVeh5k">Council Discord</a> to get involved!
+</p>
 <div class="container">
   <div class="row ">
     {% for commission in site.data.commissions %}
     <div class="col-md-6 p-2" data-aos="fade-{% cycle 'right', 'left' %}">
       <div class="card shadow">
         <div class="card-body">
-
+            
           <div class="d-flex commission-header">
             <img src="{{ commission.image | relative_url }}" class="commission-icon">
             <div class="ml-3 d-flex flex-column justify-content-center commission-titles">
               <h5 class="mb-0 font-weight-bold">{{ commission.name }}</h5>
               <a href="mailto:{{ commission.email }}" class="mb-0 font-italic">{{ commission.email }}</a>
+              <a href="{{ commission.iglink }}" class="mb-0 font-weight-bold"> {{ commission.instagram }}</a>
             </div>
           </div>
           <p class="car-text font-weight-bold mt-3">{{ commission.commissioners }}</p>
