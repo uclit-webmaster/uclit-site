@@ -215,3 +215,47 @@ jobs:
         right: Office of the President, Office of the Dean of Students
       - left: Hiring Status
         right: Not Currently Accepting Applications
+
+  - title: Photographer
+    position-outline: |
+      The Photographer attends certain events assigned by the Core-Executive or Executive in charge. Duration of attendance will be decided prior. Entrance fees for assigned events shall be waived. The Photographer will also upload pictures within two days of the event, to be overseen by at least one member of the core-executive prior to uploading.
+      
+    currently-accepting: false
+    application-link: mailto:president@uclit.ca
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV , a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
+    table-data: # new lines are preserved, no need for <p> tags!
+      - left: Term of Hire
+        right: August 2022- April 2023 (Fall Term, Winter Term)
+      - left: Renumeration and Pay
+        right: Paid
+      - left: Rate of Pay
+        right: $150 (Summer Term), $300 (Fall Term), $300 (Winter Term)
+      - left: Number of Positions
+        right: 1
+      - left: Supervisors
+        right: Office of the President, Office of the Dean of Students
+      - left: Hiring Status
+        right: Not Currently Accepting Applications
+
+  - title: Backup Photographer
+    position-outline: |
+      The Backup Photographer shall not be a member of the Council and shoall hold any other employed position affiliated with the Lit during his/her term of office. The Backup Photographer attends certain events assigned by the Core-Executive or Executive in charge. Duration of attendance will be decided prior. Entrance fees for assigned events shall be waived. The Backup Photographer will also upload pictures within two days of the event, to be overseen by at least one member of the core-executive of Spirit and Communications Commissioner prior to uploading.
+      
+    currently-accepting: true
+    application-link: mailto:president@uclit.ca
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV , a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
+    table-data: # new lines are preserved, no need for <p> tags!
+      - left: Term of Hire
+        right: August 2022- April 2023 (Fall Term, Winter Term)
+      - left: Renumeration and Pay
+        right: Paid
+      - left: Rate of Pay
+        right: $60/event
+      - left: Number of Positions
+        right: 1
+      - left: Supervisors
+        right: Office of the President, Office of the Dean of Students
+      - left: Hiring Status
+        right: Currently Accepting Applications
