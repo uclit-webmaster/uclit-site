@@ -1,3 +1,28 @@
 # https://yaml-multiline.info/ (info about multiline strings in yaml)
-text: >
-  Watch out for our fall elections!
+text: |
+  <p>On this page you can find all relevant information about the UC Lit's bi-annual elections, which are run in accordance with the Provostial Policy on Open, Accessible and Democratic Autonomous Student Organizations and the Society <a href="https://uclit.ca/resources/budgets-documents">Policies on Hiring</a>.</p>
+  
+  <p>Our Fall general election selects our First Year Representative cohort and in the Winter term, we elect our Executives, Middle Year, and Upper Year Representatives. Between March and January there may also be Special By-Elections as necessary. <strong>Any UC student in good academic standing is eligible to run in our elections</strong>. If you have any questions whatsoever, don't hesitate to send an email to the <a href="mailto:elections@uclit.ca">Elections Coordinator</a>!</p>
+
+subtext: |
+  <p>This election will be held entirely <strong>online</strong> following collegiate, university, provincial, and federal guidlines on best practices for COVID-19 prevention and general environmental health and safety guidelines. The 2022 Winter Elections Code contains special provisions considering the use of digital campaigning, and there will be no election bond held in trust.</p>
+  
+  <p>The first step is submitting a nomination form. Nomination forms, which include the information of a valid seconder and ten (10) UC full- or part-time student nominees, must be submitted to the <a href="mailto:elections@uclit.ca">Elections Coordinator</a> before the conclusion of the Nomination Period!</p>
+
+  <p>All valid nominees (those who have been seconded and received ten (10) nominations) will be invited to join the election. There will be a <strong>mandatory</strong> all-candidates meeting with the Elections Coordinator to review the rules and guidelines of the election. Inattendance will lead to disqualification. Following this meeting, the Campaigning Period will begin, and candidates may begin their personal campaigns in accordance with the Elections Code. There will be a two-day Voting Period at the conclusion of the Campaiging Period, after which any nominees who have received the majority or plurality of their election pool will be offered to Council for ratification of their Office.</p>
+
+current-election-text: |
+# <p>† Note: The positions of Mental Wellness Commissioner and Off-Campus Commissioner will be up for Election in early October, pending constitutional ratification by the UofT Governing Council.</p>
+  
+# Comment out the rest of this if you don't want any buttons
+buttons:
+ - text: NOMINATION FORM (AVAILABLE APRIL 22 - MAY 10)
+   link: https://docs.google.com/document/d/1kAze-mqIMEoSidXYvp18dgxJetnvjHolm4doN6CVmEs/edit?usp=drivesdk
+ - text: ELECTIONS CODE
+   link: https://docs.google.com/document/d/15A10Y1C5hEmozJKmxNQe8wq_9AZmzrImEV2-55B4YkU/edit?usp=sharing
+ - text: CANDIDATE INFORMATION
+   link: https://docs.google.com/document/d/12V7Grol_UQVkFL1qhwDgRxWf1Xzut3Mv3k3tzPrWoTA/edit?usp=sharing
+ - text: VOTE HERE
+   link: https://voting.utoronto.ca/
+ - text: ELECTION RESULTS ARCHIVE
+   link: https://drive.google.com/drive/folders/11Sws4cnaROTs858_2ljzMMjRRUOU998Q?usp=sharing

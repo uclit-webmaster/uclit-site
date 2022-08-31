@@ -17,154 +17,525 @@
 #     email: president@uclit.ca
 #     office-hours: 12-1 thursdays
 
-- group: Core Presidents
+- group: Core Executives
   people:
-  - name: Liam
-    image: assets/images/headshots/liam.jpeg
+  - name: Thérèse Perucho
+    pronouns: she/her
+    image: assets/images/headshots/therese(new).jpg
     role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
+    from: Brampton, Ontario
+    major: Fourth Year in Human Geography with a focus in Planning, Political Science & Practical French
     email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
+    office-hours: --- 
+    favourite-part-about-uc: The buildings and architecture, but especially the Junior Common Room!
+    favourite-quote: |
+       "Verily the lust for comfort murders the passion of the soul, and then walks grinning in the funeral"
+       - Kahlil Gibran
+  - name: Chelsea Song
+    pronouns: she/her
+    image: assets/images/headshots/chelsea.jpg
+    role: Vice President
+    from: Scarborough, Ontario
+    major: Fourth Year in Global Health & Immunology
+    email: vp@uclit.ca
+    office-hours: None
+    favourite-part-about-uc: Sir Dan's Quad
+    favourite-quote: |
+       "No act of kindness, no matter how small, is ever wasted"
+       - Aesop
+       
+  - name: Shreyansi Gandhi
+    pronouns: she/her
+    image: assets/images/headshots/shreyansi.jpeg
+    role: Finance
+    from: Mumbai, India
+    major: Third Year in Economics, Statistics, & Spanish
+    email: finance@uclit.ca
+    office-hours: None
+    favourite-part-about-uc: The halls in the UC building!
+    favourite-quote: |
+       "In the long run, we're all dead"
+       - John Maynard Keynes
+       
 - group: Executives
   people:
-  - name: Someone Else
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Danielle Stella
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-- group: Representatives
+  - name: Sabrina Shahidan
+    pronouns: she/her
+    image: ---
+    role: Communications and Outreach
+    from: Kuala Lumpur, Malaysia
+    major: Second Year in Economics, Public Policy, & Statistics
+    email: communications@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The intricacies of the UC building architecture!
+    favourite-quote: |
+       "Let me stay tender hearted, despite despite despite"
+       - Chen Chen
+       
+  - name: Maya Javier
+    pronouns: she/her
+    image: assets/images/headshots/maya.jpg
+    role: Equity
+    from: Vancouver, Canada
+    major: Third Year in Political Science & Critical Studies in Equity and Solidarity
+    email: equity@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The architecture, especially the UC library.
+    favourite-quote: |
+       "Nobody in the world, nobody in history has ever gotten their freedom by appealing to the moral sense of the people who were oppressing them."
+       - Assata Shakur
+       
+  - name: Neha Sultana
+    image: assets/images/headshots/neha(new).jpg
+    role: Off-Campus
+    from: Toronto, Ontario
+    major: Third Year in Social, Cultural, and Linguistic Anthropology with a focus in Medical Anthropology, History, Politcal Science
+    email: ucoc@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The architecture is beautiful!
+    favourite-quote:  |
+        "What we see changes according to what we look for."
+        - E.J. Koh
+    
+  - name: Yashasvini Singh
+    pronouns: she/her
+    image: assets/images/headshots/yashasvini.jpg
+    role: Sustainability
+    from: New Delhi, India
+    major: Third Year in Economics & Sociology
+    email: sustainability@uclit.ca
+    office-hours: Thursdays 1-2PM
+    favourite-part-about-uc: The incredible history and gorgeous buildings!
+    favourite-quote: |
+       "If it was safer on the ground, we wouldn't be on a boat."
+        - Matthew Healy
+        
+  - name: Elžbieta (Elizabeth) Chernyak
+    pronouns: she/her
+    image: assets/images/headshots/elzbieta.jpeg
+    role: Literary and Creative Arts
+    from: Vilnius, Lithuania
+    major: Second Year in Life Sciences & Drama
+    email: lca@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: How grand and castle-like it is! (And of course, the people are amazing.)
+    favourite-quote: |
+     There is too much wisdom in the world to just pick one quote.
+     
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: Athletics
+    from: ---
+    major: ---
+    email: athletics@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+  - name: Emma Caramazza
+    pronouns: ---
+    image: 
+    role: University & Academic Affairs
+    from: ---
+    major: ---
+    email: uaa@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+  - name: Sarah Elliot
+    pronouns: she/her
+    image: assets/images/headshots/sarah.jpg
+    role: Mental Wellness
+    from: New Dehli, India
+    major: Second Year in Life Sciences
+    email: wellness@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: Late night trip to rezzies!
+    favourite-quote: |
+       "It never hurts to keep looking for sunshine."
+       - Eeyore
+       
+  - name: Kenzy Al-Morsi
+    pronouns: she/her
+    image: ---
+    role: Formals
+    from: ---
+    major: ---
+    email: formals@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+  - name: Euan Pound
+    pronouns: ---
+    image: ---
+    role: Spirit and Social
+    from: ---
+    major: ---
+    email: social@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+- group: First Year Representatives
   people:
-  - name: Another Person
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Another Person
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Another Person
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Another Person
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: Another Person
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-- group: Staff and Ancillaries
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: First Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+  - name: ---
+    pronouns: ---
+    image: 
+    role: First Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: First Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: |
+       ---
+       
+  - name: ---
+    image: ---
+    role: First Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+  - name: ---
+    image: ---
+    role: First Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+- group: Mid-Year Representatives
   people:
-  - name: And Another One
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: And Another One
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: And Another One
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: And Another One
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
+  - name: Kelly Gong
+    image: assets/images/headshots/kelly gong.jpeg
+    role: Mid-Year Representative
+    from: Hunan, China
+    major: Second Year in Psychology & Neuroscience
+    email: kelly@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The Junior Common Room!
+    favourite-quote: |
+       "The only limit to our realization of tomorrow will be our doubts of today."
+       - Franklin D. Roosevelt
+       
+  - name: Chiara Chu
+    pronouns: she/her
+    image: ---
+    role: Mid-Year Representative
+    from: Taipei, Taiwan
+    major: Second Year in Book and Media Studies, Industry Relations & Human Resources
+    email: chiara@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The UC building!
+    favourite-quote: |
+       "Good morning, and in case I don't see ya, good afternoon, good evening, and good night!"
+       - Truman, The Truman Show
+       
+  - name: Kristina Cổ
+    pronouns: she/her
+    image: assets/images/headshots/kristina.jpg
+    role: Mid-Year Representative
+    from: San Francisco, United States
+    major: Second Year in Criminology & Sociolegal Studies; Minors in Philosophy & Critical Studies in Equity and Solidarity
+    email: kristina@uclit.ca
+    office-hours: Kristina Cổ
+    favourite-part-about-uc: UC library!
+    favourite-quote: |
+       "With our thoughts, we make the world."
+       - Bhuddha
+       
+  - name: Poorvi Sharma
+    pronouns: she/her
+    image: ---
+    role: Mid-Year Representative
+    from: Mumbai, India
+    major: Third Year in Cognitive Science, Computer Science & Statistics
+    email: poorvi@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The fact that it feels like I'm in a Harry Potter movie!
+    favourite-quote: |
+       "Smile and the world smiles with you. Growl and you get better service."
+       - Garfield
+       
+  
+- group: Upper Year Representatives
+  people:
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: Upper-Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: Upper-Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+     
+  - name: ---
+    image: ---
+    role: Upper-Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+     
+- group: UTSU UC Directors
+  people:
+  - name: Easha Khan
+    pronouns: she/her
+    image: assets/images/headshots/easha2.jpeg
+    role: UC Director
+    from: Vaughan, Ontario
+    major: Second Year in Political Science, English, & Canadian Studies
+    email: easha@uclit.ca
+    office-hours: Tuesdays 3-4PM
+    favourite-part-about-uc: The architecture, people, and the city!
+    favourite-quote: |
+       "Invest in your dreams, grind now, and shine later"
+       
+  - name: Muskan Nagra
+    pronouns: she/her
+    image: assets/images/headshots/muskan.jpg
+    role: UC Director
+    from: Brampton, Ontario
+    major: Second Year in Humanities
+    email: muskan@uclit.ca
+    office-hours: Wednesdays 12-1PM
+    favourite-part-about-uc: The architecture, the city, the opportunity to grow, and the people
+    favourite-quote: |
+       "Never, ever be afraid to make some noise and get in good trouble. Necessary trouble."
+       - John Lewis
+       
+  - name: Nicholas Merrithew
+    pronouns: ---
+    image: assets/images/headshots/council-icons/reps.svg
+    role: UC Director
+    from: --
+    major: --
+    email: nicholas@uclit.ca
+    office-hours: --
+    favourite-part-about-uc: --
+    favourite-quote: --
+  
 - group: Deputies
   people: 
-  - name: And Another One!
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: And Another One!
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  - name: And Another One!
-    image: assets/images/headshots/danielle.jpg
-    role: President
-    from: Bradford, ON
-    major: Human Geography, Political Science
-    email: president@uclit.ca
-    office-hours: 12-1 thursdays
-  
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: Vice President Internal Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    
+  - name: ---
+    image: ---
+    role: Vice-President Clubs Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    
+  - name: ---
+    image: ---
+    role: Finance Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    
+  - name: ---
+    image: ---
+    role: Equity Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+       
+  - name: ---
+    image: ---
+    role: Equity Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: Off-Campus Deputy
+    from: ---
+    major: ---
+    email: 
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+       
+  - name: Nithya Gopalakrishnan
+    pronouns: she/her
+    image: assets/images/headshots/nithya.PNG
+    role: Sustainability Deputy
+    from: Calgary, Alberta
+    major: Second Year in Genome Biology, Health and Disease, & Immunology
+    email: nithya.gopalakrishnan@mail.utoronto.ca
+    favourite-part-about-uc: The Junior Common Room!
+    favourite-quote:  |
+       "The future doesn't exist. The only thing that exists is now and our memory of what happened in the past."
+       - David Suzuki
+       
+  - name: ---
+    pronouns: ---
+    image: assets/images/commissions-icons/LCA.png
+    role: Literary and Creative Arts Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+    
+  - name: ---
+    image: ---
+    role: Athletics Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: University and Academic Affairs Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote:  ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: Communications and Outreach Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: Communications and Outreach Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote:  ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: Mental Wellness Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+         
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: Formals Deputy
+    from: 
+    major: 
+    email:  
+    favourite-part-about-uc: 
+    favourite-quote: ---
+       
+  - name: ---
+    pronouns: ---
+    image: ---
+    role: Spirit and Social Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote:  ---
+       
+  - name: ---
+    pronouns: ---
+    image: assets/images/commissions-icons/SOCIAL.png
+    role: Spirit and Social Deputy
+    from: ---
+    major: ---
+    email: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+       
+- group: Staff
+  people: 
+  - name: Rubaina Farin
+    image: assets/images/headshots/rubaina2.jpeg
+    role: Secretary
+    from: Toronto, Ontario
+    major: Third Year, Double Major in genetics and Computational Cognitive Sciences, Minor in Women and Gender Studies
+    email: secretary@uclit.ca
+    favourite-part-about-uc: The people! 
+    favourite-quote: |
+      "People say nothing is impossible, but I do nothing every day."
+      - A.A. Milne
+      
+  - name: Norah Rahman
+    image: ---
+    role: Speaker
+    from: Toronto, Ontario
+    major: Second Year, Double Major in Peace, Conflict and Justice & Anthropology
+    email: speaker@uclit.ca
+    favourite-part-about-uc: Chickecn tenders at Howard Ferg.
+    favourite-quote: |
+      "We have laboured long to build a heaven, only to find it populated with horrors."
+      - Alan Moore, Watchmen
