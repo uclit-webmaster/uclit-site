@@ -1,36 +1,16 @@
 ---
-title: Under Construction
+layout: default
+title: Home page 
 ---
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-    <script src="https://kit.fontawesome.com/24e6625de5.js" crossorigin="anonymous"></script>
-    {% if jekyll.environment == "debug"%}
-    <link rel="stylesheet" href="{{ "/assets/css/debug.css" | relative_url }}"
-    {% endif %}
-    {% seo %}
-  </head>
-  <body>
-    {% include navbar-construction.html %}
-    <div class="container">
-
-    {% include responsive-jumbotron-construction.html subtitle="Website Under Construction, excuse us. We’ll be back in time for Frosh." %}
-
-    <p class="mx-auto mt-3" style="width: fit-content">
-      In the meantime, follow us for the latest news and updates:
-    </p>
-    <h1 class="mx-auto" style="width: fit-content">
-      <span class="color-primary text-">
-        <a href="{{ site.data.footer.follow_us.facebook }}"><i class="fab fa-facebook-square"></i></a>
-        <a href="{{ site.data.footer.follow_us.twitter }}"><i class="fab fa-twitter"></i></a>
-        <a href="{{ site.data.footer.follow_us.instagram }}"><i class="fab fa-instagram"></i></a>
-        <a href="{{ site.data.footer.follow_us.snapchat }}"><i class="fab fa-snapchat-square"></i></a>
-        <a href="{{ site.data.footer.follow_us.square }}"><i class="fas fa-gift"></i></a>
-      </span>
-    </h1>
-  </body>
-</html>
+{% include responsive-jumbotron.html subtitle="Welcome to the oldest democratically-elected student government in Canada."%}
+<div class="row mt-5 justify-content-center">
+    <div class="col-sm-4" data-aos="fade-right">
+        <img class="img-fluid" src={{ site.data.homepage.presidents-message.image | relative_url }} class="rounded float-right"
+            alt="{{ site.data.homepage.presidents-message.name }}, president">
+    </div>
+    <div class="col-sm-4 mt-3" data-aos="fade-left">
+        <h2 class="font-secondary">{{ site.data.homepage.presidents-message.name }}</h2>
+        <p>{{ site.data.homepage.presidents-message.message }}</p>
+        <a class="btn btn-primary" href="{{ 'https://docs.google.com/document/d/1zydVkl-a_4buL0JDfp5DGgyWkMBlDFTMLkLyyTmy2vQ/edit?usp=sharing' | relative_url }}"><strong>READ THE FULL MINUTES</strong></a> 
+    </div>
+</div>

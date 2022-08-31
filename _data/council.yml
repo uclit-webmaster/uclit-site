@@ -1,12 +1,17 @@
-# - name: Core Presidents
+# - name: Core Executives
 #   people:
 #   - name: Liam
+#     pronouns: He/Him
 #     image: assets/images/headshots/liam.jpeg
 #     role: President
 #     from: Bradford, ON
-#     major: Human Geography, Political Science
+#     major: Fourth Year in Art History and Latin
 #     email: president@uclit.ca
 #     office-hours: 12-1 thursdays
+#     favourite-part-about-uc: The council
+#     favourite-quote: |
+#       "that's life"
+#       - frank sinatra
 # - name: Executives
 #   people:
 #   - name: Someone Else
@@ -16,7 +21,6 @@
 #     major: Human Geography, Political Science
 #     email: president@uclit.ca
 #     office-hours: 12-1 thursdays
-
 - group: Core Executives
   people:
   - name: Thérèse Perucho
@@ -361,6 +365,37 @@
     favourite-part-about-uc: --
     favourite-quote: --
   
+#- group: Staff and Ancillaries
+#  people:
+#  - name: And Another One
+#    image: assets/images/headshots/danielle.jpg
+#    role: President
+#    from: Bradford, ON
+#    major: Human Geography, Political Science
+#    email: president@uclit.ca
+#    office-hours: 12-1 thursdays
+#  - name: And Another One
+#    image: assets/images/headshots/danielle.jpg
+#    role: President
+#    from: Bradford, ON
+#    major: Human Geography, Political Science
+#    email: president@uclit.ca
+#    office-hours: 12-1 thursdays
+#  - name: And Another One
+#    image: assets/images/headshots/danielle.jpg
+#    role: President
+#    from: Bradford, ON
+#    major: Human Geography, Political Science
+#    email: president@uclit.ca
+#    office-hours: 12-1 thursdays
+#  - name: And Another One
+#    image: assets/images/headshots/danielle.jpg
+#    role: President
+#    from: Bradford, ON
+#    major: Human Geography, Political Science
+#    email: president@uclit.ca
+#    office-hours: 12-1 thursdays
+
 - group: Deputies
   people: 
   - name: ---

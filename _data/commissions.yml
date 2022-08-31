@@ -13,12 +13,14 @@
   image: assets/images/commissions-icons/athletics.svg # these SVGs were created in figma and then copied as svg (right click, copy as svg) and pasted in a blank file.
   email: athletics@uclit.ca
   commissioners: ---
+  instagram: <a href="https://www.instagram.com/ucathletics">@ucathletics</a>
   description: The Athletics Commission runs all sports themed events, such as ski trips, Raptors games, viewing parties and much more! They also oversee all the UC intramurals - more information about joining a team can be found on the Intramurals page!
 
-- name: LITERARY & CREATIVE ARTS (LCA)
+- name: LITERARY & CREATIVE ARTS
   image: assets/images/commissions-icons/lca.svg
   email: lca@uclit.ca
   commissioners: ELŽBIETA (ELIZABETH) CHERNYAK
+  instagram: <a href="https://www.instagram.com/lca.uclit">@lca.uclit</a>
   description: LCA specializes in providing a platform for UC students to showcase their talent and creativity, and encourage art around our college. They also oversee UC publications such as our newspaper, the UC Gargoyle, and our literary journal, The UC Review.
 
 - name: COMMUNICATIONS AND OUTREACH

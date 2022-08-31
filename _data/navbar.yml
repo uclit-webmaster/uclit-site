@@ -9,14 +9,14 @@
 #     - name: A Brief History
 #       link: /about/history
 # - name: Store
-#   link: https://university-college-literary-athletic-society.square.site/
+#   link: https://uclit.square.site/
 - name: Home
   link: /
 - name: About
   options:
     - name: The Council
       link: /about/council
-    - name: About us
+    - name: FAQs
       link: /about/about-us
     - name: A Brief History
       link: /about/history
@@ -32,12 +32,12 @@
       link: get-involved/clubs-and-ancillaries
     - name: Elections
       link: get-involved/elections
+    - name: Jobs and Employment
+      link: get-involved/jobs-and-employment
 - name: Resources
   options:
-  - name: Documents
-    link: resources/documents
-  - name: Budgets
-    link: resources/budgets
+  - name: Budgets and Documents
+    link: resources/budgets-documents
   - name: Student Initiatives Fund
     link: resources/student-initiatives-fund
   - name: Student Academics and Wellness
@@ -46,6 +46,8 @@
     link: resources/student-fees-and-levies
 - name: Events
   options:
+    - name: Event Photos
+      link: https://drive.google.com/drive/folders/1296dL_YlLI1NADdnJDwbYUp-6kj7CZOE?usp=sharing
     - name: Calendar
       link: events/calendar
     - name: JCR Rentals
@@ -53,4 +55,4 @@
 - name: Contact
   link: /contact
 - name: Store
-  link: https://university-college-literary-athletic-society.square.site/
+  link: https://uclit.square.site/

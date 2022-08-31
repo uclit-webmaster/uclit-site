@@ -4,20 +4,10 @@ title: Intramurals
 ---
 <h1 class="font-secondary" data-aos="fade">Intramurals</h1>
 <div data-aos="fade-up">
-  <p>The easiest way to get active and involved at UC is by playing Intramural Sports. The UC intramural teams ( The UC
-  Gryphons ) are a force to be reckoned with by all the other colleges at UofT. Our Intramural Sports programs seek to
-  fulfill the needs of athletes and sports enthusiasts of all types. We try to provide them with as many sports and
-  skill levels that we can.</p>
-
-  <p>Please note that upon signing up for teams the captain will be sending out emails regarding tryouts or practices.
-    Please show up to these tryouts or notify the captain if you are no longer interested.
-  </p>
-
-  <button class="btn btn-primary mb-3 p-3 font-weight-bold">CLICK HERE TO SIGN UP</button>
-
-  <p>{{ site.data.intramurals.deadline-text }}</p>
+{{ site.data.intramurals.text }}
+<a href="{{ site.data.intramurals.sign-up-link }}"><button class="btn btn-primary mb-3 p-3 font-weight-bold">CLICK HERE TO SIGN UP</button></a>
 </div>
-<h3 class="font-secondary text-primary mb-3" data-aos="fade-left">Sports</h3>
+<h3 class="font-secondary text-primary mb-3" data-aos="fade-left"> </h3>
 
 <div class="row no-gutters" data-aos="fade-up">
   {% for sport in site.data.intramurals.sports %}

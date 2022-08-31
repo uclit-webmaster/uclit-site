@@ -13,10 +13,10 @@ title: Clubs & Ancillaries
     lots of resources to get you started and help you along the way!</p>
 
   <ul>
-    <li>Fill out the Clubs Recognition Application form.</li>
+    <li>Fill out the <a href="https://uclit.ca/assets/documents/Club_Recognition_Application.pdf">Club Recognition Form</a>.</li>
     <li>Remember to create a Constitution! Central UofT administration has some good resources to help you along.</li>
-    <li>If you need a budget for your club, fill out the Budget Request form.</li>
-    <li>Submit them all to clubs@uclit.ca</li>
+    <li>If you need a budget for your club, fill out the <a href="https://uclit.ca/assets/documents/Club_Budget_Request_Form.pdf">Budget Request Form</a>.</li>
+    <li>Submit them all to <a href="mailto:vp@uclit.ca">vp@uclit.ca</a></li>
   </ul>
 
   <hr />
@@ -71,7 +71,7 @@ title: Clubs & Ancillaries
             </a>
             {% endfor %}
           </p>
-          {{ club.description }}
+          {{ club.description | newline_to_br }}
         </div>
       </div>
     </div>
@@ -129,7 +129,7 @@ title: Clubs & Ancillaries
               </a>
               {% endfor %}
             </p>
-            {{ ancillary.description }}
+            {{ ancillary.description | newline_to_br }}
           </div>
         </div>
       </div>
