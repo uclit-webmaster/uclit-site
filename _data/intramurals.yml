@@ -26,39 +26,38 @@ text: |
 
   <p>UofT's Intramural Program provides an opportunity for students to play on their college's sports teams, fostering friendly competition between students across campus. Competing in intramurals is one of the easiest ways to get involved in the UC community. If you would like to join a UC intramural team or compete in one of the singles sports, please fill out the form below. </p> 
  
-  <p><strong><h3>Registration for Winter 2022 UC Intramurals is now open! </h3></strong></p>
-  <p>Registration for all Winter Intramurals <strong>CLOSE ON SATURDAY, DECEMBER 4TH AT 11:59PM.</strong> After these dates, you must email <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> to check availability. </p>
-  <p>Captain applications will <strong>CLOSE ON FRIDAY, DECEMBER 3RD AT 11:59PM</strong> for all sports. You will still be permitted to register for sports, however no captain applications after this date will be considered. </p>
+  <p><strong><h3>Registration for Fall 2022 UC Intramurals is now open! </h3></strong></p>
+  <p>Registration for Field and Ice Fall Intramurals <strong>CLOSE ON TUESDAY, SEPTEMBER 13TH AT 11:59PM.</strong> Registration for Court Sports Fall Intramurals will <strong>CLOSE ON TUESDAY, SEPTEMBER 20TH AT 11.59PM.</strong>  After these dates, you must email <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> to check availability. </p>
+  <p>Captain applications will <strong>CLOSE ON WEDNESDAY, SEPTEMBER 14TH AT 11:59PM</strong> for all sports. You will still be permitted to register for sports, however no captain applications after this date will be considered. </p>
   <p>This year, there is NO classified Men's Division. Instead, the division has replaced by the OPEN DIVISION. While the majority of these players in the Open Division are expected to be male-identifying, it allows for non-male identifying players to join the team without needing to apply for an exception. The Open Division is <strong>NOT</strong> the Coed Division which has required amounts for players of specific genders. </p>   
   <p> The game times listed below are for all levels of each division. After you are registered for a specific team, your captain will provide you with your team's specific game schedule. If you have a time conflict with your game schedule, UC Athletics will try to move you to a team that works for you AFTER schedules are finalized. </p>
       <p>Sports available for the year are:</p>
   <p class="mb-0"><strong>OPEN</strong></p>
   
   <ul><li><strong>Basketball</strong> - Tuesday or Wednesday nights</li></ul>
-  <ul><li><strong>Ice Hockey</strong> - Varied nights</li></ul>
-  <ul><li><strong>Soccer</strong> - Varied nights</li></ul>
+  <ul><li><strong>Ice Hockey</strong> - Monday, Wednesday, and Sunday nights</li></ul>
+  <ul><li><strong>Soccer</strong> - Monday, Tuesday, and Thursday nights</li></ul>
   <ul><li><strong>Volleyball</strong> - Thursday nights</li></ul>
+  <ul><li><strong>Flag Football</strong> - Sunday afternoons or evenings</li></ul>
   
   <p class="mb-0"><strong>WOMEN'S</strong></p>
   
   <ul><li><strong>Basketball</strong> - Thursday nights</li></ul>
-  <ul><li><strong>Field Hockey</strong> - Monday nights</li></ul>
+  <ul><li><strong>Flag Football</strong> - Sunday afternoons or evenings</li></ul>
   <ul><li><strong>Ice Hockey</strong> - Sunday nights</li></ul>
-  <ul><li><strong>Lacrosse</strong> - Wednesday nights</li></ul>
   <ul><li><strong>Soccer</strong> - Wednesday nights</li></ul>
   <ul><li><strong>Volleyball</strong> - Tuesday nights</li></ul>
   
-  <p class="mb-0"><strong>COED</strong></p>
+  <p class="mb-0"><strong>MIXED</strong></p>
   
   <ul><li><strong>Badminton</strong> - Friday nights</li></ul>
   <ul><li><strong>Basketball</strong> - Monday nights</li></ul>
   <ul><li><strong>Dodgeball</strong> - Thursday nights</li></ul>
   <ul><li><strong>Ice Hockey</strong> - Monday nights</li></ul>
-  <ul><li><strong>Inner Tube Water Polo</strong> - Monday nights</li></ul>
-  <ul><li><strong>Soccer</strong> - Saturday afternoons and evenings</li></ul>
+  <ul><li><strong>Soccer</strong> - Monday evenings</li></ul>
   <ul><li><strong>Table Tennis</strong> - Friday nights</li></ul>
   <ul><li><strong>Tennis</strong> - Tuesday or Friday nights</li></ul>
-  <ul><li><strong>Ultimate Frisbee</strong> - Saturday afternoons</li></ul>
+  <ul><li><strong>Ultimate Frisbee</strong> - Saturday mornings, afternoons, evenings</li></ul>
   <ul><li><strong>Volleyball</strong> - Monday or Wednesday nights</li></ul>
   
 
@@ -72,6 +71,6 @@ text: |
   <p> -Too many players at once of one specific gender for coed (for example, four female players on the court during a coed volleyball game when there is a maximum of three per gender)</p>
 
   
-  <p>For inquiries about intramurals, contact Hannah Roberts at <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a> or Deputies Jesse McDougall and Aws Mustafa at <a href="mailto:coed@uclit.ca">coed@uclit.ca</a> and <a href="mailto:womens@uclit.ca">womens@uclit.ca</a></p>
+  <p>For inquiries about intramurals, contact <a href="mailto:athletics@uclit.ca">athletics@uclit.ca</a>
   
-sign-up-link: "https://docs.google.com/forms/d/e/1FAIpQLScZ5XcW__KITYqKM5upzemJa6S19vNgP-NL1otJ3YON-nxFOg/viewform"
+<p> sign-up-link: "https://docs.google.com/forms/d/e/1FAIpQLScZ5XcW__KITYqKM5upzemJa6S19vNgP-NL1otJ3YON-nxFOg/viewform"</p>
