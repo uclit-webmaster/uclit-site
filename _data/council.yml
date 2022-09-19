@@ -65,7 +65,7 @@
   people:
   - name: Sabrina Shahidan
     pronouns: she/her
-    image: ---
+    image: assets/images/headshots/sabrina.jpg
     role: Communications and Outreach
     from: Kuala Lumpur, Malaysia
     major: Second Year in Economics, Public Policy, & Statistics
@@ -281,7 +281,7 @@
        
   - name: Poorvi Sharma
     pronouns: she/her
-    image: ---
+    image: assets/images/headshots/poorvi.png
     role: Mid-Year Representative
     from: Mumbai, India
     major: Third Year in Cognitive Science, Computer Science & Statistics
