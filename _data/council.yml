@@ -150,7 +150,7 @@
     
   - name: Sarah Elliot
     pronouns: she/her
-    image: assets/images/headshots/sarah.jpg
+    image: assets/images/headshots/sarah.jpeg
     role: Mental Wellness
     from: New Dehli, India
     major: Second Year in Life Sciences
@@ -281,7 +281,7 @@
        
   - name: Poorvi Sharma
     pronouns: she/her
-    image: assets/images/headshots/poorvi.png
+    image: assets/images/headshots/poorvi2.png
     role: Mid-Year Representative
     from: Mumbai, India
     major: Third Year in Cognitive Science, Computer Science & Statistics
