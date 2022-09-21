@@ -14,7 +14,7 @@ current-election-text: |
   
 # Comment out the rest of this if you don't want any buttons
 buttons:
- - text: NOMINATION FORM (AVAILABLE 12:00am Friday, September 22 to 11:59pm Sunday, October 2)
+ - text: NOMINATION FORM (AVAILABLE 12:00am Saturday, September 23 to 11:59pm Sunday, October 2)
    link: https://docs.google.com/document/d/1s0JFasDSJHezJf6wVPKzojCDrZbiGe0iSUsFjUgQ_8w/edit?usp=sharing
  - text: ELECTIONS CODE
    link: https://docs.google.com/document/d/1PWV6GsLU3ndkdYuFrQXUglDWnspK1Iy0rpscR1fsSJk/edit?usp=sharing
