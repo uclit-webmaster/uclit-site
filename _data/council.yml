@@ -152,7 +152,7 @@
     pronouns: she/her
     image: assets/images/headshots/sarah.jpeg
     role: Mental Wellness
-    from: New Dehli, India
+    from: Halifax, Nova Scotia
     major: Second Year in Life Sciences
     email: wellness@uclit.ca
     office-hours: 10-11AM Mondays, 3-4PM Wednesdays
@@ -185,7 +185,7 @@
     
 - group: First Year Representatives
   people:
-  - name: ---
+  - name: 
     pronouns: ---
     image: ---
     role: First Year Representative
@@ -290,7 +290,19 @@
     favourite-part-about-uc: The fact that it feels like I'm in a Harry Potter movie!
     favourite-quote: |
        "Smile and the world smiles with you. Growl and you get better service."
-       - Garfield
+       - Garfield   
+   - name: Maggie Li
+    pronouns: she/her
+    image: assets/images/headshots/maggie.jpeg
+    role: Mid-Year Representative
+    from: Calgary, Alberta
+    major: Second Year, Health & Disease, Biology; minor in Immunology
+    email: maggie@uclit.ca
+    office-hours: 3PM-4PM, Fridays
+    favourite-part-about-uc: Late-night chats in the Whitney Quad!
+    favourite-quote: |
+       "Breathe in the sweet air of limitless possibility, and make life as rich as you know it can be." 
+       - Ralph Marston
        
   
 - group: Upper Year Representatives
