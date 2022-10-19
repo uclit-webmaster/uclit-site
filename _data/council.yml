@@ -138,14 +138,14 @@
     favourite-quote: ---
     
   - name: Emma Caramazza
-    pronouns: ---
+    pronouns: she/her
     image: 
     role: University & Academic Affairs
-    from: ---
-    major: ---
+    from: Washington, D.C
+    major: Third Year, Political Science Specialist
     email: uaa@uclit.ca
     office-hours: 1-2PM Thursdays
-    favourite-part-about-uc: ---
+    favourite-part-about-uc: The UC library, its a great study spot!
     favourite-quote: ---
     
   - name: Sarah Elliot
@@ -165,12 +165,12 @@
     pronouns: she/her
     image: ---
     role: Formals
-    from: ---
-    major: ---
+    from: Cairo, Egypt
+    major: Fourth Year, Cinema studies, Diaspora and Transnational Studies, and Political Science
     email: formals@uclit.ca
     office-hours: 2-3PM Tuesdays
-    favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-part-about-uc: The gryphon staircase! (Love to give him a pat for good luck before exams) 
+    favourite-quote: "My hair is being pulled by the stars again"- Anaïs Nin
     
   - name: Euan Pound
     pronouns: ---
@@ -303,6 +303,17 @@
     favourite-quote: |
        "Breathe in the sweet air of limitless possibility, and make life as rich as you know it can be." 
        - Ralph Marston
+   - name: Eugene Alfonzo II Alteza
+    pronouns: he/him
+    image: assets/images/headshots/maggie.jpeg
+    role: Mid-Year Representative
+    from: Scarborough, Ontario
+    major: Third Year, Pharmacology Specialist, Immunology Minor
+    email: eugenea.alteza@mail.utoronto.ca
+    office-hours: 3PM-4PM, Fridays
+    favourite-part-about-uc: The Harry Potter-ness
+    favourite-quote: |
+       "Yesterday is gone, What will you do today?" 
        
   
 - group: Upper Year Representatives
