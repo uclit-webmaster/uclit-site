@@ -21,9 +21,9 @@
 #     major: Human Geography, Political Science
 #     email: president@uclit.ca
 #     office-hours: 12-1 thursdays
- group: Core Executives
+- group: Core Executives
   people:
-    name: Thérèse Perucho
+  - name: Thérèse Perucho
     pronouns: she/her
     image: assets/images/headshots/therese(new).jpg
     role: President
@@ -35,7 +35,7 @@
     favourite-quote: |
        "Verily the lust for comfort murders the passion of the soul, and then walks grinning in the funeral"
        - Kahlil Gibran
-    name: Chelsea Song
+  - name: Chelsea Song
     pronouns: she/her
     image: assets/images/headshots/chelsea.jpg
     role: Vice President
@@ -48,7 +48,7 @@
        "No act of kindness, no matter how small, is ever wasted"
        - Aesop
        
-    name: Shreyansi Gandhi
+  - name: Shreyansi Gandhi
     pronouns: she/her
     image: assets/images/headshots/shreyansi.jpeg
     role: Finance
@@ -61,9 +61,9 @@
        "In the long run, we're all dead"
        - John Maynard Keynes
        
-  group: Executives
+- group: Executives
   people:
-    name: Sabrina Shahidan
+  - name: Sabrina Shahidan
     pronouns: she/her
     image: assets/images/headshots/sabrina.jpg
     role: Communications and Outreach
@@ -76,7 +76,7 @@
        "Let me stay tender hearted, despite despite despite"
        - Chen Chen
        
-    name: Maya Javier
+  - name: Maya Javier
     pronouns: she/her
     image: assets/images/headshots/maya.jpg
     role: Equity
@@ -89,7 +89,7 @@
        "Nobody in the world, nobody in history has ever gotten their freedom by appealing to the moral sense of the people who were oppressing them."
        - Assata Shakur
        
-    name: Neha Sultana
+  - name: Neha Sultana
     image: assets/images/headshots/neha(new).jpg
     role: Off-Campus
     from: Toronto, Ontario
@@ -101,7 +101,7 @@
         "What we see changes according to what we look for."
         - E.J. Koh
     
-    name: Yashasvini Singh
+  - name: Yashasvini Singh
     pronouns: she/her
     image: assets/images/headshots/yashasvini.jpg
     role: Sustainability
@@ -114,7 +114,7 @@
        "If it was safer on the ground, we wouldn't be on a boat."
         - Matthew Healy
         
-    name: Elžbieta (Elizabeth) Chernyak
+  - name: Elžbieta (Elizabeth) Chernyak
     pronouns: she/her
     image: assets/images/headshots/elzbieta.jpeg
     role: Literary and Creative Arts
@@ -126,7 +126,7 @@
     favourite-quote: |
      There is too much wisdom in the world to just pick one quote.
      
-    name: ---
+  - name: David Basil
     pronouns: ---
     image: ---
     role: Athletics
@@ -148,7 +148,7 @@
     favourite-part-about-uc: The UC library, its a great study spot!
     favourite-quote: ---
     
-    name: Sarah Elliot
+  - name: Sarah Elliot
     pronouns: she/her
     image: assets/images/headshots/sarah.jpeg
     role: Mental Wellness
@@ -161,7 +161,7 @@
        "It never hurts to keep looking for sunshine."
        - Eeyore
        
-    name: Kenzy El-Morsi
+  - name: Kenzy El-Morsi
     pronouns: she/her
     image: ---
     role: Formals
@@ -172,7 +172,7 @@
     favourite-part-about-uc: The gryphon staircase! (Love to give him a pat for good luck before exams) 
     favourite-quote: "My hair is being pulled by the stars again"- Anaïs Nin
     
-    name: Euan Pound
+  - name: Euan Pound
     pronouns: ---
     image: ---
     role: Spirit and Social
@@ -183,9 +183,9 @@
     favourite-part-about-uc: ---
     favourite-quote: ---
     
-  group: First Year Representatives
+- group: First Year Representatives
   people:
-    name: 
+  - name: Grace Liu
     pronouns: ---
     image: ---
     role: First Year Representative
@@ -196,7 +196,7 @@
     favourite-part-about-uc: ---
     favourite-quote: ---
     
-    name: ---
+  - name: Firdaus Sadid
     pronouns: ---
     image: 
     role: First Year Representative
@@ -207,7 +207,7 @@
     favourite-part-about-uc: ---
     favourite-quote: ---
     
-    name: ---
+  - name: Amilya Wilson
     pronouns: ---
     image: ---
     role: First Year Representative
@@ -219,7 +219,7 @@
     favourite-quote: |
        ---
        
-    name: ---
+  - name: Sara Melino
     image: ---
     role: First Year Representative
     from: ---
@@ -229,7 +229,7 @@
     favourite-part-about-uc: ---
     favourite-quote: ---
     
-    name: ---
+  - name: ---
     image: ---
     role: First Year Representative
     from: ---
@@ -239,9 +239,9 @@
     favourite-part-about-uc: ---
     favourite-quote: ---
     
-  group: Mid-Year Representatives
+- group: Mid-Year Representatives
   people:
-    name: Kelly Gong
+  - name: Kelly Gong
     image: assets/images/headshots/kelly gong.jpeg
     role: Mid-Year Representative
     from: Hunan, China
@@ -253,7 +253,7 @@
        "The only limit to our realization of tomorrow will be our doubts of today."
        - Franklin D. Roosevelt
        
-    name: Chiara Chu
+  - name: Chiara Chu
     pronouns: she/her
     image: ---
     role: Mid-Year Representative
@@ -266,7 +266,7 @@
        "Good morning, and in case I don't see ya, good afternoon, good evening, and good night!"
        - Truman, The Truman Show
        
-    name: Kristina Cổ
+  - name: Kristina Cổ
     pronouns: she/her
     image: assets/images/headshots/kristina.jpg
     role: Mid-Year Representative
@@ -279,7 +279,7 @@
        "With our thoughts, we make the world."
        - Bhuddha
        
-    name: Poorvi Sharma
+  - name: Poorvi Sharma
     pronouns: she/her
     image: assets/images/headshots/poorvi2.png
     role: Mid-Year Representative
@@ -291,7 +291,7 @@
     favourite-quote: |
        "Smile and the world smiles with you. Growl and you get better service."
        - Garfield   
-    name: Maggie Li
+   - name: Maggie Li
     pronouns: she/her
     image: assets/images/headshots/maggie.jpeg
     role: Mid-Year Representative
@@ -316,9 +316,9 @@
        "Yesterday is gone, What will you do today?" 
        
   
-group: Upper Year Representatives
+- group: Upper Year Representatives
   people:
-    name: ---
+  - name: Ella Levin
     pronouns: ---
     image: ---
     role: Upper-Year Representative
@@ -329,7 +329,7 @@ group: Upper Year Representatives
     favourite-part-about-uc: ---
     favourite-quote: ---
        
-    name: ---
+  - name: Dylan Smart
     pronouns: ---
     image: ---
     role: Upper-Year Representative
@@ -340,7 +340,7 @@ group: Upper Year Representatives
     favourite-part-about-uc: ---
     favourite-quote: ---
      
-    name: ---
+  - name: ---
     image: ---
     role: Upper-Year Representative
     from: ---
@@ -350,9 +350,9 @@ group: Upper Year Representatives
     favourite-part-about-uc: ---
     favourite-quote: ---
      
-group: UTSU UC Directors
+- group: UTSU UC Directors
   people:
-    name: Easha Khan
+  - name: Easha Khan
     pronouns: she/her
     image: assets/images/headshots/easha2.jpeg
     role: UC Director
@@ -364,7 +364,7 @@ group: UTSU UC Directors
     favourite-quote: |
        "Invest in your dreams, grind now, and shine later"
        
-    name: Muskan Nagra
+  - name: Muskan Nagra
     pronouns: she/her
     image: assets/images/headshots/muskan.jpg
     role: UC Director
@@ -377,7 +377,7 @@ group: UTSU UC Directors
        "Never, ever be afraid to make some noise and get in good trouble. Necessary trouble."
        - John Lewis
        
-    name: Nicholas Merrithew
+  - name: Nicholas Merrithew
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: UC Director
@@ -419,9 +419,9 @@ group: UTSU UC Directors
 #    email: president@uclit.ca
 #    office-hours: 12-1 thursdays
 
-group: Deputies
+- group: Deputies
   people: 
-    name: ---
+  - name: ---
     pronouns: ---
     image: ---
     role: Vice President Internal Deputy
@@ -430,7 +430,7 @@ group: Deputies
     email: ---
     favourite-part-about-uc: ---
     
-    name: ---
+  - name: ---
     image: ---
     role: Vice-President Clubs Deputy
     from: ---
@@ -438,7 +438,7 @@ group: Deputies
     email: ---
     favourite-part-about-uc: ---
     
-    name: ---
+  - name: ---
     image: ---
     role: Finance Deputy
     from: ---
@@ -446,7 +446,7 @@ group: Deputies
     email: ---
     favourite-part-about-uc: ---
     
-    name: ---
+  - name: ---
     image: ---
     role: Equity Deputy
     from: ---
@@ -455,7 +455,7 @@ group: Deputies
     favourite-part-about-uc: ---
     favourite-quote: ---
        
-    name: ---
+  - name: ---
     image: ---
     role: Equity Deputy
     from: ---
@@ -464,7 +464,7 @@ group: Deputies
     favourite-part-about-uc: ---
     favourite-quote: ---
        
-    name: ---
+  - name: ---
     pronouns: ---
     image: ---
     role: Off-Campus Deputy
@@ -474,7 +474,7 @@ group: Deputies
     favourite-part-about-uc: ---
     favourite-quote: ---
        
-    name: Nithya Gopalakrishnan
+  - name: Nithya Gopalakrishnan
     pronouns: she/her
     image: assets/images/headshots/nithya.PNG
     role: Sustainability Deputy
@@ -486,7 +486,7 @@ group: Deputies
        "The future doesn't exist. The only thing that exists is now and our memory of what happened in the past."
        - David Suzuki
        
-    name: ---
+  - name: ---
     pronouns: ---
     image: assets/images/commissions-icons/LCA.png
     role: Literary and Creative Arts Deputy
@@ -496,7 +496,7 @@ group: Deputies
     favourite-part-about-uc: ---
     favourite-quote: ---
     
-    name: ---
+  - name: ---
     image: ---
     role: Athletics Deputy
     from: ---
@@ -504,7 +504,7 @@ group: Deputies
     email: ---
     favourite-part-about-uc: ---
        
-    name: ---
+  - name: ---
     pronouns: ---
     image: ---
     role: University and Academic Affairs Deputy
@@ -514,7 +514,7 @@ group: Deputies
     favourite-part-about-uc: ---
     favourite-quote:  ---
        
-    name: ---
+  - name: ---
     pronouns: ---
     image: ---
     role: Communications and Outreach Deputy
@@ -524,7 +524,7 @@ group: Deputies
     favourite-part-about-uc: ---
     favourite-quote: ---
        
-    name: ---
+  - name: ---
     pronouns: ---
     image: ---
     role: Communications and Outreach Deputy
@@ -534,7 +534,7 @@ group: Deputies
     favourite-part-about-uc: ---
     favourite-quote:  ---
        
-    name: ---
+  - name: ---
     pronouns: ---
     image: ---
     role: Mental Wellness Deputy
@@ -544,7 +544,7 @@ group: Deputies
     favourite-part-about-uc: ---
     favourite-quote: ---
          
-    name: ---
+  - name: ---
     pronouns: ---
     image: ---
     role: Formals Deputy
@@ -554,7 +554,7 @@ group: Deputies
     favourite-part-about-uc: 
     favourite-quote: ---
        
-    name: ---
+  - name: ---
     pronouns: ---
     image: ---
     role: Spirit and Social Deputy
@@ -564,7 +564,7 @@ group: Deputies
     favourite-part-about-uc: ---
     favourite-quote:  ---
        
-    name: ---
+  - name: ---
     pronouns: ---
     image: assets/images/commissions-icons/SOCIAL.png
     role: Spirit and Social Deputy
@@ -574,9 +574,9 @@ group: Deputies
     favourite-part-about-uc: ---
     favourite-quote: ---
        
-group: Staff
+- group: Staff
   people: 
-    name: Rubaina Farin
+  - name: Rubaina Farin
     image: assets/images/headshots/rubaina2.jpeg
     role: Secretary
     from: Toronto, Ontario
@@ -587,7 +587,7 @@ group: Staff
       "People say nothing is impossible, but I do nothing every day."
       - A.A. Milne
       
-    name: Norah Rahman
+  - name: Norah Rahman
     image: ---
     role: Speaker
     from: Toronto, Ontario
