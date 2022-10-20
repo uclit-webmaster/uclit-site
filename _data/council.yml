@@ -233,6 +233,7 @@
     favourite-quote: ---
     
   - name: ---
+    pronouns: ---
     image: ---
     role: First Year Representative
     from: ---
@@ -245,6 +246,7 @@
 - group: Mid-Year Representatives
   people:
   - name: Kelly Gong
+    pronouns: ---
     image: assets/images/headshots/kelly gong.jpeg
     role: Mid-Year Representative
     from: Hunan, China
@@ -306,7 +308,8 @@
     favourite-quote: |
        "Breathe in the sweet air of limitless possibility, and make life as rich as you know it can be." 
        - Ralph Marston
-   - name: Eugene Alfonzo II Alteza
+       
+  - name: Eugene Alfonzo II Alteza
     pronouns: he/him
     image: assets/images/headshots/maggie.jpeg
     role: Mid-Year Representative
