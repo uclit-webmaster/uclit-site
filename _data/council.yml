@@ -162,7 +162,7 @@
     favourite-quote: | 
         "My hair is being pulled by the stars again" 
         - Anaïs Nin       
-    name: David Basil
+  - name: David Basil
     pronouns: ---
     image: ---
     role: Athletics
@@ -341,7 +341,7 @@
        
   - name: Dylan Smart
     pronouns: he/him
-    image: dylan.jpeg
+    image: assets/images/headshots/dylan.jpeg
     role: Upper-Year Representative
     from: Cambridge, Ontario
     major: 4th, Human Biology, Biodiversity and Conservation Biology, Physiology
