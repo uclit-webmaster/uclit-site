@@ -41,23 +41,23 @@ jobs:
       University College Orientation is a seven-day program, which provides incoming students with transition support, engaging programming that complements the academic experience, and a sense of collegiality and community. The program is organized on behalf of University College and the University College Literary and Athletic Society.
       
       <p>The Orientation Co-Chairs are responsible for overseeing all operations of Orientation while working alongside the UCLit, the office of the Dean of Students at University College, and Central Student Life to plan and execute University College’s Orientation Week. The position entails anywhere from 15-40 per-week hours.</p>
-    application-link: https://bit.ly/orientationcochair22
-    currently-accepting: false
+    application-link: https://bit.ly/orientationcochair2023
+    currently-accepting: true
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: March 2021-2022 (Summer Term, Fall Term, Winter Term)
+        right: March to September 2023 (Summer Term, Fall Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
-        right: $2800 (Summer Term), $1,400 (Fall Term), $2,800 (Winter Term)
+        right: $2800 (Summer Term), $2,800 (Fall Term), $1,400 (Winter Term)
       - left: Number of Positions
         right: 2
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Not Currently Accepting Applications
+        right: Currently Accepting Applications
         
   - title: Commuter Orientation Chair
     position-outline: |
