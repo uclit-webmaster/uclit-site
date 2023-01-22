@@ -198,15 +198,17 @@
     favourite-quote: ---
     
   - name: Firdaus Sadid
-    pronouns: ---
-    image: 
+    pronouns: he/him
+    image: assets/images/headshots/Firdaus.png
     role: First Year Representative
-    from: ---
-    major: ---
+    from: Calgary, Alberta
+    major: First Year, Life Science
     email: ---
-    office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: ---
+    office-hours: 10-11PM, Fridays
+    favourite-part-about-uc: Iconic buildings, historical college, and close proximity to life science classes!
+    favourite-quote: |
+       "Dreams don't work unless you do."
+       - Mahmoud Darwish
     
   - name: Amilya Wilson
     pronouns: she/her
