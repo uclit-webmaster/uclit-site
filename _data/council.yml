@@ -30,7 +30,7 @@
     from: Brampton, Ontario
     major: Fourth Year in Human Geography with a focus in Planning, Political Science & Practical French
     email: president@uclit.ca
-    office-hours: 2-3PM Mondays, 3-4PM Tuesdays
+    office-hours: 10-11AM Tuesdays
     favourite-part-about-uc: The buildings and architecture, but especially the Junior Common Room!
     favourite-quote: |
        "Verily the lust for comfort murders the passion of the soul, and then walks grinning in the funeral"
@@ -42,7 +42,7 @@
     from: Scarborough, Ontario
     major: Fourth Year in Global Health & Immunology
     email: vp@uclit.ca
-    office-hours: 12-1PM Mondays, 12-1PM Wednesdays
+    office-hours: 10-11AM Wednesdays
     favourite-part-about-uc: Sir Dan's Quad
     favourite-quote: |
        "No act of kindness, no matter how small, is ever wasted"
@@ -55,7 +55,7 @@
     from: Mumbai, India
     major: Third Year in Economics, Statistics, & Spanish
     email: finance@uclit.ca
-    office-hours: 3-4PM Mondays
+    office-hours: 12-1PM Fridays
     favourite-part-about-uc: The halls in the UC building!
     favourite-quote: |
        "In the long run, we're all dead"
@@ -70,7 +70,7 @@
     from: Kuala Lumpur, Malaysia
     major: Second Year in Economics, Public Policy, & Statistics
     email: communications@uclit.ca
-    office-hours: 12-1PM Fridays
+    office-hours: 3-4PM Mondays
     favourite-part-about-uc: The intricacies of the UC building architecture!
     favourite-quote: |
        "Let me stay tender hearted, despite despite despite"
@@ -83,7 +83,7 @@
     from: Vancouver, Canada
     major: Third Year in Political Science & Critical Studies in Equity and Solidarity
     email: equity@uclit.ca
-    office-hours: 1PM-2PM Tuesdays
+    office-hours: 12-1PM Wednesdays
     favourite-part-about-uc: The architecture, especially the UC library.
     favourite-quote: |
        "Nobody in the world, nobody in history has ever gotten their freedom by appealing to the moral sense of the people who were oppressing them."
@@ -95,7 +95,7 @@
     from: Toronto, Ontario
     major: Third Year in Social, Cultural, and Linguistic Anthropology with a focus in Medical Anthropology, History, Politcal Science
     email: ucoc@uclit.ca
-    office-hours: 1-2PM, 2-3PM Fridays
+    office-hours: 1-2PM Tuesdays
     favourite-part-about-uc: The architecture is beautiful!
     favourite-quote:  |
         "What we see changes according to what we look for."
@@ -108,7 +108,7 @@
     from: New Delhi, India
     major: Third Year in Economics & Sociology
     email: sustainability@uclit.ca
-    office-hours: 11-12PM Thursdays
+    office-hours: 2-3PM Mondays
     favourite-part-about-uc: The incredible history and gorgeous buildings!
     favourite-quote: |
        "If it was safer on the ground, we wouldn't be on a boat."
@@ -121,7 +121,7 @@
     from: Vilnius, Lithuania
     major: Second Year in Life Sciences & Drama
     email: lca@uclit.ca
-    office-hours: 1-2PM Tuesdays
+    office-hours: 1-2PM Wednesdays
     favourite-part-about-uc: How grand and castle-like it is! (And of course, the people are amazing.)
     favourite-quote: |
      There is too much wisdom in the world to just pick one quote.
@@ -133,7 +133,7 @@
     from: Washington, D.C
     major: Third Year, Political Science Specialist
     email: uaa@uclit.ca
-    office-hours: 1-2PM Thursdays
+    office-hours: 11-12PM Thursdays
     favourite-part-about-uc: The UC library, its a great study spot!
     favourite-quote: ---
     
@@ -144,7 +144,7 @@
     from: Halifax, Nova Scotia
     major: Second Year in Life Sciences
     email: wellness@uclit.ca
-    office-hours: 10-11AM Mondays
+    office-hours: 2-3PM Fridays
     favourite-part-about-uc: Late night trip to rezzies!
     favourite-quote: |
        "It never hurts to keep looking for sunshine."
@@ -157,32 +157,32 @@
     from: Cairo, Egypt
     major: Fourth Year, Cinema studies, Diaspora and Transnational Studies, and Political Science
     email: formals@uclit.ca
-    office-hours: 2-3PM Tuesdays
+    office-hours: 12-1PM Mondays
     favourite-part-about-uc: The gryphon staircase! (Love to give him a pat for good luck before exams) 
     favourite-quote: | 
         "My hair is being pulled by the stars again" 
         - Anaïs Nin       
   - name: David Basil
-    pronouns: ---
+    pronouns: he/him
     image: ---
     role: Athletics
-    from: ---
-    major: ---
+    from: Lethbridge, Alberta
+    major: Computer Science
     email: athletics@uclit.ca
-    office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: ---
+    office-hours: 12-1PM Tuesdays
+    favourite-part-about-uc: The UC Quad
+    favourite-quote: "The river I step in is not the river I stand in." - Heraclitus
      
   - name: Euan Pound
-    pronouns: ---
+    pronouns: He/Him
     image: ---
     role: Spirit and Social
-    from: ---
-    major: ---
+    from: Thunder Bay, Ontario
+    major: Computer Science/Philosophy
     email: social@uclit.ca
-    office-hours: 11-12PM Wednesdays
-    favourite-part-about-uc: ---
-    favourite-quote: ---
+    office-hours: 3-4PM Wednesdays
+    favourite-part-about-uc: The creepy hallway to the refectory
+    favourite-quote: "Don't believe everything you read online" -Abraham Lincoln
     
 - group: First Year Representatives
   people:
@@ -193,7 +193,7 @@
     from: Calgary, Alberta
     major: First Year, Life Science
     email: ---
-    office-hours: 10-11AM Thursdays
+    office-hours: 3-4PM Thursdays
     favourite-part-about-uc: Pianos in the Whitney common rooms
     favourite-quote: ---
     
@@ -215,9 +215,9 @@
     image: ---
     role: First Year Representative
     from: Elmira, Ontario
-    major: ---
-    email: ---
-    office-hours: 1-2PM, Mondays
+    major: Social Science
+    email: amilya.wilson@mail.utoronto.ca
+    office-hours: 11-12PM, Fridays
     favourite-part-about-uc: The Sir Dan's Quad and the UC Library!
     favourite-quote: |
        "I can't forget you, not because I have a strong memory, but because I have a heart that never denies those who settled in it once."
@@ -230,13 +230,13 @@
     from: Scarborough, Ontario
     major: 1st Year, Social Science
     email: sara.melino@uclit.ca
-    office-hours: ---
+    office-hours: 10-11AM Mondays
     favourite-part-about-uc: The historical buildings and late nights in the residence common rooms!
     favourite-quote: |
        "In the end, everything will be okay. If it's not okay, it's not yet the end."
        - Fernando Sabino
     
-  - name: ---
+  - name: Eva Karulina
     pronouns: ---
     image: ---
     role: First Year Representative
@@ -256,7 +256,7 @@
     from: Hunan, China
     major: Second Year in Psychology & Neuroscience
     email: kelly@uclit.ca
-    office-hours: 11-12PM Thursdays
+    office-hours: 10-11AM Thursdays
     favourite-part-about-uc: The Junior Common Room!
     favourite-quote: |
        "The only limit to our realization of tomorrow will be our doubts of today."
@@ -269,7 +269,7 @@
     from: Taipei, Taiwan
     major: Second Year in Book and Media Studies, Industry Relations & Human Resources
     email: chiara@uclit.ca
-    office-hours: 3-4PM Thursdays
+    office-hours: 1-2PM Mondays
     favourite-part-about-uc: The UC building!
     favourite-quote: |
        "Good morning, and in case I don't see ya, good afternoon, good evening, and good night!"
@@ -282,7 +282,7 @@
     from: San Francisco, United States
     major: Second Year in Criminology & Sociolegal Studies; Minors in Philosophy & Critical Studies in Equity and Solidarity
     email: kristina@uclit.ca
-    office-hours: 10-11AM, 11-12PM Tuesdays
+    office-hours: 2-3PM Thursdays
     favourite-part-about-uc: UC library!
     favourite-quote: |
        "With our thoughts, we make the world."
@@ -295,7 +295,7 @@
     from: Mumbai, India
     major: Third Year in Cognitive Science, Computer Science & Statistics
     email: poorvi@uclit.ca
-    office-hours: 10-11AM Wednesdays
+    office-hours: 11-12PM Wednesdays
     favourite-part-about-uc: The fact that it feels like I'm in a Harry Potter movie!
     favourite-quote: |
        "Smile and the world smiles with you. Growl and you get better service."
@@ -307,7 +307,7 @@
     from: Calgary, Alberta
     major: Second Year, Health & Disease, Biology; minor in Immunology
     email: maggie@uclit.ca
-    office-hours: 3PM-4PM, Fridays
+    office-hours: 1-2PM, Fridays
     favourite-part-about-uc: Late-night chats in the Whitney Quad!
     favourite-quote: |
        "Breathe in the sweet air of limitless possibility, and make life as rich as you know it can be." 
@@ -320,7 +320,7 @@
     from: Scarborough, Ontario
     major: Third Year, Pharmacology Specialist, Immunology Minor
     email: eugenea.alteza@mail.utoronto.ca
-    office-hours: 3PM-4PM, Wednesdays
+    office-hours: 2PM-4PM, Tuesdays
     favourite-part-about-uc: The building is beautiful!
     favourite-quote: |
        "Yesterday is gone, What will you do today?" 
@@ -354,15 +354,15 @@
        "Science tells us that we are all energy and that we are all connected. And once energy is present in the universe, it doesn’t just disappear. Life moves from one form of energy to another. Your father is still very much a part of the universe." 
        - A character in a book I recently read.
      
-  - name: ---
+  - name: Ali Syed
     image: ---
     role: Upper-Year Representative
-    from: ---
-    major: ---
-    email: ---
-    office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: ---
+    from: Milton, Ontario
+    major: Computer Science
+    email: al.syed@mail.utoronto.ca
+    office-hours: 11am-12pm, Tuesdays
+    favourite-part-about-uc: The JCR !!
+    favourite-quote: "Nothing is impossible. The word itself says I'm possible"- Audrey Hepburn
      
 - group: UTSU UC Directors
   people:
