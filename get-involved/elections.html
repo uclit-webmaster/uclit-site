@@ -104,19 +104,18 @@ title: Elections
                 </table>
             </div>
         </div>
-    </div>
-    <div class="col-md-6">
+        <div class="col-md-6">
 
-        {% for button in site.data.elections.buttons %}
-        <div>
-            <a class="btn btn-primary my-2 btn-block btn-lg" href="{{ button.link | relative_url }}" target="_blank"><strong>{{ button.text
-                    }}</strong></a>
+            {% for button in site.data.elections.buttons %}
+            <div>
+                <a class="btn btn-primary my-2 btn-block btn-lg" href="{{ button.link | relative_url }}" target="_blank"><strong>{{ button.text
+                        }}</strong></a>
+            </div>
+            {% endfor %}
+
         </div>
-        {% endfor %}
-
     </div>
     <div class="col-md-6">
         <p>{{ site.data.elections.current-election-text }}</p>
     </div>
-    <!-- </div> -->
 </div>
