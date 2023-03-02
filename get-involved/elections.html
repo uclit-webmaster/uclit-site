@@ -11,7 +11,7 @@ title: Elections
     <p>{{ site.data.elections.subtext }}</p>
     <br>
 
-        <h2 class="font-secondary text-primary">Current Election Schedule: Spring Elections 2023 PT. I</h2>
+    <h2 class="font-secondary text-primary">Current Election Schedule: Spring Elections 2023 PT. I</h2>
     <p> Positions up for Election: </p>
     <p><b>Executive:</b></p>
     <p>President</p>
@@ -56,8 +56,9 @@ title: Elections
                     </tbody>
                 </table>
             </div>
-
-        <h2 class="font-secondary text-primary">Spring Elections 2023 PT. II</h2>
+        </div>
+    </div>
+    <h2 class="font-secondary text-primary">Spring Elections 2023 PT. II</h2>
     <p> Positions up for Election: </p>
     <p><b>Executive:</b></p>
     <p>Mental Wellness Commissioner</p>
@@ -103,18 +104,19 @@ title: Elections
                 </table>
             </div>
         </div>
-        <div class="col-md-6">
-
-            {% for button in site.data.elections.buttons %}
-            <div>
-                <a class="btn btn-primary my-2 btn-block btn-lg" href="{{ button.link | relative_url }}" target="_blank"><strong>{{ button.text
-                        }}</strong></a>
-            </div>
-            {% endfor %}
-
-        </div>
-        <div class="col-md-6">
-            <p>{{ site.data.elections.current-election-text }}</p>
-        </div>
     </div>
+    <div class="col-md-6">
+
+        {% for button in site.data.elections.buttons %}
+        <div>
+            <a class="btn btn-primary my-2 btn-block btn-lg" href="{{ button.link | relative_url }}" target="_blank"><strong>{{ button.text
+                    }}</strong></a>
+        </div>
+        {% endfor %}
+
+    </div>
+    <div class="col-md-6">
+        <p>{{ site.data.elections.current-election-text }}</p>
+    </div>
+    <!-- </div> -->
 </div>
