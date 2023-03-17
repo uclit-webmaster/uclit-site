@@ -35,15 +35,43 @@
     - name: Jobs and Employment
       link: get-involved/jobs-and-employment
 - name: Resources
+  options: 
+    - name: Academics & Wellness
+      link: resources/academics-wellness
+    - name: Mental Health
+      link: resources/mentalhealth
+    - name: Clubs
+      link: resources/clubs
+    - name: Truth & Reconcilliation
+      link: resources/truth-reconcilliation
+
+- name: Governance
   options:
-  - name: Budgets and Documents
-    link: resources/budgets-documents
-  - name: Student Initiatives Fund
-    link: resources/student-initiatives-fund
-  - name: Student Academics and Wellness
-    link: resources/student-academics-wellness
-  - name: Student Fees and Levies
-    link: resources/student-fees-and-levies
+    - name: Budgets and Documents
+      link: resources/budgets-documents
+    - name: Student Initiatives Fund
+      link: resources/student-initiatives-fund
+    - name: Student Academics and Wellness
+      link: resources/student-academics-wellness
+    - name: Student Fees and Levies
+      link: resources/student-fees-and-levies
+- name: Services
+  options:
+    - name: JCR Rentals
+      link: services/jcr-rentals
+    - name: Merchandise
+      link: services/merchandise
+    - name: More
+      link: services/more
+      options:
+        - name: Safer Sex
+          link: services/more/safersex
+        - name: Sustainability
+          link: services/more/sustainability
+        - name: Donation Bin
+          link: services/more/donationbin
+        - name: Menustrual Products
+          link: services/more/menustralproducts
 - name: Events
   options:
     - name: Event Photos
@@ -52,6 +80,7 @@
       link: events/calendar
     - name: JCR Rentals
       link: events/jcr-rentals
+
 - name: Contact
   link: /contact
 - name: Store
