@@ -23,7 +23,7 @@
 #     office-hours: 12-1 thursdays
 - group: Core Executives
   people:
-  - name: Neha Sultana
+  - name: Neha Sultana 
     pronouns: she/her
     image: assets/images/headshots/neha(new).jpg
     role: President
@@ -32,8 +32,9 @@
     email: president@uclit.ca
     office-hours: N/A
     favourite-part-about-uc: The beautiful architecture! 
-    favourite-quote: | "What we see changes according to what we look for."
-        - E.J. Koh 
+    favourite-quote: | 
+       "What we see changes according to what we look for."  
+       - E.J. Koh 
   - name: Maya Javier
     pronouns: she/her
     image: assets/images/headshots/maya2023.jpeg
