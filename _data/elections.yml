@@ -14,15 +14,15 @@ current-election-text: |
   
 # Comment out the rest of this if you don't want any buttons
 buttons:
- - text: NOMINATION FORM (Available Monday, February 13 to Sunday, February 26)
-   link: https://docs.google.com/document/d/18rvbtvEedsFWDiF34n2G28gstksRrokZd2iI8YQje24/edit?usp=sharing
+ - text: NOMINATION FORM
+   link: https://docs.google.com/document/d/1JWrQj7L_cvVMuKMiPhXmtPZE7niWzpoot6V2S6qHNXY/edit?usp=sharing
  - text: ELECTIONS CODE
-   link: https://docs.google.com/document/d/1gg_QhPaBrbX-GLhkSn-5-k9crVCs89qhC-n_lES8M4c/edit?usp=sharing
+   link: https://docs.google.com/document/d/1wNa3ahGc5Rrvo1PSaN0qkXSa0WAN4RZVTPkzxfOFO6Q/edit?usp=sharing
  - text: CANDIDATE INFORMATION
-   link: https://docs.google.com/document/d/1fu43aR6FkqDqMj24tgBFfebJn9PqfbkK_A9HV_seE9I/edit?usp=share_link
+   link: https://docs.google.com/document/d/1d2AvWwrAMomiTQc6btCVgoxpKKwTgGVJUsW5gfmDDXg/edit?usp=sharing
  - text: VOTE HERE
    link: https://utoronto.simplyvoting.com/
- - text: ZOOM LINK FOR INFORMATION SESSIONS AND CANDIDATE MEETING
-   link: https://utoronto.zoom.us/j/81248542103
+ - text: ZOOM LINK FOR INFORMATION SESSIONS AND ALL CANDIDATES MEETING (Passcode: UCLit)
+   link: https://utoronto.zoom.us/j/83621964187
  - text: ELECTION RESULTS ARCHIVE
    link: https://drive.google.com/drive/folders/11Sws4cnaROTs858_2ljzMMjRRUOU998Q?usp=sharing
