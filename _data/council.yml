@@ -30,7 +30,7 @@
     from: Toronto, ON
     major: Fourth Year Majoring in Social, Cultural, and Linguistic Anthropology (Medical Anthropology Focus), Double Minor in History and Political Science
     email: president@uclit.ca
-    office-hours: N/A
+    office-hours: Monday 10-11; Friday 1-2
     favourite-part-about-uc: The beautiful architecture! 
     favourite-quote: | 
        "What we see changes according to what we look for."  
@@ -341,18 +341,18 @@
   
 - group: Upper Year Representatives
   people:
-  - name: Ella Levin
+   - name: Poorvi Sharma
     pronouns: she/her
-    image: ---
-    role: Upper-Year Representative
-    from: Toronto, Ontario
-    major: 4th Year, Political Science & Sociology Majors, Near and Middle Eastern Civilizations Minor
-    email: ella.levin@mail.utoronto.ca
-    office-hours: 2-3PM, Wednesdays
-    favourite-part-about-uc: The outdoor spaces (love the quads!)
+    image: assets/images/headshots/poorvi2.png
+    role: Mid-Year Representative
+    from: Mumbai, India
+    major: Third Year in Cognitive Science, Computer Science & Statistics
+    email: poorvi@uclit.ca
+    office-hours: 11-12PM Wednesdays
+    favourite-part-about-uc: The fact that it feels like I'm in a Harry Potter movie!
     favourite-quote: |
-       "Damn, uhh... ham..." 
-       - Unknown
+       "Smile and the world smiles with you. Growl and you get better service."
+       - Garfield   
        
   - name: Dylan Smart
     pronouns: he/him
