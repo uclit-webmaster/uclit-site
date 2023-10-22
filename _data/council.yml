@@ -41,24 +41,23 @@
     image: assets/images/headshots/maya2023.jpeg
     role: Vice President
     from: Vancouver, BC
-    major: Double Major in Political Science and Critical Studies in Equity and Solidarity
+    major: Fourth Year; Double Major in Political Science and Critical Studies in Equity and Solidarity
     email: vp@uclit.ca
     office-hours: N/A
     favourite-part-about-uc: The library and all the beautiful architecture!
     something-theyve-been-obsessed-with-recently: Any movie with Robert De Niro in it
        
-  - name: Shreyansi Gandhi
+  - name: Yagmur Yenilmez
     pronouns: she/her
-    image: assets/images/headshots/shreyansi.jpeg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Finance
-    from: Mumbai, India
-    major: Third Year in Economics, Statistics, & Spanish
+    from: Istanbul, Türkiye
+    major: Second Year; Double Major in Economics and Computer Science, Certificate in Business Fundamentals
     email: finance@uclit.ca
     office-hours: N/A
-    favourite-part-about-uc: The halls in the UC building!
-    favourite-quote: |
-       "In the long run, we're all dead"
-       - John Maynard Keynes
+    favourite-part-about-uc: Can not decide between ghost stories and the architecture :)
+    favourite-quote: | 
+       ---
        
 - group: Executives
   people:
@@ -73,128 +72,113 @@
     favourite-part-about-uc: The people and community!
     something-theyve-been-obsessed-with-recently: sitting on the grass in the UC quad with friends!
        
-  - name: Maya Javier
+  - name: Kristina Cổ-Đoàn
     pronouns: she/her
-    image: assets/images/headshots/maya.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Equity
-    from: Vancouver, Canada
-    major: Third Year in Political Science & Critical Studies in Equity and Solidarity
+    from: San Francisco, United States of America
+    major: Third Year; Criminology & Socio-Legal Studies, minors in Critical Studies in Equity & Solidarity and Philosophy 
     email: equity@uclit.ca
     office-hours: 12-1PM Wednesdays
-    favourite-part-about-uc: The architecture, especially the UC library.
+    favourite-part-about-uc: The broad and welcoming community!
     favourite-quote: |
-       "Nobody in the world, nobody in history has ever gotten their freedom by appealing to the moral sense of the people who were oppressing them."
-       - Assata Shakur
+       ---
        
-  - name: Neha Sultana
-    image: assets/images/headshots/neha(new).jpg
+  - name: James Shi
+    image: assets/images/headshots/council-icons/reps.svg
     role: Off-Campus
-    from: Toronto, Ontario
-    major: Third Year in Social, Cultural, and Linguistic Anthropology with a focus in Medical Anthropology, History, Politcal Science
+    from: Xianning, China
+    major: Fourth Year; Biochemistry Specialist
     email: ucoc@uclit.ca
-    office-hours: 1-2PM Tuesdays
-    favourite-part-about-uc: The architecture is beautiful!
+    office-hours: ---
+    favourite-part-about-uc: The architecture and the homey spaces
     favourite-quote:  |
-        "What we see changes according to what we look for."
-        - E.J. Koh
+       ---
     
-  - name: Yashasvini Singh
+  - name: Hargun Rekhi
     pronouns: she/her
-    image: assets/images/headshots/yashasvini.jpg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Sustainability
-    from: New Delhi, India
-    major: Third Year in Economics & Sociology
+    from: ---
+    major: ---
     email: sustainability@uclit.ca
-    office-hours: 2-3PM Mondays
-    favourite-part-about-uc: The incredible history and gorgeous buildings!
+    office-hours: ---
+    favourite-part-about-uc: ---
     favourite-quote: |
-       "If it was safer on the ground, we wouldn't be on a boat."
-        - Matthew Healy
+       ---
         
   - name: Elžbieta (Elizabeth) Chernyak
     pronouns: she/her
     image: assets/images/headshots/elzbieta.jpeg
     role: Literary and Creative Arts
     from: Vilnius, Lithuania
-    major: Second Year in Life Sciences & Drama
+    major: Third Year; Cell and Molecular Biology and Drama Double Major
     email: lca@uclit.ca
-    office-hours: 1-2PM Wednesdays
-    favourite-part-about-uc: How grand and castle-like it is! (And of course, the people are amazing.)
+    office-hours: ---
+    favourite-part-about-uc: All the intricate carvings on the buildings!!
     favourite-quote: |
-     There is too much wisdom in the world to just pick one quote.
+       ---
     
-    name: Emma Caramazza
+  - name: Selen Bayram
     pronouns: she/her
-    image: 
+    image: assets/images/headshots/council-icons/reps.svg
     role: University & Academic Affairs
-    from: Washington, D.C
-    major: Third Year, Political Science Specialist
+    from: Izmir, Türkiye 
+    major: Third Year, Neuroscience and Computer Science 
     email: uaa@uclit.ca
-    office-hours: 11-12PM Thursdays
-    favourite-part-about-uc: The UC library, its a great study spot!
-    favourite-quote: ---
-    
-  - name: Sarah Elliot
-    pronouns: she/her
-    image: assets/images/headshots/sarah.jpeg
-    role: Mental Wellness
-    from: Halifax, Nova Scotia
-    major: Second Year in Life Sciences
-    email: wellness@uclit.ca
-    office-hours: 2-3PM Fridays
-    favourite-part-about-uc: Late night trip to rezzies!
+    office-hours: ---
+    favourite-part-about-uc: the architecture, the community, and the spirit!
     favourite-quote: |
-       "It never hurts to keep looking for sunshine."
-       - Eeyore
+       ---
        
-  - name: Kenzy El-Morsi
+  - name: Kelly Gong
+    pronouns: she/her
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Mental Wellness
+    from: Hunan, China
+    major: Third Year; Neuroscience and Psychology
+    email: wellness@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: GOATed people
+    favourite-quote: |
+       ---
+       
+  - name: Divi Gupta
     pronouns: she/her
     image: ---
     role: Formals
-    from: Cairo, Egypt
-    major: Fourth Year, Cinema studies, Diaspora and Transnational Studies, and Political Science
+    from: ---
+    major: ---
     email: formals@uclit.ca
-    office-hours: 12-1PM Mondays
-    favourite-part-about-uc: The gryphon staircase! (Love to give him a pat for good luck before exams) 
+    office-hours: ---
+    favourite-part-about-uc: ---
     favourite-quote: | 
-        "My hair is being pulled by the stars again" 
-        - Anaïs Nin       
-  - name: David Basil
+        ---   
+        
+  - name: Iman Chatterjee
     pronouns: he/him
     image: ---
     role: Athletics
-    from: Lethbridge, Alberta
+    from: ---
     major:
     email: athletics@uclit.ca
-    office-hours: 12-1PM Tuesdays
-    favourite-part-about-uc: The UC Quad
+    office-hours: ---
+    favourite-part-about-uc: ---
     favourite-quote: |
-        "The river I step in is not the river I stand in." 
-        - Heraclitus
+        ---
      
-  - name: Euan Pound
-    pronouns: He/Him
+  - name: Ary Kwun
+    pronouns: she/her
     image: ---
     role: Spirit and Social
-    from: Thunder Bay, Ontario
-    major: Computer Science/Philosophy
+    from: ---
+    major: ---
     email: social@uclit.ca
-    office-hours: 3-4PM Wednesdays
-    favourite-part-about-uc: The creepy hallway to the refectory
+    office-hours: ---
+    favourite-part-about-uc: ---
     favourite-quote: |
-        "Don't believe everything you read online" 
-        - Abraham Lincoln
-  - name: Elizabeth (Elzbieta) Chernyak
-    pronouns: she/her
-    image: elzbieta.jpeg
-    role: Literary & Creative Arts
-    from: Vilnius, Lithuania
-    major: 2nd, Life Sciences & Drama
-    email: lca@uclit.ca
-    office-hours: 3-4PM Wednesdays
-    favourite-part-about-uc: How grand and castle like it is!! (And of course, the people are AMAZING!!)
-    favourite-quote: |
-        There is too much wisdom in the world to just pick one quote.
+        ---
+
     
 - group: First Year Representatives
   people:
@@ -378,14 +362,14 @@
 - group: Special Executives
   people:
   - name: Ryan Cho
-    pronouns: ---
+    pronouns: He/Him
     image: assets/images/headshots/council-icons/reps.svg
     role: President, University College Residence Council (UCRC) 
-    from: ---
-    major: ---
-    email: ---
+    from: South Surrey, Canada
+    major: Third Year; Major: Ethics Society and Law Minors: Literature and Critical theory, Creative Expression and Society
+    email: ucrc@uclit.ca
     office-hours: ---
-    favourite-part-about-uc: ---
+    favourite-part-about-uc: Personally I love the amazing community here at UC. The people truly make the place, and it has had a huge impact on my undergrad experience!
     favourite-quote: |
     
  
