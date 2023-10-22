@@ -380,12 +380,12 @@
       "Nothing is impossible. The word itself says I'm possible"
       - Audrey Hepburn
      
-- group: UTSU UC Directors
+- group: Special Executives
   people:
-  - name: ---
+  - name: Ryan Cho
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
-    role: UC Director
+    role: President, University College Residence Council (UCRC) 
     from: ---
     major: ---
     email: ---
@@ -393,29 +393,7 @@
     favourite-part-about-uc: ---
     favourite-quote: |
     
-       
-  - name: ---
-    pronouns: ---
-    image: assets/images/headshots/council-icons/reps.svg
-    role: UC Director
-    from: ---
-    major: ---
-    email: ---
-    office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: |
-     
-       
-  - name: ---
-    pronouns: ---
-    image: assets/images/headshots/council-icons/reps.svg
-    role: UC Director
-    from: --
-    major: --
-    email: ---
-    office-hours: --
-    favourite-part-about-uc: --
-    favourite-quote: --
+ 
   
 #- group: Staff and Ancillaries
 #  people:
