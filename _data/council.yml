@@ -35,6 +35,7 @@
     favourite-quote: | 
        "What we see changes according to what we look for."  
        - E.J. Koh 
+       
   - name: Maya Javier
     pronouns: she/her
     image: assets/images/headshots/maya2023.jpeg
@@ -341,7 +342,7 @@
   
 - group: Upper Year Representatives
   people:
-   - name: Poorvi Sharma
+  - name: Poorvi Sharma
     pronouns: she/her
     image: assets/images/headshots/poorvi2.png
     role: Mid-Year Representative
