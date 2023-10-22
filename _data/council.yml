@@ -56,8 +56,7 @@
     email: finance@uclit.ca
     office-hours: N/A
     favourite-part-about-uc: Can not decide between ghost stories and the architecture :)
-    favourite-quote: | 
-       ---
+    favourite-quote:: |
        
 - group: Executives
   people:
@@ -82,7 +81,6 @@
     office-hours: ---
     favourite-part-about-uc: The broad and welcoming community!
     favourite-quote: |
-       ---
        
   - name: James Shi
     image: assets/images/headshots/council-icons/reps.svg
@@ -92,8 +90,7 @@
     email: ucoc@uclit.ca
     office-hours: ---
     favourite-part-about-uc: The architecture and the homey spaces
-    favourite-quote:  |
-       ---
+    favourite-quote: |
     
   - name: Hargun Rekhi
     pronouns: she/her
@@ -105,7 +102,6 @@
     office-hours: ---
     favourite-part-about-uc: ---
     favourite-quote: |
-       ---
         
   - name: Elžbieta (Elizabeth) Chernyak
     pronouns: she/her
@@ -117,7 +113,6 @@
     office-hours: ---
     favourite-part-about-uc: All the intricate carvings on the buildings!!
     favourite-quote: |
-       ---
     
   - name: Selen Bayram
     pronouns: she/her
@@ -129,7 +124,6 @@
     office-hours: ---
     favourite-part-about-uc: the architecture, the community, and the spirit!
     favourite-quote: |
-       ---
        
   - name: Kelly Gong
     pronouns: she/her
@@ -141,7 +135,6 @@
     office-hours: ---
     favourite-part-about-uc: GOATed people
     favourite-quote: |
-       ---
        
   - name: Divi Gupta
     pronouns: she/her
@@ -152,8 +145,7 @@
     email: formals@uclit.ca
     office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: | 
-        ---   
+    favourite-quote: |
         
   - name: Iman Chatterjee
     pronouns: he/him
@@ -165,7 +157,6 @@
     office-hours: ---
     favourite-part-about-uc: ---
     favourite-quote: |
-        ---
      
   - name: Ary Kwun
     pronouns: she/her
@@ -177,7 +168,6 @@
     office-hours: ---
     favourite-part-about-uc: ---
     favourite-quote: |
-        ---
 
     
 - group: First Year Representatives
@@ -191,7 +181,7 @@
     email: ---
     office-hours: 3-4PM Thursdays
     favourite-part-about-uc: Pianos in the Whitney common rooms
-    favourite-quote: ---
+    favourite-quote: |
     
   - name: Firdaus Sadid
     pronouns: he/him
