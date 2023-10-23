@@ -138,7 +138,7 @@
        
   - name: Divi Gupta
     pronouns: she/her
-    image: ---
+    image: assets/images/headshots/council-icons/reps.svg
     role: Formals
     from: ---
     major: ---
@@ -149,7 +149,7 @@
         
   - name: Iman Chatterjee
     pronouns: he/him
-    image: ---
+    image: assets/images/headshots/council-icons/reps.svg
     role: Athletics
     from: ---
     major:
@@ -160,7 +160,7 @@
      
   - name: Ary Kwun
     pronouns: she/her
-    image: ---
+    image: assets/images/headshots/council-icons/reps.svg
     role: Spirit and Social
     from: ---
     major: ---
@@ -170,90 +170,35 @@
     favourite-quote: |
 
     
-- group: First Year Representatives
+- group: First-Year Representatives
   people:
-  - name: Grace Liu
-    pronouns: she/her
-    image: ---
-    role: First Year Representative
-    from: Calgary, Alberta
-    major: First Year, Life Science
+  - name: Brendan Lin
+    pronouns: he/they
+    image: assets/images/headshots/council-icons/reps.svg
+    role: First-Year Representative
+    from: Mississauga, Canada 
+    major: First Year; Social Sciences 
+    email: brendan@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: the library ;)) 
+    favourite-quote: |
+    
+  - name: Daicey Ansong
+    pronouns: --
+    image: assets/images/headshots/council-icons/reps.svg
+    role: First-Year Representative
+    from: --
+    major: ---
     email: ---
-    office-hours: 3-4PM Thursdays
-    favourite-part-about-uc: Pianos in the Whitney common rooms
+    office-hours: ---
+    favourite-part-about-uc: ---
     favourite-quote: |
+      
     
-  - name: Firdaus Sadid
-    pronouns: he/him
-    image: assets/images/headshots/Firdaus.png
-    role: First Year Representative
-    from: Calgary, Alberta
-    major: First Year, Life Science
-    email: ---
-    office-hours: 10-11PM, Fridays
-    favourite-part-about-uc: Iconic buildings, historical college, and close proximity to life science classes!
-    favourite-quote: |
-       "Dreams don't work unless you do."
-       - Mahmoud Darwish
-    
-  - name: Amilya Wilson
-    pronouns: she/her
-    image: ---
-    role: First Year Representative
-    from: Elmira, Ontario
-    major: Social Science
-    email: amilya.wilson@mail.utoronto.ca
-    office-hours: 11-12PM, Fridays
-    favourite-part-about-uc: The Sir Dan's Quad and the UC Library!
-    favourite-quote: |
-       "I can't forget you, not because I have a strong memory, but because I have a heart that never denies those who settled in it once."
-       - Mahmoud Darwish
-       
-  - name: Sara Melino
-    pronouns: she/her
-    image: sara melino.jpg
-    role: First Year Representative
-    from: Scarborough, Ontario
-    major: 1st Year, Social Science
-    email: sara.melino@uclit.ca
-    office-hours: 10-11AM Mondays
-    favourite-part-about-uc: The historical buildings and late nights in the residence common rooms!
-    favourite-quote: |
-       "In the end, everything will be okay. If it's not okay, it's not yet the end."
-       - Fernando Sabino
-    
-  - name: Eva Karulina
-    pronouns: she/her
-    image: eva.jpeg.JPEG
-    role: First Year Representative
-    from: Cleveland, Ohio (USA)
-    major: Life Science
-    email: eugenia.karulina@mail.utoronto.ca
-    office-hours: 2-3PM Wednesdays
-    favourite-part-about-uc: The architecture and Rezzie's hot chocolate!
-    favourite-quote: |
-       "Think it over, think it under"
-       - Winnie The Pooh
-    
-- group: Mid-Year Representatives
-  people:
-  - name: Kelly Gong
-    pronouns: ---
-    image: assets/images/headshots/kelly gong.jpeg
-    role: Mid-Year Representative
-    from: Hunan, China
-    major: Second Year in Psychology & Neuroscience
-    email: kelly@uclit.ca
-    office-hours: 10-11AM Thursdays
-    favourite-part-about-uc: The Junior Common Room!
-    favourite-quote: |
-       "The only limit to our realization of tomorrow will be our doubts of today."
-       - Franklin D. Roosevelt
-       
-  - name: ---
+  - name: Luisa Melchert 
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
-    role: Mid-Year Representative
+    role: First-Year Representative
     from: ---
     major: ---
     email: ---
@@ -262,34 +207,81 @@
     favourite-quote: |
        
        
-  - name: Kristina Cổ
-    pronouns: she/her
-    image: assets/images/headshots/kristina.jpg
-    role: Mid-Year Representative
-    from: San Francisco, United States
-    major: Second Year in Criminology & Sociolegal Studies; Minors in Philosophy & Critical Studies in Equity and Solidarity
-    email: kristina@uclit.ca
-    office-hours: 2-3PM Thursdays
-    favourite-part-about-uc: UC library!
-    favourite-quote: |
-       "With our thoughts, we make the world."
-       - Buddha
-       
-  - name: Poorvi Sharma
-    pronouns: she/her
-    image: assets/images/headshots/poorvi2.png
-    role: Mid-Year Representative
-    from: Mumbai, India
-    major: Third Year in Cognitive Science, Computer Science & Statistics
-    email: poorvi@uclit.ca
-    office-hours: 11-12PM Wednesdays
-    favourite-part-about-uc: The fact that it feels like I'm in a Harry Potter movie!
-    favourite-quote: |
-       "Smile and the world smiles with you. Growl and you get better service."
-       - Garfield  
-       
-  - name: ---
+  - name: Daniele Chernyak
     pronouns: ---
+    image: assets/images/headshots/council-icons/reps.svg
+    role: First-Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: |
+      
+    
+  - name: Camila Zeggara Lopez
+    pronouns: ---
+    image: assets/images/headshots/council-icons/reps.svg
+    role: First-Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: |
+      
+    
+- group: Mid-Year Representatives
+  people:
+  - name: Hasaan Mohsin
+    pronouns: he/him
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Mid-Year Representative
+    from: Lahore, Pakistan & Riyadh, Saudi Arabia
+    major: Third Year; Astrophysics
+    email: hasaan@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: Morrison Hall common rooms!
+    favourite-quote: |
+       
+  - name: Behram Hathi
+    pronouns: he/him
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Mid-Year Representative
+    from: Bombay, India
+    major: Third Year; Public Policy and Economics
+    email: behram@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The people and the beautiful architecture
+    favourite-quote: |
+       
+       
+  - name: Yamini Coomar
+    pronouns: she/her
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Mid-Year Representative
+    from: Delhi, India and Accra, Ghana
+    major: Second Year; Fundamental Genetics and its Applications 
+    email: yamini@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The chocolate croissants at Reznikoff  
+    favourite-quote: |
+      
+       
+  - name: Eva Karulina
+    pronouns: she/her
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Mid-Year Representative
+    from: Cleveland, Ohio (USA)
+    major: ---
+    email: eva.karulina@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: |
+       
+       
+  - name: Sabrina Shahidan
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     from: ---
@@ -300,7 +292,7 @@
     favourite-quote: |
        
 
-  - name: ---
+  - name: Udaya Reddy
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -327,7 +319,7 @@
        "Smile and the world smiles with you. Growl and you get better service."
        - Garfield   
        
-  - name: ---
+  - name: Yami Malhotra
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
