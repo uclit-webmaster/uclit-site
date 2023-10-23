@@ -64,7 +64,7 @@ jobs:
       University College Commuter Orientation is a two-day program which provides incoming commuter students with transition support, as well as a sense of collegiality and community.
       
       <p>The Commuter Orientation Chair is responsible for overseeing all operations of Commuter Orientation. The role will require approximately 10 hours per week in June & July, and 15 hours per week in August.
-    currently-accepting: true
+    currently-accepting: false
     application-link: https://bit.ly/commuterchair2023
     application-instructions: |
       Please submit an accurate and up-to-date Resume, Cover Letter and Two References to the <a href="mailto:president@uclit.ca">President's Office</a>.
@@ -80,12 +80,12 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Currently Accepting Applications
+        right: Not Currently Accepting Applications
         
   - title: Secretary of the Society
     position-outline: |
       The Society Secretary provides brief yet comprehensive minutes of all of the organization’s multi-committee meetings, including our Annual General Meeting (AGM), all regular Meetings of Council, and our weekly Operating Meetings. The Secretary is an ex-officio, non-voting executive, and is supervised directly by the Office of the Vice President. The position has ≤8 per-week hours.
-    currently-accepting: true
+    currently-accepting: false
     application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words), and two References to the Hiring Committee by clicking the link below.
@@ -103,12 +103,12 @@ jobs:
       - left: Supervisors
         right: Office of the Vice President
       - left: Hiring Status
-        right: Currently Accepting Applications
+        right: Not Currently Accepting Applications
 
   - title: Speaker of the Society
     position-outline: |
       The Society Speaker establishes procedure at each of the organization’s multi-committee meetings, including our Annual General Meeting (AGM), Judiciary Committee, and all regular Meetings of Council. The Speaker is an ex-officio, non-voting executive, and is supervised directly by the Office of the Vice President.The position has ≤8 per-week hours.
-    currently-accepting: true
+    currently-accepting: false
     application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words), and two References to the Hiring Committee by clicking the link below.
@@ -198,7 +198,7 @@ jobs:
       The Co-Directors of the University College Literary and Athletic Society WUSC division are tasked with being the support and primary contact point for the college’s sponsored WUSC student, in collaboration with the Equity Commission of the UC Lit and the Office of Student Life at University College. Previous holders of this position have identified it as a great starting off point for providing community service to the college and a place to formalize general interest in the social services.
       
       <p> The Co-Directors are governed uniquely by a Committee jointly administered by the Office of the Dean of Students, University College, and the UC Lit, as well as in accordance with the guidelines and programs set out by the national WUSC organization. The hours will vary, however, they will not exceed ten (10) hours per week per Director during the regular school year.
-    currently-accepting: true
+    currently-accepting: false
     application-link: https://bit.ly/wuscdirector23
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV , a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
@@ -214,7 +214,7 @@ jobs:
       - left: Supervisors
         right: Office of the President, Office of the Dean of Students
       - left: Hiring Status
-        right: Currently Accepting Applications
+        right: Not Currently Accepting Applications
 
   - title: Photographer
     position-outline: |
