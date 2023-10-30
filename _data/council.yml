@@ -389,63 +389,67 @@
 
 - group: Deputies
   people: 
-  - name: Megan Ding
+  - name: Ananya Gaur
     pronouns: she/her
-    image: ---
+    image: assets/images/headshots/council-icons/reps.svg
     role: Vice President Internal Deputy
-    from: Kingston, Ontario
-    major: First year in Life Science
-    email: megan.ding@mail.utoronto.ca
-    favourite-part-about-uc: Being so close to all my classes (I can sleep in a few more minutes everyday)
+    from: India
+    major: Second Year; Political Science
+    email: jcr@uclit.ca
+    favourite-part-about-uc: Getting to know people and seeing the behind-the-scenes of all the cool events 
     favourite-quote: |
-       "Don't waste your time. Or time will, waste, you..."
-       - Muse
     
-  - name: Japneet Kaur
-    image: ---
+  - name: Adam Chmelauskas
+    image: assets/images/headshots/council-icons/reps.svg
     role: Vice-President Clubs Deputy
-    from: Uttarakhand, India
-    major: First Year in Humanities
-    email: jap.kaur@mail.utoronto.ca
-    favourite-part-about-uc: The eclairs at FUNG!!
+    from: Vancouver, BC
+    major: Second Year; Political Science and Sociology Double Major
+    email: clubs@uclit.ca
+    favourite-part-about-uc: The People!! 
     favourite-quote: |
-       "So, I guess we are who we are for a lot of reasons. And maybe we'll never know most of them. But even if we don't have the power to choose where we come from, we can still choose where we go from there."
-       - Charlie, The Perks of Being a Wallflower.
     
+  - name: Kiara Andrade
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Finance Deputy
+    from: Mumbai, India
+    major: Third Year; Finance and Economics (Rotman)
+    email: financedeputies@uclit.ca
+    favourite-part-about-uc: The people!!
+
   - name: ---
-    image: ---
+    image: assets/images/headshots/council-icons/reps.svg
     role: Finance Deputy
     from: ---
     major: ---
     email: ---
     favourite-part-about-uc: ---
     
-  - name: ---
-    image: ---
+  - name: Katelyn Nguyen
+    image: assets/images/headshots/council-icons/reps.svg
     role: Equity Deputy
-    from: ---
-    major: ---
-    email: ---
-    favourite-part-about-uc: ---
+    from: Toronto, Canada
+    major: Third Year; Major in Human Biology
+    email: equity@uclit.ca
+    favourite-part-about-uc: The vibrant community and fun opportunities provided.
     favourite-quote: ---
        
-  - name: ---
-    image: ---
+  - name: Sania Ahmad
+    image: assets/images/headshots/council-icons/reps.svg
     role: Equity Deputy
-    from: ---
-    major: ---
-    email: ---
-    favourite-part-about-uc: ---
+    from: Markham, Canada
+    major: Second Year; Double major in Cell & Molecular Biology and Evolutionary Anthropology, minor in Chemistry
+    email: sania.ahmad@mail.utoronto.ca
+    favourite-part-about-uc: Sir Dans quad, especially in the fall with all the beautiful colours
     favourite-quote: ---
        
-  - name: ---
-    pronouns: ---
-    image: ---
+  - name: Amilya Wilson
+    pronouns: she/her
+    image: assets/images/headshots/council-icons/reps.svg
     role: Off-Campus Deputy
-    from: ---
-    major: ---
-    email: 
-    favourite-part-about-uc: ---
+    from: Elmira, Canada
+    major: Second Year; Criminology, Political Science, Classics 
+    email: --- 
+    favourite-part-about-uc: The Sir Dans Quad and the lovely staff <3
     favourite-quote: ---
        
   - name: Nithya Gopalakrishnan
@@ -453,25 +457,25 @@
     image: assets/images/headshots/nithya.PNG
     role: Sustainability Deputy
     from: Calgary, Alberta
-    major: Second Year in Genome Biology, Health and Disease, & Immunology
+    major: Third Year in Genome Biology, Health and Disease, & Immunology
     email: nithya.gopalakrishnan@mail.utoronto.ca
     favourite-part-about-uc: The Junior Common Room!
     favourite-quote:  |
        "The future doesn't exist. The only thing that exists is now and our memory of what happened in the past."
        - David Suzuki
        
-  - name: ---
-    pronouns: ---
+  - name: Caitlin Holleran
+    pronouns: she/her
     image: assets/images/commissions-icons/LCA.png
     role: Literary and Creative Arts Deputy
-    from: ---
-    major: ---
-    email: ---
-    favourite-part-about-uc: ---
+    from: Austin, United States
+    major: Fourth Year; Biochemistry and Global Health Double Major
+    email: lca@uclit.ca
+    favourite-part-about-uc: I love the community at UC. There are tons of ways to get involved and have fun during university.
     favourite-quote: ---
     
   - name: ---
-    image: ---
+    image: assets/images/headshots/council-icons/reps.svg
     role: Athletics Deputy
     from: ---
     major: ---
@@ -480,7 +484,7 @@
        
   - name: ---
     pronouns: ---
-    image: ---
+    image: assets/images/headshots/council-icons/reps.svg
     role: University and Academic Affairs Deputy
     from: ---
     major: ---
@@ -488,41 +492,59 @@
     favourite-part-about-uc: ---
     favourite-quote:  ---
        
-  - name: Selen Bayram
-    pronouns: she/her
-    image: ---
-    role: Communications and Outreach Deputy
-    from: Izmir, Türkiye
-    major: Second Year in Neuroscience, Cognitive Science, and Psychology
-    email: selen.bayram@mail.utoronto.ca
-    favourite-part-about-uc: The architecture, the community, the fact that it offers the Cognitive Science program, the spirit, and its history!
-    favourite-quote: |
-       "The moon is on my side, I have no reason to run."
-       - fun.
-       
   - name: ---
     pronouns: ---
-    image: ---
-    role: Communications and Outreach Deputy
+    image: assets/images/headshots/council-icons/reps.svg
+    role: ---
     from: ---
     major: ---
     email: ---
     favourite-part-about-uc: ---
+    favourite-quote: |
+       
+  - name: Valerie Yao
+    pronouns: she/her
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Communications and Outreach Deputy
+    from: Toronto, Ontario
+    major: Third Year; ethics society and law, political science, women and gender studies
+    email: communications@uclit.ca
+    favourite-part-about-uc: Its architecture and depth and complexity 
     favourite-quote:  ---
        
-  - name: ---
-    pronouns: ---
-    image: ---
+  - name: Brandon Chan-Long
+    pronouns: he/him
+    image: assets/images/headshots/council-icons/reps.svg
     role: Mental Wellness Deputy
-    from: ---
-    major: ---
-    email: ---
-    favourite-part-about-uc: ---
+    from: Toronto, Ontario, Canada
+    major: Second Year; Double Major in Ethics, Society, & Law and Health Studies
+    email: brandon.chan.long@mail.utoronto.ca
+    favourite-part-about-uc: The Health Studies program! 
     favourite-quote: ---
          
-  - name: ---
+  - name: Jess Benedict
+    pronouns: she/they
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Formals Deputy
+    from: Hamilton, Ontario, Canada
+    major: Third Year; Double major of Cognitive Science and Ecology and Evolutionary Biology, minor in Bioethics
+    email:  ---
+    favourite-part-about-uc: The incredible, supportive community :)
+    favourite-quote: ---
+
+  - name: Douglas Au Yeung 
+    pronouns: he/him
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Formals Deputy
+    from: Hong Kong
+    major: First Year; Social Sciences 
+    email:  douglas.auyeung@mail.utoronto.ca
+    favourite-part-about-uc: the architecture and the spacious grass quads
+    favourite-quote: ---
+
+  - name: Myra Zaidi
     pronouns: ---
-    image: ---
+    image: assets/images/headshots/council-icons/reps.svg
     role: Formals Deputy
     from: 
     major: 
@@ -530,14 +552,14 @@
     favourite-part-about-uc: 
     favourite-quote: ---
        
-  - name: ---
-    pronouns: ---
-    image: ---
+  - name: Damla Kalaylioglu
+    pronouns: she/her
+    image: assets/images/commissions-icons/SOCIAL.png
     role: Spirit and Social Deputy
-    from: ---
-    major: ---
-    email: ---
-    favourite-part-about-uc: ---
+    from: Istanbul, Türkiye
+    major: Second Year; Biochemistry Specialist and Fundamental Genetics and Its Applications Major
+    email: damla.kalaylioglu@mail.utoronto.ca
+    favourite-part-about-uc: Ghost Story
     favourite-quote:  ---
        
   - name: ---
@@ -552,24 +574,24 @@
        
 - group: Staff
   people: 
-  - name: Rubaina Farin
-    image: assets/images/headshots/rubaina2.jpeg
+  - name: Julia Do
+    pronouns: she/her
+    image: assets/images/headshots/council-icons/reps.svg
     role: Secretary
     from: Toronto, Ontario
-    major: Third Year, Double Major in genetics and Computational Cognitive Sciences, Minor in Women and Gender Studies
+    major: Third Year; Physiology, Nutritional Sciences, Psychology
     email: secretary@uclit.ca
-    favourite-part-about-uc: The people! 
+    favourite-part-about-uc: The beautiful building, cozy library, and vibrant community!
     favourite-quote: |
-      "People say nothing is impossible, but I do nothing every day."
-      - A.A. Milne
+
       
-  - name: Norah Rahman
-    image: ---
+  - name: Rubaina Farin
+    pronouns: she/her
+    image: assets/images/headshots/rubaina2.jpeg
     role: Speaker
     from: Toronto, Ontario
-    major: Second Year, Double Major in Peace, Conflict and Justice & Anthropology
+    major: Fourth Year; Double Major in genetics and Computational Cognitive Sciences, Minor in Women and Gender Studies
     email: speaker@uclit.ca
-    favourite-part-about-uc: Chicken tenders at Howard Ferg.
+    favourite-part-about-uc: ---
     favourite-quote: |
-      "We have laboured long to build a heaven, only to find it populated with horrors."
-      - Alan Moore, Watchmen
+     
