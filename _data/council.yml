@@ -82,7 +82,7 @@
     favourite-part-about-uc: The broad and welcoming community!
     favourite-quote: |
        
-  - name: James Shi
+  - name: James
     image: assets/images/headshots/council-icons/reps.svg
     role: Off-Campus
     from: Xianning, China
@@ -92,7 +92,7 @@
     favourite-part-about-uc: The architecture and the homey spaces
     favourite-quote: |
     
-  - name: Hargun Rekhi
+  - name: Hargun
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Sustainability
@@ -103,7 +103,7 @@
     favourite-part-about-uc: ---
     favourite-quote: |
         
-  - name: Elžbieta (Elizabeth) Chernyak
+  - name: Elžbieta
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Literary and Creative Arts
@@ -114,7 +114,7 @@
     favourite-part-about-uc: All the intricate carvings on the buildings!!
     favourite-quote: |
     
-  - name: Selen Bayram
+  - name: Selen
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: University & Academic Affairs
@@ -125,7 +125,7 @@
     favourite-part-about-uc: the architecture, the community, and the spirit!
     favourite-quote: |
        
-  - name: Kelly Gong
+  - name: Kelly
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Mental Wellness
@@ -136,7 +136,7 @@
     favourite-part-about-uc: GOATed people
     favourite-quote: |
        
-  - name: Divi Gupta
+  - name: Divi
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Formals
@@ -147,7 +147,7 @@
     favourite-part-about-uc: ---
     favourite-quote: |
         
-  - name: Iman Chatterjee
+  - name: Iman
     pronouns: he/him
     image: assets/images/headshots/council-icons/reps.svg
     role: Athletics
@@ -158,7 +158,7 @@
     favourite-part-about-uc: ---
     favourite-quote: |
      
-  - name: Ary Kwun
+  - name: Ary
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Spirit and Social
@@ -172,7 +172,7 @@
     
 - group: First-Year Representatives
   people:
-  - name: Brendan Lin
+  - name: Brendan
     pronouns: he/they
     image: assets/images/headshots/council-icons/reps.svg
     role: First-Year Representative
@@ -183,7 +183,7 @@
     favourite-part-about-uc: the library ;)) 
     favourite-quote: |
     
-  - name: Daicey Ansong
+  - name: Daicey
     pronouns: --
     image: assets/images/headshots/council-icons/reps.svg
     role: First-Year Representative
@@ -195,7 +195,7 @@
     favourite-quote: |
       
     
-  - name: Luisa Melchert 
+  - name: Luisa
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: First-Year Representative
@@ -207,7 +207,7 @@
     favourite-quote: |
        
        
-  - name: Daniele Chernyak
+  - name: Daniele
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: First-Year Representative
@@ -219,7 +219,7 @@
     favourite-quote: |
       
     
-  - name: Camila Zeggara Lopez
+  - name: Camila
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: First-Year Representative
@@ -233,7 +233,7 @@
     
 - group: Mid-Year Representatives
   people:
-  - name: Hasaan Mohsin
+  - name: Hasaan
     pronouns: he/him
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -244,7 +244,7 @@
     favourite-part-about-uc: Morrison Hall common rooms!
     favourite-quote: |
        
-  - name: Behram Hathi
+  - name: Behram
     pronouns: he/him
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -256,7 +256,7 @@
     favourite-quote: |
        
        
-  - name: Yamini Coomar
+  - name: Yamini
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -268,19 +268,19 @@
     favourite-quote: |
       
        
-  - name: Eva Karulina
+  - name: Eva
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
     from: Cleveland, Ohio (USA)
     major: Thursday 12-1
-    email: eva.karulina@uclit.ca
+    email: -- 
     office-hours: ---
     favourite-part-about-uc: ---
     favourite-quote: |
        
        
-  - name: Sabrina Shahidan
+  - name: Sabrina
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -292,7 +292,7 @@
     favourite-quote: |
        
 
-  - name: Udaya Reddy
+  - name: Udaya
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
@@ -306,7 +306,7 @@
   
 - group: Upper Year Representatives
   people:
-  - name: Poorvi Sharma
+  - name: Poorvi
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
@@ -319,7 +319,7 @@
        "Smile and the world smiles with you. Growl and you get better service."
        - Garfield   
        
-  - name: Yami Malhotra
+  - name: Yami
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
@@ -330,7 +330,7 @@
     favourite-part-about-uc: ---
     favourite-quote: |
      
-  - name: ---
+  - name: Subhi 
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
@@ -389,7 +389,7 @@
 
 - group: Deputies
   people: 
-  - name: Ananya Gaur
+  - name: Ananya
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Vice President Internal Deputy
@@ -399,7 +399,7 @@
     favourite-part-about-uc: Getting to know people and seeing the behind-the-scenes of all the cool events 
     favourite-quote: |
     
-  - name: Adam Chmelauskas
+  - name: Adam
     image: assets/images/headshots/council-icons/reps.svg
     role: Vice-President Clubs Deputy
     from: Vancouver, BC
@@ -408,7 +408,7 @@
     favourite-part-about-uc: The People!! 
     favourite-quote: |
     
-  - name: Kiara Andrade
+  - name: Kiara
     image: assets/images/headshots/council-icons/reps.svg
     role: Finance Deputy
     from: Mumbai, India
@@ -424,7 +424,7 @@
     email: ---
     favourite-part-about-uc: ---
     
-  - name: Katelyn Nguyen
+  - name: Katelyn
     image: assets/images/headshots/council-icons/reps.svg
     role: Equity Deputy
     from: Toronto, Canada
@@ -433,16 +433,16 @@
     favourite-part-about-uc: The vibrant community and fun opportunities provided.
     favourite-quote: ---
        
-  - name: Sania Ahmad
+  - name: Sania
     image: assets/images/headshots/council-icons/reps.svg
     role: Equity Deputy
     from: Markham, Canada
     major: Second Year; Double major in Cell & Molecular Biology and Evolutionary Anthropology, minor in Chemistry
-    email: sania.ahmad@mail.utoronto.ca
+    email: --
     favourite-part-about-uc: Sir Dans quad, especially in the fall with all the beautiful colours
     favourite-quote: ---
        
-  - name: Amilya Wilson
+  - name: Amilya
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Off-Campus Deputy
@@ -452,19 +452,19 @@
     favourite-part-about-uc: The Sir Dans Quad and the lovely staff <3
     favourite-quote: ---
        
-  - name: Nithya Gopalakrishnan
+  - name: Nithya
     pronouns: she/her
     image: assets/images/headshots/nithya.PNG
     role: Sustainability Deputy
     from: Calgary, Alberta
     major: Third Year in Genome Biology, Health and Disease, & Immunology
-    email: nithya.gopalakrishnan@mail.utoronto.ca
+    email: --
     favourite-part-about-uc: The Junior Common Room!
     favourite-quote:  |
        "The future doesn't exist. The only thing that exists is now and our memory of what happened in the past."
        - David Suzuki
        
-  - name: Caitlin Holleran
+  - name: Caitlin
     pronouns: she/her
     image: assets/images/commissions-icons/LCA.png
     role: Literary and Creative Arts Deputy
@@ -502,7 +502,7 @@
     favourite-part-about-uc: ---
     favourite-quote: |
        
-  - name: Valerie Yao
+  - name: Valerie
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Communications and Outreach Deputy
@@ -512,17 +512,17 @@
     favourite-part-about-uc: Its architecture and depth and complexity 
     favourite-quote:  ---
        
-  - name: Brandon Chan-Long
+  - name: Brandon
     pronouns: he/him
     image: assets/images/headshots/council-icons/reps.svg
     role: Mental Wellness Deputy
     from: Toronto, Ontario, Canada
     major: Second Year; Double Major in Ethics, Society, & Law and Health Studies
-    email: brandon.chan.long@mail.utoronto.ca
+    email: --
     favourite-part-about-uc: The Health Studies program! 
     favourite-quote: ---
          
-  - name: Jess Benedict
+  - name: Jess
     pronouns: she/they
     image: assets/images/headshots/council-icons/reps.svg
     role: Formals Deputy
@@ -532,17 +532,17 @@
     favourite-part-about-uc: The incredible, supportive community :)
     favourite-quote: ---
 
-  - name: Douglas Au Yeung 
+  - name: Douglas
     pronouns: he/him
     image: assets/images/headshots/council-icons/reps.svg
     role: Formals Deputy
     from: Hong Kong
     major: First Year; Social Sciences 
-    email:  douglas.auyeung@mail.utoronto.ca
+    email:  --
     favourite-part-about-uc: the architecture and the spacious grass quads
     favourite-quote: ---
 
-  - name: Myra Zaidi
+  - name: Myra
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Formals Deputy
@@ -552,13 +552,13 @@
     favourite-part-about-uc: 
     favourite-quote: ---
        
-  - name: Damla Kalaylioglu
+  - name: Damla
     pronouns: she/her
     image: assets/images/commissions-icons/SOCIAL.png
     role: Spirit and Social Deputy
     from: Istanbul, Türkiye
     major: Second Year; Biochemistry Specialist and Fundamental Genetics and Its Applications Major
-    email: damla.kalaylioglu@mail.utoronto.ca
+    email: --
     favourite-part-about-uc: Ghost Story
     favourite-quote:  ---
        
@@ -574,7 +574,7 @@
        
 - group: Staff
   people: 
-  - name: Julia Do
+  - name: Julia
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Secretary
@@ -585,7 +585,7 @@
     favourite-quote: |
 
       
-  - name: Rubaina Farin
+  - name: Rubaina
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Speaker
