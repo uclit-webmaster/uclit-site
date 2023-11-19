@@ -23,9 +23,9 @@
 #     office-hours: 12-1 thursdays
 - group: Core Executives
   people:
-  - name: Neha Sultana 
+  - name: Neha
     pronouns: she/her
-    image: assets/images/headshots/neha(newestt).png
+    image: assets/images/headshots/council-icons/reps.svg
     role: President
     from: Toronto, ON
     major: Fourth Year Majoring in Social, Cultural, and Linguistic Anthropology (Medical Anthropology Focus), Double Minor in History and Political Science
@@ -36,9 +36,9 @@
        "What we see changes according to what we look for."  
        - E.J. Koh 
        
-  - name: Maya Javier
+  - name: Maya
     pronouns: she/her
-    image: assets/images/headshots/maya2023.jpeg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Vice President
     from: Vancouver, BC
     major: Fourth Year; Double Major in Political Science and Critical Studies in Equity and Solidarity
@@ -47,7 +47,7 @@
     favourite-part-about-uc: The library and all the beautiful architecture!
     something-theyve-been-obsessed-with-recently: Any movie with Robert De Niro in it
        
-  - name: Yagmur Yenilmez
+  - name: Yagmur 
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Finance
@@ -60,9 +60,9 @@
     
 - group: Executives
   people:
-  - name: Katie Wang
+  - name: Katie 
     pronouns: she/her
-    image: assets/images/headshots/katie2023.jpeg
+    image: assets/images/headshots/council-icons/reps.svg
     role: Communications and Outreach
     from: Oakville, ON
     major: Ecology and Evolutionary Biology, Molecular Genetics and Microbiology
@@ -71,7 +71,7 @@
     favourite-part-about-uc: The people and community!
     something-theyve-been-obsessed-with-recently: sitting on the grass in the UC quad with friends!
        
-  - name: Kristina Cổ-Đoàn
+  - name: Kristina
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Equity
