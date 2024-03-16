@@ -64,13 +64,13 @@ jobs:
       University College Commuter Orientation is a two-day program which provides incoming commuter students with transition support, as well as a sense of collegiality and community.
       
       <p>The Commuter Orientation Chair is responsible for overseeing all operations of Commuter Orientation. The role will require approximately 10 hours per week in June & July, and 15 hours per week in August.
-    currently-accepting: false
-    application-link: https://bit.ly/commuterchair2023
+    currently-accepting: true
+    application-link: https://docs.google.com/document/d/1AnNvJR0v3XEn2mTaf_I53iNJddShzL4_uhWJl8xuAOc/edit?usp=sharing 
     application-instructions: |
       Please submit an accurate and up-to-date Resume, Cover Letter and Two References to the <a href="mailto:president@uclit.ca">President's Office</a>.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: March 2023- January 2024 (Summer Term, Fall Term, Winter Term)
+        right: April 2023- January 2024 (Summer Term, Fall Term, Winter Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
@@ -80,7 +80,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Not Currently Accepting Applications
+        right: Currently Accepting Applications!
         
   - title: Secretary of the Society
     position-outline: |
