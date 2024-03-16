@@ -47,11 +47,11 @@ jobs:
       Please submit an accurate and up-to-date Résumé or CV along with a completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: March to September 2023 (Summer Term, Fall Term)
+        right: April to September 2024 (Summer Term, Fall Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
-        right: $2800 (Summer Term), $2,800 (Fall Term), $1,400 (Winter Term)
+        right: $10,000 in three disbursements
       - left: Number of Positions
         right: 2
       - left: Supervisors
@@ -70,7 +70,7 @@ jobs:
       Please submit an accurate and up-to-date Resume, Cover Letter and Two References to the <a href="mailto:president@uclit.ca">President's Office</a>.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: April 2023- January 2024 (Summer Term, Fall Term, Winter Term)
+        right: April 2024- January 2025 (Summer Term, Fall Term, Winter Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
@@ -85,13 +85,13 @@ jobs:
   - title: Secretary of the Society
     position-outline: |
       The Society Secretary provides brief yet comprehensive minutes of all of the organization’s multi-committee meetings, including our Annual General Meeting (AGM), all regular Meetings of Council, and our weekly Operating Meetings. The Secretary is an ex-officio, non-voting executive, and is supervised directly by the Office of the Vice President. The position has ≤8 per-week hours.
-    currently-accepting: false
-    application-link: mailto:president@uclit.ca
+    currently-accepting: true
+    application-link: https://docs.google.com/document/d/1eKfL5PwKZE0MJ2IYwAMGJMnCiFXC4DQLVM6NFaVKzL0/edit?usp=sharing
     application-instructions: |
-      Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words), and two References to the Hiring Committee by clicking the link below.
+      Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: April 2023-24 (Summer Term, Fall Term, Winter Term)
+        right: April 2024-25 (Summer Term, Fall Term, Winter Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
@@ -108,13 +108,13 @@ jobs:
   - title: Speaker of the Society
     position-outline: |
       The Society Speaker establishes procedure at each of the organization’s multi-committee meetings, including our Annual General Meeting (AGM), Judiciary Committee, and all regular Meetings of Council. The Speaker is an ex-officio, non-voting executive, and is supervised directly by the Office of the Vice President.The position has ≤8 per-week hours.
-    currently-accepting: false
-    application-link: mailto:president@uclit.ca
+    currently-accepting: true
+    application-link: https://docs.google.com/document/d/1da-xIn9UsOk8kDbLQfPIZX_Loij-FDTMGzXdkusNVu0/edit?usp=sharing
     application-instructions: |
-      Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words), and two References to the Hiring Committee by clicking the link below.
+      Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: August 2021-May 2022 (Summer Term, Fall Term, Winter Term)
+        right: April 2023-May 2024 (Summer Term, Fall Term, Winter Term)
       - left: Renumeration and Pay
         right: Paid
       - left: Rate of Pay
@@ -125,7 +125,7 @@ jobs:
       - left: Supervisors
         right: Office of the Vice President
       - left: Hiring Status
-        right: Accepting Applications!
+        right: Currently Accepting Applications!
         
   - title: Web Coordinator
     position-outline: |
@@ -198,13 +198,13 @@ jobs:
       The Co-Directors of the University College Literary and Athletic Society WUSC division are tasked with being the support and primary contact point for the college’s sponsored WUSC student, in collaboration with the Equity Commission of the UC Lit and the Office of Student Life at University College. Previous holders of this position have identified it as a great starting off point for providing community service to the college and a place to formalize general interest in the social services.
       
       <p> The Co-Directors are governed uniquely by a Committee jointly administered by the Office of the Dean of Students, University College, and the UC Lit, as well as in accordance with the guidelines and programs set out by the national WUSC organization. The hours will vary, however, they will not exceed ten (10) hours per week per Director during the regular school year.
-    currently-accepting: false
-    application-link: https://bit.ly/wuscdirector23
+    currently-accepting: true
+    application-link: https://docs.google.com/document/d/12aOSPyUlcOO2A5bi7m4LszktX4Qah-3FH1eLqr4fmpc/edit?usp=sharing
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV , a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: April 2023-24 (Summer Term, Fall Term, Winter Term)
+        right: April 2024-25 (Summer Term, Fall Term, Winter Term)
       - left: Renumeration and Pay
         right: Volunteer
       - left: Rate of Pay
@@ -214,7 +214,7 @@ jobs:
       - left: Supervisors
         right: Office of the President, Office of the Dean of Students
       - left: Hiring Status
-        right: Not Currently Accepting Applications
+        right: Currently Accepting Applications!
 
   - title: Photographer
     position-outline: |
