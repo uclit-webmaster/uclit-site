@@ -23,74 +23,73 @@
 #     office-hours: 12-1 thursdays
 - group: Core Executives
   people:
-  - name: Neha
+  - name: Kristina
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: 
     role: President
-    from: Toronto, ON
-    major: Fourth Year Majoring in Social, Cultural, and Linguistic Anthropology (Medical Anthropology Focus), Double Minor in History and Political Science
+    from: ---
+    major: ---
     email: president@uclit.ca
-    office-hours: Friday 2-4
-    favourite-part-about-uc: The beautiful architecture! 
+    office-hours: ---
+    favourite-part-about-uc:  ---
     favourite-quote: | 
-       "What we see changes according to what we look for."  
-       - E.J. Koh 
+      
        
-  - name: Maya
+  - name: Divi
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: 
     role: Vice President
-    from: Vancouver, BC
-    major: Fourth Year; Double Major in Political Science and Critical Studies in Equity and Solidarity
+    from: ---
+    major: ---
     email: vp@uclit.ca
-    office-hours: Monday 10-11; Monday 3-4; Tuesday 10-11
-    favourite-part-about-uc: The library and all the beautiful architecture!
-    something-theyve-been-obsessed-with-recently: Any movie with Robert De Niro in it
+    office-hours: ---
+    favourite-part-about-uc: ---
+    something-theyve-been-obsessed-with-recently: ---
        
-  - name: Yagmur 
-    pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+  - name: Behram
+    pronouns: he/him
+    image: 
     role: Finance
-    from: Istanbul, Türkiye
-    major: Second Year; Double Major in Economics and Computer Science, Certificate in Business Fundamentals
+    from: ---
+    major: ---
     email: finance@uclit.ca
-    office-hours: Thursday 10-11; Friday 10-11
-    favourite-part-about-uc: Can not decide between the ghost stories and architecture :)
-    favourite-quote:: |
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote:: ---
     
 - group: Executives
   people:
-  - name: Katie 
+  - name: Udaya
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: 
     role: Communications and Outreach
-    from: Oakville, ON
-    major: Ecology and Evolutionary Biology, Molecular Genetics and Microbiology
+    from: ---
+    major: ---
     email: communications@uclit.ca
-    office-hours: Wednesday 12-1
-    favourite-part-about-uc: The people and community!
-    something-theyve-been-obsessed-with-recently: sitting on the grass in the UC quad with friends!
+    office-hours: ---
+    favourite-part-about-uc: ---
+    something-theyve-been-obsessed-with-recently: ---
        
-  - name: Kristina
-    pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+  - name: Katelyn
+    pronouns: ---
+    image: 
     role: Equity
-    from: San Francisco, United States of America
-    major: Third Year; Criminology & Socio-Legal Studies, minors in Critical Studies in Equity & Solidarity and Philosophy 
+    from: ---
+    major: ---
     email: equity@uclit.ca
-    office-hours: Wednesday 2-3
-    favourite-part-about-uc: The broad and welcoming community!
-    favourite-quote: |
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
        
-  - name: James
-    image: assets/images/headshots/council-icons/reps.svg
+  - name: Luisa
+    image: 
     role: Off-Campus
-    from: Xianning, China
-    major: Fourth Year; Biochemistry Specialist
+    from: ---
+    major: ---
     email: ucoc@uclit.ca
-    office-hours: Wednesday 11-12
-    favourite-part-about-uc: The architecture and the homey spaces
-    favourite-quote: |
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
     
   - name: Hargun
     pronouns: she/her
@@ -99,20 +98,20 @@
     from: ---
     major: ---
     email: sustainability@uclit.ca
-    office-hours: Thursday 1-2
+    office-hours: ---
     favourite-part-about-uc: ---
     favourite-quote: |
         
-  - name: Elžbieta
-    pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+  - name: Daniele
+    pronouns: ---
+    image: 
     role: Literary and Creative Arts
-    from: Vilnius, Lithuania
-    major: Third Year; Cell and Molecular Biology and Drama Double Major
+    from: ---
+    major: ---
     email: lca@uclit.ca
-    office-hours: Monday 2-3
-    favourite-part-about-uc: All the intricate carvings on the buildings!!
-    favourite-quote: |
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
     
   - name: Selen
     pronouns: she/her
@@ -121,218 +120,217 @@
     from: Izmir, Türkiye 
     major: Third Year, Neuroscience and Computer Science 
     email: uaa@uclit.ca
-    office-hours: Thursday 11-12
+    office-hours: ---
     favourite-part-about-uc: the architecture, the community, and the spirit!
-    favourite-quote: |
+    favourite-quote: ---
        
-  - name: Kelly
+  - name: Yamini
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: 
     role: Mental Wellness
-    from: Hunan, China
-    major: Third Year; Neuroscience and Psychology
+    from: ---
+    major: ---
     email: wellness@uclit.ca
-    office-hours: Tuesday 3-4
-    favourite-part-about-uc: GOATed people
-    favourite-quote: |
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
        
-  - name: Divi
-    pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+  - name: ---
+    pronouns: ---
+    image: 
     role: Formals
     from: ---
     major: ---
     email: formals@uclit.ca
-    office-hours: Tuesday 12-1
+    office-hours: 
     favourite-part-about-uc: ---
     favourite-quote: |
         
-  - name: Iman
-    pronouns: he/him
-    image: assets/images/headshots/council-icons/reps.svg
+  - name: Selin
+    pronouns: ---
+    image: 
     role: Athletics
     from: ---
-    major:
+    major: ----
     email: athletics@uclit.ca
-    office-hours: Thursday 3-4
+    office-hours: ---
     favourite-part-about-uc: ---
     favourite-quote: |
      
-  - name: Ary
-    pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+  - name: Sabrina
+    pronouns: ---
+    image: 
     role: Spirit and Social
     from: ---
     major: ---
     email: social@uclit.ca
-    office-hours: Thursday 2-3
+    office-hours: 
     favourite-part-about-uc: ---
     favourite-quote: |
 
     
 - group: First-Year Representatives
   people:
-  - name: Brendan
-    pronouns: he/they
-    image: assets/images/headshots/council-icons/reps.svg
+  - name: ---
+    pronouns: ---
+    image: 
     role: First-Year Representative
-    from: Mississauga, Canada 
-    major: First Year; Social Sciences 
-    email: brendan@uclit.ca
-    office-hours: Monday 1-2
-    favourite-part-about-uc: the library ;)) 
-    favourite-quote: |
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
     
-  - name: Daicey
+  - name: 
     pronouns: --
-    image: assets/images/headshots/council-icons/reps.svg
-    role: First-Year Representative
-    from: --
-    major: ---
-    email: ---
-    office-hours: Friday 11-12
-    favourite-part-about-uc: ---
-    favourite-quote: |
-      
-    
-  - name: Luisa
-    pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
-    role: First-Year Representative
-    from: São Paulo, Brazil
-    major: First Year; International Relations and Public Policy (hopefully) 
-    email: luisa@uclit.ca
-    office-hours: Wednesday 3-4
-    favourite-part-about-uc: UC Library
-    favourite-quote: |
-       
-       
-  - name: Daniele
-    pronouns: ---
-    image: assets/images/headshots/council-icons/reps.svg
+    image: 
     role: First-Year Representative
     from: ---
     major: ---
     email: ---
-    office-hours: Monday 12-1
+    office-hours: 
     favourite-part-about-uc: ---
     favourite-quote: |
       
     
-  - name: Camila
+  - name: 
     pronouns: ---
-    image: assets/images/headshots/council-icons/reps.svg
+    image: 
+    role: First-Year Representative
+    from: ---
+    major:  ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: |
+       
+       
+  - name: 
+    pronouns: ---
+    image: 
     role: First-Year Representative
     from: ---
     major: ---
     email: ---
-    office-hours: Monday 11-12
+    office-hours: 
+    favourite-part-about-uc: ---
+    favourite-quote: |
+      
+    
+  - name: 
+    pronouns: ---
+    image: 
+    role: First-Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: 
     favourite-part-about-uc: ---
     favourite-quote: |
       
     
 - group: Mid-Year Representatives
   people:
-  - name: Hasaan
-    pronouns: he/him
-    image: assets/images/headshots/council-icons/reps.svg
+  - name: Justin
+    pronouns: ---
+    image: 
     role: Mid-Year Representative
-    from: Lahore, Pakistan & Riyadh, Saudi Arabia
-    major: Third Year; Astrophysics
-    email: hasaan@uclit.ca
-    office-hours: Friday 1-2
-    favourite-part-about-uc: Morrison Hall common rooms!
-    favourite-quote: |
-       
-  - name: Behram
-    pronouns: he/him
-    image: assets/images/headshots/council-icons/reps.svg
-    role: Mid-Year Representative
-    from: Bombay, India
-    major: Third Year; Public Policy and Economics
-    email: behram@uclit.ca
+    from: ---
+    major: ---
+    email: ---
     office-hours: ---
-    favourite-part-about-uc: The people and the beautiful architecture
-    favourite-quote: |
+    favourite-part-about-uc: ---
+    favourite-quote: ---
        
-       
-  - name: Yamini
-    pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+  - name: Sania
+    pronouns: ---
+    image: 
     role: Mid-Year Representative
-    from: Delhi, India and Accra, Ghana
-    major: Second Year; Fundamental Genetics and its Applications 
-    email: yamini@uclit.ca
-    office-hours: Tuesday 1-2
-    favourite-part-about-uc: The chocolate croissants at Reznikoff  
-    favourite-quote: |
-      
-       
-  - name: Eva
-    pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
-    role: Mid-Year Representative
-    from: Cleveland, Ohio (USA)
-    major: Thursday 12-1
-    email: -- 
+    from: ---
+    major: ---
+    email: ---
     office-hours: ---
     favourite-part-about-uc: ---
     favourite-quote: |
        
        
-  - name: Sabrina
-    pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+  - name: Brendan
+    pronouns: ---
+    image: 
     role: Mid-Year Representative
     from: ---
     major: ---
     email: ---
-    office-hours: Wednesday 10-11
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: ---
+      
+       
+  - name: Ary
+    pronouns: ---
+    image: 
+    role: Mid-Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: |
+       
+       
+  - name: Amilya
+    pronouns: ---
+    image: 
+    role: Mid-Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours:
     favourite-part-about-uc: ---
     favourite-quote: |
        
 
-  - name: Udaya
+  - name: Angelina
     pronouns: ---
-    image: assets/images/headshots/council-icons/reps.svg
+    image: 
     role: Mid-Year Representative
     from: ---
     major: ---
     email: ---
-    office-hours: Tuesday 11-12
+    office-hours: 
     favourite-part-about-uc: ---
     favourite-quote: |
        
   
 - group: Upper Year Representatives
   people:
-  - name: Poorvi
-    pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
-    role: Upper-Year Representative
-    from: Mumbai, India
-    major: Fourth Year in Cognitive Science, Computer Science & Statistics
-    email: poorvi@uclit.ca
-    office-hours: Wednesday 1-2
-    favourite-part-about-uc: The fact that it feels like I'm in a Harry Potter movie!
-    favourite-quote: |
-       "Smile and the world smiles with you. Growl and you get better service."
-       - Garfield   
-       
-  - name: Yami
+  - name: Elzbiėta
     pronouns: ---
-    image: assets/images/headshots/council-icons/reps.svg
+    image: 
     role: Upper-Year Representative
     from: ---
     major: ---
     email: ---
-    office-hours: Tuesday 2-3
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: |
+        
+       
+  - name: Katie
+    pronouns: ---
+    image: 
+    role: Upper-Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: 
     favourite-part-about-uc: ---
     favourite-quote: |
      
-  - name: Subhi 
+  - name: Cherry
     pronouns: ---
-    image: assets/images/headshots/council-icons/reps.svg
+    image: 
     role: Upper-Year Representative
     from: ---
     major: ---
@@ -343,15 +341,15 @@
      
 - group: Special Executives
   people:
-  - name: Ryan
-    pronouns: He/Him
-    image: assets/images/headshots/council-icons/reps.svg
+  - name: Kartikey
+    pronouns: ---
+    image: 
     role: President, University College Residence Council (UCRC) 
-    from: South Surrey, Canada
-    major: Third Year; Major in Ethics Society and Law; Minors in Literature and Critical theory, Creative Expression and Society
+    from: ---
+    major: ---
     email: ucrc@uclit.ca
-    office-hours: Friday 12-1
-    favourite-part-about-uc: Personally I love the amazing community here at UC. The people truly make the place, and it has had a huge impact on my undergrad experience!
+    office-hours: ---
+    favourite-part-about-uc: ---
     favourite-quote: |
     
  
