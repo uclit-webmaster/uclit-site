@@ -27,35 +27,33 @@
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: President
-    from: ---
-    major: ---
-    email: president@uclit.ca
+    from: San Francisco, USA
+    major: Fourth Year, Criminology, Socio-Legal Studies, & Bioethics and Critical Studies in Equity & Solidarity    email: president@uclit.ca
     office-hours: ---
-    favourite-part-about-uc:  ---
-    favourite-quote: | 
-      
+    favourite-part-about-uc: The Junior Common Room! Its couches are super comfy and the walls have such cool pieces of history. It's also where our Office Hours are held!  
+    favourite-quote: | "Mưa dầm thấm lâu/soft and persistent rain penetrates the earth better than a storm.” - Vietnamese Proverb      
        
   - name: Divi
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Vice President
-    from: ---
-    major: ---
+    from: Saskatoon, SK
+    major: Third Year, Human Biology, Immunology & Physiology
     email: vp@uclit.ca
     office-hours: ---
-    favourite-part-about-uc: ---
-    something-theyve-been-obsessed-with-recently: ---
-       
+    favourite-part-about-uc: The quad in spring/summer and the JCR <3
+    favourite-quote: "Live, laugh, lie" - Me, probably 
+    
   - name: Behram
     pronouns: he/him
     image: assets/images/headshots/council-icons/reps.svg
     role: Finance
-    from: ---
-    major: ---
+    from: Mumbai, India
+    major: Fourth Year, Public Policy, Statistics, & European Affairs
     email: finance@uclit.ca
     office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote:: ---
+    favourite-part-about-uc: The community 
+    favourite-quote: "Life is either a daring adventure or nothing at all" - Helen Keller
     
 - group: Executives
   people:
@@ -63,76 +61,76 @@
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Communications and Outreach
-    from: ---
-    major: ---
+    from: Lloydminster, AB
+    major: Human Biology, Psychology & History and Philosophy of Science and Technology
     email: communications@uclit.ca
     office-hours: ---
-    favourite-part-about-uc: ---
-    something-theyve-been-obsessed-with-recently: ---
+    favourite-part-about-uc: The beautiful architecture and community!
+    favourite-quote: ---
        
   - name: Katelyn
-    pronouns: ---
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Equity
-    from: ---
-    major: ---
+    from: Tkaronto, Canada
+    major: Fourth Year, Human Biology, Psychology, & Physiology
     email: equity@uclit.ca
     office-hours: ---
-    favourite-part-about-uc: ---
+    favourite-part-about-uc: The beautiful people and the UC quad!
     favourite-quote: ---
        
   - name: Luisa
     image: assets/images/headshots/council-icons/reps.svg
     role: Off-Campus
-    from: ---
-    major: ---
+    from: São Paulo, Brazil
+    major: Second Year, Political Science & Latin American Studies
     email: ucoc@uclit.ca
     office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-part-about-uc: The CSC
+    favourite-quote: "I love you most ardently" by THE Mr. Darcy (Pride and Prejudice, Jane Austen)
     
   - name: Hargun
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Sustainability
-    from: ---
-    major: ---
+    from: Hamilton, ON
+    major: Fourth Year, Environmental Science, Psychology, & Environment and Behaviour
     email: sustainability@uclit.ca
     office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: |
-        
+    favourite-part-about-uc: The wonderful people and the beautiful building!
+    favourite-quote: "It doesn't matter how slow you go as long as you don't stop"  
+    
   - name: Daniele
-    pronouns: ---
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Literary and Creative Arts
-    from: ---
-    major: ---
+    from: Lithuania
+    major: Second Year, Nutritional Sciences
     email: lca@uclit.ca
     office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-part-about-uc: I love how cozy and inviting the JCR is - someone always playing the piano, warm lights illuminating the room, historic wood walls, and a beautiful sense of community!
+    favourite-quote: "You can't use up creativity. The more you use, the more you have." - Maya Angelou
     
   - name: Selen
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: University & Academic Affairs
     from: Izmir, Türkiye 
-    major: Third Year, Neuroscience and Computer Science 
+    major: Third Year, Neuroscience & Computer Science 
     email: uaa@uclit.ca
     office-hours: ---
-    favourite-part-about-uc: the architecture, the community, and the spirit!
-    favourite-quote: ---
+    favourite-part-about-uc: the culture, the community, and the architecture!
+    favourite-quote: "open up your eyes and see, the clouds above will hold you, the clouds above will sing" by twenty øne piløts
        
   - name: Yamini
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Mental Wellness
-    from: ---
-    major: ---
+    from: Accra, Ghana, & Delhi, India
+    major: Fourth Year, Cell and Molecular Biology & Fundamental Genetics
     email: wellness@uclit.ca
     office-hours: ---
-    favourite-part-about-uc: ---
+    favourite-part-about-uc: The chocolate croissants at Morrison Hall 
     favourite-quote: ---
        
   - name: ---
@@ -158,16 +156,15 @@
     favourite-quote: |
      
   - name: Sabrina
-    pronouns: ---
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Spirit and Social
-    from: ---
-    major: ---
+    from: Kuala Lumpur, Malaysia
+    major: Fourth Year, Economics, Public Policy, & Environmental Studies
     email: social@uclit.ca
     office-hours: 
-    favourite-part-about-uc: ---
-    favourite-quote: |
-
+    favourite-part-about-uc: the little nook and crannies; wood spiral staircases, eroded gargoyles
+    favourite-quote: "king of edible leaves, his majesty. The spinach." - Tom Wambsgans
     
 - group: First-Year Representatives
   people:
@@ -236,86 +233,82 @@
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
-    from: ---
-    major: ---
+    from: Taiwan
+    major: Third Year, Psychology, Criminology & Philosophy
     email: ---
     office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-part-about-uc: The people of course
+    favourite-quote: "love is not lost if perspective is earned"
        
   - name: Sania
-    pronouns: ---
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
-    from: ---
-    major: ---
+    from: Markham, Ontario
+    major: Third Year, Cell and Molecular Biology & Human Biology
     email: ---
     office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: |
-       
+    favourite-part-about-uc: The beautiful architecture and, of course, the community!
+    favourite-quote: "I love you more than yesterday, but less than tomorrow" <3       
        
   - name: Brendan
-    pronouns: ---
+    pronouns: he/they
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
-    from: ---
-    major: ---
+    from: Mississauga, ON
+    major: Second Year, Psychology & Economics
     email: ---
     office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: ---
+    favourite-part-about-uc: The UC Book Shop <3
+    favourite-quote: "My Uncle Alex, who is up in Heaven now, one of the things he found objectionable about human beings was that they so rarely noticed it when times were sweet. We could be drinking lemonade in the shade of an apple tree in the summertime, and Uncle Alex would interrupt the conversation to say, "If this isn't nice, what is?"  So I hope that you will do the same for the rest of your lives. When things are going sweetly and peacefully, please pause a moment, and then say out loud, "If this isn't nice, what is?”" ― Kurt Vonnegut
       
        
   - name: Ary
-    pronouns: ---
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
-    from: ---
-    major: ---
+    from: Newmarket, ON
+    major: Third Year, Physiology & Psychology
     email: ---
     office-hours: ---
-    favourite-part-about-uc: ---
+    favourite-part-about-uc: The historical buildings
     favourite-quote: |
        
        
   - name: Amilya
-    pronouns: ---
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
-    from: ---
-    major: ---
+    from: Elmira, Ontario
+    major: Third Year, Criminology, Political Science, & Classical Studies
     email: ---
     office-hours:
-    favourite-part-about-uc: ---
-    favourite-quote: |
-       
+    favourite-part-about-uc: The Sir Dan's Quad and the lovely people <3
+    favourite-quote: "You can always count on me to love you" - Fennegen        
 
   - name: Angelina
-    pronouns: ---
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Mid-Year Representative
-    from: ---
-    major: ---
+    from: King City, Ontario
+    major: Second Year, Life Sciences
     email: ---
     office-hours: 
-    favourite-part-about-uc: ---
-    favourite-quote: |
-       
+    favourite-part-about-uc: The beautiful libraries and overall greenery <3
+    favourite-quote: "Just so you know, I was supposed to work very hard today, but I took the day off"       
   
 - group: Upper Year Representatives
   people:
   - name: Elzbiėta
-    pronouns: ---
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
-    from: ---
-    major: ---
+    from: Lithuania and Ukraine
+    major: Fourth Year, Drama & Cell and Molecular Biology
     email: ---
     office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: |
-        
+    favourite-part-about-uc: The overall feeling of magic!!
+    favourite-quote: "In our past conflict, four of his five wits went halting off, and now is the whole man governed with one" - Much Ado About Nothing        
        
   - name: Katie
     pronouns: ---
@@ -329,29 +322,29 @@
     favourite-quote: |
      
   - name: Cherry
-    pronouns: ---
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Upper-Year Representative
-    from: ---
-    major: ---
+    from: Prince Edward Island
+    major: Fourth Year, CSB & Global Health
     email: ---
     office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: |
-     
+    favourite-part-about-uc: The people and the UC quad!!
+    favourite-quote: "Eating out is cheaper than therapy so you're actually making money right now" - James Shi
+    
 - group: Special Executives
   people:
   - name: Kartikey
-    pronouns: ---
+    pronouns: he/him
     image: assets/images/headshots/council-icons/reps.svg
     role: President, University College Residence Council (UCRC) 
-    from: ---
-    major: ---
+    from: India
+    major: Second Year, Rotman Commerce
     email: ucrc@uclit.ca
     office-hours: ---
-    favourite-part-about-uc: ---
-    favourite-quote: |
-    
+    favourite-part-about-uc: It's one of the oldest and the largest community on Campus and unites students from very diverse perspectives.
+    favourite-quote: "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+        
  
   
 #- group: Staff and Ancillaries
@@ -387,32 +380,32 @@
 
 - group: Deputies
   people: 
-  - name: Ananya
-    pronouns: she/her
+  - name: ---
+    pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Vice President Internal Deputy
-    from: India
-    major: Second Year; Political Science
+    from: ---
+    major: ---
     email: jcr@uclit.ca
-    favourite-part-about-uc: Getting to know people and seeing the behind-the-scenes of all the cool events 
+    favourite-part-about-uc: ---
     favourite-quote: |
     
-  - name: Adam
+  - name: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Vice-President Clubs Deputy
-    from: Vancouver, BC
-    major: Second Year; Political Science and Sociology Double Major
+    from: ---
+    major: ---
     email: clubs@uclit.ca
-    favourite-part-about-uc: The People!! 
+    favourite-part-about-uc: ---
     favourite-quote: |
     
-  - name: Kiara
+  - name: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Finance Deputy
-    from: Mumbai, India
-    major: Third Year; Finance and Economics (Rotman)
+    from: ---
+    major: ---
     email: financedeputies@uclit.ca
-    favourite-part-about-uc: The people!!
+    favourite-part-about-uc:---
 
   - name: ---
     image: assets/images/headshots/council-icons/reps.svg
@@ -422,54 +415,52 @@
     email: ---
     favourite-part-about-uc: ---
     
-  - name: Katelyn
+  - name: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Equity Deputy
-    from: Toronto, Canada
-    major: Third Year; Major in Human Biology
+    from: ---
+    major: ---
     email: equity@uclit.ca
-    favourite-part-about-uc: The vibrant community and fun opportunities provided.
+    favourite-part-about-uc: ---
     favourite-quote: ---
        
-  - name: Sania
+  - name: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Equity Deputy
-    from: Markham, Canada
-    major: Second Year; Double major in Cell & Molecular Biology and Evolutionary Anthropology, minor in Chemistry
+    from: ---
+    major: ---
     email: --
-    favourite-part-about-uc: Sir Dans quad, especially in the fall with all the beautiful colours
+    favourite-part-about-uc: ---
     favourite-quote: ---
        
-  - name: Amilya
-    pronouns: she/her
+  - name: ---
+    pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Off-Campus Deputy
-    from: Elmira, Canada
-    major: Second Year; Criminology, Political Science, Classics 
+    from: ---
+    major: ---
     email: --- 
-    favourite-part-about-uc: The Sir Dans Quad and the lovely staff <3
+    favourite-part-about-uc: ---
     favourite-quote: ---
        
-  - name: Nithya
-    pronouns: she/her
+  - name: ---
+    pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Sustainability Deputy
-    from: Calgary, Alberta
-    major: Third Year in Genome Biology, Health and Disease, & Immunology
+    from: ---
+    major: ---
     email: --
-    favourite-part-about-uc: The Junior Common Room!
-    favourite-quote:  |
-       "The future doesn't exist. The only thing that exists is now and our memory of what happened in the past."
-       - David Suzuki
+    favourite-part-about-uc: ---
+    favourite-quote:  ---
        
-  - name: Caitlin
-    pronouns: she/her
+  - name: ---
+    pronouns: ---
     image: assets/images/commissions-icons/LCA.png
     role: Literary and Creative Arts Deputy
-    from: Austin, United States
-    major: Fourth Year; Biochemistry and Global Health Double Major
+    from: ---
+    major: ---
     email: lca@uclit.ca
-    favourite-part-about-uc: I love the community at UC. There are tons of ways to get involved and have fun during university.
+    favourite-part-about-uc: ---
     favourite-quote: ---
     
   - name: ---
@@ -500,47 +491,47 @@
     favourite-part-about-uc: ---
     favourite-quote: |
        
-  - name: Valerie
-    pronouns: she/her
+  - name: ---
+    pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Communications and Outreach Deputy
-    from: Toronto, Ontario
-    major: Third Year; ethics society and law, political science, women and gender studies
+    from: ---
+    major: ---
     email: communications@uclit.ca
-    favourite-part-about-uc: Its architecture and depth and complexity 
+    favourite-part-about-uc: ---
     favourite-quote:  ---
        
-  - name: Brandon
-    pronouns: he/him
+  - name: ---
+    pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Mental Wellness Deputy
-    from: Toronto, Ontario, Canada
-    major: Second Year; Double Major in Ethics, Society, & Law and Health Studies
+    from: ---
+    major: ---
     email: --
-    favourite-part-about-uc: The Health Studies program! 
+    favourite-part-about-uc: ---
     favourite-quote: ---
          
-  - name: Jess
-    pronouns: she/they
+  - name: ---
+    pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Formals Deputy
-    from: Hamilton, Ontario, Canada
-    major: Third Year; Double major of Cognitive Science and Ecology and Evolutionary Biology, minor in Bioethics
+    from: ---
+    major: ---
     email:  ---
-    favourite-part-about-uc: The incredible, supportive community :)
+    favourite-part-about-uc: ---
     favourite-quote: ---
 
-  - name: Douglas
-    pronouns: he/him
+  - name: ---
+    pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Formals Deputy
-    from: Hong Kong
-    major: First Year; Social Sciences 
+    from: ---
+    major: ---
     email:  --
-    favourite-part-about-uc: the architecture and the spacious grass quads
+    favourite-part-about-uc: ---
     favourite-quote: ---
 
-  - name: Myra
+  - name: ---
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Formals Deputy
@@ -550,14 +541,14 @@
     favourite-part-about-uc: 
     favourite-quote: ---
        
-  - name: Damla
-    pronouns: she/her
+  - name: ---
+    pronouns: ---
     image: assets/images/commissions-icons/SOCIAL.png
     role: Spirit and Social Deputy
-    from: Istanbul, Türkiye
-    major: Second Year; Biochemistry Specialist and Fundamental Genetics and Its Applications Major
+    from: ---
+    major: ---
     email: --
-    favourite-part-about-uc: Ghost Story
+    favourite-part-about-uc: ---
     favourite-quote:  ---
        
   - name: ---
@@ -572,23 +563,23 @@
        
 - group: Staff
   people: 
-  - name: Julia
+  - name: ---
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Secretary
-    from: Toronto, Ontario
-    major: Third Year; Physiology, Nutritional Sciences, Psychology
+    from: ---
+    major: ---
     email: secretary@uclit.ca
-    favourite-part-about-uc: The beautiful building, cozy library, and vibrant community!
+    favourite-part-about-uc: ---
     favourite-quote: |
 
       
-  - name: Rubaina
-    pronouns: she/her
+  - name: ---
+    pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
     role: Speaker
-    from: Toronto, Ontario
-    major: Fourth Year; Double Major in genetics and Computational Cognitive Sciences, Minor in Women and Gender Studies
+    from: ---
+    major: ---
     email: speaker@uclit.ca
     favourite-part-about-uc: ---
     favourite-quote: |
