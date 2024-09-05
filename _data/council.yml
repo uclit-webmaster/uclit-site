@@ -48,3 +48,51 @@
       favourite-quote: |
          "Live, laugh, lie" 
          - Me, probably 
+
+    - name: Behram
+      pronouns: he/him
+      image: assets/images/headshots/council-icons/reps.svg
+      role: Finance
+      from: Mumbai, India
+      major: Fourth Year, Public Policy, Statistics, & European Affairs
+      email: finance@uclit.ca
+      office-hours: ---
+      favourite-part-about-uc: The community 
+      favourite-quote: | 
+         "Life is either a daring adventure or nothing at all" 
+         - Helen Keller
+    
+- group: Executives
+  people:
+  - name: Udaya
+    pronouns: she/her
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Communications and Outreach
+    from: Lloydminster, AB
+    major: Human Biology, Psychology & History and Philosophy of Science and Technology
+    email: communications@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The beautiful architecture and community!
+    favourite-quote: ---
+       
+  - name: Katelyn
+    pronouns: she/her
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Equity
+    from: Tkaronto, Canada
+    major: Fourth Year, Human Biology, Psychology, & Physiology
+    email: equity@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The beautiful people and the UC quad!
+    favourite-quote: ---
+       
+  - name: Luisa
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Off-Campus
+    from: São Paulo, Brazil
+    major: Second Year, Political Science & Latin American Studies
+    email: ucoc@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: The CSC
+    favourite-quote: | 
+       "I love you most ardently" by THE Mr. Darcy (Pride and Prejudice, Jane Austen)
