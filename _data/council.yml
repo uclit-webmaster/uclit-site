@@ -21,7 +21,7 @@
 #     major: Human Geography, Political Science
 #     email: president@uclit.ca
 #     office-hours: 12-1 thursdays
-- name: Core Executives
+- group: Core Executives
   people:
   - name: Kristina
     pronouns: she/her
@@ -56,7 +56,7 @@
     favourite-part-about-uc: The community 
     favourite-quote: "Life is either a daring adventure or nothing at all" - Helen Keller
     
-- name: Executives
+- group: Executives
   people:
   - name: Udaya
     pronouns: she/her
@@ -167,7 +167,7 @@
     favourite-part-about-uc: the little nook and crannies; wood spiral staircases, eroded gargoyles
     favourite-quote: "king of edible leaves, his majesty. The spinach." - Tom Wambsgans
     
-- name: First-Year Representatives
+- group: First-Year Representatives
   people:
   - name: ---
     pronouns: ---
