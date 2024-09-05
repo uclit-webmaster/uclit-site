@@ -23,16 +23,16 @@
 #     office-hours: 12-1 thursdays
 - group: Core Executives
   people:
-  - name: Kristina
-    pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
-    role: President
-    from: San Francisco, USA
-    major: Fourth Year, Criminology, Socio-Legal Studies, & Bioethics and Critical Studies in Equity & Solidarity
-    email: president@uclit.ca
-    office-hours: ---
-    favourite-part-about-uc: 
-    favourite-quote: "Mưa dầm thấm lâu/ soft and persistent rain penetrates the earth better than a storm.” - Vietnamese Proverb      
+    - name: Kristina
+      pronouns: she/her
+      image: assets/images/headshots/council-icons/reps.svg
+      role: President
+      from: San Francisco, USA
+      major: Fourth Year, Criminology, Socio-Legal Studies, & Bioethics and Critical Studies in Equity & Solidarity
+      email: president@uclit.ca
+      office-hours: ---
+      favourite-part-about-uc: 
+      favourite-quote: "Mưa dầm thấm lâu/ soft and persistent rain penetrates the earth better than a storm.” - Vietnamese Proverb      
        
   - name: Divi
     pronouns: she/her
