@@ -66,7 +66,7 @@
   people:
   - name: Udaya
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Udaya.jpg
     role: Communications and Outreach
     from: Lloydminster, AB
     major: Human Biology, Psychology & History and Philosophy of Science and Technology
@@ -87,7 +87,7 @@
     favourite-quote: ---
        
   - name: Luisa
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Luisa.jpeg
     role: Off-Campus
     from: São Paulo, Brazil
     major: Second Year, Political Science & Latin American Studies
@@ -99,7 +99,7 @@
 
   - name: Hargun
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Hargun.heic
     role: Sustainability
     from: Hamilton, ON
     major: Fourth Year, Environmental Science, Psychology, & Environment and Behaviour
@@ -111,7 +111,7 @@
     
   - name: Daniele
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Daniele.HEIC
     role: Literary and Creative Arts
     from: Lithuania
     major: Second Year, Nutritional Sciences
@@ -123,7 +123,7 @@
     
   - name: Selen
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Selen.jpeg
     role: University & Academic Affairs
     from: Izmir, Türkiye 
     major: Third Year, Neuroscience & Computer Science 
@@ -135,7 +135,7 @@
        
   - name: Yamini
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Yamini.jpeg
     role: Mental Wellness
     from: Accra, Ghana, & Delhi, India
     major: Fourth Year, Cell and Molecular Biology & Fundamental Genetics
@@ -168,7 +168,7 @@
      
   - name: Sabrina
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Sabrina.jfif
     role: Spirit and Social
     from: Kuala Lumpur, Malaysia
     major: Fourth Year, Economics, Public Policy, & Environmental Studies
@@ -242,7 +242,7 @@
   people:
   - name: Justin
     pronouns: ---
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Justin.JPG
     role: Mid-Year Representative
     from: Taiwan
     major: Third Year, Psychology, Criminology & Philosophy
@@ -254,7 +254,7 @@
        
   - name: Sania
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Sania.jpg
     role: Mid-Year Representative
     from: Markham, Ontario
     major: Third Year, Cell and Molecular Biology & Human Biology
@@ -266,7 +266,7 @@
        
   - name: Brendan
     pronouns: he/they
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Brendan.jpg
     role: Mid-Year Representative
     from: Mississauga, ON
     major: Second Year, Psychology & Economics
@@ -279,7 +279,7 @@
        
   - name: Ary
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Ary.jpeg
     role: Mid-Year Representative
     from: Newmarket, ON
     major: Third Year, Physiology & Psychology
@@ -291,7 +291,7 @@
        
   - name: Amilya
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Amilya.JPEG
     role: Mid-Year Representative
     from: Elmira, Ontario
     major: Third Year, Criminology, Political Science, & Classical Studies
@@ -303,7 +303,7 @@
 
   - name: Angelina
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Angelina.png
     role: Mid-Year Representative
     from: King City, Ontario
     major: Second Year, Life Sciences
@@ -317,7 +317,7 @@
   people:
   - name: Elzbiėta
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Liz.jpeg
     role: Upper-Year Representative
     from: Lithuania and Ukraine
     major: Fourth Year, Drama & Cell and Molecular Biology
@@ -340,7 +340,7 @@
      
   - name: Cherry
     pronouns: she/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Cherry.jpeg
     role: Upper-Year Representative
     from: Prince Edward Island
     major: Fourth Year, CSB & Global Health
@@ -354,7 +354,7 @@
   people:
   - name: Kartikey
     pronouns: he/him
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/Kartikey.JPG
     role: President, University College Residence Council (UCRC) 
     from: India
     major: Second Year, Rotman Commerce
