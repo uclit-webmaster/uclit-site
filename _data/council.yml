@@ -56,7 +56,7 @@
     favourite-part-about-uc: The community 
     favourite-quote: "Life is either a daring adventure or nothing at all" - Helen Keller
     
-- group: Executives
+- name: Executives
   people:
   - name: Udaya
     pronouns: she/her
@@ -167,7 +167,7 @@
     favourite-part-about-uc: the little nook and crannies; wood spiral staircases, eroded gargoyles
     favourite-quote: "king of edible leaves, his majesty. The spinach." - Tom Wambsgans
     
-- group: First-Year Representatives
+- name: First-Year Representatives
   people:
   - name: ---
     pronouns: ---
