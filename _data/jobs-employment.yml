@@ -41,14 +41,14 @@ jobs:
       University College Orientation is a seven-day program, which provides incoming students with transition support, engaging programming that complements the academic experience, and a sense of collegiality and community. The program is organized on behalf of University College and the University College Literary and Athletic Society.
       
       <p>The Orientation Co-Chairs are responsible for overseeing all operations of Orientation while working alongside the UCLit, the office of the Dean of Students at University College, and Central Student Life to plan and execute University College’s Orientation Week. The position entails anywhere from 15-40 per-week hours.</p>
-    application-link: https://bit.ly/orientationcochair2023
-    currently-accepting: false
+    application-link: https://docs.google.com/document/d/1PZQ_VmB788I0fqYIQPSuG5dqz9cIVSgXupxx0joTTJs/
+    currently-accepting: true
     application-instructions: |
-      Please submit an accurate and up-to-date Résumé or CV along with a completed hiring package found at the link below to the <a href="mailto:president@uclit.ca">President's Office</a>.
+      Please submit your resume, cover letter, and completed Orientation Co-Chair 2025 Applicant Form found at the link below through email to Kristina Cổ-Đoàn at president@uclit.ca by January 12th 11:59pm.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: April to September 2024 (Summer Term, Fall Term)
-      - left: Renumeration and Pay
+        right: February 2025 to January 2026
+      - left: Remuneration and Pay
         right: Paid
       - left: Rate of Pay
         right: $10,000 in three disbursements
@@ -57,7 +57,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Not Currently Accepting Applications
+        right: Currently Accepting Applications!
         
   - title: Commuter Orientation Chair
     position-outline: |
@@ -71,7 +71,7 @@ jobs:
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: April 2024- January 2025 (Summer Term, Fall Term, Winter Term)
-      - left: Renumeration and Pay
+      - left: Remuneration and Pay
         right: Paid
       - left: Rate of Pay
         right: $880 (Summer Term), $880 (Fall Term), $440 (Winter Term)
@@ -92,7 +92,7 @@ jobs:
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: April 2024-25 (Summer Term, Fall Term, Winter Term)
-      - left: Renumeration and Pay
+      - left: Remuneration and Pay
         right: Paid
       - left: Rate of Pay
         right: |
@@ -115,7 +115,7 @@ jobs:
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: April 2023-May 2024 (Summer Term, Fall Term, Winter Term)
-      - left: Renumeration and Pay
+      - left: Remuneration and Pay
         right: Paid
       - left: Rate of Pay
         right: | 
@@ -137,7 +137,7 @@ jobs:
     table-data: # new lines are preserved, no need for <p> tags
       - left: Term of Hire
         right: September 2022- June 2023 (Fall Term, Winter Term)
-      - left: Renumeration and Pay
+      - left: Remuneration and Pay
         right: Paid
       - left: Rate of Pay
         right: $100 (Fall Term), $200 (Winter Term)
@@ -158,7 +158,7 @@ jobs:
     table-data: # new lines are preserved, no need for <p> tags
       - left: Term of Hire
         right: June 2022-23 (Summer Term, Fall Term, Winter Term)
-      - left: Renumeration and Pay
+      - left: Remuneration and Pay
         right: Paid
       - left: Rate of Pay
         right: $200 (Fall Term), $500 (Winter Term)
@@ -181,7 +181,7 @@ jobs:
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: December 2022- April 2023 (Winter Term)
-      - left: Renumeration and Pay
+      - left: Remuneration and Pay
         right: Paid
       - left: Rate of Pay
         right: |
@@ -201,11 +201,11 @@ jobs:
     currently-accepting: false
     application-link: https://docs.google.com/document/d/12aOSPyUlcOO2A5bi7m4LszktX4Qah-3FH1eLqr4fmpc/edit?usp=sharing
     application-instructions: |
-      Please submit an accurate and up-to-date Résumé or CV , a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
+      Please submit an accurate and up-to-date Résumé or CV, a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: April 2024-25 (Summer Term, Fall Term, Winter Term)
-      - left: Renumeration and Pay
+      - left: Remuneration and Pay
         right: Volunteer
       - left: Rate of Pay
         right: N/A
@@ -223,11 +223,11 @@ jobs:
     currently-accepting: false
     application-link: mailto:president@uclit.ca
     application-instructions: |
-      Please submit an accurate and up-to-date Résumé or CV , a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
+      Please submit an accurate and up-to-date Résumé or CV, a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: August 2022- April 2023 (Fall Term, Winter Term)
-      - left: Renumeration and Pay
+      - left: Remuneration and Pay
         right: Paid
       - left: Rate of Pay
         right: $150 (Summer Term), $300 (Fall Term), $300 (Winter Term)
@@ -240,16 +240,16 @@ jobs:
 
   - title: Backup Photographer
     position-outline: |
-      The Backup Photographer shall not be a member of the Council and shoall hold any other employed position affiliated with the Lit during his/her term of office. The Backup Photographer attends certain events assigned by the Core-Executive or Executive in charge. Duration of attendance will be decided prior. Entrance fees for assigned events shall be waived. The Backup Photographer will also upload pictures within two days of the event, to be overseen by at least one member of the core-executive of Spirit and Communications Commissioner prior to uploading.
+      The Backup Photographer shall not be a member of the Council and shall hold any other employed position affiliated with the Lit during his/her term of office. The Backup Photographer attends certain events assigned by the Core-Executive or Executive in charge. Duration of attendance will be decided prior. Entrance fees for assigned events shall be waived. The Backup Photographer will also upload pictures within two days of the event, to be overseen by at least one member of the core-executive of Spirit and Communications Commissioner prior to uploading.
       
     currently-accepting: false
     application-link: mailto:president@uclit.ca
     application-instructions: |
-      Please submit an accurate and up-to-date Résumé or CV , a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
+      Please submit an accurate and up-to-date Résumé or CV, a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: August 2022- April 2023 (Fall Term, Winter Term)
-      - left: Renumeration and Pay
+      - left: Remuneration and Pay
         right: Paid
       - left: Rate of Pay
         right: $60/event
