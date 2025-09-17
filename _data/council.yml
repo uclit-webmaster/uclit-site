@@ -23,44 +23,43 @@
 #     office-hours: 12-1 thursdays
 - group: Core Executives
   people:
-    - name: Kristina
+    - name: Divi
       pronouns: she/her
       image: assets/images/headshots/Kristina.jpeg
       role: President
-      from: San Francisco, USA
-      major: Fourth Year, Criminology, Socio-Legal Studies, & Bioethics and Critical Studies in Equity & Solidarity
+      from: Saskatoon, SK
+      major: Fourth Year, Human Biology, Immunology, & Physiology
       email: president@uclit.ca
-      office-hours: 12-1 pm on Thursdays
-      favourite-part-about-uc: 
+      office-hours: 11 am - 1 pm on Wednesdays (subject to change)
+      favourite-part-about-uc: The JCR and the community <3
       favourite-quote: |
-         "Mưa dầm thấm lâu/ soft and persistent rain penetrates the earth better than a storm.” 
-          - Vietnamese Proverb 
+         "I am a mosaic of everyone I have ever loved, even for a heartbeat” 
+          - Hannah Hassler 
 
-    - name: Divi
+    - name: Amilya
       pronouns: she/her
       image: assets/images/headshots/council-icons/reps.svg
       role: Vice President
-      from: Saskatoon, SK
-      major: Third Year, Human Biology, Immunology & Physiology
+      from: Elmira, ON
+      major: Fourth Year, Criminology, Political Science, & Classical Studies
       email: vp@uclit.ca
-      office-hours: 10-12 pm on Fridays
-      favourite-part-about-uc: The quad in spring/summer and the JCR <3
+      office-hours: 1-2 pm on Wednesday & 11 am - 1 pm on Thursday
+      favourite-part-about-uc: The piano in the JCR and the bookstore 
       favourite-quote: |
-         "Live, laugh, lie" 
-         - Me, probably 
+         "Some would say an army of cavalry, others of infantry, others of ships, is the fairest thing on the dark earth, but I say it's whatever you're in love with." 
+         - Sappho, "The Anactoria Poem" 
 
     - name: Behram
       pronouns: he/him
       image: assets/images/headshots/council-icons/reps.svg
       role: Finance
-      from: Mumbai, India
-      major: Fourth Year, Public Policy, Statistics, & European Affairs
+      from: ---
+      major: ---
       email: finance@uclit.ca
-      office-hours: 1-3 pm on Tuesdays
-      favourite-part-about-uc: The community 
+      office-hours: ---
+      favourite-part-about-uc: ---
       favourite-quote: | 
-         "Life is either a daring adventure or nothing at all" 
-         - Helen Keller
+         "---"
     
 - group: Executives
   people:
@@ -75,108 +74,113 @@
     favourite-part-about-uc: The beautiful architecture and community!
     favourite-quote: ---
        
-  - name: Katelyn
+  - name: Nia
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Equity
-    from: Tkaronto, Canada
-    major: Fourth Year, Human Biology, Psychology, & Physiology
+    from: Born in Mississauga, grew up in Saudi Arabia
+    major: Third Year, 
     email: equity@uclit.ca
-    office-hours: 2-3 pm on Wednesdays
-    favourite-part-about-uc: The beautiful people and the UC quad!
-    favourite-quote: ---
+    office-hours: 10-11 am on Thursdays 
+    favourite-part-about-uc: How supportive and active our student community is! I look forward to working with our fellow students who have ideas of better encompassing diversity, equity, and inclusion, within our university. 
+    favourite-quote: |
+    "Injustice anywhere is a threat to justice everywhere" - Martin Luther King Jr. 
+    
        
-  - name: Luisa
+  - name: ---
     image: assets/images/headshots/Luisa.jpeg
     role: Off-Campus
-    from: São Paulo, Brazil
-    major: Second Year, Political Science & Latin American Studies
+    from: ---
+    major: ---
     email: ucoc@uclit.ca
-    office-hours: 3-4 pm on Wednesdays
-    favourite-part-about-uc: The CSC
+    office-hours: ---
+    favourite-part-about-uc: ---
     favourite-quote: | 
-       "I love you most ardently" by THE Mr. Darcy (Pride and Prejudice, Jane Austen)
+       ---
 
-  - name: Hargun
+  - name: Rachel
     pronouns: she/her
     image: assets/images/headshots/Hargun.heic
     role: Sustainability
-    from: Hamilton, ON
-    major: Fourth Year, Environmental Science, Psychology, & Environment and Behaviour
+    from: Toronto, ON
+    major: Third Year 
     email: sustainability@uclit.ca
-    office-hours: 11-12 pm on Mondays
-    favourite-part-about-uc: The wonderful people and the beautiful building!
+    office-hours: 10-11 am on Wednesdays
+    favourite-part-about-uc: UC Bookstore (specifically when Louise the dog is there) 
     favourite-quote: | 
-       "It doesn't matter how slow you go as long as you don't stop"  
+       "Injustice anywhere is a threat to justice everywhere"  
     
-  - name: Daniele
+  - name: Meekha
     pronouns: she/her
     image: assets/images/headshots/Daniele.HEIC
     role: Literary and Creative Arts
-    from: Lithuania
-    major: Second Year, Nutritional Sciences
+    from: ---
+    major: ---
     email: lca@uclit.ca
-    office-hours: 3-4 pm on Thursdays
-    favourite-part-about-uc: I love how cozy and inviting the JCR is - someone always playing the piano, warm lights illuminating the room, historic wood walls, and a beautiful sense of community!
+    office-hours: ---
+    favourite-part-about-uc: ---
     favourite-quote: | 
-       "You can't use up creativity. The more you use, the more you have." - Maya Angelou
+       "---"
     
-  - name: Selen
-    pronouns: she/her
+  - name: Brendan 
+    pronouns: any
     image: assets/images/headshots/Selen.jpeg
     role: University & Academic Affairs
-    from: Izmir, Türkiye 
-    major: Third Year, Neuroscience & Computer Science 
+    from: Mississauga 
+    major: Third Year, 
     email: uaa@uclit.ca
-    office-hours: 11-12 pm on Thursdays
-    favourite-part-about-uc: the culture, the community, and the architecture!
+    office-hours: 12-2 pm on Thursdays (subject to change)
+    favourite-part-about-uc: the UC Book Shop<3
     favourite-quote: | 
-       "open up your eyes and see, the clouds above will hold you, the clouds above will sing" by twenty øne piløts
+    "Whoever saves one life save the world entire."
        
-  - name: Yamini
+  - name: Olivia
     pronouns: she/her
     image: assets/images/headshots/Yamini.jpeg
     role: Mental Wellness
-    from: Accra, Ghana, & Delhi, India
-    major: Fourth Year, Cell and Molecular Biology & Fundamental Genetics
+    from: Toronto, ON
+    major: Third Year, Psychology & Cognitive Science
     email: wellness@uclit.ca
-    office-hours: 1-2 pm on Thursdays
-    favourite-part-about-uc: The chocolate croissants at Morrison Hall 
-    favourite-quote: ---
+    office-hours: 11 am - 12 pm on Fridays
+    favourite-part-about-uc: the csc
+    favourite-quote: |
+    "what's meant to be will always find a way"
 
-  - name: ---
-    pronouns: ---
+  - name: Agnesa
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Formals
-    from: ---
-    major: ---
+    from: Yerevan, Armenia
+    major: Third Year
     email: formals@uclit.ca
-    office-hours: 
-    favourite-part-about-uc: ---
-    favourite-quote: 
+    office-hours: 1-2 pm on Mondays
+    favourite-part-about-uc: i LOVE the csc it is the light of my life
+    favourite-quote: |
+    "Hold on to the memories, they will hold on to you" - Taylor Swift 
         
-  - name: Selin
-    pronouns: ---
+  - name: Reema
+    pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
     role: Athletics
-    from: ---
-    major: ----
+    from: Palestine
+    major: Third Year, 
     email: athletics@uclit.ca
-    office-hours: 2-3 pm on Mondays
-    favourite-part-about-uc: ---
-    favourite-quote: 
+    office-hours: 2-3 pm on Tuesdays
+    favourite-part-about-uc: The friendly community and resources for commuter students!
+    favourite-quote: |
+    "Peace without justice is equivalent to institutionalizing injustice"
      
-  - name: Sabrina
+  - name: Gillian
     pronouns: she/her
     image: assets/images/headshots/Sabrina.jfif
     role: Spirit and Social
-    from: Kuala Lumpur, Malaysia
-    major: Fourth Year, Economics, Public Policy, & Environmental Studies
+    from: Etobicoke, ON
+    major: Third Year, 
     email: social@uclit.ca
     office-hours: 12-1 pm on Tuesdays
-    favourite-part-about-uc: the little nook and crannies; wood spiral staircases, eroded gargoyles
+    favourite-part-about-uc: The UC Quad and the lovely people <3
     favourite-quote: | 
-       "king of edible leaves, his majesty. The spinach." - Tom Wambsgans
+       "Somewhere, something incredible is waiting to be known." - Carl Sagan
     
 - group: First-Year Representatives
   people:
@@ -240,129 +244,130 @@
       
 - group: Mid-Year Representatives
   people:
-  - name: Justin
-    pronouns: ---
+  - name: Eamonn
+    pronouns: he/him
     image: assets/images/headshots/Justin.JPG
     role: Mid-Year Representative
-    from: Taiwan
-    major: Third Year, Psychology, Criminology & Philosophy
-    email: ---
-    office-hours: 2-4 pm on Fridays
-    favourite-part-about-uc: The people of course
+    from: Etobicoke
+    major: Second Year
+    email: eamonn@uclit.ca
+    office-hours: 3-4 pm on Wednesdays
+    favourite-part-about-uc: Diabolos
     favourite-quote: | 
-       "love is not lost if perspective is earned"
+       "Good is the enemy of a great"
        
-  - name: Sania
+  - name: Deniz
     pronouns: she/her
     image: assets/images/headshots/Sania.jpg
     role: Mid-Year Representative
-    from: Markham, Ontario
-    major: Third Year, Cell and Molecular Biology & Human Biology
-    email: ---
-    office-hours: 2-3 pm on Thursdays
-    favourite-part-about-uc: The beautiful architecture and, of course, the community!
+    from: Turkey & Cyprus
+    major: Third Year, Biochemistry
+    email: deniz@uclit.ca
+    office-hours: 3-4 pm on Mondays
+    favourite-part-about-uc: The Owlery and their home-made salted caramel latte
     favourite-quote: | 
-       "I love you more than yesterday, but less than tomorrow" <3       
+       "Fruit and mustard are two classic accompaniments to pork, and a juicy chop doesn't need much more than that for a sweet and tangy sauce" - Easy WeekNight Dinners      
        
-  - name: Brendan
-    pronouns: he/they
+  - name: Angelina
+    pronouns: she/her
     image: assets/images/headshots/Brendan.jpg
     role: Mid-Year Representative
-    from: Mississauga, ON
-    major: Second Year, Psychology & Economics
-    email: ---
-    office-hours: 10-12 pm on Wednesdays
-    favourite-part-about-uc: The UC Book Shop <3
+    from: King City, ON
+    major: Third Year, Nutritional Sciences & Health and Disease
+    email: angelina@uclit.ca
+    office-hours: 2-4 pm on Thursdays<3
+    favourite-part-about-uc: Greenery!!!!!!!!!(UC has the best greenery)
     favourite-quote: | 
-       "My Uncle Alex, who is up in Heaven now, one of the things he found objectionable about human beings was that they so rarely noticed it when times were sweet. We could be drinking lemonade in the shade of an apple tree in the summertime, and Uncle Alex would interrupt the conversation to say, 'If this isn't nice, what is?' So I hope that you will do the same for the rest of your lives. When things are going sweetly and peacefully, please pause a moment, and then say out loud, 'If this isn't nice, what is?'" ― Kurt Vonnegut
-      
+       "It is what it is"
        
-  - name: Ary
+  - name: Tara
     pronouns: she/her
     image: assets/images/headshots/Ary.jpeg
     role: Mid-Year Representative
-    from: Newmarket, ON
-    major: Third Year, Physiology & Psychology
-    email: ---
-    office-hours: 3-4 pm on Tuesdays
-    favourite-part-about-uc: The historical buildings
-    favourite-quote: 
+    from: Calgary, AB
+    major: Second Year
+    email: tara@uclit.ca
+    office-hours: ---
+    favourite-part-about-uc: All the history! I love reading up on the ghost stories or seeing it in my favourite movies (shout-out Mean Girls and Urban Legend) <3
+    favourite-quote: |
+    "The worst king of person is someone who makes you feel bad, dumb, or stupid for being exicted about something"
        
        
-  - name: Amilya
-    pronouns: she/her
+  - name: Alan
+    pronouns: ---
     image: assets/images/headshots/Amilya.JPEG
     role: Mid-Year Representative
-    from: Elmira, Ontario
-    major: Third Year, Criminology, Political Science, & Classical Studies
-    email: ---
-    office-hours: 12-1 pm on Wednesdays
-    favourite-part-about-uc: The Sir Dan's Quad and the lovely people <3
-    favourite-quote: | 
-       "You can always count on me to love you" - Fennegen        
-
-  - name: Angelina
-    pronouns: she/her
-    image: assets/images/headshots/Angelina.png
-    role: Mid-Year Representative
-    from: King City, Ontario
-    major: Second Year, Life Sciences
-    email: ---
-    office-hours: 1-2 pm on Wednesdays
-    favourite-part-about-uc: The beautiful libraries and overall greenery <3
-    favourite-quote: | 
-       "Just so you know, I was supposed to work very hard today, but I took the day off"       
-  
-- group: Upper Year Representatives
-  people:
-  - name: Elzbiėta
-    pronouns: she/her
-    image: assets/images/headshots/Liz.jpeg
-    role: Upper-Year Representative
-    from: Lithuania and Ukraine
-    major: Fourth Year, Drama & Cell and Molecular Biology
-    email: ---
-    office-hours: 10-11 am on Tuesdays
-    favourite-part-about-uc: The overall feeling of magic!!
-    favourite-quote: | 
-       "In our past conflict, four of his five wits went halting off, and now is the whole man governed with one" - Much Ado About Nothing        
-       
-  - name: Katie
-    pronouns: ---
-    image: assets/images/headshots/council-icons/reps.svg
-    role: Upper-Year Representative
     from: ---
     major: ---
     email: ---
-    office-hours: 1-2 pm on Mondays
+    office-hours: ---
     favourite-part-about-uc: ---
-    favourite-quote: 
+    favourite-quote: | 
+       "---"       
+
+  - name: Daniele
+    pronouns: ---
+    image: assets/images/headshots/Angelina.png
+    role: Mid-Year Representative
+    from: ---
+    major: ---
+    email: ---
+    office-hours: ---
+    favourite-part-about-uc: ---
+    favourite-quote: | 
+       "---"       
+  
+- group: Upper Year Representatives
+  people:
+  - name: Sania
+    pronouns: she/her
+    image: assets/images/headshots/Liz.jpeg
+    role: Upper-Year Representative
+    from: Markham, ON
+    major: Fourth Year, 
+    email: sania@uclit.ca
+    office-hours: 12-1 pm on Mondays
+    favourite-part-about-uc: The family I've found here! and the JCR ;)
+    favourite-quote: | 
+       "I love you more than yesterday, but less than tomorrow"
+       
+  - name: Maggie
+    pronouns: she/her
+    image: assets/images/headshots/council-icons/reps.svg
+    role: Upper-Year Representative
+    from: Oakville, ON
+    major: Fourth Year, 
+    email: maggie@uclit.ca
+    office-hours: 10-11 am on Fridays
+    favourite-part-about-uc: Our traditions (and Tradition!!!)
+    favourite-quote: |
+    "But how could you live and have no story to tell?" - Dostoevsky
      
-  - name: Cherry
+  - name: Eva
     pronouns: she/her
     image: assets/images/headshots/Cherry.jpeg
     role: Upper-Year Representative
-    from: Prince Edward Island
-    major: Fourth Year, CSB & Global Health
-    email: ---
-    office-hours: 11-12 pm on Tuesdays
-    favourite-part-about-uc: The people and the UC quad!!
+    from: Cleveland, Ohio, USA
+    major: Fourth Year,
+    email: eva@uclit.ca
+    office-hours: 11-12 am on Tuesdays
+    favourite-part-about-uc: Our beautiful UC building with its prime center of campus location!!
     favourite-quote: | 
-       "Eating out is cheaper than therapy so you're actually making money right now" - James Shi
+       "The fruit of timidity is neither gain nor loss" 
     
 - group: Special Executives
   people:
-  - name: Kartikey
-    pronouns: he/him
+  - name: Özgü Gülümser
+    pronouns: she/her
     image: assets/images/headshots/Kartikey.JPG
     role: President, University College Residence Council (UCRC) 
-    from: India
-    major: Second Year, Rotman Commerce
+    from: Turkiye
+    major: Second Year,
     email: ucrc@uclit.ca
-    office-hours: 10-11 am on Mondays
-    favourite-part-about-uc: It's one of the oldest and the largest community on Campus and unites students from very diverse perspectives.
+    office-hours: 2-3 pm on Mondays
+    favourite-part-about-uc: Matcha from the Owlery
     favourite-quote: | 
-       "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+       "Love is all around"
         
  
   
