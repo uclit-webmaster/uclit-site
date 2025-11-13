@@ -99,19 +99,19 @@ clubs:
           Girl Up provides leadership training and gives girls tools to become gender equality advocates and activists. Through our programs, girls broaden their social impact skill set, receive a platform to tell their stories, and apply STEM for social good. Our girl leaders create real policy change at local and national levels, raise millions of dollars to support United Nations programs that reach tens of thousands of girls around the world, and build community-based movements.
 
           Girl Up is an initiative of the UN Foundation, working across a global community of partners to achieve gender equality worldwide.
-  - name: UofT Campus Lions Club
-    icon: /assets/images/clubs-ancillaries-icons/uc-lions.svg
-    socials:
-      - network: web
-        link: https://www.ulife.utoronto.ca/organizations/view/id/2227
-      - network: facebook
-        link: https://facebook.com/groups/140210253262396
-      - network: e-mail
-        link: mailto:utclcinfo@gmail.com
-    description: |
-        Our organization does hands-on volunteer work in Toronto. We participate in a broad range of volunteering activities, such as helping out at missions, food banks and soup kitchens. We host multiple volunteering activities a month, a weekly soup kitchen on Sunday evenings and advertise other opportunities for volunteering on our Facebook page.
-
-        Our goal is to inform UC students about the various volunteer opportunities in the city. By making these volunteer opportunities more accessible, we hope to bring the spirit of volunteerism and community engagement to UC.
+#  - name: UofT Campus Lions Club
+#    icon: /assets/images/clubs-ancillaries-icons/uc-lions.svg
+#    socials:
+#      - network: web
+#        link: https://www.ulife.utoronto.ca/organizations/view/id/2227
+#      - network: facebook
+#        link: https://facebook.com/groups/140210253262396
+#      - network: e-mail
+#        link: mailto:utclcinfo@gmail.com
+#    description: |
+#        Our organization does hands-on volunteer work in Toronto. We participate in a broad range of volunteering activities, such as helping out at missions, food banks and soup kitchens. We host multiple volunteering activities a month, a weekly soup kitchen on Sunday evenings and advertise other opportunities for volunteering on our Facebook page.
+#
+#        Our goal is to inform UC students about the various volunteer opportunities in the city. By making these volunteer opportunities more accessible, we hope to bring the spirit of volunteerism and community engagement to UC.
   - name: UofT Womxn of South Asian Heritage Collective (WoSAHC)
     icon: /assets/images/clubs-ancillaries-icons/circle-cropped.png
     socials:
