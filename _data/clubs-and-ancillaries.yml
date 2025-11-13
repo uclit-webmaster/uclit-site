@@ -137,7 +137,7 @@ ancillaries:
     description: |
         Diabolos’ is a student-run, fair trade, environmentally-conscious coffee bar at UC serving hot and cold drinks and a variety of pastries, wraps and meals. Vegetarian, vegan and organic options are available. Diabolos’ is famous for its relaxed atmosphere, friendly staff and great music. Students can drop by between classes for a fair-trade coffee and famous homemade muffin, or stay for lunch and meet new students hanging out in the Junior Common Room (JCR). Diabs’ also caters campus events!
   - name: UC Orientation
-    icon: /assets/images/clubs-ancillaries-icons/orientation-2021.png
+    icon: /assets/images/clubs-ancillaries-icons/uc-orientation-logo.png
     socials:
       - network: twitter
         link: http://twitter.com/ucorientation
