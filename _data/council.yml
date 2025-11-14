@@ -51,7 +51,7 @@
 
     - name: Behram Hathi
       pronouns: he/him
-      image: assets/images/headshots/Behram-Hathi.jpg
+      image: assets/images/headshots/Behram-Hathi.JPG
       role: Finance
       from: Mumbai
       major: Fifth Year
@@ -78,7 +78,7 @@
        
   - name: Nia Khan
     pronouns: she/her
-    image: assets/images/headshots/Nia-Khan.jpg
+    image: assets/images/headshots/Nia-Khan.JPG
     role: Equity
     from: Born in Mississauga, grew up in Saudi Arabia
     major: Third Year
@@ -188,7 +188,7 @@
   people:
   - name: Maya Ahmed
     pronouns: She/her
-    image: assets/images/headshots/Maya-Ahmed.heic
+    image: assets/images/headshots/Maya-Ahmed.HEIC
     role: First-Year Representative
     from: Hamilton, ON
     major: First Year, Social Science
@@ -226,7 +226,7 @@
        
   - name: Yumi Yip
     pronouns: She/her
-    image: assets/images/headshots/Yumi-Yip.webp
+    image: assets/images/headshots/Yumi-Yip.jpg
     role: First-Year Representative
     from: Markham
     major: First year
