@@ -38,7 +38,7 @@
 
     - name: Amilya Wilson
       pronouns: she/her
-      image: assets/images/headshots/council-icons/Amilya-Wilson.png
+      image: assets/images/headshots/Amilya-Wilson.png
       role: Vice President
       from: Elmira, ON
       major: Fourth Year, Criminology, Political Science, & Classical Studies
@@ -51,7 +51,7 @@
 
     - name: Behram Hathi
       pronouns: he/him
-      image: assets/images/headshots/council-icons/Behram-Hathi.jpg
+      image: assets/images/headshots/Behram-Hathi.jpg
       role: Finance
       from: Mumbai
       major: Fifth Year
@@ -78,7 +78,7 @@
        
   - name: Nia Khan
     pronouns: she/her
-    image: assets/images/headshots/council-icons/Nia-Khan.jpg
+    image: assets/images/headshots/Nia-Khan.jpg
     role: Equity
     from: Born in Mississauga, grew up in Saudi Arabia
     major: Third Year
@@ -90,7 +90,7 @@
     
        
   - name: Alicia Kalendjian
-    image: assets/images/headshots/Alicia-Kalendjian.jpg
+    image: assets/images/headshots/Alicia-Kalendjian.JPG
     role: Off-Campus
     from: Etobicoke, ON
     major: Fourth Year, Biological Chemistry Specialist
@@ -150,7 +150,7 @@
 
   - name: Agnesa Astvatsatryan 
     pronouns: she/her
-    image: assets/images/headshots/council-icons/Agnesa-Astvatsatryan.jpeg
+    image: assets/images/headshots/Agnesa-Astvatsatryan.jpeg
     role: Formals
     from: Yerevan, Armenia
     major: Third Year
@@ -162,7 +162,7 @@
         
   - name: Reema Gharbiya
     pronouns: she/her
-    image: assets/images/headshots/council-icons/Reema-Gharbiya.jpeg
+    image: assets/images/headshots/Reema-Gharbiya.jpeg
     role: Athletics
     from: Palestine
     major: Third Year 
@@ -188,7 +188,7 @@
   people:
   - name: Maya Ahmed
     pronouns: She/her
-    image: assets/images/headshots/council-icons/Maya-Ahmed.heic
+    image: assets/images/headshots/Maya-Ahmed.heic
     role: First-Year Representative
     from: Hamilton, ON
     major: First Year, Social Science
@@ -200,7 +200,7 @@
     
   - name: Tania Hayat
     pronouns: she/her
-    image: assets/images/headshots/council-icons/Tania-Hayat.jpeg
+    image: assets/images/headshots/Tania-Hayat.jpeg
     role: First-Year Representative
     from: Pakistan
     major: First Year
@@ -213,7 +213,7 @@
     
   - name: Karishma Persad
     pronouns: She/her
-    image: assets/images/headshots/council-icons/Karishma-Persad.jpeg
+    image: assets/images/headshots/Karishma-Persad.jpeg
     role: First-Year Representative
     from: First Year
     major: Trinidad and Tobago
@@ -226,7 +226,7 @@
        
   - name: Yumi Yip
     pronouns: She/her
-    image: assets/images/headshots/council-icons/Yumi-Yip.webp
+    image: assets/images/headshots/Yumi-Yip.webp
     role: First-Year Representative
     from: Markham
     major: First year
@@ -328,7 +328,7 @@
        
   - name: Maggie Wang
     pronouns: she/her
-    image: assets/images/headshots/council-icons/Maggie-Wang.jpeg
+    image: assets/images/headshots/Maggie-Wang.jpeg
     role: Upper-Year Representative
     from: Oakville, ON
     major: Fourth Year 
