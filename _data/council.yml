@@ -25,7 +25,7 @@
   people:
     - name: Divi Gupta
       pronouns: she/her
-      image: assets/images/headshots/divi-gupta.png
+      image: assets/images/headshots/Divi-Gupta.png
       role: President
       from: Saskatoon, SK
       major: Fourth Year, Human Biology, Immunology, & Physiology
@@ -38,7 +38,7 @@
 
     - name: Amilya Wilson
       pronouns: she/her
-      image: assets/images/headshots/council-icons/amilya-wilson.png
+      image: assets/images/headshots/council-icons/Amilya-Wilson.png
       role: Vice President
       from: Elmira, ON
       major: Fourth Year, Criminology, Political Science, & Classical Studies
@@ -51,7 +51,7 @@
 
     - name: Behram Hathi
       pronouns: he/him
-      image: assets/images/headshots/council-icons/behram-hathi.jpg
+      image: assets/images/headshots/council-icons/Behram-Hathi.jpg
       role: Finance
       from: Mumbai
       major: Fifth Year
@@ -66,7 +66,7 @@
   people:
   - name: Udaya Reddy
     pronouns: she/her
-    image: assets/images/headshots/Udaya-reddy.jpg
+    image: assets/images/headshots/Udaya-Reddy.jpg
     role: Communications and Outreach
     from: Lloydminster, AB
     major: Human Biology, Psychology & History and Philosophy of Science and Technology
@@ -78,7 +78,7 @@
        
   - name: Nia Khan
     pronouns: she/her
-    image: assets/images/headshots/council-icons/nia-khan.jpg
+    image: assets/images/headshots/council-icons/Nia-Khan.jpg
     role: Equity
     from: Born in Mississauga, grew up in Saudi Arabia
     major: Third Year
@@ -138,7 +138,7 @@
        
   - name: Olivia Park
     pronouns: she/her
-    image: assets/images/headshots/olivia-park.jpeg
+    image: assets/images/headshots/Olivia-Park.jpeg
     role: Mental Wellness
     from: Toronto, ON
     major: Third Year, Psychology & Cognitive Science
@@ -188,7 +188,7 @@
   people:
   - name: Maya Ahmed
     pronouns: She/her
-    image: assets/images/headshots/council-icons/maya-ahmed.heic
+    image: assets/images/headshots/council-icons/Maya-Ahmed.heic
     role: First-Year Representative
     from: Hamilton, ON
     major: First Year, Social Science
@@ -200,7 +200,7 @@
     
   - name: Tania Hayat
     pronouns: she/her
-    image: assets/images/headshots/council-icons/tania-hayat.jpeg
+    image: assets/images/headshots/council-icons/Tania-Hayat.jpeg
     role: First-Year Representative
     from: Pakistan
     major: First Year
@@ -328,7 +328,7 @@
        
   - name: Maggie Wang
     pronouns: she/her
-    image: assets/images/headshots/council-icons/maggie-wang.jpeg
+    image: assets/images/headshots/council-icons/Maggie-Wang.jpeg
     role: Upper-Year Representative
     from: Oakville, ON
     major: Fourth Year 
@@ -357,7 +357,7 @@
     image: assets/images/headshots/Özgü-Gülümser.jpeg
     role: President, University College Residence Council (UCRC) 
     from: Turkiye
-    major: Second Year,
+    major: Second Year
     email: ucrc@uclit.ca
     office-hours: Monday 2-3pm
     favourite-part-about-uc: Matcha from the Owlery
