@@ -51,7 +51,7 @@
 
     - name: Behram Hathi
       pronouns: he/him
-      image: assets/images/headshots/council-icons/behram-hathi.svg
+      image: assets/images/headshots/council-icons/behram-hathi.jpg
       role: Finance
       from: Mumbai
       major: Fifth Year
@@ -89,7 +89,7 @@
     
        
   - name: Alicia Kalendjian
-    image: assets/images/headshots/Alicia-Kalendjian.jpeg
+    image: assets/images/headshots/Alicia-Kalendjian.jpg
     role: Off-Campus
     from: Etobicoke, ON
     major: Fourth Year, Biological Chemistry Specialist
@@ -149,7 +149,7 @@
 
   - name: Agnesa Astvatsatryan 
     pronouns: she/her
-    image: assets/images/headshots/council-icons/Agnesa-Astvatsatryan.svg
+    image: assets/images/headshots/council-icons/Agnesa-Astvatsatryan.jpeg
     role: Formals
     from: Yerevan, Armenia
     major: Third Year
@@ -187,7 +187,7 @@
   people:
   - name: Maya Ahmed
     pronouns: She/her
-    image: assets/images/headshots/council-icons/maya-ahmed.svg
+    image: assets/images/headshots/council-icons/maya-ahmed.heic
     role: First-Year Representative
     from: Hamilton, ON
     major: First Year, Social Science
@@ -198,7 +198,7 @@
     
   - name: Tania Hayat
     pronouns: she/her
-    image: assets/images/headshots/council-icons/tania-hayat.svg
+    image: assets/images/headshots/council-icons/tania-hayat.jpeg
     role: First-Year Representative
     from: Pakistan
     major: First Year
@@ -210,7 +210,7 @@
     
   - name: Karishma Persad
     pronouns: She/her
-    image: assets/images/headshots/council-icons/Karishma-Persad.svg
+    image: assets/images/headshots/council-icons/Karishma-Persad.jpeg
     role: First-Year Representative
     from: First Year
     major: Trinidad and Tobago
@@ -222,7 +222,7 @@
        
   - name: Yumi Yip
     pronouns: She/her
-    image: assets/images/headshots/council-icons/reps.svg
+    image: assets/images/headshots/council-icons/Yumi-Yip.webp
     role: First-Year Representative
     from: Markham
     major: First year
@@ -284,7 +284,7 @@
        
        
   - name: Alan Nguyen-Bach
-    pronouns: ---
+    pronouns: he/him
     image: assets/images/headshots/Alan-Nguyen-Bach.jpg
     role: Mid-Year Representative
     from: Toronto, Canada, and Saigon, Vietnam
