@@ -167,7 +167,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Not Currently Accepting Applications
+        right: Hiring
 
   - title: Diabolos' Manager
     position-outline: |
