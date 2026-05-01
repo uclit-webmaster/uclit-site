@@ -151,7 +151,7 @@ jobs:
   - title: Elections Coordinator
     position-outline: |
       The Elections Coordinator manages and maintains the Society's elections, ensuring that they are fair, equitable, and accessible to all UC students.
-    currently-accepting: false
+    currently-accepting: true
     application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
