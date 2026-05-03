@@ -175,7 +175,7 @@ jobs:
       
       <p>The Manager will be tasked with maintaining the financial, operational, and administrative wellbeing of the entity, applying for all legal documentation to authorize its operation in the City of Toronto, and ensure the hire of subsequent employees whenever applicable. The position has ≤10 per-week hours.</p>
     currently-accepting: true
-    application-link: https://bit.ly/diabolosmanagerapp
+    application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
@@ -199,7 +199,7 @@ jobs:
       
       <p> The Co-Directors are governed uniquely by a Committee jointly administered by the Office of the Dean of Students, University College, and the UC Lit, as well as in accordance with the guidelines and programs set out by the national WUSC organization. The hours will vary, however, they will not exceed ten (10) hours per week per Director during the regular school year.
     currently-accepting: true
-    application-link: https://docs.google.com/document/d/12aOSPyUlcOO2A5bi7m4LszktX4Qah-3FH1eLqr4fmpc/edit?usp=sharing
+    application-link: mailto:president@uclit.ca
     application-instructions: |
       Please submit an accurate and up-to-date Résumé or CV, a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
