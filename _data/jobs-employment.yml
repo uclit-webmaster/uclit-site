@@ -281,3 +281,25 @@ jobs:
         right: Office of the President, Office of the Dean of Students
       - left: Hiring Status
         right: Currently Accepting Applications!
+
+  - title: Review Editor in Chief
+    position-outline: |
+      The UC Review Editor-in-Chief leads the publication by hiring and managing staff, delegating tasks, and promoting the Review while soliciting submissions from students. They oversee production timelines to ensure the publication is printed annually, manage its budget and funds, and work with leadership to align the Review with the values of University College. The role also includes maintaining and updating the constitution, organizing or ensuring proper elections for a successor, preparing transition documents, and supporting a smooth handover, all while adhering to established policies and contractual responsibilities.
+      
+    currently-accepting: true
+    application-link: mailto:president@uclit.ca
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV, a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
+    table-data: # new lines are preserved, no need for <p> tags!
+      - left: Term of Hire
+        right: August 2026- April 2027 (Fall Term, Winter Term)
+      - left: Remuneration and Pay
+        right: Volunteer
+      - left: Rate of Pay
+        right: N/A
+      - left: Number of Positions
+        right: 1
+      - left: Supervisors
+        right: Office of the President, Office of the Dean of Students
+      - left: Hiring Status
+        right: Currently Accepting Applications!
