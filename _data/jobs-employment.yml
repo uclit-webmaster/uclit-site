@@ -259,3 +259,25 @@ jobs:
         right: Office of the President, Office of the Dean of Students
       - left: Hiring Status
         right: Not Currently Accepting Applications
+
+  - title: Follies Producer
+    position-outline: |
+      The Follies Producer oversees the company’s overall operations, finances, and strategic direction, ensuring it fulfills its mandates and remains within budget. They act as a signing officer, maintain accurate financial records, and ensure all productions meet company standards. The role also involves supporting executives and production teams, helping plan a financially and artistically viable season, fostering growth and development, and serving as a liaison between the company and the Society.
+      
+    currently-accepting: true
+    application-link: mailto:president@uclit.ca
+    application-instructions: |
+      Please submit an accurate and up-to-date Résumé or CV, a brief Cover Letter (Max 250 Words), and the contact info for one reference (email/phone number) to the Hiring Committee by clicking the link below.
+    table-data: # new lines are preserved, no need for <p> tags!
+      - left: Term of Hire
+        right: August 2022- April 2023 (Fall Term, Winter Term)
+      - left: Remuneration and Pay
+        right: Volunteer
+      - left: Rate of Pay
+        right: N/A
+      - left: Number of Positions
+        right: 1
+      - left: Supervisors
+        right: Office of the President, Office of the Dean of Students
+      - left: Hiring Status
+        right: Currently Accepting Applications!
