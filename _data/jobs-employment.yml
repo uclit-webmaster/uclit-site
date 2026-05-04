@@ -44,7 +44,7 @@ jobs:
     application-link: https://docs.google.com/document/d/1PZQ_VmB788I0fqYIQPSuG5dqz9cIVSgXupxx0joTTJs/
     currently-accepting: true
     application-instructions: |
-      Please submit your resume, cover letter, and completed Orientation Co-Chair 2025 Applicant Form found at the link below through email to Kristina Cổ-Đoàn at president@uclit.ca by January 12th 11:59pm.
+      Please submit an accurate and up-to-date Resume, Cover Letter and Two References to the <a href="mailto:president@uclit.ca">President's Office</a>.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: February 2026 to January 2027
@@ -67,7 +67,7 @@ jobs:
     currently-accepting: false
     application-link: https://docs.google.com/document/d/1AnNvJR0v3XEn2mTaf_I53iNJddShzL4_uhWJl8xuAOc/edit?usp=sharing 
     application-instructions: |
-      Please submit an accurate and up-to-date Resume, Cover Letter and Two References to the <a href="mailto:president@uclit.ca">President's Office</a>.
+      Please submit an accurate and up-to-date Résumé or CV along with a brief Cover Letter (Max 250 Words) to the Hiring Committee by clicking the link below.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
         right: April 2026- January 2027 (Summer Term, Fall Term, Winter Term)
