@@ -187,7 +187,7 @@ jobs:
         right: |
           $16 per hour capped at 10 hours per week, not including any barista shifts worked. 10% profit-sharing agreement paid out at the end of the operating year.
       - left: Number of Positions
-        right: 1
+        right: 2
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
@@ -276,7 +276,7 @@ jobs:
       - left: Rate of Pay
         right: N/A
       - left: Number of Positions
-        right: 1
+        right: 2
       - left: Supervisors
         right: Office of the President, Office of the Dean of Students
       - left: Hiring Status
@@ -298,7 +298,7 @@ jobs:
       - left: Rate of Pay
         right: N/A
       - left: Number of Positions
-        right: 1
+        right: 2
       - left: Supervisors
         right: Office of the President, Office of the Dean of Students
       - left: Hiring Status
