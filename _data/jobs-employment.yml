@@ -191,7 +191,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Currently Accepting Applications!
+        right: Not Currently Accepting Applications
 
   - title: WUSC Director
     position-outline: |
@@ -280,7 +280,7 @@ jobs:
       - left: Supervisors
         right: Office of the President, Office of the Dean of Students
       - left: Hiring Status
-        right: Currently Accepting Applications!
+        right: Not Currently Accepting Applications
 
   - title: Review Editor in Chief
     position-outline: |
@@ -302,4 +302,4 @@ jobs:
       - left: Supervisors
         right: Office of the President, Office of the Dean of Students
       - left: Hiring Status
-        right: Currently Accepting Applications!
+        right: Not Currently Accepting Applications
