@@ -167,7 +167,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Currently Accepting Applications!
+        right: Not Currently Accepting Applications
 
   - title: Diabolos' Manager
     position-outline: |
@@ -214,7 +214,7 @@ jobs:
       - left: Supervisors
         right: Office of the President, Office of the Dean of Students
       - left: Hiring Status
-        right: Currently Accepting Applications!
+        right: Not Currently Accepting Applications
 
   - title: Photographer
     position-outline: |
