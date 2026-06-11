@@ -57,7 +57,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Currently Accepting Applications!
+        right: Not Currently Accepting Applications
         
   - title: Commuter Orientation Chair
     position-outline: |
@@ -80,7 +80,7 @@ jobs:
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Currently Accepting Applications!
+        right: Not Currently Accepting Applications
         
   - title: Secretary of the Society
     position-outline: |
@@ -125,7 +125,7 @@ jobs:
       - left: Supervisors
         right: Office of the Vice President
       - left: Hiring Status
-        right: Currently Accepting Applications!
+        right: Not Currently Accepting Applications
         
   - title: Web Coordinator
     position-outline: |
