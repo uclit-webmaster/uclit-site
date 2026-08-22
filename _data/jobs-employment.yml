@@ -185,7 +185,7 @@ jobs:
         right: Paid
       - left: Rate of Pay
         right: |
-          $16 per hour capped at 10 hours per week, not including any barista shifts worked. 10% profit-sharing agreement paid out at the end of the operating year.
+          $17.60 per hour capped at 10 hours per week, not including any barista shifts worked. 10% profit-sharing agreement paid out at the end of the operating year.
       - left: Number of Positions
         right: 2
       - left: Supervisors
