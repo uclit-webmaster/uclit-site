@@ -25,7 +25,7 @@
 
 - name: COMMUNICATIONS AND OUTREACH
   image: assets/images/commissions-icons/scc.svg
-  email: communications@uclit.ca
+  email: communications@uclit.ca / contact@uclit.ca
   commissioners: Carmen Cheng
   instagram: <a href="https://www.instagram.com/uclit_uoft">@uclit_uoft</a>
   description: The Communications and Outreach Commission is responsible for making sure the UC Lit represents and reaches out to all of our constituents through our website, blog, social media, tabling, meet & greets, and collecting feedback!
@@ -48,7 +48,7 @@
   image: assets/images/commissions-icons/social.svg
   email: social@uclit.ca
   instagram: <a href="https://www.instagram.com/spiritsocial.uclit">@spiritsocial.uclit</a>
-  commissioners: Lia Claire Underwood Woo
+  commissioners: Faith Secko
   description: The Spirit and Social Commission brings us all of our Holiday Events (Valentine’s, Halloween), Board Games Nights, and other fun activities on and off campus! They also create spiritwear available to purchase online and in-person at the JCR!
 
 - name: UNIVERSITY AND ACADEMIC AFFAIRS
@@ -82,5 +82,5 @@
 - name: FINANCE
   image: assets/images/commissions-icons/finance.svg
   email: finance@uclit.ca
-  commissioners: Harjas Bedi
+  commissioners: Lilian Latif
   description: The Finance Commission helps prepare the UC Lit's annual audit, and does bookkeeping for all the different commissions, clubs and ancillaries to ensure we're managing students' money wisely!
