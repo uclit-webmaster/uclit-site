@@ -47,7 +47,7 @@ jobs:
       Please submit an accurate and up-to-date Resume, Cover Letter and Two References to the <a href="mailto:president@uclit.ca">President's Office</a>.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: April 2026 to January 2027
+        right: January 2027 to January 2028
       - left: Remuneration and Pay
         right: Paid
       - left: Rate of Pay
