@@ -42,22 +42,22 @@ jobs:
       
       <p>The Orientation Co-Chairs are responsible for overseeing all operations of Orientation while working alongside the UCLit, the office of the Dean of Students at University College, and Central Student Life to plan and execute University College’s Orientation Week. The position entails anywhere from 15-40 per-week hours.</p>
     application-link: https://docs.google.com/document/d/1PZQ_VmB788I0fqYIQPSuG5dqz9cIVSgXupxx0joTTJs/
-    currently-accepting: false
+    currently-accepting: true
     application-instructions: |
       Please submit an accurate and up-to-date Resume, Cover Letter and Two References to the <a href="mailto:president@uclit.ca">President's Office</a>.
     table-data: # new lines are preserved, no need for <p> tags!
       - left: Term of Hire
-        right: February 2026 to January 2027
+        right: April 2026 to January 2027
       - left: Remuneration and Pay
         right: Paid
       - left: Rate of Pay
-        right: $10,000 in three disbursements
+        right: $10,210 in three disbursements *Compensation is currently under review and will be updated accordingly.
       - left: Number of Positions
         right: 2
       - left: Supervisors
         right: Office of the President
       - left: Hiring Status
-        right: Not Currently Accepting Applications
+        right: Currently Accepting Applications
         
   - title: Commuter Orientation Chair
     position-outline: |
