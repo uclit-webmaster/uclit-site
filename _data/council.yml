@@ -190,78 +190,59 @@
       
 - group: Mid-Year Representatives
   people:
-  - name: Eamonn Sneyd
+  - name: Araf Faruquzzaman
     pronouns: he/him
-    image: assets/images/headshots/Eamonn-Sneyd.jpeg
+    image: assets/images/headshots/IMG_0945 - Araf Faruquzzaman.jpeg
     role: Mid-Year Representative
-    from: Etobicoke
+    from: Hamilton, Ontario
+    major: Second Year, Sociology major with Political science & History minors
+    email: araf@uclit.ca
+    office-hours: Fridays, 1 - 2 pm
+       
+  - name: Karishma Persad 
+    pronouns: she/her
+    image: assets/images/headshots/me zipline pic - Karishma Persad.jpeg
+    role: Mid-Year Representative
+    from: Trinidad & Tobago
+    major: Second Year, Cognitive Science, Linguistics, Applied Data Science
+    email: karishma@uclit.ca
+    office-hours: Fridays, 2 - 3 pm   
+       
+  - name: Olivier Zhou
+    pronouns: he/him
+    image: assets/images/headshots/IMG_20260720_165113_035 - Olivier Zhou.jpg
+    role: Mid-Year Representative
+    from: Richmond Hill
+    major: Second Year, Actuarial Science
+    email: olivier@uclit.ca
+    office-hours: Tuesdays, 2 - 3 pm
+       
+  - name: Katherine Kozelkova
+    pronouns: she/her
+    image: assets/images/headshots/uclit photo - Katherine Kozelkova.jpg
+    role: Mid-Year Representative
+    from: Psychology Specialist + Education & Society Minor
     major: Second Year
-    email: eamonn@uclit.ca
-    office-hours: Wednesdays 3-4
-    favourite-part-about-uc: Diabolos
-    favourite-quote: | 
-       "Good is the enemy of a great"
+    email: kat@uclit.ca
+    office-hours: Wednesdays, 1 - 2pm
        
-  - name: Deniz Direk
+  - name: Elika Cho
     pronouns: she/her
-    image: assets/images/headshots/Deniz-Direk.jpeg
+    image: assets/images/headshots/inbound1656731747435571318 - Elika Cho.jpg
     role: Mid-Year Representative
-    from: Turkey & Cyprus
-    major: Third Year, Biochemistry
-    email: deniz@uclit.ca
-    office-hours: Monday 3-4pm
-    favourite-part-about-uc: The Owlery and their home-made salted caramel latte
-    favourite-quote: | 
-       "Fruit and mustard are two classic accompaniments to pork, and a juicy chop doesn't need much more than that for a sweet and tangy sauce" - Easy WeekNight Dinners      
-       
-  - name: Angelina Leung
-    pronouns: she/her
-    image: assets/images/headshots/Angelina-Leung.jpg
-    role: Mid-Year Representative
-    from: King City, ON
-    major: Third Year, Nutritional Sciences & Health and Disease
-    email: angelina@uclit.ca
-    office-hours: 2-4 pm on Thursdays<3
-    favourite-part-about-uc: Greenery!!!!!!!!!(UC has the best greenery)
-    favourite-quote: | 
-       "It is what it is"
-       
-#  - name: Tara Thangaraj
-#    pronouns: she/her
-#    image: assets/images/headshots/Tara-Thangaraj.jpeg
-#    role: Mid-Year Representative
-#    from: Calgary, AB
-#    major: Second Year
-#   email: tara@uclit.ca
-#    office-hours: tara@uclit.ca
-#    favourite-part-about-uc: All the history! I love reading up on the ghost stories or seeing it in my favourite movies (shout-out Mean Girls and Urban Legend) <3
-#    favourite-quote: |
-#        "The worst king of person is someone who makes you feel bad, dumb, or stupid for being exicted about something"
-       
-       
-  - name: Alan Nguyen-Bach
-    pronouns: he/him
-    image: assets/images/headshots/Alan-Nguyen-Bach.jpg
-    role: Mid-Year Representative
-    from: Toronto, Canada, and Saigon, Vietnam
-    major: Third Year
-    email: alan@uclit.ca
-    office-hours: Mondays 11 am to 12 pm 
-    favourite-part-about-uc: 'Fung''s buffalo hot wings. Just kidding. All the different kinds of people you''ll meet of course!!!' 
-    favourite-quote: | 
-       "Tell me, what is it you plan to do / with your one wild and precious life" ― Mary Oliver       
+    from: Greater Vancouver, BC
+    major: Second year, Ethics Society and Law, and Urban Studies
+    email: elika@uclit.ca
+    office-hours: Mondays, 2 - 3pm     
 
-  - name: Danielė Chernyak
+  - name: Alsade Daley
     pronouns: She/her
-    image: assets/images/headshots/Danielė-Chernyak.jpeg
+    image: assets/images/headshots/Meet the EXECS - Alsade Daley.png
     role: Mid-Year Representative
-    from: A tiny town in Lithuania
-    major: Third Year
-    email: danielė@uclit.ca
-    office-hours: Tuesdays 3-4pm
-    favourite-part-about-uc: The coziness during winter!! Especially the JCR <3
-    favourite-quote: | 
-       "He was always late on principle, his principle being that punctuality is the thief of time." - Picture of Dorian Grey, Oscar Wilde       
+    from: Jamaica
+    major: Second Year, Computer Science
+    email: alsade@uclit.ca
+    office-hours: Fridays, 10 - 11 am    
   
 - group: Upper Year Representatives
   people:
