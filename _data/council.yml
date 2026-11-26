@@ -505,23 +505,14 @@
        
 - group: Staff
   people: 
-  - name: ---
+  - name: Isreta Ibrahim
     pronouns: she/her
     image: assets/images/headshots/council-icons/reps.svg
-    role: Secretary
-    from: ---
-    major: ---
+    role: Speaker
     email: secretary@uclit.ca
-    favourite-part-about-uc: ---
-    favourite-quote: 
 
-      
-  - name: ---
+  - name: Rasmiyah Chowdhury
     pronouns: ---
     image: assets/images/headshots/council-icons/reps.svg
-    role: Speaker
-    from: ---
-    major: ---
+    role: Secretary
     email: speaker@uclit.ca
-    favourite-part-about-uc: ---
-    favourite-quote: 
