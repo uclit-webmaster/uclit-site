@@ -273,18 +273,18 @@
     email: deniz@uclit.ca
     office-hours: Wednesdays, 12 - 1pm
     
-- group: Special Executives
-  people:
-  - name: Özgü Gülümser
-    pronouns: she/her
-    image: assets/images/headshots/Özgü-Gülümser.jpeg
-    role: President, University College Residence Council (UCRC) 
-    from: Turkiye
-    major: Second Year
-    email: ucrc@uclit.ca
-    office-hours: Monday 2-3pm
-    favourite-part-about-uc: Matcha from the Owlery
-    favourite-quote: | 
+#- group: Special Executives
+#  people:
+#  - name: Özgü Gülümser
+#    pronouns: she/her
+#    image: assets/images/headshots/Özgü-Gülümser.jpeg
+#    role: President, University College Residence Council (UCRC) 
+#    from: Turkiye
+#    major: Second Year
+#    email: ucrc@uclit.ca
+#    office-hours: Monday 2-3pm
+#    favourite-part-about-uc: Matcha from the Owlery
+#    favourite-quote: | 
        "Love is all around"
         
  
