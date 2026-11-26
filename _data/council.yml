@@ -23,18 +23,14 @@
 #     office-hours: 12-1 thursdays
 - group: Core Executives
   people:
-    - name: Divi Gupta
+    - name: Agnesa Astvatsatryan
       pronouns: she/her
-      image: assets/images/headshots/Divi-Gupta.png
+      image: assets/images/headshots/IMG_1194 - Agnesa Astvatsatryan.jpeg
       role: President
-      from: Saskatoon, SK
-      major: Fourth Year, Human Biology, Immunology, & Physiology
+      from: Yerevan, Armenia
+      major: Fourth Year, Immunology and Health & Disease
       email: president@uclit.ca
-      office-hours: Wednesdays, 11 am - 1 pm
-      favourite-part-about-uc: The JCR and the community <3
-      favourite-quote: |
-         "I am a mosaic of everyone I have ever loved, even for a heartbeat” 
-          - Hannah Hassler 
+      office-hours: Thursdays, 10 am - 12 pm
 
 #    - name: Amilya Wilson
 #      pronouns: she/her
@@ -150,7 +146,7 @@
 
   - name: Agnesa Astvatsatryan 
     pronouns: she/her
-    image: assets/images/headshots/Agnesa-Astvatsatryan.jpeg
+    image: assets/images/headshots/Agnesa-Astvatsatryan.jpeg 
     role: Formals
     from: Yerevan, Armenia
     major: Third Year
