@@ -143,56 +143,50 @@
     
 - group: First-Year Representatives
   people:
-  - name: Maya Ahmed
+  - name: Isha Agarwal
     pronouns: She/her
-    image: assets/images/headshots/Maya-Ahmed.jpg
+    image: assets/images/headshots/fxn 2026-03-12 19545099D28E30BD91 - isha agarwal.jpeg
     role: First-Year Representative
-    from: Hamilton, ON
-    major: First Year, Social Science
-    email: maya@uclit.ca
-    office-hours: Thursdays 12PM - 1PM
-    favourite-part-about-uc: UC Library
-    favourite-quote: |
-        "To define is to limit."
+    from: Pune, India
+    major: First Year, Life Science
+    email: isha@uclit.ca
+    office-hours: Wednesdays, 2 - 3 pm
     
-  - name: Tania Hayat
+  - name: Christina Guo
     pronouns: she/her
-    image: assets/images/headshots/Tania-Hayat.jpeg
+    image: assets/images/headshots/IMG_2198 - Christina Guo.jpeg
     role: First-Year Representative
-    from: Pakistan
-    major: First Year
-    email: tania@uclit.ca
-    office-hours: Wednesday 11-12
-    favourite-part-about-uc: The community!! 
-    favourite-quote: |
-        "All’s well that ends well."
-      
+    from: Toronto
+    major: First Year. Rotman Commerce
+    email: christina@uclit.ca
+    office-hours: Mondays, 10 - 11 am
     
-  - name: Karishma Persad
-    pronouns: She/her
-    image: assets/images/headshots/Karishma-Persad.jpeg
+  - name: Aiden Garcia
+    pronouns: he/him
+    image: assets/images/headshots/DA0ED343-8415-4D97-9BDD-CCFAD79B0A96 - joshua garcia.png
     role: First-Year Representative
-    from: First Year
-    major: Trinidad and Tobago
-    email: karishma@uclit.ca
-    office-hours: 3-4 pm Wednesdays
-    favourite-part-about-uc: The amazing people in it and the sense of community ( and the gorgeous building of course ) 
-    favourite-quote: |
-        "You miss 100% of the shots you don’t take"
+    from: Ecuador
+    major: First Year, Life Science, Human biology
+    email: aiden@uclit.ca
+    office-hours: Tuesdays from 10 - 11 am
        
-       
-  - name: Yumi Yip
+  - name: Hadiya Kaleem
     pronouns: She/her
-    image: assets/images/headshots/Yumi-Yip.jpg
+    image: assets/images/headshots/IMG_5320 - Hadiya Kaleem.jpg
     role: First-Year Representative
-    from: Markham
-    major: First year
-    email: yumi@uclit.ca
-    office-hours: Tuesday 11am-12pm
-    favourite-part-about-uc: 'The people that make UC and the mystique of UC’s beautiful architecture! (Plus point: According to Google, UC is the equivalent to Gryffindor)'
-    favourite-quote: |
-        “Mediocrity knows nothing greater than itself, talent instantly recognizes genius”
-      
+    from: Mississauga, ON
+    major: First year, Life Science
+    email: hadiya@uclit.ca
+    office-hours: Mondays, 1 - 2pm
+
+  - name: Zainab Azam
+    pronouns: She/her
+    image: assets/images/headshots/IMG_8835 - Zainab Azam.jpeg
+    role: First-Year Representative
+    from: Scarborough 
+    major: First year, Social Science
+    email: zainab@uclit.ca
+    office-hours: TBD
       
 - group: Mid-Year Representatives
   people:
