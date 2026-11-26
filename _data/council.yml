@@ -31,32 +31,27 @@
       major: Fourth Year, Immunology and Health & Disease
       email: president@uclit.ca
       office-hours: Thursdays, 10 am - 12 pm
+      goal: Keep the Lit thriving and make sure UC students have events, places and people to connect with! 
 
-#    - name: Amilya Wilson
-#      pronouns: she/her
-#      image: assets/images/headshots/Amilya-Wilson.png
-#      role: Vice President
-#      from: Elmira, ON
-#      major: Fourth Year, Criminology, Political Science, & Classical Studies
-#      email: vp@uclit.ca
-#      office-hours: Wednesday 1 - 2 and Thursday 11 - 1
-#      favourite-part-about-uc: The piano in the JCR and the bookstore 
-#      favourite-quote: |
-#         "Some would say an army of cavalry, others of infantry, others of ships, is the fairest thing on the dark earth, but I say it's whatever you're in love with." 
-#         - Sappho, "The Anactoria Poem" 
+    - name: Gillian Nestor
+      pronouns: she/her
+      image: assets/images/headshots/Media (1).jpg
+      role: Vice President
+      from: Etobicoke, ON
+      major: Fourth Year, Astrophysics Specialist, Classics Minor
+      email: vp@uclit.ca
+      office-hours: Thursdays, 12pm - 2pm
+      goal: Build our UC Clubs community + improve the JCR space!
 
-    - name: Behram Hathi
-      pronouns: he/him
-      image: assets/images/headshots/Behram-Hathi.JPG
+    - name: Lilian Latif
+      pronouns: she/her
+      image: assets/images/headshots/IMG_20261027_191407_755 - omer latif.jpg
       role: Finance
-      from: Mumbai
-      major: Fifth Year
+      from: Iraq
+      major: First Year, Mathmatical and Physical sciences
       email: finance@uclit.ca
-      office-hours: 12-2 Fridays
-      favourite-part-about-uc: The community!
-      favourite-quote: | 
-         “Life is Either a Daring Adventure or Nothing at All”
-         - Helen Keller
+      office-hours: Thursdays, 2pm-3pm
+      goal: Making finances transparent and stress-free through responsible budgeting, accessible financial education, funding creative events big and small, and achieving a flawless audit.
     
 - group: Executives
   people:
